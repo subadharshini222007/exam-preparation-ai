@@ -1,0 +1,140 @@
+exam,group,Subject,Topic,file_name
+TNPSC,Group_4,History,Ancient India,ancient_india.txt
+TNPSC,Group_4,History,Medieval Age,medieval.txt
+TNPSC,Group_4,History,Modern India,modern_age.txt
+TNPSC,Group_4,History,Indus Valley Civilization,indus.txt
+TNPSC,Group_4,History,Sangam Age,sangam_age.txt
+TNPSC,Group_4,History,Freedom Struggle,freedom_struggle.txt
+TNPSC,Group_4,History,Indian Culture,indian_culture and traditions.txt
+TNPSC,Group_4,History,Three Kingdoms,three_kingdoms.txt
+
+TNPSC,Group_4,Polity,Indian Constitution,indian_constitution.txt
+TNPSC,Group_4,Polity,Fundamental Rights,preamble and fundamental_rights.txt
+TNPSC,Group_4,Polity,Directive Principles,directive_principles.txt
+TNPSC,Group_4,Polity,Public Administration,public_administration.txt
+TNPSC,Group_4,Polity,State Government,state_government.txt
+TNPSC,Group_4,Polity,Union Government,union_government.txt
+TNPSC,Group_4,Polity,Local Governance,local_governance.txt
+
+TNPSC,Group_4,Geography,Indian geography,indian_geography.txt
+TNPSC,Group_4,Geography,Physical geography,physical_geography.txt
+TNPSC,Group_4,Geography,Tamilnadu geography,tamilnadu_geography.txt
+TNPSC,Group_4,Geography,Climate & Rivers,climate_rivers.txt
+TNPSC,Group_4,Geography,Resources,resources.txt
+TNPSC,Group_4,Geography,Agriculture,agriculture.txt
+TNPSC,Group_4,Geography,Disaster Management,disaster_management.txt
+
+TNPSC,Group_4,Economics,Indian Economy,indian_economy.txt
+TNPSC,Group_4,Economics,Banking,banking.txt
+TNPSC,Group_4,Economics,Demand and Supply,demand_supply.txt
+TNPSC,Group_4,Economics,Planning,planning.txt
+TNPSC,Group_4,Economics,Poverty and Unemployment,poverty_unemployment.txt
+TNPSC,Group_4,Economics,Agriculture,agriculture.txt
+
+TNPSC,Group_4,Science & Technology,General Science,general_science.txt
+TNPSC,Group_4,Science & Technology,IT and Space Technology,it and space_technology.txt
+TNPSC,Group_4,Science & Technology,Science Studies,science_studies.txt
+TNPSC,Group_4,Science & Technology,Diseases,diseases.txt
+
+TNPSC,Group_4,Aptitude and Mental Ability,Percentage,percentage.txt
+TNPSC,Group_4,Aptitude and Mental Ability,Ratio and Proportion,ratio_proportion.txt
+TNPSC,Group_4,Aptitude and Mental Ability,Time and Work,time_work.txt
+TNPSC,Group_4,Aptitude and Mental Ability,Profit and Loss,profit_loss.txt
+TNPSC,Group_4,Aptitude and Mental Ability,Reasoning,reasoning.txt
+TNPSC,Group_4,Aptitude and Mental Ability,Number Series,number_series.txt
+TNPSC,Group_4,Aptitude and Mental Ability,Practice Questions,practice_questions.txt
+
+TNPSC,Group_4,General Tamil,சங்க இலக்கியம்,classical_literature.txt
+TNPSC,Group_4,General Tamil,பகுதி புரிதல்,comprehension.txt
+TNPSC,Group_4,General Tamil,இலக்கியம்,literature.txt
+TNPSC,Group_4,General Tamil,இலக்கணம் 1,grammar1.txt
+TNPSC,Group_4,General Tamil,இலக்கணம் 2,grammar2.txt
+TNPSC,Group_4,General Tamil,இலக்கணம் 3,grammar3.txt
+TNPSC,Group_4,General Tamil,சொற்பொருள்,meanings.txt
+TNPSC,Group_4,General Tamil,தமிழர் பண்பாடு,tamil_culture.txt
+
+TNPSC,Group_4,General English,Parts of Speech,english_grammar.txt
+TNPSC,Group_4,General English,Vocabulary,vocabulary.txt
+TNPSC,Group_4,General English,English Comprehension,english_comprehension.txt
+TNPSC,Group_4,General English,Synonyms and Antonyms,synonmys_antonyms.txt
+
+TNPSC,Group_2,General Science,Physics 1,physics1.txt
+TNPSC,Group_2,General Science,Physics 2,physics2.txt
+TNPSC,Group_2,General Science,Chemistry 1,chemistry1.txt
+TNPSC,Group_2,General Science,Chemistry 2,chemistry2.txt
+TNPSC,Group_2,General Science,Biology 1,biology1.txt
+TNPSC,Group_2,General Science,Biology 2,biology2.txt
+TNPSC,Group_2,General Science,Biology 3,biology3.txt
+TNPSC,Group_2,General Science,Biology 4,biology4.txt
+TNPSC,Group_2,General Science,Biology 5,biology5.txt
+TNPSC,Group_2,General Science,Environment and Ecology,environment_ecology.txt
+TNPSC,Group_2,General Science,Scientific Basics,scientific_basics.txt
+TNPSC,Group_2,General Science,Science Technology,science_technology.txt
+
+TNPSC,Group_2,General English,Parts of Speech,parts of speech.txt
+TNPSC,Group_2,General English,Grammar,grammar.txt
+TNPSC,Group_2,General English,Voice and Speech,voice.txt
+TNPSC,Group_2,General English,Grammar,grammar.txt
+TNPSC,Group_2,General English,Parts of Speech,parts of speech.txt
+TNPSC,Group_2,General English,Vocabulary,vocabulary.txt
+TNPSC,Group_2,General English,Comprehension,comprehension.txt
+TNPSC,Group_2,General English,Literature,literature.txt
+
+TNPSC,Group_2,General Tamil,இலக்கணம் 1,grammar1.txt
+TNPSC,Group_2,General Tamil,இலக்கணம் 2,grammar2.txt
+TNPSC,Group_2,General Tamil,சொல்லகராதி,vocabulary.txt
+TNPSC,Group_2,General Tamil,மொழிபெயர்ப்பு,translation.txt
+TNPSC,Group_2,General Tamil,கலைச்சொல்,technical_terms.txt
+TNPSC,Group_2,General Tamil,இலக்கியம்,literature.txt
+TNPSC,Group_2,General Tamil,அறநூல்கள்,devotional_literature.txt
+TNPSC,Group_2,General Tamil,தமிழ் அறிஞர்களும் தமிழ்த்தொண்டும்,tamil_authors.txt
+
+TNPSC,Group_2,Geography,Indian Geography,indian_geography.txt
+TNPSC,Group_2,Geography,Physical Divisions,physical_divisions.txt
+TNPSC,Group_2,Geography,Weather and Climate,weather_climate.txt
+TNPSC,Group_2,Geography,Soil and Forest,soil_forest.txt
+TNPSC,Group_2,Geography,Environmental Protection,environment.txt
+TNPSC,Group_2,Geography,Tamilnadu Geography,tamilnadu_geography.txt
+TNPSC,Group_2,Geography,Agriculture,agriculture.txt
+
+TNPSC,Group_2,Economics,Indian Economy,indian_economy.txt
+TNPSC,Group_2,Economics,Poverty and Planning,planning.txt
+TNPSC,Group_2,Economics,Demand and Supply,demand_supply.txt
+TNPSC,Group_2,Economics,Banking,banking.txt
+TNPSC,Group_2,Economics,Poverty and Unemployment,poverty_unemployment.txt
+TNPSC,Group_2,Economics,Industrial Development,industrial.txt
+
+TNPSC,Group_2,Aptitude,Part 1,part1.txt
+TNPSC,Group_2,Aptitude,Part 2,part2.txt
+TNPSC,Group_2,Aptitude,Part 3,part3.txt
+TNPSC,Group_2,Aptitude,Part 4,part4.txt
+TNPSC,Group_2,Aptitude,Part 5,part5.txt
+TNPSC,Group_2,Aptitude,Workbook 1,workbook1.txt
+TNPSC,Group_2,Aptitude,Workbook 2,workbook2.txt
+
+TNPSC,Group_2,Mental Ability,Part 1,part1.txt
+TNPSC,Group_2,Mental Ability,Part 2,part2.txt
+TNPSC,Group_2,Mental Ability,Part 3,part3.txt
+TNPSC,Group_2,Mental Ability,Part 4,part4.txt
+TNPSC,Group_2,Mental Ability,Workbook 1,workbook1.txt
+TNPSC,Group_2,Mental Ability,Workbook 2,workbook2.txt
+
+TNPSC,Group_2,History,Ancient India,ancient_india.txt
+TNPSC,Group_2,History,Medieval Age,medieval.txt
+TNPSC,Group_2,History,Modern India,modern_age.txt
+TNPSC,Group_2,History,Indus Valley Civilization,indus.txt
+TNPSC,Group_2,History,Sangam Age,sangam_age.txt
+TNPSC,Group_2,History,Freedom Struggle,freedom_struggle.txt
+TNPSC,Group_2,History,Indian Culture,indian_culture and traditions.txt
+TNPSC,Group_2,History,Three Kingdoms,three_kingdoms.txt
+
+TNPSC,Group_2,Polity,Indian Constitution,indian_constitution.txt
+TNPSC,Group_2,Polity,Fundamental Rights,preamble and fundamental_rights.txt
+TNPSC,Group_2,Polity,Directive Principles,directive_principles.txt
+TNPSC,Group_2,Polity,Public Administration,public_administration.txt
+TNPSC,Group_2,Polity,State Government,state_government.txt
+TNPSC,Group_2,Polity,Union Government,union_government.txt
+TNPSC,Group_2,Polity,Local Governance,local_governance.txt
+
+
+
