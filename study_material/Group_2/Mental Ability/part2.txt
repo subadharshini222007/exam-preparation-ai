@@ -1,0 +1,809 @@
+TNPSC GROUP 2 – MENTAL ABILITY
+TOPIC 2: ANALYTICAL REASONING
+
+1. INTRODUCTION
+
+Analytical Reasoning is the ability to examine information systematically, identify patterns, understand relationships, and solve problems using a structured approach.
+
+It often involves arrangements, comparisons, rankings, relationships, and logical puzzles.
+
+2. IMPORTANT TYPES
+
+A. Ranking and Order
+
+Ranking questions ask candidates to determine the position of a person or object.
+
+Formula:
+
+Total persons = Rank from the left + Rank from the right - 1
+
+Example:
+
+Ravi is 8th from the left and 12th from the right.
+
+Total persons = 8 + 12 - 1
+Total persons = 19
+
+Answer: 19 persons.
+
+B. Linear Arrangement
+
+In linear arrangement questions, people or objects are arranged in a straight line according to given conditions.
+
+Example:
+
+Five students A, B, C, D, and E stand in a row.
+
+Conditions:
+A stands to the left of B.
+C stands to the right of B.
+D stands to the left of A.
+E stands to the right of C.
+
+One possible arrangement is:
+
+D – A – B – C – E
+
+C. Seating Arrangement
+
+Seating arrangement questions involve placing people around a table or in a row.
+
+Example:
+
+Four students P, Q, R, and S sit in a row.
+
+Conditions:
+P sits to the left of Q.
+R sits to the right of Q.
+S sits to the right of R.
+
+Arrangement:
+
+P – Q – R – S
+
+D. Blood Relations
+
+Blood relation questions identify family relationships.
+
+Important relationships:
+
+Father's father – Grandfather
+Mother's mother – Grandmother
+Father's brother – Uncle
+Mother's sister – Aunt
+Brother's son – Nephew
+Sister's daughter – Niece
+Father's sister – Aunt
+
+Example:
+
+Arun is the son of Kumar. Kumar is the brother of Meena.
+
+Question: How is Meena related to Arun?
+
+Answer: Aunt.
+
+E. Direction Sense
+
+Direction questions test the ability to identify positions and movements.
+
+Basic directions:
+
+North
+South
+East
+West
+
+Opposite directions:
+
+North – South
+East – West
+
+Example:
+
+A person walks 5 metres north and then 3 metres east.
+
+The person is now northeast of the starting point.
+
+Shortest distance:
+
+Distance = √(5² + 3²)
+Distance = √34 metres
+
+F. Classification
+
+Classification questions ask candidates to identify the item that does not belong to a group.
+
+Example:
+
+Apple, Mango, Banana, Carrot
+
+Answer: Carrot.
+
+Explanation:
+Apple, mango, and banana are commonly classified as fruits. Carrot is a root vegetable.
+
+G. Analogy
+
+Analogy questions identify relationships between pairs of words or objects.
+
+Example:
+
+Bird : Nest :: Bee : ?
+
+Answer: Hive.
+
+Explanation:
+A nest is a bird's dwelling, and a hive is a bee's dwelling.
+
+3. PROBLEM-SOLVING METHOD
+
+4. Read all the conditions carefully.
+
+5. Identify the people, objects, or positions involved.
+
+6. Write down the conditions.
+
+7. Use a simple diagram or table.
+
+8. Apply each condition systematically.
+
+9. Check whether the final arrangement satisfies every condition.
+
+10. PRACTICE QUESTIONS
+
+Question 1:
+
+A student is 7th from the left and 9th from the right in a row. Find the total number of students.
+
+Options:
+A) 14
+B) 15
+C) 16
+D) 17
+
+Answer: B) 15
+
+Explanation:
+Total = 7 + 9 - 1 = 15.
+
+Question 2:
+
+A person walks 4 metres north and then 4 metres south. Where is the person relative to the starting point?
+
+Options:
+A) North
+B) South
+C) East
+D) At the starting point
+
+Answer: D) At the starting point.
+
+Question 3:
+
+Ravi is the brother of Priya. Priya is the daughter of Kumar. How is Ravi related to Kumar?
+
+Options:
+A) Brother
+B) Son
+C) Uncle
+D) Father
+
+Answer: B) Son.
+
+Question 4:
+
+Find the odd one out.
+
+Options:
+A) Circle
+B) Triangle
+C) Square
+D) Mango
+
+Answer: D) Mango.
+
+Explanation:
+The first three are geometrical shapes.
+
+Question 5:
+
+Complete the analogy.
+
+Doctor : Hospital :: Teacher : ?
+
+Options:
+A) Court
+B) School
+C) Bank
+D) Factory
+
+Answer: B) School.
+
+5. EXAM TIPS
+
+6. Draw diagrams for seating and direction questions.
+
+7. Use the ranking formula carefully.
+
+8. Track left and right directions from the correct reference point.
+
+9. Read family relationships from one generation to another.
+
+10. Verify every condition before selecting an answer.
+
+CONCLUSION
+
+Analytical Reasoning develops systematic thinking and problem-solving ability. Practice with arrangements, rankings, directions, and relationships helps improve speed and accuracy in competitive examinations.
+
+TNPSC GROUP 2 – MENTAL ABILITY
+TOPIC: ANALYTICAL REASONING
+LEVEL: HARD
+TOTAL QUESTIONS: 50
+
+SECTION A: RANKING AND ORDER
+
+Question 1:
+In a row of 45 students, Arun is 12th from the left and Bala is 18th from the right. If Arun is to the left of Bala, how many students are standing between them?
+
+Options:
+A) 14
+B) 15
+C) 16
+D) 17
+
+Answer: B
+
+Question 2:
+In a class, Priya ranks 9th from the top and 28th from the bottom. How many students are there in the class?
+
+Options:
+A) 35
+B) 36
+C) 37
+D) 38
+
+Answer: B
+
+Question 3:
+In a row, Karthik is 17th from the left and 23rd from the right. If five students are added to the left end, what will be his new position from the left?
+
+Options:
+A) 17th
+B) 20th
+C) 22nd
+D) 23rd
+
+Answer: C
+
+Question 4:
+In a group of 60 students, Ravi ranks 18th from the top. Kumar ranks 12 places below Ravi. What is Kumar's rank from the bottom?
+
+Options:
+A) 29th
+B) 30th
+C) 31st
+D) 32nd
+
+Answer: C
+
+Question 5:
+In a row, A is 14th from the left and B is 19th from the right. If 8 students stand between A and B, and A is to the left of B, how many students are in the row?
+
+Options:
+A) 39
+B) 40
+C) 41
+D) 42
+
+Answer: B
+
+SECTION B: LINEAR AND SEATING ARRANGEMENT
+
+Question 6:
+Six people P, Q, R, S, T, and U sit in a row facing north. P sits at the extreme left. Q sits immediately to the right of P. R sits immediately to the right of Q. S sits immediately to the right of R. T sits immediately to the right of S. Who sits at the extreme right?
+
+Options:
+A) P
+B) Q
+C) T
+D) U
+
+Answer: D
+
+Question 7:
+Five friends A, B, C, D, and E sit in a row facing north. B sits immediately to the right of A. C sits immediately to the right of B. D sits to the left of A. E sits to the right of C. Who sits in the middle?
+
+Options:
+A) A
+B) B
+C) C
+D) D
+
+Answer: B
+
+Question 8:
+Seven people are sitting in a row facing north. M is third from the left. N is second to the right of M. O is immediately to the left of M. P is at the extreme right. What is N's position from the left?
+
+Options:
+A) 3rd
+B) 4th
+C) 5th
+D) 6th
+
+Answer: C
+
+Question 9:
+Six people A, B, C, D, E, and F sit in a row facing north. A sits at the extreme left. F sits at the extreme right. B sits immediately to the right of A. E sits immediately to the left of F. C sits between B and D. Who sits third from the left?
+
+Options:
+A) B
+B) C
+C) D
+D) E
+
+Answer: B
+
+Question 10:
+Five people P, Q, R, S, and T sit around a circular table facing the centre. P sits opposite the position directly between Q and R. Which of the following statements must be established before the complete arrangement can be determined?
+
+Options:
+A) The immediate neighbours of P are known.
+B) Every person's position is uniquely fixed by sufficient independent clues.
+C) All people have equal heights.
+D) The table must be rectangular.
+
+Answer: B
+
+Question 11:
+Six people A, B, C, D, E, and F sit in a row facing north. A is third from the left. B is immediately to the right of A. C is at the extreme left. D is immediately to the left of E. F is at the extreme right. Who sits second from the left?
+
+Options:
+A) A
+B) B
+C) C
+D) D
+
+Answer: D
+
+Question 12:
+Eight students are seated in a row facing north. P is fourth from the left. Q is third to the right of P. R is second to the left of P. What is R's position from the left?
+
+Options:
+A) 1st
+B) 2nd
+C) 3rd
+D) 4th
+
+Answer: B
+
+SECTION C: BLOOD RELATIONS
+
+Question 13:
+A is the father of B. B is the sister of C. C is the father of D. How is A related to D?
+
+Options:
+A) Father
+B) Grandfather
+C) Uncle
+D) Brother
+
+Answer: B
+
+Question 14:
+Pointing to a woman, Arun says, "She is the daughter of the only son of my paternal grandfather." How is the woman related to Arun?
+
+Options:
+A) Sister
+B) Cousin
+C) Aunt
+D) Niece
+
+Answer: A
+
+Question 15:
+P is the brother of Q. Q is the mother of R. R is the sister of S. How is P related to S?
+
+Options:
+A) Father
+B) Maternal uncle
+C) Brother
+D) Grandfather
+
+Answer: B
+
+Question 16:
+A woman says, "The man in the photograph is the son of my mother's only daughter." If the woman has no sisters, how is the man related to her?
+
+Options:
+A) Brother
+B) Son
+C) Nephew
+D) Cousin
+
+Answer: B
+
+Question 17:
+A is the mother of B. C is the father of A. D is the sister of B. How is C related to D?
+
+Options:
+A) Father
+B) Maternal grandfather
+C) Paternal grandfather
+D) Uncle
+
+Answer: B
+
+Question 18:
+X is the daughter of Y. Y is the son of Z. Z is the wife of W. How is W related to X?
+
+Options:
+A) Father
+B) Grandfather
+C) Uncle
+D) Brother
+
+Answer: B
+
+Question 19:
+P is the mother of Q. Q is the brother of R. R is the mother of S. How is P related to S?
+
+Options:
+A) Mother
+B) Grandmother
+C) Aunt
+D) Sister
+
+Answer: B
+
+Question 20:
+A is the brother of B. B is the daughter of C. C is the wife of D. How is D related to A?
+
+Options:
+A) Father
+B) Uncle
+C) Brother
+D) Grandfather
+
+Answer: A
+
+SECTION D: DIRECTION SENSE
+
+Question 21:
+A person walks 12 metres north, turns right and walks 9 metres, then turns right and walks 12 metres. How far and in which direction is the person from the starting point?
+
+Options:
+A) 9 metres east
+B) 9 metres west
+C) 12 metres north
+D) 12 metres south
+
+Answer: A
+
+Question 22:
+Ravi walks 8 metres east, turns left and walks 6 metres, then turns left and walks 8 metres. Where is he relative to his starting point?
+
+Options:
+A) 6 metres north
+B) 6 metres south
+C) 8 metres east
+D) At the starting point
+
+Answer: A
+
+Question 23:
+A person faces north. The person turns 90 degrees clockwise, then 180 degrees anticlockwise, and finally 90 degrees clockwise. Which direction is the person facing?
+
+Options:
+A) North
+B) South
+C) East
+D) West
+
+Answer: A
+
+Question 24:
+Meena walks 10 metres south, turns left and walks 7 metres, then turns left and walks 10 metres. In which direction is she from the starting point?
+
+Options:
+A) East
+B) West
+C) North
+D) South
+
+Answer: B
+
+Question 25:
+A person walks 5 metres north, 12 metres east, and then 5 metres south. What is the shortest distance from the starting point?
+
+Options:
+A) 5 metres
+B) 10 metres
+C) 12 metres
+D) 17 metres
+
+Answer: C
+
+Question 26:
+A person faces west and turns 135 degrees clockwise. Which direction is the person facing?
+
+Options:
+A) Northeast
+B) Northwest
+C) Southeast
+D) Southwest
+
+Answer: A
+
+Question 27:
+Kumar walks 6 metres north, 8 metres east, 6 metres south, and 3 metres west. Where is he relative to his starting point?
+
+Options:
+A) 5 metres east
+B) 5 metres west
+C) 3 metres north
+D) 3 metres south
+
+Answer: A
+
+SECTION E: CLASSIFICATION AND ODD ONE OUT
+
+Question 28:
+Choose the odd one out.
+
+Options:
+A) 16
+B) 25
+C) 49
+D) 63
+
+Answer: D
+
+Question 29:
+Choose the odd one out.
+
+Options:
+A) Triangle
+B) Square
+C) Pentagon
+D) Cube
+
+Answer: D
+
+Question 30:
+Choose the odd one out.
+
+Options:
+A) January
+B) March
+C) May
+D) June
+
+Answer: D
+
+Question 31:
+Choose the odd one out.
+
+Options:
+A) Mercury
+B) Venus
+C) Earth
+D) Moon
+
+Answer: D
+
+Question 32:
+Choose the odd one out.
+
+Options:
+A) 8
+B) 27
+C) 64
+D) 100
+
+Answer: D
+
+Question 33:
+Choose the odd one out.
+
+Options:
+A) 121
+B) 144
+C) 169
+D) 180
+
+Answer: D
+
+SECTION F: ANALOGY
+
+Question 34:
+Book : Author :: Painting : ?
+
+Options:
+A) Singer
+B) Painter
+C) Reader
+D) Editor
+
+Answer: B
+
+Question 35:
+Oxygen : Respiration :: Chlorophyll : ?
+
+Options:
+A) Digestion
+B) Photosynthesis
+C) Circulation
+D) Excretion
+
+Answer: B
+
+Question 36:
+Thermometer : Temperature :: Barometer : ?
+
+Options:
+A) Humidity
+B) Pressure
+C) Speed
+D) Distance
+
+Answer: B
+
+Question 37:
+Seed : Plant :: Egg : ?
+
+Options:
+A) Nest
+B) Bird
+C) Feather
+D) Tree
+
+Answer: B
+
+Question 38:
+Constitution : Country :: Rules : ?
+
+Options:
+A) Game
+B) Player
+C) Stadium
+D) Audience
+
+Answer: A
+
+Question 39:
+Island : Ocean :: Oasis : ?
+
+Options:
+A) Forest
+B) Desert
+C) Mountain
+D) River
+
+Answer: B
+
+SECTION G: ORDERING AND SCHEDULING
+
+Question 40:
+Five tasks A, B, C, D, and E must be completed in sequence. A must occur before C. B must occur before D. C must occur before E. Which of the following sequences satisfies all the conditions?
+
+Options:
+A) C, A, B, D, E
+B) A, C, E, B, D
+C) B, D, E, C, A
+D) A, E, C, B, D
+
+Answer: B
+
+Question 41:
+Four exams P, Q, R, and S are scheduled on different days. P is before Q. R is after Q. S is before P. Which exam occurs first?
+
+Options:
+A) P
+B) Q
+C) R
+D) S
+
+Answer: D
+
+Question 42:
+Five people A, B, C, D, and E have different heights. A is taller than B. B is taller than C. D is taller than A. E is shorter than C. Who is the tallest?
+
+Options:
+A) A
+B) B
+C) D
+D) E
+
+Answer: C
+
+Question 43:
+Four books W, X, Y, and Z are arranged on a shelf. W is to the left of X. Y is to the right of X. Z is to the left of W. Which book is at the extreme left?
+
+Options:
+A) W
+B) X
+C) Y
+D) Z
+
+Answer: D
+
+Question 44:
+Five meetings A, B, C, D, and E are scheduled one after another. A occurs before B. C occurs after B. D occurs before A. E occurs after C. Which meeting must occur last?
+
+Options:
+A) A
+B) C
+C) D
+D) E
+
+Answer: D
+
+SECTION H: COMPLEX ANALYTICAL PUZZLES
+
+Question 45:
+Six people A, B, C, D, E, and F have different ranks. A ranks higher than B. B ranks higher than C. D ranks higher than A. E ranks lower than C. F ranks higher than D. Who has the highest rank?
+
+Options:
+A) A
+B) D
+C) E
+D) F
+
+Answer: D
+
+Question 46:
+In a competition, P scored more than Q but less than R. S scored less than Q. T scored more than R. Who scored the second highest?
+
+Options:
+A) P
+B) Q
+C) R
+D) T
+
+Answer: C
+
+Question 47:
+Five cities A, B, C, D, and E are connected by roads. A is connected to B and C. B is connected to D. C is connected to E. Which cities can be reached directly from A?
+
+Options:
+A) B and C
+B) B and D
+C) C and E
+D) D and E
+
+Answer: A
+
+Question 48:
+A project has five activities P, Q, R, S, and T. P must be completed before Q. Q must be completed before R. S must be completed before T. Which activity must follow P immediately?
+
+Options:
+A) Q
+B) R
+C) S
+D) No activity is necessarily immediate
+
+Answer: D
+
+Question 49:
+In a family, A is older than B. B is older than C. D is younger than C. E is older than A. Who is the youngest?
+
+Options:
+A) A
+B) C
+C) D
+D) E
+
+Answer: C
+
+Question 50:
+Five candidates A, B, C, D, and E are interviewed one at a time. A is interviewed before B. C is interviewed after B. D is interviewed before A. E is interviewed after C. Which candidate must be interviewed first?
+
+Options:
+A) A
+B) B
+C) D
+D) E
+
+Answer: C
+

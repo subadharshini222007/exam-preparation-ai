@@ -1,0 +1,1905 @@
+
+==================================================
+PART A: SENTENCE SYNTHESIS
+==================================================
+
+==================================================
+UNIT 1: INTRODUCTION TO SENTENCE SYNTHESIS
+==================================================
+
+1.1 MEANING OF SENTENCE SYNTHESIS
+Sentence synthesis means combining two or more simple sentences into one sentence without changing the meaning.
+
+The combined sentence may be:
+1. A simple sentence.
+2. A compound sentence.
+3. A complex sentence.
+
+Example:
+- Separate sentences: "He was ill. He did not come to school."
+- Combined simple sentence: "Being ill, he did not come to school."
+- Combined compound sentence: "He was ill, so he did not come to school."
+- Combined complex sentence: "As he was ill, he did not come to school."
+
+1.2 IMPORTANCE IN TNPSC
+In TNPSC General English, sentence synthesis questions may ask the candidate to:
+1. Combine two sentences using a participle.
+2. Combine two sentences using an infinitive.
+3. Combine two sentences using a gerund.
+4. Combine two sentences using a conjunction.
+5. Combine two sentences using a relative pronoun.
+6. Combine two sentences using an adverb clause.
+7. Combine sentences without changing their meaning.
+
+==================================================
+UNIT 2: SYNTHESIS USING PARTICIPLES
+==================================================
+
+2.1 PRESENT PARTICIPLE
+When two actions happen at the same time, use the present participle (verb + ing) for one action.
+
+Rule:
+Convert the first action into a present participle and join it to the second sentence.
+
+Examples:
+1. He saw the police. He ran away.
+   Combined: "Seeing the police, he ran away."
+
+2. She opened the door. She entered the room.
+   Combined: "Opening the door, she entered the room."
+
+3. The boy was walking on the road. He saw a snake.
+   Combined: "Walking on the road, the boy saw a snake."
+
+4. He finished his work. He went home.
+   Combined: "Finishing his work, he went home."
+
+5. She sang a song. The children listened.
+   Combined: "Singing a song, she entered the room."
+
+6. The thief saw the policeman. He fled.
+   Combined: "Seeing the policeman, the thief fled."
+
+7. He heard the news. He became happy.
+   Combined: "Hearing the news, he became happy."
+
+8. The child cried loudly. The mother came.
+   Combined: "Crying loudly, the child called his mother."
+
+9. They saw the teacher. They stood up.
+   Combined: "Seeing the teacher, they stood up."
+
+10. He walked quickly. He reached the station.
+    Combined: "Walking quickly, he reached the station."
+
+2.2 PAST PARTICIPLE
+When one action happens before another action, use the past participle.
+
+Examples:
+1. The window was broken. It had to be repaired.
+   Combined: "The broken window had to be repaired."
+
+2. The letter was written. It was posted.
+   Combined: "The written letter was posted."
+
+3. The work was completed. The workers went home.
+   Combined: "The work being completed, the workers went home."
+
+4. The road was damaged. It was repaired immediately.
+   Combined: "The damaged road was repaired immediately."
+
+5. The tree was uprooted by the storm. It blocked the road.
+   Combined: "The tree uprooted by the storm blocked the road."
+
+6. The book was written by R.K. Narayan. It became famous.
+   Combined: "The book written by R.K. Narayan became famous."
+
+7. The house was built last year. It is for sale.
+   Combined: "The house built last year is for sale."
+
+8. The medicine was prescribed by the doctor. It must be taken regularly.
+   Combined: "The medicine prescribed by the doctor must be taken regularly."
+
+9. The thief was caught by the police. He was taken to court.
+   Combined: "The thief caught by the police was taken to court."
+
+10. The scheme was launched by the government. It helped many farmers.
+    Combined: "The scheme launched by the government helped many farmers."
+
+2.3 PERFECT PARTICIPLE
+When the first action is completed before the second action begins, use "having + past participle".
+
+Examples:
+1. He finished the work. He went home.
+   Combined: "Having finished the work, he went home."
+
+2. She completed the course. She got a job.
+   Combined: "Having completed the course, she got a job."
+
+3. The thief saw the police. He ran away.
+   Combined: "Having seen the police, the thief ran away."
+
+4. He lost his purse. He reported the matter to the police.
+   Combined: "Having lost his purse, he reported the matter to the police."
+
+5. They won the match. They celebrated.
+   Combined: "Having won the match, they celebrated."
+
+6. She passed the examination. Her parents were happy.
+   Combined: "Having passed the examination, she made her parents happy."
+
+7. He read the book. He returned it to the library.
+   Combined: "Having read the book, he returned it to the library."
+
+8. The students submitted the forms. They left the office.
+   Combined: "Having submitted the forms, they left the office."
+
+9. The rain stopped. We continued our journey.
+   Combined: "The rain having stopped, we continued our journey."
+
+10. He received the letter. He replied immediately.
+    Combined: "Having received the letter, he replied immediately."
+
+==================================================
+UNIT 3: SYNTHESIS USING INFINITIVES
+==================================================
+
+3.1 INFINITIVE OF PURPOSE
+When one sentence shows the purpose of another action, use "to + base verb".
+
+Examples:
+1. He works hard. He wants to pass the examination.
+   Combined: "He works hard to pass the examination."
+
+2. She went to Chennai. She wanted to attend an interview.
+   Combined: "She went to Chennai to attend an interview."
+
+3. We save money. We want to buy a house.
+   Combined: "We save money to buy a house."
+
+4. He gets up early. He wants to go for a walk.
+   Combined: "He gets up early to go for a walk."
+
+5. The government launched the scheme. It wanted to help farmers.
+   Combined: "The government launched the scheme to help farmers."
+
+6. She reads newspapers. She wants to improve her English.
+   Combined: "She reads newspapers to improve her English."
+
+7. They planted trees. They wanted to reduce pollution.
+   Combined: "They planted trees to reduce pollution."
+
+8. He went to the bank. He wanted to withdraw money.
+   Combined: "He went to the bank to withdraw money."
+
+9. The students assembled in the hall. They wanted to attend the meeting.
+   Combined: "The students assembled in the hall to attend the meeting."
+
+10. He exercises daily. He wants to remain healthy.
+    Combined: "He exercises daily to remain healthy."
+
+3.2 INFINITIVE AFTER ADJECTIVES
+Use "to + base verb" after adjectives such as happy, glad, sorry, eager, anxious, ready, afraid.
+
+Examples:
+1. He was happy. He heard the good news.
+   Combined: "He was happy to hear the good news."
+
+2. She was eager. She wanted to meet her friend.
+   Combined: "She was eager to meet her friend."
+
+3. He was afraid. He did not want to cross the river.
+   Combined: "He was afraid to cross the river."
+
+4. We were sorry. We heard about his failure.
+   Combined: "We were sorry to hear about his failure."
+
+5. She was ready. She wanted to help them.
+   Combined: "She was ready to help them."
+
+6. He was anxious. He wanted to know the result.
+   Combined: "He was anxious to know the result."
+
+7. They were glad. They received the prize.
+   Combined: "They were glad to receive the prize."
+
+8. The child was curious. It wanted to see the train.
+   Combined: "The child was curious to see the train."
+
+9. He was foolish. He accepted the false offer.
+   Combined: "He was foolish to accept the false offer."
+
+10. She was kind. She helped the old man.
+    Combined: "She was kind to help the old man."
+
+3.3 INFINITIVE AFTER NOUNS
+Use "to + base verb" after nouns such as time, desire, decision, opportunity, chance, reason.
+
+Examples:
+1. It is time. We should go home.
+   Combined: "It is time to go home."
+
+2. He has a desire. He wants to become a doctor.
+   Combined: "He has a desire to become a doctor."
+
+3. She took a decision. She would resign.
+   Combined: "She took a decision to resign."
+
+4. He got an opportunity. He could study abroad.
+   Combined: "He got an opportunity to study abroad."
+
+5. They have no chance. They cannot win the match.
+   Combined: "They have no chance to win the match."
+
+6. He has no reason. He should fear the police.
+   Combined: "He has no reason to fear the police."
+
+7. She has an ambition. She wants to become an IAS officer.
+   Combined: "She has an ambition to become an IAS officer."
+
+8. This is the best way. We can solve the problem.
+   Combined: "This is the best way to solve the problem."
+
+9. He had no money. He could not buy a ticket.
+   Combined: "He had no money to buy a ticket."
+
+10. We have a plan. We will visit Kerala.
+    Combined: "We have a plan to visit Kerala."
+
+==================================================
+UNIT 4: SYNTHESIS USING GERUNDS
+==================================================
+
+4.1 GERUND AFTER PREPOSITIONS
+When the second sentence begins with a preposition, use a gerund after it.
+
+Examples:
+1. He was ill. He did not come to school.
+   Combined: "Because of being ill, he did not come to school."
+
+2. He saw the snake. He ran away.
+   Combined: "On seeing the snake, he ran away."
+
+3. She heard the news. She began to cry.
+   Combined: "On hearing the news, she began to cry."
+
+4. He was praised. He was happy.
+   Combined: "He was happy on being praised."
+
+5. He completed the work. He went home.
+   Combined: "After completing the work, he went home."
+
+6. She finished cooking. She served the food.
+   Combined: "After finishing cooking, she served the food."
+
+7. He was tired. He went to bed.
+   Combined: "Because of being tired, he went to bed."
+
+8. They reached the station. The train had left.
+   Combined: "On reaching the station, they found that the train had left."
+
+9. He was punished. He did not complain.
+   Combined: "He did not complain despite being punished."
+
+10. She won the prize. She was happy.
+    Combined: "She was happy on winning the prize."
+
+4.2 GERUND AS SUBJECT
+Examples:
+1. He collects stamps. It is his hobby.
+   Combined: "Collecting stamps is his hobby."
+
+2. She teaches poor children. It gives her satisfaction.
+   Combined: "Teaching poor children gives her satisfaction."
+
+3. He reads books. It improves knowledge.
+   Combined: "Reading books improves knowledge."
+
+4. People waste water. It is wrong.
+   Combined: "Wasting water is wrong."
+
+5. He tells lies. It is a bad habit.
+   Combined: "Telling lies is a bad habit."
+
+6. She helps the needy. It is a noble act.
+   Combined: "Helping the needy is a noble act."
+
+7. They plant trees. It protects the environment.
+   Combined: "Planting trees protects the environment."
+
+8. He gets up early. It is good for health.
+   Combined: "Getting up early is good for health."
+
+9. We should keep the city clean. It is our duty.
+   Combined: "Keeping the city clean is our duty."
+
+10. He drives rashly. It is dangerous.
+    Combined: "Driving rashly is dangerous."
+
+==================================================
+UNIT 5: SYNTHESIS USING CONJUNCTIONS
+==================================================
+
+5.1 USING "AND"
+Use "and" to join two similar or connected ideas.
+
+Examples:
+1. Ravi came home. Kumar came home.
+   Combined: "Ravi and Kumar came home."
+
+2. She is intelligent. She is hardworking.
+   Combined: "She is intelligent and hardworking."
+
+3. He bought a pen. He bought a book.
+   Combined: "He bought a pen and a book."
+
+4. The sun set. The stars appeared.
+   Combined: "The sun set and the stars appeared."
+
+5. He opened the door. He entered the room.
+   Combined: "He opened the door and entered the room."
+
+6. The teacher came. The students stood up.
+   Combined: "The teacher came and the students stood up."
+
+7. She cooked food. She served it.
+   Combined: "She cooked food and served it."
+
+8. He completed the work. He submitted it.
+   Combined: "He completed the work and submitted it."
+
+9. They visited Madurai. They visited Rameswaram.
+   Combined: "They visited Madurai and Rameswaram."
+
+10. The rain stopped. We went out.
+    Combined: "The rain stopped and we went out."
+
+5.2 USING "BUT", "YET", "STILL"
+Use these conjunctions to show contrast.
+
+Examples:
+1. He is poor. He is honest.
+   Combined: "He is poor but honest."
+
+2. She was ill. She attended the class.
+   Combined: "She was ill, yet she attended the class."
+
+3. He worked hard. He failed.
+   Combined: "He worked hard, but he failed."
+
+4. The question was difficult. He answered it correctly.
+   Combined: "The question was difficult, but he answered it correctly."
+
+5. He is rich. He is not happy.
+   Combined: "He is rich, but he is not happy."
+
+6. She is small. She is very brave.
+   Combined: "She is small, yet she is very brave."
+
+7. It was raining. They went out.
+   Combined: "It was raining, but they went out."
+
+8. He is old. He is active.
+   Combined: "He is old, but he is active."
+
+9. The road was narrow. The lorry passed through it.
+   Combined: "The road was narrow, yet the lorry passed through it."
+
+10. He had little money. He helped the poor.
+    Combined: "He had little money, but he helped the poor."
+
+5.3 USING "OR", "ELSE", "OTHERWISE"
+Use these conjunctions to show choice or consequence.
+
+Examples:
+1. You must work hard. You will fail.
+   Combined: "Work hard, or you will fail."
+
+2. You should apologise. He will not forgive you.
+   Combined: "Apologise, or he will not forgive you."
+
+3. Leave now. You will miss the bus.
+   Combined: "Leave now, else you will miss the bus."
+
+4. Study regularly. You will not pass.
+   Combined: "Study regularly, otherwise you will not pass."
+
+5. Take an umbrella. You will get wet.
+   Combined: "Take an umbrella, or you will get wet."
+
+6. Obey the rules. You will be punished.
+   Combined: "Obey the rules, or you will be punished."
+
+7. Hurry up. You will be late.
+   Combined: "Hurry up, else you will be late."
+
+8. Save money. You will suffer later.
+   Combined: "Save money, or you will suffer later."
+
+9. Wear a helmet. You may be fined.
+   Combined: "Wear a helmet, or you may be fined."
+
+10. Do not tell lies. People will not trust you.
+    Combined: "Do not tell lies, or people will not trust you."
+
+5.4 USING "SO", "THEREFORE", "HENCE"
+Use these conjunctions to show result.
+
+Examples:
+1. He was ill. He did not come.
+   Combined: "He was ill, so he did not come."
+
+2. It rained heavily. The match was cancelled.
+   Combined: "It rained heavily; therefore, the match was cancelled."
+
+3. He worked hard. He passed.
+   Combined: "He worked hard, so he passed."
+
+4. The road was blocked. The vehicles could not move.
+   Combined: "The road was blocked; hence, the vehicles could not move."
+
+5. She was tired. She went to bed early.
+   Combined: "She was tired, so she went to bed early."
+
+6. He was late. He missed the train.
+   Combined: "He was late; therefore, he missed the train."
+
+7. The question was easy. Everyone answered it.
+   Combined: "The question was easy, so everyone answered it."
+
+8. He was hungry. He ate food.
+   Combined: "He was hungry, so he ate food."
+
+9. The power failed. The class was stopped.
+   Combined: "The power failed; hence, the class was stopped."
+
+10. He was brave. He saved the child.
+    Combined: "He was brave; therefore, he saved the child."
+
+5.5 USING "THOUGH", "ALTHOUGH", "EVEN THOUGH"
+Use these subordinating conjunctions to show contrast.
+
+Examples:
+1. He is poor. He is honest.
+   Combined: "Though he is poor, he is honest."
+
+2. It rained heavily. They went out.
+   Combined: "Although it rained heavily, they went out."
+
+3. She was ill. She attended the meeting.
+   Combined: "Though she was ill, she attended the meeting."
+
+4. He is old. He is active.
+   Combined: "Although he is old, he is active."
+
+5. The question was difficult. He answered it.
+   Combined: "Though the question was difficult, he answered it."
+
+6. He had little money. He helped the poor.
+   Combined: "Though he had little money, he helped the poor."
+
+7. She was tired. She continued working.
+   Combined: "Although she was tired, she continued working."
+
+8. The road was narrow. The lorry passed.
+   Combined: "Though the road was narrow, the lorry passed."
+
+9. He failed many times. He did not lose hope.
+   Combined: "Though he failed many times, he did not lose hope."
+
+10. It was cold. He did not wear a coat.
+    Combined: "Although it was cold, he did not wear a coat."
+
+5.6 USING "BECAUSE", "AS", "SINCE"
+Use these subordinating conjunctions to show reason.
+
+Examples:
+1. He was ill. He did not come.
+   Combined: "Because he was ill, he did not come."
+
+2. It was raining. We stayed indoors.
+   Combined: "As it was raining, we stayed indoors."
+
+3. She was tired. She went to bed early.
+   Combined: "Since she was tired, she went to bed early."
+
+4. He was hungry. He ate food.
+   Combined: "Because he was hungry, he ate food."
+
+5. The road was blocked. The vehicles could not move.
+   Combined: "As the road was blocked, the vehicles could not move."
+
+6. He was late. He missed the train.
+   Combined: "Since he was late, he missed the train."
+
+7. She was happy. She had won the prize.
+   Combined: "She was happy because she had won the prize."
+
+8. The power failed. The class was stopped.
+   Combined: "As the power failed, the class was stopped."
+
+9. He was brave. He saved the child.
+   Combined: "Because he was brave, he saved the child."
+
+10. They were poor. They could not buy a house.
+    Combined: "Since they were poor, they could not buy a house."
+
+5.7 USING "IF", "UNLESS"
+Use these conjunctions to show condition.
+
+Examples:
+1. Work hard. You will pass.
+   Combined: "If you work hard, you will pass."
+
+2. Do not work hard. You will fail.
+   Combined: "If you do not work hard, you will fail."
+
+3. Apologise. He will forgive you.
+   Combined: "If you apologise, he will forgive you."
+
+4. Do not apologise. He will not forgive you.
+   Combined: "Unless you apologise, he will not forgive you."
+
+5. Take an umbrella. You will not get wet.
+   Combined: "If you take an umbrella, you will not get wet."
+
+6. Do not take an umbrella. You will get wet.
+   Combined: "Unless you take an umbrella, you will get wet."
+
+7. Leave now. You will catch the bus.
+   Combined: "If you leave now, you will catch the bus."
+
+8. Do not leave now. You will miss the bus.
+   Combined: "Unless you leave now, you will miss the bus."
+
+9. Obey the rules. You will not be punished.
+   Combined: "If you obey the rules, you will not be punished."
+
+10. Do not obey the rules. You will be punished.
+    Combined: "Unless you obey the rules, you will be punished."
+
+==================================================
+UNIT 6: SYNTHESIS USING RELATIVE PRONOUNS
+==================================================
+
+6.1 USING "WHO"
+Use "who" for persons.
+
+Examples:
+1. The man came here. He is my uncle.
+   Combined: "The man who came here is my uncle."
+
+2. The girl won the prize. She is my sister.
+   Combined: "The girl who won the prize is my sister."
+
+3. The students work hard. They will pass.
+   Combined: "The students who work hard will pass."
+
+4. The teacher taught us English. He has retired.
+   Combined: "The teacher who taught us English has retired."
+
+5. The boy helped the old man. He was praised.
+   Combined: "The boy who helped the old man was praised."
+
+6. The woman lives next door. She is a doctor.
+   Combined: "The woman who lives next door is a doctor."
+
+7. The leader addressed the meeting. He was welcomed warmly.
+   Combined: "The leader who addressed the meeting was welcomed warmly."
+
+8. The candidate got the highest marks. He was selected.
+   Combined: "The candidate who got the highest marks was selected."
+
+9. The child was crying. It was hungry.
+   Combined: "The child who was crying was hungry."
+
+10. The officer signed the order. He has been transferred.
+    Combined: "The officer who signed the order has been transferred."
+
+6.2 USING "WHICH"
+Use "which" for animals and things.
+
+Examples:
+1. The book is on the table. It belongs to Ravi.
+   Combined: "The book which is on the table belongs to Ravi."
+
+2. The house is near the temple. It belongs to my uncle.
+   Combined: "The house which is near the temple belongs to my uncle."
+
+3. The dog barked loudly. It frightened the child.
+   Combined: "The dog which barked loudly frightened the child."
+
+4. The road was damaged. It has been repaired.
+   Combined: "The road which was damaged has been repaired."
+
+5. The scheme was launched last year. It helped farmers.
+   Combined: "The scheme which was launched last year helped farmers."
+
+6. The pen was lost. It has been found.
+   Combined: "The pen which was lost has been found."
+
+7. The temple is ancient. It attracts many tourists.
+   Combined: "The temple which is ancient attracts many tourists."
+
+8. The car was parked outside. It belongs to the manager.
+   Combined: "The car which was parked outside belongs to the manager."
+
+9. The tree was uprooted. It blocked the road.
+   Combined: "The tree which was uprooted blocked the road."
+
+10. The film was released last week. It is a big hit.
+    Combined: "The film which was released last week is a big hit."
+
+6.3 USING "THAT"
+Use "that" for persons, animals and things.
+
+Examples:
+1. The boy came here. He is my cousin.
+   Combined: "The boy that came here is my cousin."
+
+2. The book is on the table. It is mine.
+   Combined: "The book that is on the table is mine."
+
+3. The house was built last year. It is beautiful.
+   Combined: "The house that was built last year is beautiful."
+
+4. The dog was barking. It belongs to our neighbour.
+   Combined: "The dog that was barking belongs to our neighbour."
+
+5. The student answered correctly. She got the prize.
+   Combined: "The student that answered correctly got the prize."
+
+6. The road was blocked. It caused a traffic jam.
+   Combined: "The road that was blocked caused a traffic jam."
+
+7. The man helped us. He was a stranger.
+   Combined: "The man that helped us was a stranger."
+
+8. The scheme was announced. It benefited farmers.
+   Combined: "The scheme that was announced benefited farmers."
+
+9. The letter was written yesterday. It reached today.
+   Combined: "The letter that was written yesterday reached today."
+
+10. The temple is famous. It is in Thanjavur.
+    Combined: "The temple that is famous is in Thanjavur."
+
+6.4 USING "WHOSE"
+Use "whose" to show possession.
+
+Examples:
+1. The girl came first. Her father is a teacher.
+   Combined: "The girl whose father is a teacher came first."
+
+2. The house was damaged. Its roof was old.
+   Combined: "The house whose roof was old was damaged."
+
+3. The student got the prize. His answer was correct.
+   Combined: "The student whose answer was correct got the prize."
+
+4. The man was arrested. His car was involved in the accident.
+   Combined: "The man whose car was involved in the accident was arrested."
+
+5. The child was crying. Its toy was lost.
+   Combined: "The child whose toy was lost was crying."
+
+6. The writer won the award. Her book became popular.
+   Combined: "The writer whose book became popular won the award."
+
+7. The farmer was helped. His crops were destroyed.
+   Combined: "The farmer whose crops were destroyed was helped."
+
+8. The boy was praised. His project was excellent.
+   Combined: "The boy whose project was excellent was praised."
+
+9. The woman was interviewed. Her husband is a scientist.
+   Combined: "The woman whose husband is a scientist was interviewed."
+
+10. The building collapsed. Its foundation was weak.
+    Combined: "The building whose foundation was weak collapsed."
+
+==================================================
+UNIT 7: SYNTHESIS USING ADVERB CLAUSES
+==================================================
+
+7.1 TIME
+Use when, while, before, after, until, as soon as.
+
+Examples:
+1. He came. I was reading.
+   Combined: "When he came, I was reading."
+
+2. She was cooking. The phone rang.
+   Combined: "While she was cooking, the phone rang."
+
+3. He finished the work. He went home.
+   Combined: "After he finished the work, he went home."
+
+4. Wait. I will return.
+   Combined: "Wait until I return."
+
+5. He arrived. We started the meeting.
+   Combined: "As soon as he arrived, we started the meeting."
+
+6. The rain stopped. We went out.
+   Combined: "When the rain stopped, we went out."
+
+7. She reached home. It began to rain.
+   Combined: "As soon as she reached home, it began to rain."
+
+8. The students completed the exam. They left the hall.
+   Combined: "After the students completed the exam, they left the hall."
+
+9. He saw the signal. He stopped the car.
+   Combined: "When he saw the signal, he stopped the car."
+
+10. The bell rang. The students left the class.
+    Combined: "When the bell rang, the students left the class."
+
+7.2 REASON
+Use because, as, since.
+
+Examples:
+1. He was ill. He did not come.
+   Combined: "Because he was ill, he did not come."
+
+2. It was raining. We stayed indoors.
+   Combined: "As it was raining, we stayed indoors."
+
+3. She was tired. She went to bed.
+   Combined: "Since she was tired, she went to bed."
+
+4. The road was blocked. The vehicles stopped.
+   Combined: "Because the road was blocked, the vehicles stopped."
+
+5. He was late. He missed the train.
+   Combined: "As he was late, he missed the train."
+
+6. They were poor. They could not buy a house.
+   Combined: "Since they were poor, they could not buy a house."
+
+7. The power failed. The class stopped.
+   Combined: "Because the power failed, the class stopped."
+
+8. He was brave. He saved the child.
+   Combined: "As he was brave, he saved the child."
+
+9. She was happy. She had won the prize.
+   Combined: "She was happy because she had won the prize."
+
+10. The question was easy. Everyone answered it.
+    Combined: "Since the question was easy, everyone answered it."
+
+7.3 CONDITION
+Use if, unless.
+
+Examples:
+1. Work hard. You will pass.
+   Combined: "If you work hard, you will pass."
+
+2. Do not apologise. He will not forgive you.
+   Combined: "Unless you apologise, he will not forgive you."
+
+3. Take an umbrella. You will not get wet.
+   Combined: "If you take an umbrella, you will not get wet."
+
+4. Do not take an umbrella. You will get wet.
+   Combined: "Unless you take an umbrella, you will get wet."
+
+5. Leave now. You will catch the bus.
+   Combined: "If you leave now, you will catch the bus."
+
+6. Do not leave now. You will miss the bus.
+   Combined: "Unless you leave now, you will miss the bus."
+
+7. Obey the rules. You will not be punished.
+   Combined: "If you obey the rules, you will not be punished."
+
+8. Do not obey the rules. You will be punished.
+   Combined: "Unless you obey the rules, you will be punished."
+
+9. Study regularly. You will succeed.
+   Combined: "If you study regularly, you will succeed."
+
+10. Do not study regularly. You will fail.
+    Combined: "Unless you study regularly, you will fail."
+
+==================================================
+UNIT 8: PRACTICE - SENTENCE SYNTHESIS
+==================================================
+
+1. He saw the snake. He ran away.
+   Answer: "Seeing the snake, he ran away."
+
+2. He finished the work. He went home.
+   Answer: "Having finished the work, he went home."
+
+3. He works hard. He wants to pass.
+   Answer: "He works hard to pass."
+
+4. He was ill. He did not come.
+   Answer: "As he was ill, he did not come."
+
+5. He is poor. He is honest.
+   Answer: "Though he is poor, he is honest."
+
+6. Work hard. You will pass.
+   Answer: "If you work hard, you will pass."
+
+7. The man came here. He is my uncle.
+   Answer: "The man who came here is my uncle."
+
+8. The book is on the table. It belongs to Ravi.
+   Answer: "The book which is on the table belongs to Ravi."
+
+9. The girl came first. Her father is a teacher.
+   Answer: "The girl whose father is a teacher came first."
+
+10. He came. I was reading.
+    Answer: "When he came, I was reading."
+
+==================================================
+PART B: PUNCTUATION
+==================================================
+
+==================================================
+UNIT 9: INTRODUCTION TO PUNCTUATION
+==================================================
+
+9.1 MEANING
+Punctuation means the use of special marks in writing to make the meaning clear.
+
+Important punctuation marks:
+1. Full stop or period (.)
+2. Comma (,)
+3. Question mark (?)
+4. Exclamation mark (!)
+5. Colon (:)
+6. Semicolon (;)
+7. Apostrophe (')
+8. Quotation marks (" ")
+9. Hyphen (-)
+10. Dash (-)
+11. Brackets ( )
+12. Capital letters
+
+==================================================
+UNIT 10: FULL STOP OR PERIOD
+==================================================
+
+10.1 USES
+1. At the end of a statement:
+   - The sun rises in the east.
+   - Chennai is the capital of Tamil Nadu.
+
+2. At the end of an imperative sentence:
+   - Close the door.
+   - Please submit the form.
+
+3. After abbreviations:
+   - Dr. A.P.J. Abdul Kalam
+   - Mr. Ravi
+   - etc.
+   - e.g.
+
+10.2 EXAMPLES
+1. "India is a democratic country."
+2. "The teacher entered the classroom."
+3. "Please switch off the light."
+4. "He lives in Coimbatore."
+5. "The meeting will begin at 10 a.m."
+
+==================================================
+UNIT 11: COMMA
+==================================================
+
+11.1 USES
+1. To separate items in a list:
+   - I bought apples, mangoes, bananas and grapes.
+
+2. After introductory words or phrases:
+   - However, he did not come.
+   - After the meeting, we went home.
+
+3. Before conjunctions joining two main clauses:
+   - He was tired, but he continued working.
+
+4. To separate a noun of address:
+   - Ravi, please come here.
+   - Students, listen carefully.
+
+5. To separate non-essential information:
+   - Ravi, my best friend, lives in Chennai.
+
+6. After a direct speech introduction:
+   - He said, "I am busy."
+
+7. To separate question tags:
+   - You are coming, aren't you?
+
+8. In dates and addresses:
+   - He was born on 15 August 1947.
+   - She lives at 12, Gandhi Road, Chennai.
+
+9. To separate thousands in numbers:
+   - 1,000
+   - 25,000
+   - 1,00,000
+
+10. To prevent confusion:
+    - "Let us eat, Grandma." means inviting Grandma to eat.
+    - "Let us eat Grandma." gives a different meaning.
+
+==================================================
+UNIT 12: QUESTION MARK
+==================================================
+
+12.1 USES
+1. At the end of a direct question:
+   - Where do you live?
+   - Have you finished the work?
+   - Who is your class teacher?
+
+2. After tag questions:
+   - You are coming, aren't you?
+   - She has finished, hasn't she?
+
+3. After a question within a sentence:
+   - He asked, "Can you help me?"
+
+12.2 IMPORTANT RULE
+Do not use a question mark after an indirect question.
+- Direct: He said, "Where do you live?"
+- Indirect: He asked where I lived.
+
+==================================================
+UNIT 13: EXCLAMATION MARK
+==================================================
+
+13.1 USES
+1. After interjections:
+   - Hurrah! We have won.
+   - Alas! He has failed.
+   - Bravo! Well done.
+
+2. After exclamatory sentences:
+   - What a beautiful flower!
+   - How intelligent she is!
+
+3. After strong commands:
+   - Stop!
+   - Fire!
+   - Get out!
+
+13.2 EXAMPLES
+1. "Wow! That is amazing."
+2. "What a wonderful performance!"
+3. "Ouch! That hurt."
+4. "Hush! The baby is sleeping."
+5. "Long live our nation!"
+
+==================================================
+UNIT 14: COLON
+==================================================
+
+14.1 USES
+1. To introduce a list:
+   - We need the following items: pens, books, bags and bottles.
+
+2. To introduce an explanation:
+   - He had one aim: to become a doctor.
+
+3. To introduce a quotation:
+   - The teacher said: "Hard work never fails."
+
+4. To separate hours and minutes:
+   - The class begins at 10:30 a.m.
+
+5. After the salutation in a formal letter:
+   - Dear Sir:
+   - Dear Madam:
+
+==================================================
+UNIT 15: SEMICOLON
+==================================================
+
+15.1 USES
+1. To join two closely related main clauses:
+   - He was ill; he did not come to school.
+   - It was raining; therefore, the match was cancelled.
+
+2. To separate items in a list when the items already contain commas:
+   - We visited Chennai, Tamil Nadu; Mumbai, Maharashtra; and Kolkata, West Bengal.
+
+3. Before conjunctive adverbs such as however, therefore, hence, moreover:
+   - He worked hard; however, he failed.
+
+==================================================
+UNIT 16: APOSTROPHE
+==================================================
+
+16.1 USES
+1. To show possession:
+   - Ravi's book
+   - the girl's bag
+   - boys' hostel
+   - children's park
+
+2. To show omission of letters:
+   - don't = do not
+   - can't = cannot
+   - I'm = I am
+   - it's = it is
+   - won't = will not
+
+3. To form plurals of letters and numbers:
+   - Mind your p's and q's.
+   - There are two 5's in this number.
+
+16.2 POSSESSIVE RULES
+1. Singular noun: add apostrophe + s.
+   - Ravi's pen, the teacher's desk.
+
+2. Plural noun ending in -s: add only apostrophe.
+   - boys' hostel, teachers' meeting.
+
+3. Irregular plural not ending in -s: add apostrophe + s.
+   - children's park, women's college, men's room.
+
+4. Names ending in -s: usually add apostrophe + s.
+   - James's book, Charles's car.
+
+==================================================
+UNIT 17: QUOTATION MARKS
+==================================================
+
+17.1 USES
+1. To enclose the exact words of a speaker:
+   - He said, "I am busy."
+   - She asked, "Where do you live?"
+
+2. To enclose titles of short works:
+   - "The Road Not Taken"
+   - "Where the Mind is Without Fear"
+
+3. To enclose a word used in a special sense:
+   - He is a so-called "expert".
+
+17.2 PUNCTUATION WITH QUOTATION MARKS
+1. Comma before direct speech:
+   - He said, "I am tired."
+
+2. Question mark inside quotation marks if the quoted words are a question:
+   - She asked, "Are you ready?"
+
+3. Full stop inside quotation marks in American usage:
+   - He said, "I am busy."
+
+==================================================
+UNIT 18: HYPHEN, DASH AND BRACKETS
+==================================================
+
+18.1 HYPHEN
+A hyphen joins two words or parts of words.
+
+Uses:
+1. Compound adjectives:
+   - a well-known writer
+   - a twenty-year-old boy
+   - a long-term plan
+
+2. Compound numbers:
+   - twenty-one
+   - thirty-five
+   - ninety-nine
+
+3. Prefixes:
+   - ex-minister
+   - self-confidence
+   - co-operation
+
+18.2 DASH
+A dash indicates a sudden break, an afterthought or emphasis.
+
+Examples:
+- He is coming today - I am sure.
+- The result was unexpected - a complete surprise.
+- She gave one reason - and only one - for her absence.
+
+18.3 BRACKETS
+Brackets are used to add extra information.
+
+Examples:
+- The Indian National Congress (INC) was founded in 1885.
+- He was born in Madurai (Tamil Nadu).
+- The scheme (launched in 2023) helps farmers.
+
+==================================================
+UNIT 19: CAPITAL LETTERS
+==================================================
+
+19.1 USES
+1. First letter of a sentence:
+   - The sun rises in the east.
+
+2. Proper nouns:
+   - Chennai, India, Ravi, Monday.
+
+3. First person pronoun "I":
+   - I am a student.
+
+4. Titles and honorifics:
+   - Dr., Mr., Mrs., Professor.
+
+5. First word in direct speech:
+   - He said, "I am busy."
+
+6. Names of God and religions:
+   - God, Hinduism, Christianity, Islam.
+
+7. Important words in titles:
+   - The Guide
+   - Gitanjali
+   - The Hindu
+
+==================================================
+UNIT 20: PUNCTUATION PRACTICE
+==================================================
+
+Correct the following sentences:
+
+1. he said i am busy
+   Correct: He said, "I am busy."
+
+2. what is your name
+   Correct: What is your name?
+
+3. hurrah we have won
+   Correct: Hurrah! We have won.
+
+4. ravis book is new
+   Correct: Ravi's book is new.
+
+5. i bought apples mangoes and bananas
+   Correct: I bought apples, mangoes and bananas.
+
+6. he was ill he did not come
+   Correct: He was ill; he did not come.
+
+7. the boys hostel is near the school
+   Correct: The boys' hostel is near the school.
+
+8. she lives at 12 gandhi road chennai
+   Correct: She lives at 12, Gandhi Road, Chennai.
+
+9. may i come in sir
+   Correct: May I come in, sir?
+
+10. he is a well known writer
+    Correct: He is a well-known writer.
+
+==================================================
+PART C: VOCABULARY
+==================================================
+
+==================================================
+UNIT 21: INTRODUCTION TO VOCABULARY
+==================================================
+
+21.1 MEANING
+Vocabulary means the set of words known and used by a person. In TNPSC General English, vocabulary questions test synonyms, antonyms, one-word substitutions, idioms, phrasal verbs, homophones, homonyms and correct word usage.
+
+21.2 IMPORTANT VOCABULARY AREAS
+1. Synonyms.
+2. Antonyms.
+3. One-word substitution.
+4. Idioms and phrases.
+5. Phrasal verbs.
+6. Homophones and homonyms.
+7. Confusing word pairs.
+8. Foreign words and phrases.
+9. Prefixes and suffixes.
+10. Correct spelling.
+
+==================================================
+UNIT 22: SYNONYMS
+==================================================
+
+22.1 MEANING
+A synonym is a word having the same or nearly the same meaning as another word.
+
+Examples:
+- Big - Large
+- Happy - Joyful
+- Brave - Courageous
+- Begin - Start
+- End - Finish
+
+22.2 IMPORTANT SYNONYMS
+1. Abandon - Leave, desert.
+2. Abundant - Plentiful, ample.
+3. Accurate - Correct, exact.
+4. Admire - Respect, appreciate.
+5. Ancient - Old, antique.
+6. Brave - Courageous, bold.
+7. Brief - Short, concise.
+8. Calm - Peaceful, quiet.
+9. Careful - Cautious, watchful.
+10. Clever - Intelligent, smart.
+11. Dangerous - Risky, hazardous.
+12. Difficult - Hard, tough.
+13. Easy - Simple, effortless.
+14. Famous - Renowned, well-known.
+15. Generous - Kind, liberal.
+16. Honest - Truthful, sincere.
+17. Important - Significant, crucial.
+18. Lazy - Idle, indolent.
+19. Strong - Powerful, sturdy.
+20. Weak - Feeble, frail.
+
+22.3 MORE SYNONYMS
+1. Angry - Furious, annoyed.
+2. Beautiful - Attractive, lovely.
+3. Begin - Commence, start.
+4. Bold - Daring, fearless.
+5. Cheap - Inexpensive, low-cost.
+6. Cold - Chilly, frigid.
+7. Correct - Right, accurate.
+8. Cruel - Brutal, merciless.
+9. Deep - Profound, intense.
+10. Empty - Vacant, hollow.
+11. Enormous - Huge, gigantic.
+12. Faithful - Loyal, devoted.
+13. Fat - Obese, stout.
+14. Funny - Amusing, humorous.
+15. Gentle - Mild, soft.
+16. Happy - Glad, delighted.
+17. Help - Assist, aid.
+18. Huge - Massive, vast.
+19. Intelligent - Clever, brilliant.
+20. Quiet - Silent, calm.
+
+==================================================
+UNIT 23: ANTONYMS
+==================================================
+
+23.1 MEANING
+An antonym is a word opposite in meaning to another word.
+
+Examples:
+- Big - Small
+- Happy - Sad
+- Brave - Cowardly
+- Begin - End
+- Accept - Reject
+
+23.2 IMPORTANT ANTONYMS
+1. Accept - Reject.
+2. Advance - Retreat.
+3. Ancient - Modern.
+4. Arrive - Depart.
+5. Artificial - Natural.
+6. Bold - Timid.
+7. Borrow - Lend.
+8. Bright - Dull.
+9. Cheap - Costly.
+10. Deep - Shallow.
+11. Dense - Sparse.
+12. Early - Late.
+13. Expand - Contract.
+14. Failure - Success.
+15. Generous - Miserly.
+16. Honest - Dishonest.
+17. Increase - Decrease.
+18. Innocent - Guilty.
+19. Kind - Cruel.
+20. Large - Small.
+
+23.3 MORE ANTONYMS
+1. Lazy - Active.
+2. Long - Short.
+3. Lose - Find.
+4. Love - Hate.
+5. Major - Minor.
+6. Maximum - Minimum.
+7. Modern - Ancient.
+8. Narrow - Wide.
+9. Optimist - Pessimist.
+10. Permanent - Temporary.
+11. Praise - Criticise.
+12. Private - Public.
+13. Rich - Poor.
+14. Rough - Smooth.
+15. Strong - Weak.
+16. Success - Failure.
+17. Transparent - Opaque.
+18. Victory - Defeat.
+19. Wet - Dry.
+20. Wise - Foolish.
+
+==================================================
+UNIT 24: ONE-WORD SUBSTITUTION
+==================================================
+
+24.1 MEANING
+One-word substitution means replacing a phrase or sentence with a single word.
+
+Examples:
+- A person who writes books - Author.
+- A person who treats patients - Doctor.
+- A place where books are kept - Library.
+
+24.2 IMPORTANT ONE-WORD SUBSTITUTIONS
+1. Autobiography - The life story of a person written by himself or herself.
+2. Biography - The life story of a person written by another person.
+3. Bibliophile - A person who loves books.
+4. Philanthropist - A person who loves mankind and helps others.
+5. Misanthrope - A person who dislikes mankind.
+6. Optimist - A person who looks at the bright side of life.
+7. Pessimist - A person who looks at the dark side of life.
+8. Orphan - A child whose parents are dead.
+9. Widow - A woman whose husband is dead.
+10. Widower - A man whose wife is dead.
+11. Anonymous - A person whose name is not known.
+12. Illiterate - A person who cannot read or write.
+13. Veteran - A person with long experience.
+14. Novice - A beginner.
+15. Pedagogue - A teacher.
+16. Curator - A person in charge of a museum.
+17. Archaeologist - A person who studies ancient remains.
+18. Astronomer - A person who studies stars and planets.
+19. Geologist - A person who studies rocks and the earth.
+20. Botanist - A person who studies plants.
+
+24.3 MORE ONE-WORD SUBSTITUTIONS
+1. Zoologist - A person who studies animals.
+2. Cardiologist - A doctor who treats heart diseases.
+3. Dentist - A doctor who treats teeth.
+4. Dermatologist - A doctor who treats skin diseases.
+5. Paediatrician - A doctor who treats children.
+6. Posthumous - Occurring after death.
+7. Postmortem - Examination of a dead body.
+8. Honorary - Given without payment.
+9. Inevitable - That cannot be avoided.
+10. Illegible - That cannot be read.
+11. Inaudible - That cannot be heard.
+12. Invisible - That cannot be seen.
+13. Indelible - That cannot be erased.
+14. Incurable - That cannot be cured.
+15. Invincible - That cannot be defeated.
+16. Omnipotent - All-powerful.
+17. Omniscient - All-knowing.
+18. Omnivorous - Eating both plants and animals.
+19. Herbivorous - Eating only plants.
+20. Carnivorous - Eating only flesh.
+
+==================================================
+UNIT 25: IDIOMS AND PHRASES
+==================================================
+
+25.1 MEANING
+An idiom is a group of words whose meaning is different from the literal meanings of individual words.
+
+Examples:
+- "Break the ice" means to start a conversation.
+- "Once in a blue moon" means very rarely.
+
+25.2 IMPORTANT IDIOMS
+1. Break the ice - To start a conversation.
+2. Once in a blue moon - Very rarely.
+3. A piece of cake - Very easy.
+4. Apple of one's eye - A person very dear to someone.
+5. At the eleventh hour - At the last moment.
+6. Beat about the bush - To avoid coming to the point.
+7. Bite the dust - To be defeated.
+8. Burn the midnight oil - To work late into the night.
+9. Call a spade a spade - To speak plainly.
+10. Carry the day - To win.
+11. Cry over spilt milk - To regret what cannot be changed.
+12. Fish in troubled waters - To take advantage of a difficult situation.
+13. Hit the nail on the head - To say exactly the right thing.
+14. In hot water - In trouble.
+15. Let the cat out of the bag - To reveal a secret.
+16. Make both ends meet - To manage with limited money.
+17. Red-letter day - An important or memorable day.
+18. Smell a rat - To suspect something wrong.
+19. Turn a deaf ear - To ignore.
+20. Under one's thumb - Under someone's control.
+
+25.3 MORE IDIOMS
+1. A wild-goose chase - A useless search.
+2. At daggers drawn - In open hostility.
+3. Bag and baggage - With all belongings.
+4. Black sheep - A disgraceful member of a family or group.
+5. Blow one's own trumpet - To praise oneself.
+6. Burn one's fingers - To suffer due to one's own action.
+7. Cock and bull story - An unbelievable story.
+8. Hard and fast - Strict.
+9. In black and white - In writing.
+10. Keep one's word - To fulfil a promise.
+11. Move heaven and earth - To try one's best.
+12. Nip in the bud - To destroy at an early stage.
+13. On the verge of - Close to.
+14. Play second fiddle - To take a subordinate role.
+15. Pull one's leg - To tease someone.
+16. Rain cats and dogs - To rain heavily.
+17. Show the white feather - To show cowardice.
+18. Take to task - To rebuke.
+19. Throw cold water on - To discourage.
+20. With flying colours - With great success.
+
+==================================================
+UNIT 26: PHRASAL VERBS
+==================================================
+
+26.1 MEANING
+A phrasal verb is a verb combined with a preposition or adverb to give a new meaning.
+
+Examples:
+- Give up means to stop.
+- Look after means to take care of.
+- Put off means to postpone.
+
+26.2 IMPORTANT PHRASAL VERBS
+1. Break down - Stop working.
+   - The car broke down on the way.
+
+2. Break into - Enter by force.
+   - Thieves broke into the house.
+
+3. Bring up - Rear or mention.
+   - She brought up three children.
+
+4. Call off - Cancel.
+   - The meeting was called off.
+
+5. Carry on - Continue.
+   - Carry on with your work.
+
+6. Come across - Meet by chance.
+   - I came across an old friend.
+
+7. Give up - Stop or surrender.
+   - He gave up smoking.
+
+8. Look after - Take care of.
+   - She looks after her grandmother.
+
+9. Look into - Investigate.
+   - The police are looking into the case.
+
+10. Put off - Postpone.
+    - The meeting was put off.
+
+26.3 MORE PHRASAL VERBS
+1. Put up with - Tolerate.
+   - I cannot put up with his behaviour.
+
+2. Run out of - Have no more of something.
+   - We have run out of milk.
+
+3. Set up - Establish.
+   - He set up a new business.
+
+4. Take after - Resemble.
+   - He takes after his father.
+
+5. Turn down - Reject.
+   - She turned down the offer.
+
+6. Turn up - Arrive unexpectedly.
+   - He turned up late.
+
+7. Get along with - Have a good relationship.
+   - He gets along well with his colleagues.
+
+8. Get over - Recover from.
+   - She has got over her illness.
+
+9. Give in - Surrender.
+   - He refused to give in.
+
+10. Look forward to - Expect eagerly.
+    - I look forward to meeting you.
+
+==================================================
+UNIT 27: HOMOPHONES AND HOMONYMS
+==================================================
+
+27.1 HOMOPHONES
+Homophones are words having the same pronunciation but different spelling and meaning.
+
+Examples:
+1. See - Sea.
+2. Son - Sun.
+3. Write - Right.
+4. Meet - Meat.
+5. Plain - Plane.
+6. Weak - Week.
+7. Heal - Heel.
+8. Cell - Sell.
+9. Peace - Piece.
+10. Stationary - Stationery.
+
+27.2 HOMONYMS
+Homonyms are words with the same spelling or pronunciation but different meanings.
+
+Examples:
+1. Bank - River bank / financial institution.
+2. Bat - Animal / cricket bat.
+3. Book - To reserve / reading material.
+4. Light - Not heavy / brightness.
+5. Watch - Timepiece / to see.
+6. Bear - Animal / to tolerate.
+7. Spring - Season / to jump.
+8. Match - Game / small stick for fire.
+9. Ring - Circle / sound of a bell.
+10. Rock - Stone / to move gently.
+
+==================================================
+UNIT 28: CONFUSING WORD PAIRS
+==================================================
+
+1. Advice - noun; Advise - verb.
+   - He gave me good advice.
+   - Please advise me.
+
+2. Practice - noun; Practise - verb.
+   - Practice makes perfect.
+   - We practise English daily.
+
+3. Effect - noun; Affect - verb.
+   - The medicine had a good effect.
+   - Smoking affects health.
+
+4. Lose - verb; Loose - adjective.
+   - Do not lose your pen.
+   - This knot is loose.
+
+5. Principal - head/chief; Principle - rule.
+   - The principal spoke to us.
+   - He is a man of principle.
+
+6. Stationary - not moving; Stationery - writing materials.
+   - The car was stationary.
+   - Buy stationery from that shop.
+
+7. Complement - completes; Compliment - praise.
+   - The scarf complements her dress.
+   - He complimented her.
+
+8. Desert - dry land; Dessert - sweet dish.
+   - The Sahara is a desert.
+   - We had ice cream for dessert.
+
+9. Quite - fairly; Quiet - silent.
+   - The film was quite good.
+   - Please keep quiet.
+
+10. Weather - climate; Whether - choice.
+    - The weather is pleasant.
+    - I do not know whether he will come.
+
+==================================================
+UNIT 29: PREFIXES AND SUFFIXES
+==================================================
+
+29.1 PREFIXES
+A prefix is a letter or group of letters added before a word to change its meaning.
+
+1. Un- means not:
+   unhappy, unable, unfair.
+
+2. Dis- means not or opposite:
+   dishonest, disagree, disappear.
+
+3. Im-/In- means not:
+   impossible, incorrect, incomplete.
+
+4. Re- means again:
+   rewrite, return, rebuild.
+
+5. Pre- means before:
+   preview, prepay, prehistoric.
+
+6. Mis- means wrongly:
+   misunderstand, misuse, mislead.
+
+7. Anti- means against:
+   antisocial, antibiotic, anti-war.
+
+8. Inter- means between:
+   international, intercity, interact.
+
+9. Sub- means under:
+   subway, submarine, subtitle.
+
+10. Super- means above or beyond:
+    superhuman, supermarket, supervisor.
+
+29.2 SUFFIXES
+A suffix is a letter or group of letters added after a word to change its meaning or grammatical function.
+
+1. -ness forms nouns:
+   kindness, happiness, darkness.
+
+2. -ment forms nouns:
+   movement, agreement, development.
+
+3. -tion forms nouns:
+   education, action, decision.
+
+4. -ship forms nouns:
+   friendship, leadership, citizenship.
+
+5. -hood forms nouns:
+   childhood, brotherhood, motherhood.
+
+6. -ful means full of:
+   beautiful, helpful, careful.
+
+7. -less means without:
+   careless, hopeless, fearless.
+
+8. -able means capable of:
+   readable, comfortable, acceptable.
+
+9. -ly forms adverbs:
+   quickly, slowly, carefully.
+
+10. -ify means to make:
+    simplify, purify, clarify.
+
+==================================================
+UNIT 30: CORRECT SPELLING
+==================================================
+
+30.1 COMMONLY MISSPELT WORDS
+Correct spellings:
+1. Accommodation.
+2. Acknowledgement.
+3. Achievement.
+4. Committee.
+5. Conscience.
+6. Definitely.
+7. Environment.
+8. Government.
+9. Independent.
+10. Necessary.
+11. Occasion.
+12. Opportunity.
+13. Possession.
+14. Privilege.
+15. Receive.
+16. Restaurant.
+17. Separate.
+18. Successful.
+19. Tomorrow.
+20. Vocabulary.
+
+30.2 SPELLING RULES
+1. "i" before "e" except after "c":
+   - believe, achieve, relieve.
+   - receive, deceive, ceiling.
+
+2. Drop the final "e" before a suffix beginning with a vowel:
+   - make - making.
+   - write - writing.
+   - hope - hoping.
+
+3. Retain the final "e" before a suffix beginning with a consonant:
+   - hope - hopeful.
+   - care - careful.
+   - safe - safely.
+
+4. Change "y" into "i" before a suffix when there is a consonant before "y":
+   - happy - happiness.
+   - easy - easily.
+   - beauty - beautiful.
+
+5. Double the final consonant after a single vowel + single consonant:
+   - run - running.
+   - sit - sitting.
+   - big - bigger.
+
+==================================================
+UNIT 31: PRACTICE - VOCABULARY
+==================================================
+
+31.1 SYNONYMS
+1. Brave - Courageous.
+2. Happy - Joyful.
+3. Begin - Start.
+4. Famous - Renowned.
+5. Difficult - Hard.
+6. Strong - Powerful.
+7. Honest - Truthful.
+8. Beautiful - Attractive.
+9. Intelligent - Clever.
+10. Generous - Kind.
+
+31.2 ANTONYMS
+1. Accept - Reject.
+2. Ancient - Modern.
+3. Bold - Timid.
+4. Deep - Shallow.
+5. Success - Failure.
+6. Increase - Decrease.
+7. Victory - Defeat.
+8. Permanent - Temporary.
+9. Rich - Poor.
+10. Wise - Foolish.
+
+31.3 ONE-WORD SUBSTITUTION
+1. A person who writes books - Author.
+2. A person who loves mankind - Philanthropist.
+3. A person who studies stars - Astronomer.
+4. A person who cannot read or write - Illiterate.
+5. A place where books are kept - Library.
+6. Life story written by oneself - Autobiography.
+7. Life story written by another - Biography.
+8. A person who is new to a job - Novice.
+9. A person with long experience - Veteran.
+10. A person whose name is not known - Anonymous.
+
+31.4 IDIOMS
+1. Break the ice - To start a conversation.
+2. Once in a blue moon - Very rarely.
+3. A piece of cake - Very easy.
+4. At the eleventh hour - At the last moment.
+5. Burn the midnight oil - To work late.
+6. Smell a rat - To suspect something wrong.
+7. Red-letter day - An important day.
+8. Turn a deaf ear - To ignore.
+9. In hot water - In trouble.
+10. Make both ends meet - To manage with limited money.
+
+==================================================
+UNIT 32: MODEL MULTIPLE CHOICE QUESTIONS
+==================================================
+
+1. Choose the correct synonym of "Abundant":
+(a) Scarce (b) Plentiful (c) Poor (d) Weak
+Answer: (b) Plentiful.
+
+2. Choose the correct antonym of "Ancient":
+(a) Old (b) Modern (c) Antique (d) Past
+Answer: (b) Modern.
+
+3. Choose the correct one-word substitution:
+"A person who loves mankind"
+(a) Misanthrope (b) Philanthropist (c) Optimist (d) Pessimist
+Answer: (b) Philanthropist.
+
+4. Choose the correct meaning of the idiom "Break the ice":
+(a) To break something (b) To start a conversation (c) To feel cold (d) To create trouble
+Answer: (b) To start a conversation.
+
+5. Choose the correct phrasal verb:
+"The meeting was ___ due to heavy rain."
+(a) called off (b) called on (c) called for (d) called up
+Answer: (a) called off.
+
+6. Choose the correctly spelt word:
+(a) Recieve (b) Receive (c) Receeve (d) Receve
+Answer: (b) Receive.
+
+7. Choose the correct punctuation:
+"he said i am busy"
+(a) He said I am busy.
+(b) He said, "I am busy."
+(c) He said: I am busy.
+(d) He said, I am busy.
+Answer: (b) He said, "I am busy."
+
+8. Choose the correct sentence:
+(a) The boys hostel is new.
+(b) The boys' hostel is new.
+(c) The boy's hostel are new.
+(d) The boys hostel's are new.
+Answer: (b) The boys' hostel is new.
+
+9. Combine the sentences:
+"He saw the police. He ran away."
+(a) Seeing the police, he ran away.
+(b) He saw the police and ran away.
+(c) Having seen the police, he ran away.
+(d) All are correct.
+Answer: (d) All are correct.
+
+10. Combine the sentences:
+"He works hard. He wants to pass."
+(a) He works hard to pass.
+(b) Working hard, he passed.
+(c) He works hard, so he passed.
+(d) He wants to pass and works hard.
+Answer: (a) He works hard to pass.
+
+11. Choose the correct synonym of "Candid":
+(a) Secretive (b) Frank (c) Rude (d) Proud
+Answer: (b) Frank.
+
+12. Choose the correct antonym of "Transparent":
+(a) Clear (b) Opaque (c) Bright (d) Thin
+Answer: (b) Opaque.
+
+13. Choose the correct one-word substitution:
+"A person who studies rocks"
+(a) Botanist (b) Geologist (c) Zoologist (d) Archaeologist
+Answer: (b) Geologist.
+
+14. Choose the correct meaning of "Nip in the bud":
+(a) To encourage growth (b) To destroy at an early stage (c) To plant a flower (d) To delay a decision
+Answer: (b) To destroy at an early stage.
+
+15. Choose the correct phrasal verb:
+"I cannot ___ his rude behaviour."
+(a) put off (b) put up with (c) put down (d) put out
+Answer: (b) put up with.
+
+16. Choose the correct homophone:
+"The ship sailed across the ___."
+(a) see (b) sea (c) si (d) sey
+Answer: (b) sea.
+
+17. Choose the correct word:
+"He gave me a valuable piece of ___."
+(a) advise (b) advice (c) adviseing (d) advices
+Answer: (b) advice.
+
+18. Choose the correct punctuation:
+"may i come in sir"
+(a) May I come in sir?
+(b) May I come in, sir?
+(c) May i come in Sir?
+(d) may I come in, sir?
+Answer: (b) May I come in, sir?
+
+19. Combine the sentences:
+"The man came here. He is my uncle."
+(a) The man came here and he is my uncle.
+(b) The man who came here is my uncle.
+(c) The man, who came here, is my uncle.
+(d) All are correct.
+Answer: (d) All are correct.
+
+20. Choose the correct synonym of "Obsolete":
+(a) Modern (b) Outdated (c) Useful (d) New
+Answer: (b) Outdated.
+
+==================================================
+UNIT 33: FINAL REVISION
+==================================================
+
+SENTENCE SYNTHESIS:
+1. Use present participle for simultaneous actions.
+2. Use perfect participle for an action completed before another.
+3. Use infinitive to show purpose.
+4. Use gerund after prepositions.
+5. Use conjunctions such as and, but, or, so, because, though, if.
+6. Use relative pronouns such as who, which, that and whose.
+7. Do not change the meaning while combining sentences.
+
+PUNCTUATION:
+1. Full stop ends a statement.
+2. Comma separates words, phrases and clauses.
+3. Question mark ends a direct question.
+4. Exclamation mark expresses strong emotion.
+5. Colon introduces a list or explanation.
+6. Semicolon joins closely related main clauses.
+7. Apostrophe shows possession or omission.
+8. Quotation marks enclose exact spoken words.
+9. Hyphen joins compound words.
+10. Capital letters begin sentences and proper nouns.
+
+VOCABULARY:
+1. Synonyms are words with similar meanings.
+2. Antonyms are words with opposite meanings.
+3. One-word substitution replaces a phrase with one word.
+4. Idioms have figurative meanings.
+5. Phrasal verbs combine verbs with prepositions or adverbs.
+6. Homophones have the same sound but different meanings.
+7. Prefixes are added before a word.
+8. Suffixes are added after a word.
+9. Correct spelling is essential in TNPSC.
+10. Learn vocabulary through examples and repeated revision.

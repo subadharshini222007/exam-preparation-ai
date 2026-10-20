@@ -1,0 +1,364 @@
+---
+
+# 📘 UNION GOVERNMENT OF INDIA
+
+---
+
+# 🟢 INTRODUCTION TO UNION GOVERNMENT
+
+The Union Government of India is the central governing authority established by the Constitution of India. It operates under a parliamentary system of governance where the executive is responsible to the legislature. The Union Government consists of three main organs: the Executive, the Legislature, and the Judiciary. The executive power of the Union is vested in the President, but real executive authority is exercised by the Prime Minister and the Council of Ministers. The Union Government is responsible for matters of national importance such as defense, foreign affairs, currency, communication, and interstate relations.
+
+---
+
+# 🟡 ARTICLE 52 – PRESIDENT OF INDIA
+
+The President of India is the constitutional head of the Union Executive and the first citizen of the country. Article 52 states that there shall be a President of India. The President occupies a ceremonial position but plays a very important constitutional role in maintaining the stability of the parliamentary system.
+
+The President is elected indirectly by an electoral college consisting of elected members of both Houses of Parliament and elected members of State Legislative Assemblies. The election is conducted through proportional representation by a single transferable vote system, ensuring fairness and representation.
+
+The President holds office for a term of five years and is eligible for re-election. The office of the President symbolizes unity, integrity, and continuity of the nation.
+
+---
+
+## 🟡 POWERS OF THE PRESIDENT
+
+The President of India enjoys wide-ranging powers classified into executive, legislative, judicial, military, diplomatic, and emergency powers.
+
+---
+
+## 🔵 1. EXECUTIVE POWERS
+
+The President appoints the Prime Minister, Council of Ministers, Governors, Supreme Court and High Court judges, Election Commission, and other constitutional authorities. However, these appointments are made on the advice of the Council of Ministers, making the President a constitutional head rather than a real executive authority.
+
+The President also ensures that all executive actions of the government are carried out in accordance with the Constitution.
+
+---
+
+## 🔵 2. LEGISLATIVE POWERS
+
+The President is an integral part of the Parliament. No bill becomes law without the President’s assent. The President summons and prorogues Parliament sessions and can dissolve the Lok Sabha. The President can also issue ordinances under Article 123 when Parliament is not in session.
+
+Ordinances have the force of law but must be approved by Parliament within six weeks of reassembly.
+
+---
+
+## 🔵 3. JUDICIAL POWERS
+
+The President has the power to grant pardons, reprieves, respites, and remissions of punishment under Article 72. These powers are used in cases involving court sentences, especially death penalties. This ensures justice and mercy within the legal system.
+
+---
+
+## 🔵 4. MILITARY POWERS
+
+The President is the Supreme Commander of the Armed Forces of India. The President appoints the chiefs of Army, Navy, and Air Force. However, actual decisions regarding defense are taken by the Cabinet.
+
+---
+
+## 🔵 5. DIPLOMATIC POWERS
+
+The President represents India in international affairs. Foreign ambassadors are accredited to the President. International treaties and agreements are made in the President’s name.
+
+---
+
+## 🔴 EMERGENCY POWERS OF THE PRESIDENT
+
+The President has the authority to declare three types of emergencies:
+
+---
+
+## ⚫ 1. NATIONAL EMERGENCY (Article 352)
+
+Declared during war, external aggression, or armed rebellion. During this period, the central government becomes extremely powerful, and fundamental rights can be suspended.
+
+---
+
+## ⚫ 2. STATE EMERGENCY (Article 356)
+
+Also called President’s Rule. It is imposed when a state government fails to function according to constitutional provisions. The state administration comes under the direct control of the President.
+
+---
+
+## ⚫ 3. FINANCIAL EMERGENCY (Article 360)
+
+Declared when the financial stability of India is threatened. During this, the President can reduce salaries of government officials and control financial decisions of states.
+
+---
+
+# 🟣 ARTICLE 74 – COUNCIL OF MINISTERS
+
+Article 74 states that there shall be a Council of Ministers headed by the Prime Minister to aid and advise the President. The President is bound by this advice in normal circumstances.
+
+This establishes the **real executive authority of India** in the hands of the Prime Minister and Cabinet.
+
+---
+
+# 🟠 PRIME MINISTER OF INDIA (ARTICLE 75)
+
+The Prime Minister is the real executive head of the government. Although the President is the constitutional head, the Prime Minister exercises actual executive powers.
+
+The Prime Minister is appointed by the President, but must have majority support in the Lok Sabha. The Prime Minister leads the Council of Ministers, coordinates government policies, and acts as the link between the President and the Cabinet.
+
+---
+
+## 🟣 POWERS AND FUNCTIONS OF PRIME MINISTER
+
+The Prime Minister plays a central role in governance and policy-making.
+
+### 1. Formation of Cabinet
+
+The Prime Minister selects ministers and allocates departments.
+
+### 2. Policy Leadership
+
+The Prime Minister formulates national policies and ensures their implementation.
+
+### 3. Coordination Role
+
+The Prime Minister coordinates between different ministries.
+
+### 4. Parliamentary Leadership
+
+The Prime Minister leads the majority party in Lok Sabha and guides legislative business.
+
+### 5. Foreign Relations
+
+The Prime Minister represents India in international summits and diplomatic meetings.
+
+---
+
+# 🔵 COUNCIL OF MINISTERS
+
+The Council of Ministers consists of Cabinet Ministers, Ministers of State, and Deputy Ministers. They are collectively responsible to the Lok Sabha.
+
+---
+
+## 🔵 COLLECTIVE RESPONSIBILITY
+
+One of the most important principles of parliamentary democracy is collective responsibility. If the Lok Sabha passes a vote of no confidence, the entire Council of Ministers must resign.
+
+---
+
+# ⚖️ PARLIAMENTARY SYSTEM IN INDIA
+
+India follows a parliamentary form of government where:
+
+* Executive is responsible to Legislature
+* Prime Minister is real executive
+* President is nominal executive
+
+This ensures accountability and democratic governance.
+
+---
+
+# 🔥 QUICK REVISION POINTS
+
+* Article 52 → President
+* Article 74 → Council of Ministers
+* Article 75 → Prime Minister
+* Article 352 → National Emergency
+* Article 356 → President’s Rule
+* Article 360 → Financial Emergency
+
+---
+
+
+## PARLIAMENT, LAW MAKING & CONSTITUTIONAL PROCESS
+
+---
+
+# 🟡 PARLIAMENT OF INDIA (ARTICLES 79–122)
+
+The Parliament of India is the supreme legislative authority of the Union Government. It represents the will of the people and is responsible for making laws, controlling the executive, and ensuring financial accountability. According to Article 79, the Parliament consists of three parts: the President of India, the Lok Sabha (House of the People), and the Rajya Sabha (Council of States). Parliament plays a central role in the functioning of Indian democracy.
+
+The Parliament operates on the principle of parliamentary sovereignty in law-making, but within the limits of the Constitution.
+
+---
+
+# 🟢 LOK SABHA (HOUSE OF THE PEOPLE)
+
+The Lok Sabha is the lower house of Parliament and represents the people directly. Members of the Lok Sabha are elected through direct elections based on universal adult franchise. The maximum strength is 552 members. The term of Lok Sabha is five years unless dissolved earlier.
+
+### KEY FEATURES:
+
+* Directly elected house
+* Represents citizens of India
+* More powerful in financial matters
+* Can remove government through no-confidence motion
+
+### IMPORTANT ROLE:
+
+Lok Sabha controls the executive and plays a decisive role in forming the government. The Council of Ministers remains in power only as long as it enjoys majority support in the Lok Sabha.
+
+---
+
+# 🟣 RAJYA SABHA (COUNCIL OF STATES)
+
+The Rajya Sabha is the upper house of Parliament and represents the states of India. It is a permanent body and cannot be dissolved. One-third of its members retire every two years. The maximum strength is 250 members.
+
+### KEY FEATURES:
+
+* Represents states
+* Permanent house
+* Acts as revising chamber
+* Cannot be dissolved
+
+### ROLE:
+
+Rajya Sabha acts as a check on hasty legislation passed by Lok Sabha and ensures federal balance in the Union Government.
+
+---
+
+# ⚖️ COMPARISON: LOK SABHA VS RAJYA SABHA
+
+| Feature     | Lok Sabha           | Rajya Sabha   |
+| ----------- | ------------------- | ------------- |
+| Type        | Lower House         | Upper House   |
+| Election    | Direct              | Indirect      |
+| Term        | 5 years             | Permanent     |
+| Power       | More powerful       | Revising role |
+| Money Bills | Has final authority | Limited power |
+
+---
+
+# 🟠 LAW MAKING PROCESS IN INDIA (VERY IMPORTANT)
+
+The law-making process in India is a structured constitutional procedure through which a bill becomes an Act of Parliament. A bill is a proposed law introduced in either House of Parliament.
+
+---
+
+## 🟡 TYPES OF BILLS
+
+1. Ordinary Bill
+2. Money Bill
+3. Financial Bill
+4. Constitutional Amendment Bill
+
+---
+
+## 🟢 STEP-BY-STEP LAW MAKING PROCESS
+
+### 1. INTRODUCTION OF BILL
+
+A bill is introduced in either Lok Sabha or Rajya Sabha by a minister or private member.
+
+### 2. FIRST READING
+
+Only the title and objectives of the bill are presented.
+
+### 3. SECOND READING
+
+Detailed discussion and clause-by-clause analysis takes place. This is the most important stage.
+
+### 4. COMMITTEE STAGE
+
+Bill is referred to a parliamentary committee for detailed examination and recommendations.
+
+### 5. THIRD READING
+
+Final discussion and voting on the bill takes place.
+
+### 6. PASSAGE IN SECOND HOUSE
+
+The bill is sent to the other house for approval.
+
+### 7. PRESIDENT’S ASSENT
+
+After approval from both houses, the bill is sent to the President. Once the President gives assent, it becomes law.
+
+---
+
+## 🔴 MONEY BILL SPECIAL PROCESS
+
+Money Bills can only be introduced in Lok Sabha. Rajya Sabha can only recommend changes but cannot reject the bill. The final decision lies with Lok Sabha.
+
+---
+
+# 🟣 SPEAKER OF LOK SABHA
+
+The Speaker is the presiding officer of the Lok Sabha. The Speaker is elected by members of the Lok Sabha and remains in office until the house is dissolved.
+
+### POWERS OF SPEAKER:
+
+* Maintains order in House
+* Decides agenda of proceedings
+* Interprets parliamentary rules
+* Certifies Money Bills
+* Allows debates and voting
+
+The Speaker plays a neutral role and ensures smooth functioning of Parliament.
+
+---
+
+# 🔵 PARLIAMENTARY COMMITTEES
+
+Parliamentary Committees are small groups of Members of Parliament formed to examine bills and policies in detail. They ensure efficiency and expertise in legislative work.
+
+---
+
+## 🟡 TYPES OF COMMITTEES
+
+### 1. STANDING COMMITTEES
+
+Permanent committees that work throughout the year.
+
+### 2. AD HOC COMMITTEES
+
+Temporary committees formed for specific tasks.
+
+---
+
+## 🟢 IMPORTANT COMMITTEES
+
+* Public Accounts Committee (PAC)
+* Estimates Committee
+* Committee on Public Undertakings
+* Departmental Standing Committees
+
+---
+
+## 🔴 IMPORTANCE OF COMMITTEES
+
+* Reduces workload of Parliament
+* Provides expert analysis
+* Improves quality of legislation
+* Ensures executive accountability
+
+---
+
+# 🔥 ADVANCED CONSTITUTIONAL CONTROL
+
+Parliament also controls the executive through:
+
+* Question Hour
+* Zero Hour
+* Debates and discussions
+* No-confidence motion
+* Budget approval
+
+---
+
+# ⚡ EMERGENCY & PARLIAMENT CONTROL LINK
+
+During National Emergency:
+
+* Parliament gains extended powers
+* Federal structure becomes unitary
+* Fundamental Rights may be restricted
+
+During President’s Rule:
+
+* State legislature is suspended
+* Parliament governs state indirectly
+
+---
+
+# 📌 QUICK REVISION POINTS
+
+* Article 79 → Parliament structure
+* Lok Sabha → Lower House
+* Rajya Sabha → Upper House
+* Bill → becomes Act after President assent
+* Speaker → controls Lok Sabha
+* Committees → detailed law analysis
+
+---

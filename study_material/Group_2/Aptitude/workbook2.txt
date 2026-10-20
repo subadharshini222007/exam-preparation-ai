@@ -1,0 +1,473 @@
+# TNPSC GROUP 2 – APTITUDE
+
+## PART 2: PRACTICE WORKBOOK – 50 MCQs
+
+**Q1.** Find the average of 18, 24, 30, 36 and 42.
+
+A) 28
+B) 30
+C) 32
+D) 34
+
+**Q2.** The average of 12 numbers is 25. Find their total sum.
+
+A) 250
+B) 275
+C) 300
+D) 325
+
+**Q3.** The average age of 20 students is 16 years. If a teacher aged 36 years joins them, what is the new average age?
+
+A) 16 years
+B) 16.5 years
+C) 17 years
+D) 18 years
+
+**Q4.** The average of the first 30 natural numbers is:
+
+A) 15
+B) 15.5
+C) 16
+D) 30
+
+**Q5.** The average of 8 numbers is 35. If one number, 28, is replaced by 44, what is the new average?
+
+A) 35
+B) 36
+C) 37
+D) 38
+
+**Q6.** The average marks of 25 students is 60 and that of another 15 students is 70. Find the average marks of all 40 students.
+
+A) 62.5
+B) 63
+C) 63.75
+D) 65
+
+**Q7.** The average of five consecutive odd numbers is 31. Find the largest number.
+
+A) 33
+B) 35
+C) 37
+D) 39
+
+**Q8.** The average of 10 numbers is 24. If one number was wrongly recorded as 18 instead of 28, find the correct average.
+
+A) 24
+B) 25
+C) 26
+D) 28
+
+**Q9.** A car travels equal distances at 40 km/h and 60 km/h. Find its average speed.
+
+A) 45 km/h
+B) 48 km/h
+C) 50 km/h
+D) 52 km/h
+
+**Q10.** The average weight of 12 students is 45 kg. If a student weighing 57 kg leaves, find the average weight of the remaining students.
+
+A) 43 kg
+B) 44 kg
+C) 45 kg
+D) 46 kg
+
+**Q11.** The average of the first 15 even natural numbers is:
+
+A) 15
+B) 16
+C) 17
+D) 30
+
+**Q12.** The average marks in 6 subjects is 75. If the total marks in five subjects are 360, find the marks in the sixth subject.
+
+A) 80
+B) 85
+C) 90
+D) 95
+
+**Q13.** A batsman scores 45, 60, 75, 30 and 90 runs in five innings. Find his average score.
+
+A) 55
+B) 60
+C) 65
+D) 70
+
+==================================================
+TOPIC 2: PROFIT AND LOSS
+QUESTIONS 14–26
+===============
+
+**Q14.** An article is purchased for ₹800 and sold for ₹920. Find the profit percentage.
+
+A) 10%
+B) 12%
+C) 15%
+D) 20%
+
+**Q15.** An article costing ₹1,200 is sold at a loss of 15%. Find its selling price.
+
+A) ₹980
+B) ₹1,000
+C) ₹1,020
+D) ₹1,050
+
+**Q16.** An article is sold for ₹1,440 at a profit of 20%. Find its cost price.
+
+A) ₹1,100
+B) ₹1,150
+C) ₹1,200
+D) ₹1,250
+
+**Q17.** The marked price of a bag is ₹2,500. A discount of 12% is given. Find the selling price.
+
+A) ₹2,100
+B) ₹2,150
+C) ₹2,200
+D) ₹2,250
+
+**Q18.** Find the single discount equivalent to successive discounts of 20% and 15%.
+
+A) 30%
+B) 32%
+C) 35%
+D) 38%
+
+**Q19.** A shopkeeper marks an article 40% above its cost price and gives a discount of 10%. Find his profit percentage.
+
+A) 20%
+B) 24%
+C) 26%
+D) 30%
+
+**Q20.** Two articles are sold for ₹900 each. One is sold at a profit of 20% and the other at a loss of 20%. Find the overall result.
+
+A) No profit, no loss
+B) 2% loss
+C) 4% loss
+D) 4% profit
+
+**Q21.** A dealer uses a weight of 800 g instead of 1 kg but charges the price of 1 kg. If he sells at the cost price per kilogram, find his gain percentage.
+
+A) 20%
+B) 25%
+C) 22.5%
+D) 30%
+
+**Q22.** A trader buys 15 articles for ₹300 and sells each article for ₹25. Find his profit percentage.
+
+A) 20%
+B) 25%
+C) 30%
+D) 35%
+
+**Q23.** A bicycle is purchased for ₹4,000. The repair cost is ₹500. It is sold for ₹5,400. Find the profit percentage.
+
+A) 15%
+B) 18%
+C) 20%
+D) 25%
+
+**Q24.** An article is sold for ₹720 at a loss of 10%. Find its cost price.
+
+A) ₹760
+B) ₹780
+C) ₹800
+D) ₹820
+
+**Q25.** A shopkeeper buys an article at a discount of 25% on its marked price and sells it at the marked price. Find his profit percentage on the amount paid.
+
+A) 25%
+B) 30%
+C) 33⅓%
+D) 40%
+
+**Q26.** An article costing ₹1,500 is sold for ₹1,800. If the selling price is reduced to ₹1,650, what is the new profit percentage?
+
+A) 5%
+B) 10%
+C) 12%
+D) 15%
+
+==================================================
+TOPIC 3: TIME AND WORK
+QUESTIONS 27–38
+===============
+
+**Q27.** A can complete a work in 15 days and B can complete it in 10 days. How many days will they take working together?
+
+A) 5 days
+B) 6 days
+C) 7 days
+D) 8 days
+
+**Q28.** A can complete a work in 18 days. B can complete the same work in 36 days. How long will they take together?
+
+A) 10 days
+B) 12 days
+C) 14 days
+D) 15 days
+
+**Q29.** 12 men can complete a work in 20 days. How many days will 15 men take to complete the same work?
+
+A) 12 days
+B) 14 days
+C) 16 days
+D) 18 days
+
+**Q30.** A and B together complete a work in 8 days. A alone can complete it in 12 days. How many days will B alone take?
+
+A) 18 days
+B) 20 days
+C) 24 days
+D) 30 days
+
+**Q31.** A can complete a work in 20 days. B is twice as efficient as A. How many days will B take to complete the work alone?
+
+A) 5 days
+B) 10 days
+C) 15 days
+D) 40 days
+
+**Q32.** 10 men working 8 hours per day complete a work in 12 days. How many days will 16 men working 6 hours per day take to complete the same work?
+
+A) 8 days
+B) 10 days
+C) 12 days
+D) 15 days
+
+**Q33.** A can complete a work in 12 days and B in 18 days. They work together for 4 days. What fraction of the work remains?
+
+A) ⅓
+B) ½
+C) ⅔
+D) ¾
+
+**Q34.** A and B can complete a work in 10 days and 15 days respectively. If they receive ₹2,500 for completing the work together, find A's share of the wages.
+
+A) ₹1,000
+B) ₹1,250
+C) ₹1,500
+D) ₹1,750
+
+**Q35.** 8 men can complete a work in 15 days. After working for 5 days, how many more days will they need to finish the remaining work, assuming the same rate?
+
+A) 5 days
+B) 8 days
+C) 10 days
+D) 12 days
+
+**Q36.** Pipe A fills a tank in 12 hours and Pipe B fills it in 6 hours. How long will they take together?
+
+A) 3 hours
+B) 4 hours
+C) 5 hours
+D) 6 hours
+
+**Q37.** A pipe fills a tank in 8 hours, while a leak empties the full tank in 24 hours. If both are open, how long will it take to fill the tank?
+
+A) 10 hours
+B) 12 hours
+C) 14 hours
+D) 16 hours
+
+**Q38.** A can complete a work in 24 days and B in 8 days. If B works alone for 2 days, what fraction of the work is completed?
+
+A) ¼
+B) ⅓
+C) ½
+D) ¾
+
+==================================================
+TOPIC 4: TIME, SPEED AND DISTANCE
+QUESTIONS 39–50
+===============
+
+**Q39.** A bus covers 315 km in 5 hours. Find its average speed.
+
+A) 55 km/h
+B) 60 km/h
+C) 63 km/h
+D) 65 km/h
+
+**Q40.** Convert 90 km/h into metres per second.
+
+A) 20 m/s
+B) 22.5 m/s
+C) 25 m/s
+D) 30 m/s
+
+**Q41.** A person travels equal distances at 30 km/h and 50 km/h. Find the average speed.
+
+A) 35 km/h
+B) 37.5 km/h
+C) 40 km/h
+D) 42 km/h
+
+**Q42.** A train 180 m long crosses a pole in 12 seconds. Find its speed in km/h.
+
+A) 45 km/h
+B) 50 km/h
+C) 54 km/h
+D) 60 km/h
+
+**Q43.** A train 150 m long travels at 54 km/h. How long will it take to cross a platform 250 m long?
+
+A) 20 seconds
+B) 24 seconds
+C) 26⅔ seconds
+D) 30 seconds
+
+**Q44.** Two persons start from places 120 km apart and move towards each other at 40 km/h and 20 km/h. After how many hours will they meet?
+
+A) 1 hour
+B) 2 hours
+C) 2.5 hours
+D) 3 hours
+
+**Q45.** The speed of a boat in still water is 12 km/h and the speed of the stream is 3 km/h. Find its upstream speed.
+
+A) 8 km/h
+B) 9 km/h
+C) 12 km/h
+D) 15 km/h
+
+**Q46.** A boat travels 36 km downstream in 3 hours. If the speed of the stream is 2 km/h, find the speed of the boat in still water.
+
+A) 8 km/h
+B) 10 km/h
+C) 12 km/h
+D) 14 km/h
+
+**Q47.** Two trains of lengths 120 m and 180 m move in opposite directions at 36 km/h and 54 km/h. How long will they take to cross each other?
+
+A) 10 seconds
+B) 12 seconds
+C) 15 seconds
+D) 18 seconds
+
+**Q48.** A person walks at ¾ of his usual speed and reaches his destination 20 minutes late. Find his usual travel time.
+
+A) 40 minutes
+B) 45 minutes
+C) 60 minutes
+D) 80 minutes
+
+**Q49.** A car covers a distance at 60 km/h and returns over the same distance at 40 km/h. Find the average speed for the entire journey.
+
+A) 45 km/h
+B) 48 km/h
+C) 50 km/h
+D) 52 km/h
+
+**Q50.** A runs 200 m in 25 seconds, while B runs 200 m in 20 seconds. By how many metres does B beat A in a 200 m race?
+
+A) 20 m
+B) 30 m
+C) 40 m
+D) 50 m
+
+==================================================
+ANSWER KEY
+==========
+
+1. B — 30
+
+2. C — 300
+
+3. C — 17 years
+
+4. B — 15.5
+
+5. B — 37
+
+6. C — 63.75
+
+7. B — 35
+
+8. B — 25
+
+9. B — 48 km/h
+
+10. B — 44 kg
+
+11. B — 16
+
+12. C — 90
+
+13. B — 60
+
+14. C — 15%
+
+15. C — ₹1,020
+
+16. C — ₹1,200
+
+17. C — ₹2,200
+
+18. B — 32%
+
+19. C — 26%
+
+20. C — 4% loss
+
+21. B — 25%
+
+22. B — 25%
+
+23. C — 20%
+
+24. C — ₹800
+
+25. C — 33⅓%
+
+26. B — 10%
+
+27. B — 6 days
+
+28. B — 12 days
+
+29. C — 16 days
+
+30. C — 24 days
+
+31. B — 10 days
+
+32. B — 10 days
+
+33. B — ½
+
+34. C — ₹1,500
+
+35. C — 10 days
+
+36. B — 4 hours
+
+37. B — 12 hours
+
+38. B — ¼
+
+39. C — 63 km/h
+
+40. C — 25 m/s
+
+41. B — 37.5 km/h
+
+42. C — 54 km/h
+
+43. C — 26⅔ seconds
+
+44. B — 2 hours
+
+45. B — 9 km/h
+
+46. B — 10 km/h
+
+47. B — 12 seconds
+
+48. C — 60 minutes
+
+49. B — 48 km/h
+
+50. C — 40 m
+

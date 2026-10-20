@@ -1,0 +1,1034 @@
+
+==================================================
+PART A: READING COMPREHENSION
+==================================================
+
+==================================================
+UNIT 1: INTRODUCTION TO READING COMPREHENSION
+==================================================
+
+1.1 MEANING
+Reading comprehension means understanding a written passage and answering questions based on it.
+
+A comprehension passage may test:
+1. Main idea.
+2. Supporting details.
+3. Meaning of words and phrases.
+4. Inference.
+5. Tone and attitude of the writer.
+6. Purpose of the passage.
+7. Logical conclusion.
+
+1.2 TYPES OF COMPREHENSION QUESTIONS
+1. Factual questions - answers are directly stated in the passage.
+2. Vocabulary questions - ask the meaning of a word or phrase.
+3. Inference questions - answers are not directly stated but can be understood.
+4. Main idea questions - ask the central theme of the passage.
+5. Title questions - ask the most suitable title.
+6. Tone questions - ask whether the writer is critical, supportive, neutral, humorous or sarcastic.
+7. Application questions - ask the candidate to apply the idea to a new situation.
+
+==================================================
+UNIT 2: STEPS TO ANSWER COMPREHENSION
+==================================================
+
+2.1 STEP 1: READ THE QUESTIONS FIRST
+Read the questions before reading the passage. This helps to identify what information is required.
+
+2.2 STEP 2: READ THE PASSAGE CAREFULLY
+Read the passage once for general understanding. Read difficult parts again.
+
+2.3 STEP 3: IDENTIFY THE MAIN IDEA
+The main idea is usually found in:
+1. The first sentence.
+2. The last sentence.
+3. The repeated idea.
+4. The sentence that summarises the passage.
+
+2.4 STEP 4: LOCATE KEYWORDS
+Find words in the questions and locate the same or similar words in the passage.
+
+2.5 STEP 5: ANSWER FROM THE PASSAGE
+Do not answer based only on personal opinion. Use information given in the passage.
+
+2.6 STEP 6: CHECK ALL OPTIONS
+Eliminate options that are:
+1. Not mentioned in the passage.
+2. Opposite to the passage.
+3. Too broad or too narrow.
+4. Partly correct but incomplete.
+
+==================================================
+UNIT 3: MAIN IDEA AND TITLE
+==================================================
+
+3.1 MAIN IDEA
+The main idea is the central point of the passage.
+
+Example:
+Passage:
+"Trees give us oxygen, shade, fruits and wood. They prevent soil erosion and provide shelter to birds and animals. Therefore, planting trees is essential for a healthy environment."
+
+Main idea:
+"Trees are essential for human beings and the environment."
+
+3.2 SUITABLE TITLE
+A good title should be short, clear and cover the whole passage.
+
+Examples:
+1. Passage about the benefits of trees:
+   Title: "Importance of Trees".
+
+2. Passage about water pollution and its effects:
+   Title: "Water Pollution and Its Effects".
+
+3. Passage about the need to save electricity:
+   Title: "Need for Energy Conservation".
+
+4. Passage about the role of youth in nation-building:
+   Title: "Role of Youth in Nation-Building".
+
+5. Passage about the benefits of reading:
+   Title: "Benefits of Reading".
+
+==================================================
+UNIT 4: FACTUAL AND INFERENCE QUESTIONS
+==================================================
+
+4.1 FACTUAL QUESTIONS
+Factual questions have direct answers in the passage.
+
+Example:
+Passage:
+"Ravi went to Chennai on Monday. He attended an interview and returned on Wednesday."
+
+Question: "When did Ravi go to Chennai?"
+Answer: "On Monday."
+
+Question: "Why did he go to Chennai?"
+Answer: "To attend an interview."
+
+4.2 INFERENCE QUESTIONS
+Inference questions require logical understanding of the passage.
+
+Example:
+Passage:
+"Ravi reached the station five minutes after the train left. He looked disappointed."
+
+Question: "What can be inferred?"
+Answer: "Ravi missed the train."
+
+Example:
+Passage:
+"The river was polluted, and many fish were found dead near the factory."
+
+Question: "What can be inferred?"
+Answer: "The factory may have caused pollution."
+
+==================================================
+UNIT 5: VOCABULARY IN COMPREHENSION
+==================================================
+
+5.1 FINDING WORD MEANING
+The meaning of a difficult word can often be understood from:
+1. The words before and after it.
+2. Examples given in the passage.
+3. The general sense of the sentence.
+
+Example:
+"The scientist made a significant discovery, which changed the way people understood the disease."
+
+Here, "significant" means "important".
+
+Example:
+"The village was remote; it was far away from the city and difficult to reach."
+
+Here, "remote" means "far away".
+
+5.2 COMMON WORDS IN COMPREHENSION
+1. Essential - necessary.
+2. Significant - important.
+3. Beneficial - helpful.
+4. Harmful - damaging.
+5. Decline - decrease.
+6. Increase - grow.
+7. Preserve - protect.
+8. Conserve - save.
+9. Promote - encourage.
+10. Reduce - lessen.
+
+==================================================
+UNIT 6: TONE AND PURPOSE
+==================================================
+
+6.1 TONE
+Tone is the writer's attitude.
+
+Common tones:
+1. Informative - gives facts.
+2. Critical - finds fault.
+3. Supportive - praises or encourages.
+4. Neutral - does not take sides.
+5. Humorous - funny.
+6. Sarcastic - says the opposite of what is meant.
+7. Persuasive - tries to convince.
+8. Warning - alerts about danger.
+
+Examples:
+1. "Plastic waste is destroying our rivers and oceans." - Warning tone.
+2. "The government has introduced several useful schemes." - Supportive tone.
+3. "Some officials make tall promises but do little work." - Critical tone.
+4. "The report presents data on rainfall from 2010 to 2020." - Informative tone.
+
+6.2 PURPOSE
+The purpose is the reason for writing the passage.
+
+Common purposes:
+1. To inform.
+2. To explain.
+3. To persuade.
+4. To warn.
+5. To describe.
+6. To entertain.
+7. To compare.
+8. To analyse.
+
+Example:
+"Plant trees, save water and avoid plastic to protect the environment."
+Purpose: To persuade readers to protect the environment.
+
+==================================================
+UNIT 7: MODEL COMPREHENSION PASSAGE 1
+==================================================
+
+PASSAGE:
+Water is essential for all living beings. However, freshwater is limited. Only about three percent of the world's water is freshwater, and most of it is stored in glaciers and ice caps. Due to population growth, urbanisation and climate change, the demand for water is increasing. Many regions face water scarcity. Therefore, rainwater harvesting, recycling of wastewater and efficient irrigation methods are necessary. Every individual should use water carefully and avoid wastage.
+
+QUESTIONS:
+1. What is the main idea of the passage?
+   Answer: Water is essential but limited, so it must be conserved.
+
+2. What percentage of the world's water is freshwater?
+   Answer: About three percent.
+
+3. Where is most freshwater stored?
+   Answer: In glaciers and ice caps.
+
+4. What are the causes of increasing water demand?
+   Answer: Population growth, urbanisation and climate change.
+
+5. Suggest a suitable title.
+   Answer: "Need for Water Conservation".
+
+==================================================
+UNIT 8: MODEL COMPREHENSION PASSAGE 2
+==================================================
+
+PASSAGE:
+Reading books improves vocabulary, concentration and imagination. It helps students understand different subjects and develop critical thinking. Unlike short videos, books require sustained attention and encourage deep thinking. Reading also reduces stress and improves language skills. Therefore, students should develop the habit of reading newspapers, magazines and books regularly.
+
+QUESTIONS:
+1. What are the benefits of reading books?
+   Answer: It improves vocabulary, concentration, imagination, critical thinking and language skills.
+
+2. How is reading different from watching short videos?
+   Answer: Reading requires sustained attention and encourages deep thinking.
+
+3. What should students read regularly?
+   Answer: Newspapers, magazines and books.
+
+4. What is the tone of the passage?
+   Answer: Supportive and persuasive.
+
+5. Suggest a suitable title.
+   Answer: "Benefits of Reading".
+
+==================================================
+UNIT 9: PRACTICE QUESTIONS - COMPREHENSION
+==================================================
+
+1. What should be done first while answering comprehension?
+   Answer: Read the questions and then the passage carefully.
+
+2. What is the main idea?
+   Answer: The central point of the passage.
+
+3. What is an inference?
+   Answer: A conclusion understood from the passage, though not directly stated.
+
+4. What is tone?
+   Answer: The writer's attitude towards the subject.
+
+5. What is the purpose of a passage?
+   Answer: The reason for which the passage is written.
+
+6. What type of question has a direct answer in the passage?
+   Answer: Factual question.
+
+7. What type of question asks for the central theme?
+   Answer: Main idea question.
+
+8. What should a suitable title be?
+   Answer: Short, clear and related to the whole passage.
+
+9. What should be avoided while answering comprehension?
+   Answer: Personal opinion not supported by the passage.
+
+10. What helps to find the meaning of a difficult word?
+    Answer: Context clues in the sentence.
+
+==================================================
+PART B: TRANSLATION
+==================================================
+
+==================================================
+UNIT 10: INTRODUCTION TO TRANSLATION
+==================================================
+
+10.1 MEANING
+Translation is the process of expressing the meaning of a sentence or passage from one language into another without changing its meaning.
+
+In TNPSC, translation may involve:
+1. Tamil to English.
+2. English to Tamil.
+3. Translation of simple sentences.
+4. Translation of proverbs.
+5. Translation of official or general expressions.
+
+10.2 BASIC PRINCIPLES
+1. Preserve the meaning.
+2. Use correct grammar.
+3. Use natural sentence structure.
+4. Do not translate word by word blindly.
+5. Maintain the tone of the original sentence.
+6. Use appropriate vocabulary.
+
+==================================================
+UNIT 11: TAMIL TO ENGLISH TRANSLATION
+==================================================
+
+11.1 SIMPLE SENTENCES
+1. அவன் ஒரு மருத்துவர்.
+   English: He is a doctor.
+
+2. அவள் சென்னையில் வசிக்கிறாள்.
+   English: She lives in Chennai.
+
+3. நான் தினமும் படிக்கிறேன்.
+   English: I study every day.
+
+4. அவர்கள் நாளை வருவார்கள்.
+   English: They will come tomorrow.
+
+5. மழை பெய்கிறது.
+   English: It is raining.
+
+6. பள்ளி நாளை மூடப்படும்.
+   English: The school will be closed tomorrow.
+
+7. அவன் கடந்த வாரம் மதுரை சென்றான்.
+   English: He went to Madurai last week.
+
+8. அரசு புதிய திட்டத்தை அறிவித்தது.
+   English: The government announced a new scheme.
+
+9. மாணவர்கள் தேர்வுக்கு தயாராகிறார்கள்.
+   English: The students are preparing for the examination.
+
+10. நீரை சிக்கனமாக பயன்படுத்த வேண்டும்.
+    English: Water should be used economically.
+
+11.2 QUESTIONS
+1. நீ எங்கே வசிக்கிறாய்?
+   English: Where do you live?
+
+2. அவன் எப்போது வருவான்?
+   English: When will he come?
+
+3. நீ தமிழ் பேசுகிறாயா?
+   English: Do you speak Tamil?
+
+4. இந்த புத்தகம் யாருடையது?
+   English: Whose book is this?
+
+5. நீங்கள் ஏன் தாமதமாக வந்தீர்கள்?
+   English: Why did you come late?
+
+11.3 NEGATIVE SENTENCES
+1. அவன் வரவில்லை.
+   English: He did not come.
+
+2. அவள் சாப்பிடவில்லை.
+   English: She did not eat.
+
+3. நான் அறியவில்லை.
+   English: I did not know.
+
+4. அவர்கள் வேலை செய்யவில்லை.
+   English: They did not work.
+
+5. அவன் பள்ளிக்கு செல்லவில்லை.
+   English: He did not go to school.
+
+11.4 IMPERATIVE SENTENCES
+1. கதவை மூடு.
+   English: Close the door.
+
+2. சத்தம் படாதே.
+   English: Do not make noise.
+
+3. தயவுசெய்து உதவுங்கள்.
+   English: Please help me.
+
+4. வேலையை முடிக்கவும்.
+   English: Complete the work.
+
+5. இங்கே புகைபிடிக்க வேண்டாம்.
+   English: Do not smoke here.
+
+==================================================
+UNIT 12: ENGLISH TO TAMIL TRANSLATION
+==================================================
+
+12.1 SIMPLE SENTENCES
+1. He is a teacher.
+   Tamil: அவர் ஒரு ஆசிரியர்.
+
+2. She lives in Madurai.
+   Tamil: அவள் மதுரையில் வசிக்கிறாள்.
+
+3. They will come tomorrow.
+   Tamil: அவர்கள் நாளை வருவார்கள்.
+
+4. The sun rises in the east.
+   Tamil: சூரியன் கிழக்கில் உதிக்கிறது.
+
+5. Water is essential for life.
+   Tamil: நீர் வாழ்க்கைக்கு அவசியம்.
+
+6. The government has launched a new scheme.
+   Tamil: அரசு ஒரு புதிய திட்டத்தை அறிவித்துள்ளது.
+
+7. Students should respect their teachers.
+   Tamil: மாணவர்கள் தங்கள் ஆசிரியர்களை மதிக்க வேண்டும்.
+
+8. Trees give us oxygen.
+   Tamil: மரங்கள் எங்களுக்கு ஆக்ஸிஜனை தருகின்றன.
+
+9. We must protect the environment.
+   Tamil: நாம் சுற்றுச்சூழலை பாதுகாக்க வேண்டும்.
+
+10. Hard work leads to success.
+    Tamil: கடின உழைப்பு வெற்றிக்கு வழிவகுக்கும்.
+
+12.2 QUESTIONS
+1. Where do you live?
+   Tamil: நீ எங்கே வசிக்கிறாய்?
+
+2. When will the train arrive?
+   Tamil: ரயில் எப்போது வரும்?
+
+3. Do you know Tamil?
+   Tamil: உங்களுக்குத் தமிழ் தெரியுமா?
+
+4. Why are you late?
+   Tamil: நீ ஏன் தாமதமாக வந்தாய்?
+
+5. Who is your class teacher?
+   Tamil: உன் வகுப்பாசிரியர் யார்?
+
+12.3 NEGATIVE SENTENCES
+1. He did not come.
+   Tamil: அவன் வரவில்லை.
+
+2. She does not know English.
+   Tamil: அவளுக்கு ஆங்கிலம் தெரியாது.
+
+3. They did not complete the work.
+   Tamil: அவர்கள் வேலையை முடிக்கவில்லை.
+
+4. I do not like coffee.
+   Tamil: எனக்கு காபி பிடிக்காது.
+
+5. Do not make noise.
+   Tamil: சத்தம் படாதே.
+
+12.4 IMPERATIVE SENTENCES
+1. Close the door.
+   Tamil: கதவை மூடு.
+
+2. Please help the poor.
+   Tamil: தயவுசெய்து ஏழைகளுக்கு உதவுங்கள்.
+
+3. Do not waste water.
+   Tamil: நீரை வீணாக்காதே.
+
+4. Complete the work today.
+   Tamil: இன்றே வேலையை முடிக்கவும்.
+
+5. Respect your parents.
+   Tamil: பெற்றோரை மதியுங்கள்.
+
+==================================================
+UNIT 13: TRANSLATION OF PROVERBS
+==================================================
+
+1. Tamil: கை கொடுத்தால் வாய் கொடுப்பான்.
+   English: A person who receives help will help in return.
+
+2. Tamil: கற்றது கைமண் அளவு, கல்லாதது உலகளவு.
+   English: What one has learned is only a handful of sand; what one has not learned is as vast as the world.
+
+3. Tamil: யான் பெற்ற இன்பம் பெறுக இவ்வையகம்.
+   English: May all the people of this world enjoy the happiness that I enjoy.
+
+4. Tamil: அறம் செய விரும்பு.
+   English: Desire to do righteous deeds.
+
+5. Tamil: ஈரண்டு வயத்தாரைப் போல் இரு.
+   English: Be like a person of two days' knowledge, always humble and eager to learn.
+
+6. Tamil: கடின உழைப்பு வெற்றியின் திறவுகோல்.
+   English: Hard work is the key to success.
+
+7. Tamil: நேர்மையே சிறந்த கொள்கை.
+   English: Honesty is the best policy.
+
+8. Tamil: ஒன்று கேட்டால் இரண்டு சொல்.
+   English: Give two words in return for one word; be generous in speech.
+
+9. Tamil: அடிக்கடி தாமதிப்பவன் வாய்ப்பை இழப்பான்.
+   English: One who often delays loses opportunities.
+
+10. Tamil: நல்ல நண்பன் சிறந்த சொத்து.
+    English: A good friend is a great asset.
+
+==================================================
+UNIT 14: TRANSLATION OF OFFICIAL EXPRESSIONS
+==================================================
+
+1. விண்ணப்பம் - Application.
+2. அறிவிப்பு - Notification.
+3. ஆணை - Order.
+4. சுற்றறிவிப்பு - Circular.
+5. விளம்பரம் - Advertisement.
+6. வருவாய் துறை - Revenue Department.
+7. கல்வித் துறை - Education Department.
+8. மருத்துவமனை - Hospital.
+9. பொதுமக்கள் - Public.
+10. அரசு ஊழியர் - Government employee.
+11. தேர்வு - Examination.
+12. முடிவுகள் - Results.
+13. விண்ணப்பதாரர் - Applicant.
+14. தகுதி - Qualification.
+15. பணிநியமனம் - Appointment.
+16. பணி நீக்கம் - Dismissal.
+17. பணி இடமாற்றம் - Transfer.
+18. ஓய்வூதியம் - Pension.
+19. நிதிநிலை அறிக்கை - Budget.
+20. திட்டம் - Scheme.
+
+==================================================
+UNIT 15: TRANSLATION PRACTICE
+==================================================
+
+1. அவன் ஒரு நல்ல மாணவன்.
+   English: He is a good student.
+
+2. நான் நாளை சென்னை செல்கிறேன்.
+   English: I am going to Chennai tomorrow.
+
+3. அவள் தமிழில் நன்றாகப் பேசுகிறாள்.
+   English: She speaks Tamil well.
+
+4. மழை பெய்ததால் போட்டி ரத்து செய்யப்பட்டது.
+   English: The match was cancelled because of rain.
+
+5. மாணவர்கள் தேர்வுக்கு தயாராகிக் கொண்டிருக்கிறார்கள்.
+   English: The students are preparing for the examination.
+
+6. நீரை வீணாக்க வேண்டாம்.
+   English: Do not waste water.
+
+7. அரசு புதிய திட்டத்தை அறிவித்தது.
+   English: The government announced a new scheme.
+
+8. கடின உழைப்பு வெற்றியைத் தரும்.
+   English: Hard work will bring success.
+
+9. நீ எப்போது வருவாய்?
+   English: When will you come?
+
+10. இந்த புத்தகம் மிகவும் பயனுள்ளது.
+    English: This book is very useful.
+
+==================================================
+PART C: LITERARY WORKS
+==================================================
+
+==================================================
+UNIT 16: INTRODUCTION TO LITERARY WORKS
+==================================================
+
+16.1 MEANING
+Literary works include poems, short stories, novels, essays, dramas, biographies and autobiographies. In TNPSC General English, questions may be asked about authors, titles, themes, characters and famous lines.
+
+16.2 TYPES OF LITERARY WORKS
+1. Poetry - a literary work written in verse.
+2. Short story - a brief prose narrative.
+3. Novel - a long prose narrative.
+4. Drama - a literary work written to be performed.
+5. Essay - a short prose composition on a subject.
+6. Biography - the life story of a person written by another.
+7. Autobiography - the life story of a person written by himself or herself.
+8. Travelogue - an account of travel.
+9. Memoir - a personal record of experiences.
+10. Speech - a formal address delivered to an audience.
+
+==================================================
+UNIT 17: IMPORTANT ENGLISH POETS AND WORKS
+==================================================
+
+17.1 WILLIAM SHAKESPEARE
+1. Famous works: Macbeth, Hamlet, Othello, King Lear, Romeo and Juliet.
+2. Famous poem: "All the World's a Stage" from "As You Like It".
+3. Known as: The Bard of Avon.
+4. Famous play: "Macbeth" is a tragedy.
+5. Famous line: "To be, or not to be, that is the question" from "Hamlet".
+
+17.2 WILLIAM WORDSWORTH
+1. Famous poem: "Daffodils" or "I Wandered Lonely as a Cloud".
+2. He was a Nature poet.
+3. He belonged to the Romantic Age.
+4. Famous work: "The Prelude".
+5. Famous line: "Ten thousand saw I at a glance."
+
+17.3 JOHN KEATS
+1. Famous poems: "Ode to a Nightingale", "Ode on a Grecian Urn", "La Belle Dame sans Merci".
+2. He belonged to the Romantic Age.
+3. Famous line: "A thing of beauty is a joy for ever."
+
+17.4 P.B. SHELLEY
+1. Famous poems: "Ode to the West Wind", "To a Skylark", "Ozymandias".
+2. He belonged to the Romantic Age.
+3. Famous line: "If Winter comes, can Spring be far behind?"
+
+17.5 ROBERT FROST
+1. Famous poem: "The Road Not Taken".
+2. Other poem: "Stopping by Woods on a Snowy Evening".
+3. Theme of "The Road Not Taken": Choice and its consequences.
+4. Famous line: "Two roads diverged in a wood, and I took the one less travelled by."
+
+17.6 RABINDRANATH TAGORE
+1. Famous work: "Gitanjali".
+2. He received the Nobel Prize for Literature in 1913.
+3. He wrote the national anthems of India and Bangladesh.
+4. Famous poem: "Where the Mind is Without Fear".
+5. National anthem of India: "Jana Gana Mana".
+
+17.7 SUBRAMANIA BHARATHI
+1. Famous work: "Our Mother" and patriotic poems.
+2. He was a Tamil poet and freedom fighter.
+3. He wrote about nationalism, women's rights and social reform.
+4. He is known as Mahakavi Bharathiyar.
+5. His works inspired the Indian freedom movement.
+
+==================================================
+UNIT 18: IMPORTANT PROSE WRITERS AND WORKS
+==================================================
+
+18.1 CHARLES LAMB
+1. Famous work: "Essays of Elia".
+2. Famous essay: "Dream Children: A Reverie".
+3. He was an English essayist.
+4. His essays are personal and humorous.
+
+18.2 WILLIAM HAZLITT
+1. Famous work: "On the Ignorance of the Learned".
+2. He was an English essayist and critic.
+3. His essays are known for clear thinking and strong opinions.
+
+18.3 FRANCIS BACON
+1. Famous work: "Of Studies".
+2. Famous line: "Studies serve for delight, for ornament and for ability."
+3. He was an English philosopher and essayist.
+4. His essays are short, wise and practical.
+
+18.4 A.G. GARDINER
+1. Pen name: Alpha of the Plough.
+2. Famous essay: "On the Rule of the Road".
+3. Theme: Personal liberty must be balanced with social responsibility.
+4. He was an English essayist and journalist.
+
+18.5 J.B. PRIESTLEY
+1. Famous essay: "On the Art of Living with Others".
+2. He was an English writer and broadcaster.
+3. His works deal with everyday life and human behaviour.
+
+18.6 BERTRAND RUSSELL
+1. Famous essay: "In Praise of Idleness".
+2. He was a British philosopher and Nobel laureate.
+3. His works deal with logic, society and education.
+
+18.7 DR. A.P.J. ABDUL KALAM
+1. Famous autobiography: "Wings of Fire".
+2. He was the 11th President of India.
+3. He was a scientist and aerospace engineer.
+4. Famous book: "Ignited Minds".
+5. Famous book: "India 2020".
+
+==================================================
+UNIT 19: IMPORTANT SHORT STORIES AND AUTHORS
+==================================================
+
+19.1 R.K. NARAYAN
+1. Famous novel: "Swami and Friends".
+2. Famous novel: "The Guide".
+3. Famous collection: "Malgudi Days".
+4. His stories are set in the imaginary town of Malgudi.
+5. Famous character: Swaminathan in "Swami and Friends".
+
+19.2 MULK RAJ ANAND
+1. Famous novel: "Untouchable".
+2. Famous novel: "Coolie".
+3. He wrote about social injustice and the lives of the poor.
+4. He was an Indian English writer.
+
+19.3 R.K. NARAYAN'S "A HORSE AND TWO GOATS"
+1. It is a short story.
+2. Main characters: Muni and an American businessman.
+3. Theme: Misunderstanding due to language and cultural difference.
+4. Setting: A small village near Kritam.
+
+19.4 OSCAR WILDE
+1. Famous short story: "The Happy Prince".
+2. Famous play: "The Importance of Being Earnest".
+3. Famous novel: "The Picture of Dorian Gray".
+4. Theme of "The Happy Prince": Compassion and sacrifice.
+
+19.5 GUY DE MAUPASSANT
+1. Famous short story: "The Necklace".
+2. Theme: Vanity and the consequences of dishonesty.
+3. Main character: Mathilde Loisel.
+4. The necklace in the story was fake.
+
+==================================================
+UNIT 20: IMPORTANT LITERARY TERMS
+==================================================
+
+1. Poem - A composition in verse.
+2. Poet - A person who writes poems.
+3. Stanza - A group of lines in a poem.
+4. Rhyme - Repetition of similar sounds at the end of lines.
+5. Metaphor - A direct comparison without using "like" or "as".
+6. Simile - A comparison using "like" or "as".
+7. Personification - Giving human qualities to non-human things.
+8. Theme - The central idea of a literary work.
+9. Plot - The sequence of events in a story.
+10. Character - A person or figure in a story.
+11. Setting - The time and place of a story.
+12. Narrator - The person who tells the story.
+13. Drama - A literary work meant to be performed.
+14. Novel - A long fictional prose narrative.
+15. Essay - A short prose composition on a topic.
+16. Biography - Life story written by another person.
+17. Autobiography - Life story written by oneself.
+18. Travelogue - An account of travel.
+19. Satire - Use of humour or irony to criticise.
+20. Irony - A contrast between expectation and reality.
+
+==================================================
+UNIT 21: IMPORTANT LITERARY DEVICES
+==================================================
+
+21.1 SIMILE
+A simile compares two things using "like" or "as".
+
+Examples:
+- He is as brave as a lion.
+- She sings like a nightingale.
+- The child was as quiet as a mouse.
+- The road was as smooth as glass.
+- He fought like a tiger.
+
+21.2 METAPHOR
+A metaphor directly compares two things without using "like" or "as".
+
+Examples:
+- He is a lion in battle.
+- Time is money.
+- The world is a stage.
+- She is the light of my life.
+- Life is a journey.
+
+21.3 PERSONIFICATION
+Personification gives human qualities to non-human things.
+
+Examples:
+- The wind whispered through the trees.
+- The sun smiled brightly.
+- The flowers danced in the breeze.
+- The river sang a song.
+- Death laid his icy hand on kings.
+
+21.4 ALLITERATION
+Alliteration is the repetition of the same initial sound in nearby words.
+
+Examples:
+- She sells sea shells.
+- Peter Piper picked a peck of pickled peppers.
+- The fair breeze blew, the white foam flew.
+
+21.5 HYPERBOLE
+Hyperbole is an exaggeration.
+
+Examples:
+- I have told you a million times.
+- He is as tall as a mountain.
+- I am so hungry that I could eat a horse.
+- The bag weighed a ton.
+- She cried a river of tears.
+
+==================================================
+UNIT 22: IMPORTANT LINES AND THEIR WORKS
+==================================================
+
+1. "To be, or not to be, that is the question."
+   Work: "Hamlet".
+   Author: William Shakespeare.
+
+2. "All the world's a stage."
+   Work: "As You Like It".
+   Author: William Shakespeare.
+
+3. "A thing of beauty is a joy for ever."
+   Work: "Endymion".
+   Author: John Keats.
+
+4. "If Winter comes, can Spring be far behind?"
+   Work: "Ode to the West Wind".
+   Author: P.B. Shelley.
+
+5. "Two roads diverged in a wood."
+   Work: "The Road Not Taken".
+   Author: Robert Frost.
+
+6. "Where the mind is without fear and the head is held high."
+   Work: "Gitanjali".
+   Author: Rabindranath Tagore.
+
+7. "Studies serve for delight, for ornament and for ability."
+   Work: "Of Studies".
+   Author: Francis Bacon.
+
+8. "Ten thousand saw I at a glance."
+   Work: "Daffodils".
+   Author: William Wordsworth.
+
+9. "Water, water, every where, nor any drop to drink."
+   Work: "The Rime of the Ancient Mariner".
+   Author: Samuel Taylor Coleridge.
+
+10. "The child is father of the man."
+    Work: "My Heart Leaps Up".
+    Author: William Wordsworth.
+
+==================================================
+UNIT 23: IMPORTANT INDIAN ENGLISH WRITERS
+==================================================
+
+1. Rabindranath Tagore - "Gitanjali".
+2. R.K. Narayan - "Malgudi Days", "The Guide".
+3. Mulk Raj Anand - "Untouchable", "Coolie".
+4. Raja Rao - "Kanthapura".
+5. Arundhati Roy - "The God of Small Things".
+6. Khushwant Singh - "Train to Pakistan".
+7. Vikram Seth - "A Suitable Boy".
+8. Salman Rushdie - "Midnight's Children".
+9. Chetan Bhagat - "Five Point Someone".
+10. Dr. A.P.J. Abdul Kalam - "Wings of Fire".
+
+==================================================
+UNIT 24: PRACTICE QUESTIONS - LITERARY WORKS
+==================================================
+
+1. Who wrote "Gitanjali"?
+   Answer: Rabindranath Tagore.
+
+2. Who wrote "The Road Not Taken"?
+   Answer: Robert Frost.
+
+3. Who wrote "Macbeth"?
+   Answer: William Shakespeare.
+
+4. Who wrote "Daffodils"?
+   Answer: William Wordsworth.
+
+5. Who wrote "Ode to the West Wind"?
+   Answer: P.B. Shelley.
+
+6. Who wrote "Wings of Fire"?
+   Answer: Dr. A.P.J. Abdul Kalam.
+
+7. Who wrote "Malgudi Days"?
+   Answer: R.K. Narayan.
+
+8. Who wrote "The Happy Prince"?
+   Answer: Oscar Wilde.
+
+9. Who wrote "The Necklace"?
+   Answer: Guy de Maupassant.
+
+10. Who wrote "Of Studies"?
+    Answer: Francis Bacon.
+
+11. What is the theme of "The Road Not Taken"?
+    Answer: Choice and its consequences.
+
+12. What is the theme of "The Happy Prince"?
+    Answer: Compassion and sacrifice.
+
+13. What is the theme of "The Necklace"?
+    Answer: Vanity and the consequences of dishonesty.
+
+14. What is a metaphor?
+    Answer: A direct comparison without using "like" or "as".
+
+15. What is a simile?
+    Answer: A comparison using "like" or "as".
+
+16. What is personification?
+    Answer: Giving human qualities to non-human things.
+
+17. What is a stanza?
+    Answer: A group of lines in a poem.
+
+18. What is an autobiography?
+    Answer: A person's life story written by himself or herself.
+
+19. What is a biography?
+    Answer: A person's life story written by another person.
+
+20. What is a travelogue?
+    Answer: An account of travel.
+
+==================================================
+UNIT 25: MODEL MULTIPLE CHOICE QUESTIONS
+==================================================
+
+1. Who wrote "Gitanjali"?
+(a) Rabindranath Tagore (b) R.K. Narayan (c) Mulk Raj Anand (d) Robert Frost
+Answer: (a) Rabindranath Tagore.
+
+2. Who wrote "The Road Not Taken"?
+(a) John Keats (b) P.B. Shelley (c) Robert Frost (d) William Wordsworth
+Answer: (c) Robert Frost.
+
+3. Who is known as the Bard of Avon?
+(a) John Keats (b) William Shakespeare (c) Charles Lamb (d) Francis Bacon
+Answer: (b) William Shakespeare.
+
+4. "A thing of beauty is a joy for ever" was written by:
+(a) Wordsworth (b) Keats (c) Shelley (d) Byron
+Answer: (b) John Keats.
+
+5. "Where the Mind is Without Fear" appears in:
+(a) The Guide (b) Gitanjali (c) Malgudi Days (d) Wings of Fire
+Answer: (b) Gitanjali.
+
+6. Who wrote "Wings of Fire"?
+(a) R.K. Narayan (b) A.P.J. Abdul Kalam (c) Khushwant Singh (d) Vikram Seth
+Answer: (b) A.P.J. Abdul Kalam.
+
+7. Who wrote "The Necklace"?
+(a) Oscar Wilde (b) Guy de Maupassant (c) R.K. Narayan (d) Charles Lamb
+Answer: (b) Guy de Maupassant.
+
+8. "He is as brave as a lion" is an example of:
+(a) Metaphor (b) Simile (c) Irony (d) Hyperbole
+Answer: (b) Simile.
+
+9. "The wind whispered through the trees" is an example of:
+(a) Simile (b) Metaphor (c) Personification (d) Alliteration
+Answer: (c) Personification.
+
+10. A group of lines in a poem is called:
+(a) Stanza (b) Plot (c) Theme (d) Character
+Answer: (a) Stanza.
+
+11. Who wrote "Of Studies"?
+(a) Francis Bacon (b) Charles Lamb (c) A.G. Gardiner (d) J.B. Priestley
+Answer: (a) Francis Bacon.
+
+12. Who wrote "On the Rule of the Road"?
+(a) Francis Bacon (b) A.G. Gardiner (c) Bertrand Russell (d) William Hazlitt
+Answer: (b) A.G. Gardiner.
+
+13. Who wrote "Swami and Friends"?
+(a) Mulk Raj Anand (b) R.K. Narayan (c) Raja Rao (d) Khushwant Singh
+Answer: (b) R.K. Narayan.
+
+14. Who wrote "Untouchable"?
+(a) R.K. Narayan (b) Mulk Raj Anand (c) Raja Rao (d) Arundhati Roy
+Answer: (b) Mulk Raj Anand.
+
+15. "Time is money" is an example of:
+(a) Simile (b) Metaphor (c) Personification (d) Hyperbole
+Answer: (b) Metaphor.
+
+16. What is the meaning of "Break the ice"?
+(a) To break ice (b) To start a conversation (c) To feel cold (d) To create trouble
+Answer: (b) To start a conversation.
+
+17. Choose the correct English translation:
+"அவள் சென்னையில் வசிக்கிறாள்."
+(a) She lived in Chennai.
+(b) She lives in Chennai.
+(c) She will live in Chennai.
+(d) She is living Chennai.
+Answer: (b) She lives in Chennai.
+
+18. Choose the correct Tamil translation:
+"The sun rises in the east."
+(a) சூரியன் மேற்கில் உதிக்கிறது.
+(b) சூரியன் கிழக்கில் உதிக்கிறது.
+(c) சூரியன் வடக்கில் உதிக்கிறது.
+(d) சூரியன் தெற்கில் உதிக்கிறது.
+Answer: (b) சூரியன் கிழக்கில் உதிக்கிறது.
+
+19. What is the purpose of a passage that asks readers to save water?
+(a) To entertain (b) To persuade (c) To describe (d) To narrate
+Answer: (b) To persuade.
+
+20. What type of question asks for the central theme of a passage?
+(a) Factual question (b) Main idea question (c) Vocabulary question (d) Inference question
+Answer: (b) Main idea question.
+
+==================================================
+UNIT 26: FINAL REVISION
+==================================================
+
+READING COMPREHENSION:
+1. Read the questions first.
+2. Read the passage carefully.
+3. Identify the main idea.
+4. Locate keywords.
+5. Answer only from the passage.
+6. Understand tone and purpose.
+7. Use context clues for difficult words.
+
+TRANSLATION:
+1. Preserve the original meaning.
+2. Use correct grammar.
+3. Do not translate word by word blindly.
+4. Maintain natural sentence structure.
+5. Learn common Tamil-English sentence patterns.
+6. Practise proverbs and official expressions.
+
+LITERARY WORKS:
+1. Learn authors and their major works.
+2. Learn themes of important poems and stories.
+3. Learn literary terms such as simile, metaphor and personification.
+4. Learn famous lines and their sources.
+5. Learn Indian English writers and their works.
+6. Practise previous-year TNPSC questions regularly.

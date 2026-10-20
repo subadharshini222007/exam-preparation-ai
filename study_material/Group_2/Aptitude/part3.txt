@@ -1,0 +1,468 @@
+TNPSC GROUP 2 - APTITUDE (கணிதத் திறன்)
+STUDY MATERIAL - PART 3
+Mixture and Alligation, Ratio-based Problems (Partnership and Ages), Number Series, Mensuration, Data Interpretation
+(Each topic has: what to study, rules and formulas, question types, and 5 solved examples for every type)
+
+==================================================
+TOPIC 1: MIXTURE AND ALLIGATION (கலவை)
+==================================================
+
+A. WHAT TO STUDY
+- Rule of alligation and the mean price
+- Milk and water mixtures; adding, removing and replacing
+- Replacement formula (repeated operations)
+- Cost price and profit in mixtures
+- Solutions, concentration and alloys
+
+B. RULES AND FORMULAS
+1. Alligation rule: if a cheaper item costs c per unit, a dearer item costs d per unit and the mixture costs m per unit (c < m < d), then
+   (Quantity of cheaper) : (Quantity of dearer) = (d - m) : (m - c).
+   Mean price m = (Total cost)/(Total quantity).
+2. The same rule works for concentrations (percentages): (Quantity of lower concentration) : (Quantity of higher concentration) = (Higher - Mean) : (Mean - Lower). Pure water has 0% concentration.
+3. Replacement formula: a vessel contains x units of a liquid. If y units are removed and replaced by water, and the operation is repeated n times, then
+   Quantity of the pure liquid left = x (1 - y/x)^n.
+   Ratio of pure liquid left to the original = (1 - y/x)^n.
+4. If two mixtures with milk-to-water ratios a : b and c : d are mixed in the ratio p : q, find the milk and water in each part and add them.
+5. In a mixture of A and B in the ratio a : b, the fraction of A is a/(a + b) and of B is b/(a + b).
+6. Cost price of the mixture = (Sum of quantity x price)/(Total quantity). Selling price for a profit of P% = CP x (100 + P)/100.
+
+C. TYPES AND SOLVED EXAMPLES
+
+TYPE 1: ALLIGATION (MEAN PRICE AND RATIO)
+1) In what ratio should rice at Rs 40 per kg be mixed with rice at Rs 60 per kg to get a mixture worth Rs 52 per kg?
+   Cheaper : Dearer = (60 - 52) : (52 - 40) = 8 : 12 = 2 : 3. Answer: 2 : 3.
+2) In what ratio must tea at Rs 150 per kg be mixed with tea at Rs 200 per kg to get a mixture worth Rs 170 per kg?
+   (200 - 170) : (170 - 150) = 30 : 20 = 3 : 2. Answer: 3 : 2.
+3) 30 kg of sugar at Rs 24 per kg is mixed with some sugar at Rs 32 per kg to get a mixture worth Rs 28 per kg. Find the quantity of the dearer sugar.
+   Ratio = (32 - 28) : (28 - 24) = 1 : 1. Quantity = 30 kg. Answer: 30 kg.
+4) 3 kg of a commodity at Rs 80 per kg is mixed with 2 kg at Rs 105 per kg. Find the mean price per kg.
+   (3 x 80 + 2 x 105)/5 = (240 + 210)/5 = 90. Answer: Rs 90 per kg.
+5) Two kinds of wheat costing Rs 30 and Rs 36 per kg are mixed in the ratio 3 : 2. Find the cost of the mixture per kg.
+   (3 x 30 + 2 x 36)/5 = (90 + 72)/5 = 32.4. Answer: Rs 32.40 per kg.
+
+TYPE 2: MILK AND WATER MIXTURES
+1) A 40-litre mixture contains milk and water in the ratio 3 : 1. How much water must be added to make the ratio 2 : 1?
+   Milk = 30 L, water = 10 L. For 2 : 1, water = 15 L. Add 5 L. Answer: 5 litres.
+2) A 60-litre mixture contains milk and water in the ratio 2 : 1. If 10 litres of milk are added, find the new ratio of milk to water.
+   Milk = 40 L, water = 20 L. New milk = 50 L. Ratio = 50 : 20 = 5 : 2. Answer: 5 : 2.
+3) A 70-litre mixture contains milk and water in the ratio 5 : 2. How much milk must be added to make the ratio 3 : 1?
+   Milk = 50 L, water = 20 L. Let x litres be added: (50 + x)/20 = 3; x = 10. Answer: 10 litres.
+4) A 45-litre mixture contains milk and water in the ratio 7 : 2. How much water should be added to make the ratio 7 : 3?
+   Milk = 35 L, water = 10 L. For 7 : 3, water = 15 L. Add 5 L. Answer: 5 litres.
+5) A milkman adds 5 litres of water to 20 litres of milk costing Rs 40 per litre and sells the mixture at Rs 40 per litre. Find his profit %.
+   CP = 20 x 40 = 800; SP = 25 x 40 = 1,000; profit = 200; (200/800) x 100 = 25%. Answer: 25%.
+
+TYPE 3: REPLACEMENT (REPEATED OPERATIONS)
+1) A vessel contains 40 litres of milk. 8 litres are removed and replaced by water. The process is repeated once more. How much milk is left?
+   40 x (1 - 8/40)^2 = 40 x (0.8)^2 = 25.6 litres. Answer: 25.6 litres.
+2) A container has 80 litres of pure acid. 20 litres are drawn off and replaced by water, and this is done twice in all. Find the quantity of acid left.
+   80 x (1 - 20/80)^2 = 80 x (0.75)^2 = 45 litres. Answer: 45 litres.
+3) A vessel is full of 20 litres of spirit. 4 litres are drawn and replaced by water, and the process is repeated three times in all. Find the spirit left.
+   20 x (0.8)^3 = 20 x 0.512 = 10.24 litres. Answer: 10.24 litres.
+4) A vessel contains 64 litres of milk. 16 litres are replaced by water, and then again 16 litres of the mixture are replaced by water. Find the final ratio of milk to water.
+   Milk = 64 x (48/64)^2 = 64 x 9/16 = 36 L; water = 28 L. Ratio = 36 : 28 = 9 : 7. Answer: 9 : 7.
+5) From a vessel containing 100 litres of milk, some milk is removed and replaced by water, and this is done twice in all. The milk left is 81 litres. How much is removed each time?
+   (1 - y/100)^2 = 0.81; 1 - y/100 = 0.9; y = 10. Answer: 10 litres.
+
+TYPE 4: COST, SELLING PRICE AND PROFIT IN MIXTURES
+1) 20 kg of rice at Rs 30 per kg is mixed with 30 kg of rice at Rs 40 per kg and the mixture is sold at Rs 45 per kg. Find the profit %.
+   CP = 600 + 1,200 = 1,800; SP = 50 x 45 = 2,250; profit = 450; (450/1,800) x 100 = 25%. Answer: 25%.
+2) Tea at Rs 120 per kg and Rs 180 per kg is mixed in the ratio 3 : 2. At what price per kg should the mixture be sold to gain 20%?
+   CP of mixture = (3 x 120 + 2 x 180)/5 = 720/5 = 144. SP = 144 x 1.2 = 172.80. Answer: Rs 172.80 per kg.
+3) A trader mixes 26 kg of rice at Rs 20 per kg, 30 kg at Rs 36 per kg and 24 kg at Rs 30 per kg. At what price per kg must he sell the mixture to earn 25% profit?
+   Total CP = 520 + 1,080 + 720 = 2,320; quantity = 80 kg; CP per kg = 29. SP = 29 x 1.25 = 36.25. Answer: Rs 36.25 per kg.
+4) A grocer mixes two types of rice costing Rs 25 and Rs 35 per kg in the ratio 3 : 2 and sells the mixture at Rs 34.80 per kg. Find his profit %.
+   CP per kg = (3 x 25 + 2 x 35)/5 = 145/5 = 29. Profit = 5.80; (5.80/29) x 100 = 20%. Answer: 20%.
+5) How much rice at Rs 42 per kg must be mixed with 30 kg of rice at Rs 30 per kg to get a mixture worth Rs 38 per kg?
+   Cheaper : Dearer = (42 - 38) : (38 - 30) = 4 : 8 = 1 : 2. Dearer quantity = 2 x 30 = 60 kg. Answer: 60 kg.
+
+TYPE 5: SOLUTIONS, CONCENTRATION AND ALLOYS
+1) In what ratio should water be mixed with an 80% acid solution to get a 50% solution?
+   Water (0%) : Solution (80%) = (80 - 50) : (50 - 0) = 30 : 50 = 3 : 5. Answer: Water : Solution = 3 : 5.
+2) In what ratio should a 20% sugar solution be mixed with a 50% sugar solution to get a 35% solution?
+   (50 - 35) : (35 - 20) = 15 : 15 = 1 : 1. Answer: 1 : 1.
+3) 12 litres of a 25% alcohol solution is mixed with 8 litres of a 50% alcohol solution. Find the percentage of alcohol in the mixture.
+   Alcohol = 3 + 4 = 7 L in 20 L; 7/20 x 100 = 35%. Answer: 35%.
+4) How much pure copper must be added to 20 kg of an alloy containing 40% copper to make it 60% copper?
+   Copper = 8 kg. Let x kg be added: (8 + x)/(20 + x) = 0.6; 8 + x = 12 + 0.6x; 0.4x = 4; x = 10. Answer: 10 kg.
+5) A 40-litre solution contains 15% salt. How much water must be evaporated to make it a 20% salt solution?
+   Salt = 6 L. New total = 6/0.2 = 30 L. Water evaporated = 10 L. Answer: 10 litres.
+
+==================================================
+TOPIC 2: RATIO-BASED PROBLEMS - PARTNERSHIP AND AGES
+==================================================
+
+A. WHAT TO STUDY
+- Partnership: capital, time, profit sharing
+- Working and sleeping partners; salary and commission
+- Partners joining or leaving midway
+- Age problems: ratios of ages, present, past and future ages
+- Sum and difference of ages
+
+B. RULES AND FORMULAS
+1. Partnership: Profit is shared in the ratio of (Capital x Time) of the partners.
+   - If the time is the same: ratio of capitals.
+   - If the capitals are the same: ratio of times.
+   - Investment ratio = (Capital 1 x Time 1) : (Capital 2 x Time 2) : ...
+2. Working partner: his salary or commission is paid first; the remaining profit is shared in the ratio of capital x time. A sleeping partner only invests.
+3. If a partner withdraws or adds money at some stage, split the year into parts and multiply the capital by the months for each part.
+4. Ages: the difference between two persons' ages is always the same. After n years, add n to each age; n years ago, subtract n from each age.
+5. If the ratio of ages is a : b, assume the ages as ax and bx.
+6. If the sum of the ages is given, divide the sum in the given ratio.
+7. Use equations: Father's age + n = k (Son's age + n), where k is the multiple after n years.
+
+C. TYPES AND SOLVED EXAMPLES
+
+TYPE 1: PARTNERSHIP WITH EQUAL TIME
+1) A and B invest Rs 12,000 and Rs 18,000 respectively in a business. If the profit is Rs 7,500, find each share.
+   Ratio = 12,000 : 18,000 = 2 : 3. A = 7,500 x 2/5 = 3,000; B = 4,500. Answer: Rs 3,000 and Rs 4,500.
+2) A, B and C invest Rs 5,000, Rs 7,000 and Rs 8,000 and earn a profit of Rs 10,000. Find each share.
+   Ratio = 5 : 7 : 8; total 20 parts; one part = 500. Shares: 2,500; 3,500; 4,000. Answer: Rs 2,500; Rs 3,500; Rs 4,000.
+3) A and B share profits in the ratio 3 : 5. If B's share is Rs 12,500, find the total profit.
+   5 parts = 12,500; one part = 2,500; total 8 parts = Rs 20,000. Answer: Rs 20,000.
+4) A, B and C invest Rs 40,000, Rs 60,000 and Rs 1,00,000. The profit is Rs 8,000. Find C's share.
+   Ratio = 2 : 3 : 5; total 10; one part = 800. C = 5 x 800 = 4,000. Answer: Rs 4,000.
+5) A and B invest Rs 8,000 and Rs 12,000 and earn Rs 6,000. Find the difference between their shares.
+   Ratio = 2 : 3. Difference = 6,000 x (3 - 2)/5 = 1,200. Answer: Rs 1,200.
+
+TYPE 2: PARTNERSHIP WITH DIFFERENT TIMES
+1) A invests Rs 6,000 for 12 months and B invests Rs 8,000 for 9 months. Their profit of Rs 9,000 is shared. Find each share.
+   6,000 x 12 = 72,000; 8,000 x 9 = 72,000; ratio 1 : 1. Each gets Rs 4,500. Answer: Rs 4,500 each.
+2) A starts a business with Rs 20,000 and after 6 months B joins with Rs 30,000. If the yearly profit is Rs 14,000, find each share.
+   A : B = (20,000 x 12) : (30,000 x 6) = 240,000 : 180,000 = 4 : 3. A = 8,000; B = 6,000. Answer: Rs 8,000 and Rs 6,000.
+3) A invests Rs 12,000 for the whole year and B invests Rs 15,000 for 8 months. The profit is Rs 11,000. Find A's share.
+   A : B = 144,000 : 120,000 = 6 : 5. A = 11,000 x 6/11 = 6,000. Answer: Rs 6,000.
+4) A, B and C invest Rs 4,000, Rs 5,000 and Rs 6,000 for 12, 9 and 6 months respectively. The total profit is Rs 4,300. Find A's share.
+   48,000 : 45,000 : 36,000 = 16 : 15 : 12; total 43 parts; one part = 100. A = 1,600. Answer: Rs 1,600.
+5) A invests Rs 5,000 and B invests Rs 4,000 for the whole year. C joins after 4 months with Rs 6,000. The profit is Rs 13,000. Find each share.
+   A = 60,000; B = 48,000; C = 6,000 x 8 = 48,000; ratio 5 : 4 : 4; one part = 1,000. Shares: 5,000; 4,000; 4,000. Answer: Rs 5,000; Rs 4,000; Rs 4,000.
+
+TYPE 3: WORKING PARTNER, SALARY AND COMMISSION
+1) A and B invest Rs 8,000 and Rs 12,000. A, who manages the business, gets 10% of the profit as commission and the rest is shared in the ratio of capitals. If the profit is Rs 20,000, find A's total share.
+   Commission = 2,000; remaining 18,000 in the ratio 2 : 3: A = 7,200; B = 10,800. A's total = 2,000 + 7,200 = 9,200. Answer: Rs 9,200.
+2) A (sleeping partner) invests Rs 30,000 and B (working partner) invests Rs 20,000. B gets 5% of the total profit for managing. If the profit is Rs 40,000, find A's share.
+   B's commission = 2,000; remaining 38,000 in the ratio 3 : 2: A = 22,800; B = 15,200 (plus 2,000). Answer: Rs 22,800.
+3) A and B invest Rs 9,000 and Rs 6,000. A gets a salary of Rs 600 per month for managing. The yearly profit is Rs 12,000. Find B's share.
+   Salary = 7,200 a year; remaining 4,800 in the ratio 3 : 2: A = 2,880; B = 1,920. Answer: Rs 1,920.
+4) A, B and C invest in the ratio 2 : 3 : 5. C is a working partner and gets 10% of the profit. The total profit is Rs 50,000. Find B's share.
+   C's commission = 5,000; remaining 45,000 in the ratio 2 : 3 : 5: A = 9,000; B = 13,500; C = 22,500. Answer: Rs 13,500.
+5) A and B divide the profit in the ratio 5 : 3 according to capital. If A's capital is Rs 25,000, find B's capital.
+   5 parts = 25,000; one part = 5,000; B = 3 x 5,000 = 15,000. Answer: Rs 15,000.
+
+TYPE 4: AGES - RATIO PROBLEMS
+1) The ratio of the present ages of two persons is 5 : 7. After 5 years the ratio will be 3 : 4. Find their present ages.
+   (5x + 5)/(7x + 5) = 3/4; 20x + 20 = 21x + 15; x = 5. Ages: 25 and 35. Answer: 25 and 35 years.
+2) The ratio of the ages of a father and son is 7 : 2 and the sum of their ages is 63. Find the son's age.
+   9 parts = 63; one part = 7; son = 14. Answer: 14 years.
+3) Ten years ago the ratio of the ages of A and B was 3 : 5, and after 10 years it will be 5 : 7. Find their present ages.
+   5(A - 10) = 3(B - 10), i.e., 5A - 3B = 20; 7(A + 10) = 5(B + 10), i.e., 7A - 5B = -20. Solving: A = 40, B = 60. Answer: 40 and 60 years.
+4) The ratio of the ages of Ram and Shyam is 3 : 4. After 8 years the ratio will be 7 : 9. Find Shyam's present age.
+   (3x + 8)/(4x + 8) = 7/9; 27x + 72 = 28x + 56; x = 16. Shyam = 4 x 16 = 64. Answer: 64 years.
+5) The ratio of the ages of A and B is 4 : 3 and A is 6 years older than B. Find A's age.
+   The difference 1 part = 6; A = 4 x 6 = 24. Answer: 24 years.
+
+TYPE 5: AGES - SUM, MULTIPLES AND EQUATIONS
+1) A father is 3 times as old as his son. After 12 years he will be twice as old as his son. Find the father's present age.
+   3x + 12 = 2(x + 12); x = 12. Father = 36. Answer: 36 years.
+2) The sum of the ages of a father and his son is 54. Six years ago the father was 5 times as old as the son. Find the father's present age.
+   F + S = 54; F - 6 = 5(S - 6); 54 - S - 6 = 5S - 30; 78 = 6S; S = 13; F = 41. Answer: 41 years.
+3) A is 4 years older than B and B is 5 years older than C. The sum of the ages of A, B and C is 62. Find B's age.
+   C = x, B = x + 5, A = x + 9; 3x + 14 = 62; x = 16; B = 21. Answer: 21 years.
+4) A mother is 4 times as old as her daughter. After 5 years the sum of their ages will be 70. Find the mother's present age.
+   M = 4D; M + D + 10 = 70; 5D = 60; D = 12; M = 48. Answer: 48 years.
+5) Two brothers differ in age by 6 years. Four years ago the elder was 3 times as old as the younger. Find the present age of the elder.
+   Younger = y, elder = y + 6; (y + 6 - 4) = 3(y - 4); y + 2 = 3y - 12; y = 7; elder = 13. Answer: 13 years.
+
+==================================================
+TOPIC 3: NUMBER SERIES (எண் தொடர்)
+==================================================
+
+A. WHAT TO STUDY
+- Difference (arithmetic) series and second-order differences
+- Multiplicative (geometric) series
+- Series of squares, cubes, primes and n(n + 1) patterns
+- Alternating and two-pattern series
+- Wrong number and missing number series
+
+B. RULES AND TIPS
+1. First find the differences between consecutive terms. If they are not constant, find the second differences.
+2. If differences are increasing by a fixed number (3, 6, 9, 12) the series is second-order arithmetic.
+3. Check ratios (x2, x3, x1.5). Check if differences themselves form a geometric pattern (1, 2, 4, 8).
+4. Learn: squares (1, 4, 9, 16, 25, 36, 49, 64, 81, 100), cubes (1, 8, 27, 64, 125, 216), primes (2, 3, 5, 7, 11, 13, 17, 19, 23), n(n + 1) (2, 6, 12, 20, 30, 42), n^2 - 1 (0, 3, 8, 15, 24, 35), n^2 + 1 (2, 5, 10, 17, 26, 37), factorials (1, 2, 6, 24, 120, 720).
+5. If the series seems to have two patterns, separate the terms at the odd and even positions.
+6. Patterns like (x2 + 1), (x2 - 1), (x3 + 2) are common (for example 3, 7, 15, 31, 63).
+7. For wrong-number questions, find the pattern from the first terms and compare each term.
+
+C. TYPES AND SOLVED EXAMPLES
+
+TYPE 1: DIFFERENCE SERIES
+1) Find the next number: 7, 11, 15, 19, ?
+   Difference = +4. Next = 23. Answer: 23.
+2) Find the next number: 1, 2, 4, 7, 11, ?
+   Differences: 1, 2, 3, 4, so next = +5. 11 + 5 = 16. Answer: 16.
+3) Find the next number: 2, 5, 11, 20, 32, ?
+   Differences: 3, 6, 9, 12, so next = +15. 32 + 15 = 47. Answer: 47.
+4) Find the next number: 100, 94, 86, 76, 64, ?
+   Differences: -6, -8, -10, -12, so next = -14. 64 - 14 = 50. Answer: 50.
+5) Find the next number: 5, 6, 8, 11, 15, 20, ?
+   Differences: 1, 2, 3, 4, 5, so next = +6. 20 + 6 = 26. Answer: 26.
+
+TYPE 2: MULTIPLICATIVE SERIES
+1) Find the next number: 3, 6, 12, 24, ?
+   Each term x 2. Next = 48. Answer: 48.
+2) Find the next number: 2, 6, 18, 54, ?
+   Each term x 3. Next = 162. Answer: 162.
+3) Find the next number: 5, 10, 30, 120, ?
+   Multipliers: x2, x3, x4, so next x5: 120 x 5 = 600. Answer: 600.
+4) Find the next number: 4, 12, 36, 108, ?
+   Each term x 3. Next = 324. Answer: 324.
+5) Find the next number: 2, 3, 5, 9, 17, ?
+   Differences: 1, 2, 4, 8, so next = +16. 17 + 16 = 33. Answer: 33.
+
+TYPE 3: SQUARES, CUBES, PRIMES AND SPECIAL PATTERNS
+1) Find the next number: 1, 4, 9, 16, 25, ?
+   Squares of 1, 2, 3, 4, 5. Next = 6^2 = 36. Answer: 36.
+2) Find the next number: 1, 8, 27, 64, ?
+   Cubes. Next = 5^3 = 125. Answer: 125.
+3) Find the next number: 2, 3, 5, 7, 11, 13, ?
+   Prime numbers. Next prime = 17. Answer: 17.
+4) Find the next number: 2, 6, 12, 20, 30, ?
+   n(n + 1): 1x2, 2x3, 3x4, 4x5, 5x6, so next = 6 x 7 = 42. Answer: 42.
+5) Find the next number: 0, 3, 8, 15, 24, ?
+   n^2 - 1. Next = 6^2 - 1 = 35. Answer: 35.
+
+TYPE 4: ALTERNATING AND MIXED PATTERNS
+1) Find the next number: 2, 4, 3, 6, 4, 8, 5, ?
+   Odd positions: 2, 3, 4, 5 (+1). Even positions: 4, 6, 8, so next = 10. Answer: 10.
+2) Find the next number: 1, 2, 4, 5, 7, 8, ?
+   Alternate +1 and +2. 8 + 2 = 10. Answer: 10.
+3) Find the next number: 5, 10, 8, 16, 14, ?
+   Alternate x2 and -2. 14 x 2 = 28. Answer: 28.
+4) Find the next number: 3, 5, 9, 15, 23, 33, ?
+   Differences: 2, 4, 6, 8, 10, so next = +12. 33 + 12 = 45. Answer: 45.
+5) Find the next number: 1, 2, 6, 24, 120, ?
+   Factorials (x2, x3, x4, x5), next x6: 120 x 6 = 720. Answer: 720.
+
+TYPE 5: WRONG NUMBER AND MISSING TERM
+1) Find the wrong number: 2, 5, 10, 17, 27, 37, 50.
+   The pattern is n^2 + 1 (2, 5, 10, 17, 26, 37, 50). 27 is wrong. Answer: 27.
+2) Find the wrong number: 3, 7, 15, 31, 61, 127.
+   Each term = previous x 2 + 1 (3, 7, 15, 31, 63, 127). 61 is wrong. Answer: 61.
+3) Find the wrong number: 8, 12, 20, 36, 70.
+   Differences should be 4, 8, 16, 32: 8, 12, 20, 36, 68. 70 is wrong. Answer: 70.
+4) Find the wrong number: 1, 4, 9, 16, 24, 36.
+   Squares: 1, 4, 9, 16, 25, 36. 24 is wrong. Answer: 24.
+5) Find the missing number: 6, 11, 21, 36, 56, ?
+   Differences: 5, 10, 15, 20, so next = +25. 56 + 25 = 81. Answer: 81.
+
+==================================================
+TOPIC 4: MENSURATION (அளவியல்)
+==================================================
+
+A. WHAT TO STUDY
+- Perimeter and area of triangles and quadrilaterals
+- Circle, sector, circumference and wheels
+- Rooms, walls, paths, tiles and carpets
+- Cuboid and cube
+- Cylinder, cone, sphere, hemisphere; conversion (recasting)
+
+B. FORMULAS (take pi = 22/7 unless stated)
+2D shapes:
+1. Rectangle: Area = l x b; Perimeter = 2(l + b); Diagonal = sqrt(l^2 + b^2).
+2. Square: Area = a^2; Perimeter = 4a; Diagonal = a sqrt(2).
+3. Triangle: Area = (1/2) x base x height. Heron's formula: Area = sqrt[s(s - a)(s - b)(s - c)], s = (a + b + c)/2. Equilateral triangle: Area = (sqrt(3)/4) a^2. Right triangle: (1/2) x product of the legs.
+4. Parallelogram: Area = base x height. Rhombus: Area = (1/2) d1 x d2; side = (1/2) sqrt(d1^2 + d2^2).
+5. Trapezium: Area = (1/2)(a + b) h.
+6. Circle: Circumference = 2 pi r; Area = pi r^2. Sector: Area = (theta/360) x pi r^2; Arc length = (theta/360) x 2 pi r.
+7. Path around a rectangle: Area of path = Outer area - Inner area.
+3D shapes:
+8. Cuboid: Volume = l b h; TSA = 2(lb + bh + hl); LSA = 2h(l + b); Diagonal = sqrt(l^2 + b^2 + h^2).
+9. Cube: Volume = a^3; TSA = 6a^2; LSA = 4a^2; Diagonal = a sqrt(3).
+10. Cylinder: Volume = pi r^2 h; CSA = 2 pi r h; TSA = 2 pi r (r + h).
+11. Cone: Slant height l = sqrt(r^2 + h^2); Volume = (1/3) pi r^2 h; CSA = pi r l; TSA = pi r (r + l).
+12. Sphere: Volume = (4/3) pi r^3; Surface area = 4 pi r^2. Hemisphere: Volume = (2/3) pi r^3; CSA = 2 pi r^2; TSA = 3 pi r^2.
+13. Conversions: 1 m^3 = 1,000 litres; 1 litre = 1,000 cm^3. When a solid is melted and recast, volume remains the same.
+
+C. TYPES AND SOLVED EXAMPLES
+
+TYPE 1: TRIANGLES AND QUADRILATERALS
+1) Find the area of a triangle with base 12 cm and height 9 cm.
+   (1/2) x 12 x 9 = 54 cm^2. Answer: 54 cm^2.
+2) Find the area of an equilateral triangle of side 8 cm.
+   (sqrt(3)/4) x 64 = 16 sqrt(3) cm^2 (about 27.7 cm^2). Answer: 16 sqrt(3) cm^2.
+3) Find the area of a triangle with sides 13 cm, 14 cm and 15 cm.
+   s = 21; area = sqrt(21 x 8 x 7 x 6) = sqrt(7,056) = 84 cm^2. Answer: 84 cm^2.
+4) The diagonals of a rhombus are 16 cm and 12 cm. Find its area and side.
+   Area = (1/2) x 16 x 12 = 96 cm^2; side = sqrt(8^2 + 6^2) = 10 cm. Answer: 96 cm^2; 10 cm.
+5) Find the area of a trapezium whose parallel sides are 20 cm and 14 cm and the distance between them is 8 cm.
+   (1/2)(20 + 14) x 8 = 136 cm^2. Answer: 136 cm^2.
+
+TYPE 2: CIRCLES AND WHEELS
+1) Find the circumference of a circle of radius 7 cm.
+   2 x 22/7 x 7 = 44 cm. Answer: 44 cm.
+2) Find the area of a circle of diameter 28 cm.
+   r = 14; area = 22/7 x 14 x 14 = 616 cm^2. Answer: 616 cm^2.
+3) The circumference of a circle is 88 cm. Find its radius.
+   2 pi r = 88; r = 88 x 7/(2 x 22) = 14 cm. Answer: 14 cm.
+4) Find the area of a sector of a circle of radius 14 cm and angle 90 degrees.
+   (90/360) x 22/7 x 14 x 14 = (1/4) x 616 = 154 cm^2. Answer: 154 cm^2.
+5) The diameter of a wheel is 70 cm. How many revolutions will it make to cover 1.32 km?
+   Circumference = 22/7 x 70 = 220 cm. Distance = 1,32,000 cm. Revolutions = 132,000/220 = 600. Answer: 600.
+
+TYPE 3: ROOMS, WALLS, PATHS AND TILES
+1) Find the area of the four walls of a room 10 m long, 8 m wide and 4 m high.
+   2(l + b) x h = 2(10 + 8) x 4 = 144 m^2. Answer: 144 m^2.
+2) Find the cost of carpeting a room 6 m long and 4 m wide at Rs 50 per square metre.
+   Area = 24 m^2; cost = 24 x 50 = Rs 1,200. Answer: Rs 1,200.
+3) A rectangular lawn 40 m x 30 m has a 2 m wide path running inside along its boundary. Find the area of the path.
+   Inner lawn = (40 - 4) x (30 - 4) = 36 x 26 = 936; total = 1,200; path = 264 m^2. Answer: 264 m^2.
+4) How many square tiles of side 20 cm are needed to cover a floor 6 m long and 4 m wide?
+   Floor = 600 cm x 400 cm = 240,000 cm^2; tile = 400 cm^2; number = 600. Answer: 600 tiles.
+5) The perimeter of a square field is 80 m. Find its area and diagonal.
+   Side = 20 m; area = 400 m^2; diagonal = 20 sqrt(2) m. Answer: 400 m^2; 20 sqrt(2) m.
+
+TYPE 4: CUBOID AND CUBE
+1) Find the volume of a cuboid 12 cm x 10 cm x 5 cm.
+   12 x 10 x 5 = 600 cm^3. Answer: 600 cm^3.
+2) Find the total surface area of a cube of side 6 cm.
+   6 x 36 = 216 cm^2. Answer: 216 cm^2.
+3) The volume of a cube is 343 cm^3. Find its total surface area.
+   Side = 7 cm; TSA = 6 x 49 = 294 cm^2. Answer: 294 cm^2.
+4) Find the length of the diagonal of a cuboid 12 m x 9 m x 8 m.
+   sqrt(144 + 81 + 64) = sqrt(289) = 17 m. Answer: 17 m.
+5) A tank is 5 m long, 4 m wide and 3 m deep. How many litres of water can it hold?
+   Volume = 60 m^3 = 60,000 litres. Answer: 60,000 litres.
+
+TYPE 5: CYLINDER, CONE AND SPHERE
+1) Find the volume of a cylinder of radius 7 cm and height 10 cm.
+   22/7 x 49 x 10 = 1,540 cm^3. Answer: 1,540 cm^3.
+2) Find the curved surface area of a cylinder of radius 7 cm and height 15 cm.
+   2 x 22/7 x 7 x 15 = 660 cm^2. Answer: 660 cm^2.
+3) Find the volume of a cone of radius 7 cm and height 24 cm, and its slant height.
+   Slant height = sqrt(49 + 576) = 25 cm; volume = (1/3) x 22/7 x 49 x 24 = 1,232 cm^3. Answer: 25 cm; 1,232 cm^3.
+4) Find the volume of a sphere of radius 21 cm.
+   (4/3) x 22/7 x 21 x 21 x 21 = 38,808 cm^3. Answer: 38,808 cm^3.
+5) A metal sphere of radius 6 cm is melted and recast into a cylinder of radius 3 cm. Find the height of the cylinder.
+   Sphere volume = (4/3) pi x 216 = 288 pi. Cylinder: pi x 9 x h = 288 pi; h = 32 cm. Answer: 32 cm.
+
+==================================================
+TOPIC 5: DATA INTERPRETATION (தரவு விளக்கம்)
+==================================================
+
+A. WHAT TO STUDY
+- Tables, bar graphs, line graphs, pie charts and caselets
+- Percentage, ratio, average, percentage change, and difference calculations
+- Central angle in a pie chart
+- Reading data quickly and avoiding calculation errors
+
+B. RULES AND TIPS
+1. Percentage of a part = (Part/Whole) x 100.
+2. In a pie chart: Central angle = (Percentage/100) x 360 degrees = Percentage x 3.6. 100% = 360 degrees.
+3. Percentage change = [(New - Old)/Old] x 100. Percentage difference is always on the base value given in the question.
+4. Average = Total/Number of items.
+5. Ratio of A to B = A : B (reduce to the simplest form).
+6. Read the units (thousands, lakhs, crores) and the years carefully.
+7. Approximate when options are far apart.
+8. For line graphs, check the value for each point; for bar graphs, read the bar height of each category.
+
+C. TYPES AND SOLVED EXAMPLES
+(Charts are described as data; in the exam they appear as pictures with the same values.)
+
+TYPE 1: TABLE
+Sales of four products (in thousand units):
+Year:    2019  2020  2021  2022
+A:        40    50    60    70
+B:        30    36    45    54
+C:        20    30    40    50
+D:        10    14    18    22
+1) Find the total sales of product A over the four years.
+   40 + 50 + 60 + 70 = 220 thousand units. Answer: 2,20,000 units.
+2) Find the average annual sales of product B.
+   (30 + 36 + 45 + 54)/4 = 165/4 = 41.25 thousand units. Answer: 41,250 units.
+3) Find the percentage increase in sales of product C from 2019 to 2022.
+   (50 - 20)/20 x 100 = 150%. Answer: 150%.
+4) In which year were the total sales of all products the highest?
+   2019: 100; 2020: 130; 2021: 163; 2022: 196. Answer: 2022.
+5) Find the ratio of the total sales of D to those of C over the four years.
+   D = 64; C = 140; ratio = 64 : 140 = 16 : 35. Answer: 16 : 35.
+
+TYPE 2: BAR GRAPH
+Students passed (in hundreds) in five schools in two years:
+School:   P    Q    R    S    T
+2023:    40   60   30   50   20
+2024:    50   45   36   70   30
+1) Find the total number of students who passed in 2023.
+   40 + 60 + 30 + 50 + 20 = 200 hundred = 20,000. Answer: 20,000.
+2) Which school showed the greatest increase in passed students in 2024 over 2023?
+   Increases: P 10; R 6; S 20; T 10 (Q decreased). Answer: School S.
+3) Find the percentage decrease in school Q from 2023 to 2024.
+   (60 - 45)/60 x 100 = 25%. Answer: 25%.
+4) Find the average number of students passed in 2024 (in hundreds).
+   (50 + 45 + 36 + 70 + 30)/5 = 231/5 = 46.2 hundred = 4,620. Answer: 4,620.
+5) Find the ratio of school P's passed students in 2023 to school T's in 2024.
+   40 : 30 = 4 : 3. Answer: 4 : 3.
+
+TYPE 3: PIE CHART
+The monthly expenditure of a family with a salary of Rs 60,000 is shown in a pie chart: Food 30%, Rent 25%, Education 15%, Transport 10%, Savings 20%.
+1) Find the central angle for Rent.
+   25% x 360 = 90 degrees. Answer: 90 degrees.
+2) Find the amount spent on Education.
+   15% of 60,000 = Rs 9,000. Answer: Rs 9,000.
+3) Find the difference between the expenditure on Food and Transport.
+   (30 - 10)% = 20% of 60,000 = Rs 12,000. Answer: Rs 12,000.
+4) Savings are what percent more than the expenditure on Transport?
+   (20 - 10)/10 x 100 = 100%. Answer: 100%.
+5) If the expenditure on Food increases by 10%, what will be the new expenditure on Food?
+   Food = 30% of 60,000 = 18,000; new = 18,000 x 1.1 = Rs 19,800. Answer: Rs 19,800.
+
+TYPE 4: LINE GRAPH
+Production of a factory (in thousand tonnes): 2018: 40; 2019: 50; 2020: 45; 2021: 60; 2022: 72; 2023: 90.
+1) Find the percentage increase in production from 2020 to 2021.
+   (60 - 45)/45 x 100 = 33 1/3%. Answer: 33 1/3%.
+2) In which year was the percentage increase over the previous year the highest?
+   2019: 25%; 2020: -10%; 2021: 33.3%; 2022: 20%; 2023: 25%. Answer: 2021.
+3) Find the average annual production from 2018 to 2023.
+   (40 + 50 + 45 + 60 + 72 + 90)/6 = 357/6 = 59.5 thousand tonnes. Answer: 59.5 thousand tonnes.
+4) The production of 2021, 2022 and 2023 together is what percent of the total production of all six years (approximately)?
+   222/357 x 100 = 62.2%. Answer: about 62.2%.
+5) The production in 2023 is how many times the production in 2018?
+   90/40 = 2.25 times. Answer: 2.25 times.
+
+TYPE 5: CASELET
+In a town of 50,000 people, 60% are literate. Among the literate people, 55% are males; among the illiterate people, 40% are males.
+1) Find the number of literate people.
+   60% of 50,000 = 30,000. Answer: 30,000.
+2) Find the number of literate females.
+   Literate males = 55% of 30,000 = 16,500; literate females = 13,500. Answer: 13,500.
+3) Find the number of illiterate males.
+   Illiterate people = 20,000; males = 40% = 8,000. Answer: 8,000.
+4) Find the total number of males in the town.
+   16,500 + 8,000 = 24,500. Answer: 24,500.
+5) Find the percentage of females in the town.
+   Females = 13,500 + 12,000 = 25,500; (25,500/50,000) x 100 = 51%. Answer: 51%.
+
+==================================================
+QUICK REVISION SHEET (PART 3)
+==================================================
+
+1. Alligation: Cheaper : Dearer = (d - m) : (m - c).
+2. Replacement: Pure left = x (1 - y/x)^n.
+3. Partnership: profit ratio = capital x time. Working partner: commission first.
+4. Ages: use ax and bx; difference of ages is constant; add or subtract the years from each.
+5. Series: check differences, second differences, ratio, squares, cubes, primes, alternate patterns.
+6. Mensuration: circle area pi r^2; cylinder volume pi r^2 h; cone volume (1/3) pi r^2 h; sphere (4/3) pi r^3; cuboid TSA 2(lb + bh + hl).
+7. Pie chart: central angle = % x 3.6. Percentage change = (New - Old)/Old x 100.
+
+COMMON MISTAKES TO AVOID
+- Reversing the ratio in alligation (cheaper goes with the difference of the dearer price).
+- Using the original quantity instead of the remaining quantity in the replacement formula.
+- Not multiplying capital by time in partnership problems.
+- Forgetting that ages change for both persons by the same number of years.
+- Using diameter instead of radius in circle and sphere formulas.
+- Not converting units (cm to m, m^3 to litres).
+- In DI, reading the wrong year or the wrong unit.
+
+STUDY PLAN
+Day 1-3: Mixture and Partnership; Day 4-5: Ages and Number Series; Day 6-8: Mensuration; Day 9-11: Data Interpretation; Day 12: timed revision of all five.
+
+=

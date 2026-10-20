@@ -1,0 +1,366 @@
+
+## Unit 1: Basics of Indian Economy
+
+- India follows a **Mixed Economy** model.
+- Major sectors: Primary (Agriculture), Secondary (Industry), Tertiary (Services).
+- GDP = Gross Domestic Product.
+- GNP = Gross National Product.
+- Per capita income = National income / Population.
+
+## Unit 2: Five Year Plans
+
+- First Plan: 1951–1956 – Agriculture.
+- Second Plan: 1956–1961 – Industry.
+- Third Plan: 1961–1966.
+- Fourth Plan: 1969–1974.
+- Fifth Plan: 1974–1979.
+- Sixth Plan: 1980–1985.
+- Seventh Plan: 1985–1990.
+- Eighth Plan: 1992–1997.
+- Ninth Plan: 1997–2002.
+- Tenth Plan: 2002–2007.
+- Eleventh Plan: 2007–2012.
+- Twelfth Plan: 2012–2017.
+
+## Unit 3: NITI Aayog
+
+- Established: 2015.
+- Chairman: Prime Minister.
+- Key functions: Policy, SDG, Centre-State cooperation.
+- Key reports: SDG India Index, MPI.
+
+## Unit 4: Reserve Bank of India (RBI)
+
+- Established: 1935.
+- Nationalised: 1949.
+- First Governor: Osborne Smith.
+- Key functions: Currency issue, Monetary policy, Bank supervision.
+- Key tools: Repo, Reverse repo, CRR, SLR, MSF, Bank rate.
+
+## Unit 5: Banking Sector
+
+- Types of banks: Commercial, Cooperative, RRB, Small Finance, Payments Bank.
+- Key terms: NPA, CASA, MCLR, Repo, CRR, SLR.
+- Key schemes: PMJDY, MUDRA, Stand-Up India, PMMY.
+
+## Unit 6: Monetary Policy
+
+- Objective: Inflation control, Money supply.
+- Tools: Repo, Reverse repo, CRR, SLR, OMO.
+- Target: 4% CPI inflation (±2%).
+
+## Unit 7: Fiscal Policy
+
+- Objective: Manage economy through revenue and expenditure.
+- Components: Tax, Expenditure, Borrowing, Budget.
+- Concepts: Fiscal deficit, Revenue deficit, Primary deficit.
+
+## Unit 8: Union Budget
+
+- Constitutional Article: 112.
+- Types: Revenue Budget, Capital Budget.
+- Key documents: Economic Survey, Budget speech, Finance Bill.
+
+## Unit 9: Taxation
+
+- Direct tax: Income tax, Corporate tax.
+- Indirect tax: GST, Customs.
+- Bodies: CBDT, CBIC.
+- Acts: Income Tax Act 1961, GST Act 2017.
+
+## Unit 10: GST
+
+- Introduced: 1 July 2017.
+- Types: CGST, SGST, IGST, UTGST.
+- GST Council: Article 279A.
+- Objective: One Nation One Tax.
+
+## 11. Key Exam Points
+
+- First Five Year Plan: 1951.
+- NITI Aayog: 2015.
+- RBI: 1935.
+- GST: 2017.
+- Fiscal deficit = Total expenditure – Total receipts (excluding borrowings).
+- Repo rate = RBI lends to banks.
+- Reverse repo rate = Banks lend to RBI.
+- CRR = Cash Reserve Ratio.
+- SLR = Statutory Liquidity Ratio.
+
+Unit 11: National Income
+National Income = Sum of all factor incomes.
+
+GDP = Market value of all final goods and services produced within a country.
+
+GNP = GDP + Net factor income from abroad.
+
+NNP = GNP – Depreciation.
+
+Personal income = Income received by individuals.
+
+Disposable income = Personal income – Direct taxes.
+
+Unit 12: Inflation
+Inflation = Sustained rise in general price level.
+
+Types: Demand-pull, Cost-push, Built-in.
+
+Measurement: CPI, WPI, GDP deflator.
+
+Effects: Reduces purchasing power, affects savings.
+
+Control: Monetary policy, Fiscal policy.
+
+Unit 13: Unemployment
+Types: Frictional, Structural, Cyclical, Seasonal.
+
+Measurement: LFPR, WPR, Unemployment rate.
+
+Schemes: MGNREGA, PMKVY, Skill India.
+
+Unit 14: Poverty
+Poverty line: Based on consumption expenditure.
+
+Committees: Tendulkar, Rangarajan.
+
+Schemes: PMAY, Ujjwala, Jan Dhan.
+
+Unit 15: Agriculture
+Contribution to GDP: Declining share.
+
+Employment: Largest employer.
+
+Issues: Small holdings, Low productivity, Indebtedness.
+
+Schemes: PM-KISAN, PMFBY, e-NAM.
+
+Unit 16: Industry
+Types: Large, Medium, Small, Micro.
+
+Contribution to GDP: Around 25-30%.
+
+Issues: Infrastructure, Credit, Technology.
+
+Schemes: Make in India, MSME schemes.
+
+Unit 17: Services
+Contribution to GDP: More than 50%.
+
+Sub-sectors: IT, Telecom, Finance, Trade.
+
+Employment: Growing share.
+
+Issues: Skill gap, Informalisation.
+
+Unit 18: External Sector
+Exports, Imports, Balance of Trade.
+
+Current Account, Capital Account.
+
+Exchange rate, Forex reserves.
+
+Institutions: WTO, IMF, World Bank.
+
+Unit 19: Public Finance
+Revenue, Expenditure, Deficit.
+
+Types of deficits: Revenue, Fiscal, Primary.
+
+Budget documents: Annual Financial Statement, Demands for Grants.
+
+Unit 20: Economic Reforms
+1991 Reforms: LPG (Liberalisation, Privatisation, Globalisation).
+
+Disinvestment, FDI, FII.
+
+Impact: Growth, Employment, Inequality.
+
+21. Key Exam Points
+GDP at market price = GDP at factor cost + Indirect taxes – Subsidies.
+
+Inflation target: 4% CPI (±2%).
+
+Fiscal deficit = Total expenditure – Total receipts (excluding borrowings).
+
+Current account deficit = Trade deficit + Net income + Net transfers.
+
+MGNREGA: 100 days guaranteed employment.
+
+Unit 21: Money and Banking
+Money: Medium of exchange, store of value, unit of account.
+
+Functions of RBI: Issue currency, Banker to government, Banker's bank.
+
+Commercial banks: Accept deposits, Give loans.
+
+Types of accounts: Savings, Current, Fixed, Recurring.
+
+Unit 22: Financial Markets
+Money market: Short-term funds.
+
+Capital market: Long-term funds.
+
+Instruments: Shares, Bonds, Debentures.
+
+Regulators: SEBI, RBI.
+
+Unit 23: Insurance
+Types: Life, General, Health.
+
+Regulator: IRDAI.
+
+Schemes: PMJJBY, PMSBY, Ayushman Bharat.
+
+Unit 24: Capital Market
+Primary market: New issues.
+
+Secondary market: Trading of existing securities.
+
+Stock exchanges: BSE, NSE.
+
+Indices: Sensex, Nifty.
+
+Unit 25: Foreign Exchange
+Exchange rate: Value of one currency in terms of another.
+
+Forex reserves: Foreign currency assets, Gold, SDRs.
+
+RBI role: Manage exchange rate.
+
+Unit 26: International Trade
+Exports, Imports, Balance of Trade.
+
+Trade agreements: FTAs, PTAs.
+
+Institutions: WTO, IMF, World Bank.
+
+Unit 27: Economic Development
+HDI: Human Development Index.
+
+Components: Health, Education, Income.
+
+Reports: HDR by UNDP.
+
+Unit 28: Sustainable Development
+SDGs: 17 goals.
+
+India's progress: NITI Aayog reports.
+
+Key areas: Poverty, Health, Education, Climate.
+
+Unit 29: Digital Economy
+Digital payments: UPI, BHIM, Wallets.
+
+Financial inclusion: Jan Dhan, Aadhaar, Mobile (JAM).
+
+Schemes: Digital India, Startup India.
+
+Unit 30: Economic Survey
+Annual document by Ministry of Finance.
+
+Reviews economic performance.
+
+Released before Budget.
+
+31. Key Exam Points
+Money multiplier = 1 / Reserve ratio.
+
+Inflation target: 4% CPI (±2%).
+
+Fiscal deficit = Total expenditure – Total receipts (excluding borrowings).
+
+HDI: Health, Education, Income.
+
+SDGs: 17 goals.
+
+Unit 31: Public Debt
+Internal debt: Borrowing within country.
+
+External debt: Borrowing from abroad.
+
+Types: Short-term, Long-term.
+
+Management: RBI, Ministry of Finance.
+
+Unit 32: Fiscal Deficit
+Fiscal deficit = Total expenditure – Total receipts (excluding borrowings).
+
+Revenue deficit = Revenue expenditure – Revenue receipts.
+
+Primary deficit = Fiscal deficit – Interest payments.
+
+Unit 33: Budget Process
+Preparation: Ministry of Finance.
+
+Approval: Parliament.
+
+Implementation: Ministries.
+
+Audit: CAG.
+
+Unit 34: Tax Reforms
+Direct tax reforms: Faceless assessment, e-filing.
+
+Indirect tax reforms: GST.
+
+Compliance: Simplification.
+
+Unit 35: GST Structure
+CGST: Central GST.
+
+SGST: State GST.
+
+IGST: Integrated GST.
+
+UTGST: Union Territory GST.
+
+Unit 36: GST Council
+Constitutional Article: 279A.
+
+Chairman: Union Finance Minister.
+
+Members: State Finance Ministers.
+
+Decisions: Rates, Exemptions.
+
+Unit 37: Banking Reforms
+NPAs: Non-Performing Assets.
+
+Resolution: IBC, SARFAESI.
+
+Recapitalisation: Government support.
+
+Unit 38: Financial Inclusion
+PMJDY: Jan Dhan accounts.
+
+MUDRA: Loans to small businesses.
+
+Stand-Up India: SC/ST/Women entrepreneurs.
+
+Unit 39: Digital Payments
+UPI: Unified Payments Interface.
+
+BHIM: Bharat Interface for Money.
+
+Wallets: Paytm, PhonePe, Google Pay.
+
+Unit 40: Economic Indicators
+GDP growth rate.
+
+Inflation rate.
+
+Unemployment rate.
+
+Fiscal deficit.
+
+41. Key Exam Points
+Fiscal deficit = Total expenditure – Total receipts (excluding borrowings).
+
+GST Council: Article 279A.
+
+UPI: Unified Payments Interface.
+
+MUDRA: Loans to small businesses.
+
+Economic Survey: Annual document by Ministry of Finance.
+

@@ -1,0 +1,564 @@
+ 🧬 SCIENCE & TECHNOLOGY – DISEASES 
+
+---
+
+## 📌 1. Introduction to Diseases
+
+A disease is a condition in which the normal functioning of the body or any of its parts is disturbed. Diseases can affect physical, mental, and social well-being. They are caused by various factors such as microorganisms, genetic defects, environmental conditions, and lifestyle choices.
+
+In public health and competitive exams like TNPSC Group 1, understanding diseases is essential for analyzing health systems, prevention strategies, and epidemiology.
+
+---
+
+## 📌 2. Classification of Diseases
+
+Diseases can be classified based on their nature and cause.
+
+### 🔹 1. Communicable Diseases
+
+These diseases spread from one person to another through pathogens such as bacteria, viruses, fungi, and parasites.
+
+Examples: Tuberculosis, COVID-19, Malaria
+
+---
+
+### 🔹 2. Non-Communicable Diseases
+
+These diseases do not spread between individuals and are often related to lifestyle or genetic factors.
+
+Examples: Diabetes, Cancer, Hypertension
+
+---
+
+### 🔹 3. Acute Diseases
+
+Diseases that occur suddenly and last for a short duration.
+
+Example: Common cold
+
+---
+
+### 🔹 4. Chronic Diseases
+
+Diseases that persist for a long time.
+
+Example: Heart disease
+
+---
+
+## 📌 3. Causes of Diseases
+
+Diseases arise due to multiple factors.
+
+### 🔹 Pathogens
+
+Microorganisms like bacteria, viruses, fungi, and parasites cause infections.
+
+### 🔹 Genetic Factors
+
+Inherited mutations can lead to diseases like hemophilia.
+
+### 🔹 Environmental Factors
+
+Pollution, climate, and poor sanitation contribute to diseases.
+
+### 🔹 Lifestyle Factors
+
+Unhealthy diet, lack of exercise, and stress lead to diseases.
+
+---
+
+## 📌 4. Types of Pathogens
+
+### 🔹 Bacteria
+
+Single-celled organisms causing diseases like tuberculosis and cholera.
+
+### 🔹 Viruses
+
+Smaller than bacteria; require host cells to reproduce. Example: Influenza, COVID-19.
+
+### 🔹 Fungi
+
+Cause infections like ringworm.
+
+### 🔹 Parasites
+
+Organisms living on or inside host. Example: Malaria parasite.
+
+---
+
+## 📌 5. Transmission of Diseases
+
+### 🔹 Direct Transmission
+
+Physical contact, droplets (cough/sneeze).
+
+### 🔹 Indirect Transmission
+
+Through water, food, air, or vectors like mosquitoes.
+
+Understanding transmission helps in controlling disease spread.
+
+---
+
+## 📌 6. Immune System
+
+The immune system protects the body from infections.
+
+### 🔹 Types of Immunity
+
+* Innate immunity (natural)
+* Acquired immunity (developed after infection or vaccination)
+
+Vaccination plays a key role in disease prevention.
+
+---
+
+## 📌 7. Important Communicable Diseases
+
+---
+
+### 🔹 Tuberculosis (TB)
+
+Caused by bacteria *Mycobacterium tuberculosis*. It mainly affects lungs.
+
+**Symptoms:**
+Persistent cough, fever, weight loss
+
+**Prevention:**
+BCG vaccine, early diagnosis
+
+---
+
+### 🔹 Malaria
+
+Caused by *Plasmodium* parasite, transmitted by mosquitoes.
+
+**Symptoms:**
+Fever, chills, sweating
+
+**Prevention:**
+Mosquito control, use of nets
+
+---
+
+### 🔹 Dengue
+
+A viral disease spread by *Aedes* mosquito.
+
+**Symptoms:**
+High fever, joint pain
+
+**Prevention:**
+Avoid stagnant water
+
+---
+
+### 🔹 COVID-19
+
+Caused by coronavirus.
+
+**Transmission:**
+Airborne droplets
+
+**Prevention:**
+Vaccination, masks, hygiene
+
+---
+
+## 📌 8. Non-Communicable Diseases (NCDs)
+
+---
+
+### 🔹 Diabetes
+
+A metabolic disorder caused by high blood sugar levels.
+
+**Causes:**
+Lifestyle, genetics
+
+---
+
+### 🔹 Cancer
+
+Uncontrolled growth of abnormal cells.
+
+**Risk factors:**
+Smoking, pollution
+
+---
+
+### 🔹 Cardiovascular Diseases
+
+Includes heart attack and stroke.
+
+**Causes:**
+High cholesterol, hypertension
+
+---
+
+## 📌 9. Nutritional Deficiency Diseases
+
+Diseases caused due to lack of essential nutrients.
+
+* Vitamin A deficiency → Night blindness
+* Iron deficiency → Anemia
+* Vitamin D deficiency → Rickets
+
+Balanced diet is essential for prevention.
+
+---
+
+## 📌 10. Prevention and Control of Diseases
+
+### 🔹 Personal Hygiene
+
+Regular hand washing
+
+### 🔹 Public Health Measures
+
+Sanitation, clean water
+
+### 🔹 Vaccination
+
+Prevents infectious diseases
+
+### 🔹 Health Education
+
+Awareness programs
+
+---
+
+## 📌 11. Vaccination (Advanced Concept)
+
+Vaccination introduces weakened pathogens to stimulate immunity.
+
+### 🔹 Types
+
+* Live vaccines
+* Inactivated vaccines
+
+Vaccines have eradicated diseases like smallpox.
+
+---
+
+## 📌 12. Emerging and Re-emerging Diseases
+
+Emerging diseases are newly appearing diseases, while re-emerging diseases are those that were previously controlled but are increasing again.
+
+Examples: COVID-19, Drug-resistant TB
+
+---
+
+## 📌 13. Public Health System in India
+
+India has various programs to control diseases:
+
+* National Health Mission
+* Immunization programs
+* Disease surveillance systems
+
+---
+
+## 📌 14. Role of Technology in Disease Control
+
+### 🔹 AI in Healthcare
+
+Predicts disease outbreaks
+
+### 🔹 Biotechnology
+
+Development of vaccines
+
+### 🔹 Telemedicine
+
+Remote healthcare services
+
+---
+
+## 📌 15. Epidemiology (Advanced Concept)
+
+Epidemiology is the study of distribution and determinants of diseases in populations.
+
+### 🔹 Uses
+
+* Disease control
+* Policy making
+
+---
+
+# HUMAN BODY & IMMUNITY 
+
+---
+
+## 📌 16. Human Body Defense System (Overview)
+
+The human body has a highly advanced and organized defense mechanism to protect itself from harmful pathogens such as bacteria, viruses, fungi, and parasites. This defense system is known as the immune system. It functions through a combination of physical barriers, cellular responses, and chemical reactions.
+
+The immune system not only identifies and destroys foreign invaders but also remembers them, providing long-term protection. This memory is the basis of vaccination and acquired immunity.
+
+---
+
+## 📌 17. First Line of Defense (Physical and Chemical Barriers)
+
+The first line of defense prevents pathogens from entering the body.
+
+### 🔹 Skin
+
+The skin acts as a physical barrier. Its outer layer prevents the entry of microorganisms. Sweat and sebum also have antimicrobial properties.
+
+### 🔹 Mucous Membranes
+
+Found in the respiratory, digestive, and reproductive systems. They trap pathogens using mucus.
+
+### 🔹 Secretions
+
+* Tears contain lysozyme, which destroys bacteria
+* Saliva kills microbes
+* Stomach acid destroys harmful organisms
+
+These barriers provide non-specific protection against all pathogens.
+
+---
+
+## 📌 18. Second Line of Defense (Innate Immunity)
+
+If pathogens cross the first line, the body activates innate immunity.
+
+### 🔹 Characteristics
+
+* Non-specific
+* Immediate response
+* No memory
+
+---
+
+### 🔹 Components
+
+#### 1. Phagocytes
+
+White blood cells that engulf and destroy pathogens (phagocytosis).
+
+#### 2. Natural Killer Cells
+
+Destroy infected or cancerous cells.
+
+#### 3. Inflammation
+
+A protective response causing redness, swelling, heat, and pain. It helps isolate infection and promote healing.
+
+#### 4. Fever
+
+Raises body temperature to inhibit pathogen growth.
+
+---
+
+## 📌 19. Third Line of Defense (Adaptive Immunity)
+
+Adaptive immunity is a specific defense system that targets particular pathogens.
+
+### 🔹 Characteristics
+
+* Specific response
+* Memory-based
+* Slower initial response
+
+---
+
+### 🔹 Types
+
+#### 1. Humoral Immunity
+
+Mediated by B-cells that produce antibodies.
+
+#### 2. Cell-Mediated Immunity
+
+Mediated by T-cells that destroy infected cells.
+
+---
+
+## 📌 20. Antigens and Antibodies
+
+### 🔹 Antigens
+
+Foreign substances that trigger immune response.
+
+### 🔹 Antibodies
+
+Proteins produced by B-cells that bind to antigens and neutralize them.
+
+Antigen-antibody interaction is highly specific, similar to a lock-and-key mechanism.
+
+---
+
+## 📌 21. Types of Immunity
+
+---
+
+### 🔹 Innate Immunity
+
+Present from birth, non-specific.
+
+---
+
+### 🔹 Acquired Immunity
+
+#### Active Immunity
+
+Develops after infection or vaccination.
+
+#### Passive Immunity
+
+Transferred from mother to child or through antibodies.
+
+---
+
+## 📌 22. Immune Memory
+
+Once the body encounters a pathogen, memory cells are formed. These cells recognize the pathogen quickly in future infections, leading to a faster and stronger response.
+
+This concept is the foundation of booster doses in vaccination.
+
+---
+
+## 📌 23. Vaccination (Advanced Understanding)
+
+Vaccines stimulate the immune system without causing disease.
+
+### 🔹 Types of Vaccines
+
+* Live attenuated vaccines
+* Inactivated vaccines
+* mRNA vaccines
+
+Vaccination has led to eradication of diseases like smallpox and control of polio.
+
+---
+
+## 📌 24. Autoimmune Diseases
+
+Autoimmune diseases occur when the immune system mistakenly attacks the body’s own cells.
+
+### 🔹 Examples
+
+* Rheumatoid arthritis
+* Type 1 diabetes
+
+These diseases require long-term management.
+
+---
+
+## 📌 25. Allergies and Hypersensitivity
+
+Allergies are exaggerated immune responses to harmless substances.
+
+### 🔹 Causes
+
+Dust, pollen, food
+
+### 🔹 Symptoms
+
+Sneezing, itching, inflammation
+
+---
+
+## 📌 26. Immunodeficiency Disorders
+
+These occur when the immune system is weak or absent.
+
+### 🔹 Types
+
+* Primary (genetic)
+* Secondary (caused by infections like HIV)
+
+---
+
+## 📌 27. HIV/AIDS (Advanced Concept)
+
+HIV attacks the immune system, specifically T-cells.
+
+### 🔹 Effects
+
+Weakens immunity → body becomes vulnerable to infections
+
+### 🔹 Transmission
+
+* Blood transfusion
+* Unprotected sex
+* Mother to child
+
+---
+
+## 📌 28. Role of White Blood Cells (WBCs)
+
+WBCs are the main components of the immune system.
+
+### 🔹 Types
+
+* Neutrophils
+* Lymphocytes (B-cells, T-cells)
+* Monocytes
+
+They identify and destroy pathogens.
+
+---
+
+## 📌 29. Inflammation and Healing
+
+Inflammation is a protective response that isolates infection and initiates healing.
+
+### 🔹 Steps
+
+* Injury
+* Immune response activation
+* Tissue repair
+
+---
+
+## 📌 30. Role of Nutrition in Immunity
+
+Proper nutrition strengthens the immune system.
+
+### 🔹 Important Nutrients
+
+* Vitamin C → boosts immunity
+* Protein → antibody production
+* Zinc → immune cell function
+
+---
+
+## 📌 31. Modern Advances in Immunology
+
+### 🔹 Immunotherapy
+
+Used in cancer treatment
+
+### 🔹 Monoclonal Antibodies
+
+Target specific pathogens
+
+### 🔹 AI in Disease Prediction
+
+Predicts outbreaks and improves diagnosis
+
+---
+
+## 📌 32. Herd Immunity
+
+When a large portion of population becomes immune, disease spread reduces.
+
+This protects even those who are not vaccinated.
+
+---
+
+## 📌 33. Immune Response Process (Step-by-Step)
+
+1. Pathogen enters body
+2. Recognition by immune system
+3. Activation of immune cells
+4. Destruction of pathogen
+5. Memory formation
+
+---
+

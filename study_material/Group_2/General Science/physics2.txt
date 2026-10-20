@@ -1,0 +1,719 @@
+TNPSC GROUP 2 / 2A – PHYSICS
+LAWS & FORMULA
+============================================================
+1. PHYSICAL QUANTITIES, SI UNITS AND DIMENSIONS
+============================================================
+
+1.1 Fundamental SI quantities
+- Length: metre (m), dimension [L]
+- Mass: kilogram (kg), dimension [M]
+- Time: second (s), dimension [T]
+- Electric current: ampere (A)
+- Thermodynamic temperature: kelvin (K)
+- Amount of substance: mole (mol)
+- Luminous intensity: candela (cd)
+
+1.2 Common derived quantities
+- Area = length × breadth; unit m²; dimension [L²]
+- Volume = length × breadth × height; unit m³; dimension [L³]
+- Speed/velocity = displacement or distance per time; unit m s⁻¹; dimension [LT⁻¹]
+- Acceleration = change in velocity / time; unit m s⁻²; dimension [LT⁻²]
+- Force = mass × acceleration; unit newton (N); dimension [MLT⁻²]
+- Momentum = mass × velocity; unit kg m s⁻¹; dimension [MLT⁻¹]
+- Work/energy = force × displacement; unit joule (J); dimension [ML²T⁻²]
+- Power = work / time; unit watt (W); dimension [ML²T⁻³]
+- Pressure = force / area; unit pascal (Pa); dimension [ML⁻¹T⁻²]
+- Density = mass / volume; unit kg m⁻³; dimension [ML⁻³]
+- Frequency = number of oscillations / time; unit hertz (Hz); dimension [T⁻¹]
+- Electric charge = current × time; unit coulomb (C)
+- Potential difference = work / charge; unit volt (V)
+- Resistance = potential difference / current; unit ohm (Ω)
+- Power of a lens = 1 / focal length in metres; unit dioptre (D)
+
+1.3 Prefixes to remember
+- kilo (k) = 10³
+- mega (M) = 10⁶
+- giga (G) = 10⁹
+- centi (c) = 10⁻²
+- milli (m) = 10⁻³
+- micro (µ) = 10⁻⁶
+- nano (n) = 10⁻⁹
+
+1.4 Dimensional checks
+An equation must be dimensionally consistent: the dimensions on the left and right sides must match. Dimensional analysis can check consistency, but it cannot determine a dimensionless numerical constant or prove that an equation is physically correct in every respect.
+
+============================================================
+2. MOTION AND KINEMATICS
+============================================================
+
+2.1 Basic definitions
+- Distance: total path length; scalar.
+- Displacement: directed change from initial to final position; vector.
+- Speed = distance / time.
+- Average speed = total distance / total time.
+- Velocity = displacement / time.
+- Average velocity = total displacement / total time.
+- Acceleration = change in velocity / time.
+
+2.2 Uniform acceleration equations
+For straight-line motion with constant acceleration:
+1. v = u + at
+2. s = ut + ½at²
+3. v² = u² + 2as
+4. s = (u + v)t / 2
+
+Symbols:
+u = initial velocity (m/s)
+v = final velocity (m/s)
+a = acceleration (m/s²)
+t = time (s)
+s = displacement (m)
+
+These equations are not generally valid when acceleration changes unpredictably with time.
+
+2.3 Graphs
+- Slope of a displacement–time graph = velocity.
+- Slope of a velocity–time graph = acceleration.
+- Area under a velocity–time graph = displacement.
+- Area under a speed–time graph = distance travelled (for non-negative speed).
+
+2.4 Circular motion
+- Frequency: f = number of revolutions / time.
+- Time period: T = 1/f.
+- Angular speed: ω = 2π/T = 2πf.
+- Linear speed: v = rω.
+- Centripetal acceleration: a_c = v²/r = rω².
+- Centripetal force: F_c = mv²/r = mrω².
+The centripetal force is directed towards the centre of the circular path.
+
+2.5 Relative speed
+- Same direction: relative speed = difference between speeds.
+- Opposite directions: relative speed = sum of speeds.
+Use consistent units before calculating.
+
+============================================================
+3. NEWTON’S LAWS, FORCE AND MOMENTUM
+============================================================
+
+3.1 Newton’s First Law (law of inertia)
+An object remains at rest or continues in uniform straight-line motion unless acted upon by a net external force. Inertia is the tendency to resist a change in motion. Mass is a measure of inertia.
+
+3.2 Newton’s Second Law
+Net force equals the rate of change of momentum. For constant mass:
+F = ma
+Impulse J = FΔt (for constant force)
+More generally, impulse = change in momentum:
+J = Δp = mv − mu
+Unit of impulse: N s, equivalent to kg m s⁻¹.
+
+3.3 Newton’s Third Law
+For every action there is an equal and opposite reaction. The two forces act on different bodies, so they do not cancel each other on a single-body free-body diagram.
+
+3.4 Momentum
+p = mv
+Conservation of momentum: if the net external force on a system is zero, total momentum remains constant.
+For two bodies in a one-dimensional interaction:
+m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂
+Choose a sign convention for directions.
+
+3.5 Friction
+- Friction acts opposite to relative motion or its tendency.
+- Limiting friction: F_lim = μ_s N
+- Kinetic friction (simple model): F_k = μ_k N
+μ_s and μ_k are coefficients of friction; N is the normal reaction.
+Usually μ_k is less than μ_s for the same pair of surfaces, but real surfaces can vary.
+
+3.6 Equilibrium and torque
+- Translational equilibrium: net force = 0.
+- Rotational equilibrium: net torque = 0.
+- Torque magnitude: τ = rF sinθ.
+- For perpendicular force: τ = F × perpendicular distance.
+Unit: N m.
+Principle of moments: in rotational equilibrium, total clockwise moment equals total anticlockwise moment about the same point.
+
+3.7 Hooke’s law (within elastic limit)
+Stress ∝ strain.
+Young’s modulus = longitudinal stress / longitudinal strain.
+Bulk modulus = pressure change / volumetric strain (magnitude convention).
+Shear modulus = shear stress / shear strain.
+Spring form: F = −kx; the negative sign shows restoring force direction.
+Spring potential energy: U = ½kx².
+
+============================================================
+4. WORK, ENERGY AND POWER
+============================================================
+
+4.1 Work
+For constant force:
+W = Fs cosθ
+If force and displacement are in the same direction: W = Fs.
+If perpendicular: W = 0.
+If opposite: work done by the force is negative.
+Unit: joule (J).
+
+4.2 Kinetic and potential energy
+- Kinetic energy: KE = ½mv²
+- Gravitational potential energy near Earth: PE = mgh
+- Elastic potential energy in a spring: PE = ½kx²
+- Mechanical energy = KE + PE (when those are the relevant forms).
+Law of conservation of energy: energy is transferred or transformed; total energy of an isolated system is conserved.
+
+4.3 Power
+- Average power: P = W/t
+- For a force parallel to velocity: P = Fv
+- General instantaneous mechanical power: P = F·v
+Unit: watt (W).
+1 kW = 1000 W.
+1 horsepower is approximately 746 W (mechanical horsepower).
+
+4.4 Efficiency
+Efficiency = (useful output energy or power / total input energy or power) × 100%.
+Efficiency cannot exceed 100% for an ordinary energy-conversion device when all inputs and outputs are counted correctly.
+
+============================================================
+5. GRAVITATION AND CIRCULAR MOTION
+============================================================
+
+5.1 Newton’s universal law of gravitation
+F = Gm₁m₂/r²
+G = universal gravitational constant ≈ 6.67 × 10⁻¹¹ N m² kg⁻².
+r is the distance between the centres of the two masses.
+
+5.2 Acceleration due to gravity
+- Weight: W = mg
+- Near Earth’s surface: g ≈ 9.8 m/s² (often approximated as 10 m/s² in simple problems).
+- At distance r from Earth’s centre: g = GM/r².
+- At height h above Earth: g_h = GM/(R+h)².
+- At depth d below the surface, the simplified uniform-density model gives g_d ≈ g(1 − d/R). This is an idealised model.
+
+5.3 Mass and weight
+- Mass measures inertia and is measured in kg; it is approximately constant with location.
+- Weight is gravitational force, measured in newtons; W = mg and varies with g.
+
+5.4 Satellites and orbital motion
+For a circular orbit:
+- Orbital speed: v = √(GM/r)
+- Orbital period: T = 2π√(r³/GM)
+- Escape speed from a spherical body (ignoring atmosphere and rotation): v_e = √(2GM/R) = √(2gR) near the surface.
+- Gravitational potential energy for two masses: U = −GMm/r, taking zero at infinity.
+- Gravitational potential per unit mass: φ = −GM/r.
+For an ideal circular satellite orbit, total mechanical energy = −GMm/(2r).
+
+============================================================
+6. PRESSURE, DENSITY AND FLUID LAWS
+============================================================
+
+6.1 Density and relative density
+- Density: ρ = m/V.
+- Relative density = density of substance / density of reference water (for solids/liquids, commonly at a specified reference temperature); it is dimensionless.
+
+6.2 Pressure
+- Pressure: P = F/A for force normal to a surface.
+- Liquid pressure at depth h: P_gauge = ρgh.
+- Absolute pressure = atmospheric pressure + gauge pressure.
+- Pressure in a static fluid increases with depth and density.
+
+6.3 Pascal’s law
+A pressure change applied to an enclosed fluid is transmitted undiminished throughout the fluid and to the container walls.
+Hydraulic press/lift ideal relation:
+F₁/A₁ = F₂/A₂
+Thus F₂ = F₁(A₂/A₁), neglecting losses.
+
+6.4 Archimedes’ principle and buoyancy
+An immersed body experiences an upward buoyant force equal to the weight of the fluid displaced:
+F_b = ρ_fluid V_displaced g.
+- A body floats when buoyancy balances its weight.
+- Fraction submerged for a floating uniform object: V_submerged/V_total = ρ_object/ρ_fluid.
+
+6.5 Continuity equation and Bernoulli’s principle
+For steady incompressible flow:
+A₁v₁ = A₂v₂.
+For ideal steady flow of an incompressible, non-viscous fluid along a streamline:
+P + ½ρv² + ρgh = constant.
+This is Bernoulli’s equation; practical applications require attention to assumptions and energy losses.
+
+6.6 Stokes’ law
+For a small sphere moving slowly through a viscous fluid under laminar-flow conditions:
+F_d = 6πηrv
+η = dynamic viscosity, r = sphere radius, v = relative speed.
+Terminal speed depends on gravity, buoyancy, size, and viscosity.
+
+============================================================
+7. ELASTICITY, SURFACE TENSION AND VISCOSITY
+============================================================
+
+7.1 Stress and strain
+- Stress = force / area; unit Pa.
+- Longitudinal strain = change in length / original length; dimensionless.
+- Young’s modulus Y = longitudinal stress / longitudinal strain.
+- Elastic limit: greatest deformation range over which a body returns to its original form after the deforming force is removed (ideal description).
+
+7.2 Surface tension
+Surface tension is force per unit length along a liquid surface:
+γ = F/L (for a single line of contact under the usual definition).
+Unit: N/m.
+Surface energy per unit area is numerically equal to surface tension for a simple liquid interface.
+Small liquid drops tend to be spherical because this reduces surface area for a given volume.
+
+7.3 Capillary rise
+For a circular capillary tube:
+h = 2γ cosθ/(ρgr)
+γ = surface tension; θ = contact angle; ρ = liquid density; r = tube radius.
+For water wetting clean glass, cosθ is close to 1. Capillary rise is greater in narrower tubes under the same conditions.
+
+7.4 Viscosity
+Dynamic viscosity η measures resistance to relative flow between fluid layers.
+For Newtonian fluids, shear stress is proportional to velocity gradient.
+Kinematic viscosity ν = η/ρ; unit m²/s.
+
+============================================================
+8. HEAT AND THERMAL PHYSICS
+============================================================
+
+8.1 Temperature conversions
+- Kelvin: T(K) = t(°C) + 273.15.
+- Celsius: t(°C) = T(K) − 273.15.
+- Fahrenheit: F = (9/5)C + 32.
+- Celsius: C = (5/9)(F − 32).
+Absolute zero = 0 K = −273.15 °C.
+
+8.2 Heat and specific heat capacity
+- Heat gained/lost without phase change: Q = mcΔT.
+- Specific heat capacity: c = Q/(mΔT).
+- Unit of c: J kg⁻¹ K⁻¹.
+- Heat capacity: C = Q/ΔT = mc for a uniform sample.
+
+8.3 Latent heat
+During a phase change at constant pressure and transition temperature:
+Q = mL
+L = specific latent heat; unit J/kg.
+- Latent heat of fusion: solid ↔ liquid.
+- Latent heat of vaporisation: liquid ↔ gas.
+
+8.4 Thermal expansion
+- Linear expansion: ΔL = αL₀ΔT.
+- Area expansion (isotropic solid, small temperature change): ΔA ≈ 2αA₀ΔT.
+- Volume expansion (isotropic solid, small temperature change): ΔV ≈ 3αV₀ΔT.
+α = coefficient of linear expansion.
+The approximations for area and volume assume small expansion and isotropic material.
+
+8.5 Heat transfer
+- Conduction: transfer through matter without bulk movement.
+- Convection: transfer by bulk motion in fluids.
+- Radiation: transfer by electromagnetic waves; no material medium is required.
+Fourier’s law in one-dimensional form: heat-transfer rate is proportional to thermal conductivity, area and temperature gradient; for a uniform slab, rate ≈ kA(ΔT/L).
+
+8.6 Gas laws
+For a fixed amount of ideal gas:
+- Boyle’s law (constant T): P₁V₁ = P₂V₂.
+- Charles’s law (constant P): V₁/T₁ = V₂/T₂.
+- Pressure law (constant V): P₁/T₁ = P₂/T₂.
+- Combined gas law: P₁V₁/T₁ = P₂V₂/T₂.
+Temperatures must be in kelvin.
+- Ideal gas equation: PV = nRT.
+R = universal gas constant ≈ 8.314 J mol⁻¹ K⁻¹.
+
+8.7 Thermodynamics
+- First law: ΔU = Q − W, where W is work done by the system.
+- For a cyclic process, change in internal energy over a full cycle is zero.
+- At constant volume, expansion work is zero for a simple P–V process.
+- Heat naturally flows from higher to lower temperature; a refrigerator needs external work to transfer heat from a colder region to a warmer region.
+
+============================================================
+9. WAVES AND SOUND
+============================================================
+
+9.1 Wave equation
+v = fλ
+v = wave speed; f = frequency; λ = wavelength.
+- Period: T = 1/f.
+- Angular frequency: ω = 2πf.
+- Wave number: k = 2π/λ.
+- For a travelling sinusoidal wave: y = A sin(kx − ωt + φ) is one common form.
+
+9.2 Sound
+Sound is a mechanical wave and requires a medium. In air under ordinary conditions it is longitudinal.
+- Approximate speed in air near 20°C: 343 m/s (varies with temperature and conditions).
+- Echo distance: d = vt/2, where t is the total time for the sound to travel to the reflecting surface and back.
+- Minimum time gap for a distinct echo is commonly taken as about 0.1 s in basic school problems; actual perception depends on conditions.
+- Ultrasound: frequency greater than 20 kHz.
+- Infrasound: frequency less than 20 Hz.
+- Audible range for a typical young human: approximately 20 Hz–20 kHz; individual hearing varies.
+
+9.3 String and air-column relations
+For a stretched string fixed at both ends:
+- Fundamental frequency: f₁ = v/(2L).
+- Harmonics: f_n = nv/(2L), n = 1,2,3…
+For an ideal pipe open at both ends:
+- Fundamental: f₁ = v/(2L).
+For an ideal pipe closed at one end:
+- Fundamental: f₁ = v/(4L); odd harmonics only in the ideal model.
+End correction may be needed in real pipes.
+
+9.4 Intensity and decibels
+- Intensity I = power / area.
+- For a point source spreading uniformly in free space, I ∝ 1/r².
+- Sound level: β = 10 log₁₀(I/I₀) dB, with reference intensity I₀ conventionally 10⁻¹² W/m² in air.
+Decibels are logarithmic; a rise of 10 dB corresponds to ten times the intensity.
+
+============================================================
+10. LIGHT, MIRRORS AND LENSES
+============================================================
+
+10.1 Reflection
+- Angle of incidence = angle of reflection.
+- Incident ray, reflected ray and normal lie in the same plane.
+- Plane mirror: image is virtual, erect, same size, laterally inverted; image distance equals object distance in magnitude.
+
+10.2 Spherical mirrors
+Using the common Cartesian sign convention:
+- Mirror formula: 1/f = 1/v + 1/u.
+- Magnification: m = h_i/h_o = −v/u.
+- Radius of curvature: R = 2f (for a spherical mirror, paraxial approximation).
+The sign of u, v and f must follow one consistent convention.
+
+10.3 Refraction
+- Snell’s law: n₁ sin i = n₂ sin r.
+- Refractive index: n = c/v (for a medium, relative to vacuum).
+- For air-to-medium approximately: n ≈ sin i/sin r.
+- Total internal reflection requires light to travel from optically denser to optically rarer medium and incidence angle greater than the critical angle.
+- Critical angle for denser medium to air: sin C = 1/n, when air’s refractive index is approximated as 1.
+
+10.4 Thin lenses
+Using the common Cartesian sign convention:
+- Lens formula: 1/f = 1/v − 1/u.
+- Magnification: m = h_i/h_o = v/u.
+- Power: P = 1/f (f in metres), unit dioptre.
+- Lenses in contact: P_total = P₁ + P₂ + …
+A converging (convex) lens has positive focal length in the usual convention; a diverging (concave) lens has negative focal length.
+
+10.5 Lens maker’s formula
+For a thin lens in air:
+1/f = (n − 1)(1/R₁ − 1/R₂), using the usual sign convention for radii of curvature.
+
+10.6 Dispersion and optical effects
+- Dispersion: splitting of white light into component colours because refractive index depends on wavelength.
+- In a glass prism under ordinary dispersion, violet light deviates more than red.
+- Scattering intensity for very small particles in the Rayleigh regime varies approximately as 1/λ⁴; shorter wavelengths scatter more strongly.
+- A rainbow involves refraction, dispersion and internal reflection in water droplets.
+
+============================================================
+11. ELECTRICITY AND ELECTRIC CIRCUITS
+============================================================
+
+11.1 Charge and current
+- Charge: Q = It for constant current.
+- Current: I = Q/t.
+- Conventional current direction is the direction positive charge would move; in metal wires electron drift is opposite.
+- Charge is measured in coulombs (C); current in amperes (A).
+
+11.2 Potential difference and Ohm’s law
+- Potential difference: V = W/Q.
+- Ohm’s law: V = IR, for a conductor under constant physical conditions.
+- Resistance: R = V/I.
+- Resistivity: ρ = RA/L.
+- Conductance: G = 1/R.
+- Conductivity: σ = 1/ρ.
+Unit of resistivity: Ω m; conductivity: S/m.
+
+11.3 Series and parallel resistors
+Series:
+- R_eq = R₁ + R₂ + …
+- Same current passes through each resistor.
+- Supply voltage is divided among components.
+Parallel:
+- 1/R_eq = 1/R₁ + 1/R₂ + …
+- Same potential difference across each branch.
+- Total current is the sum of branch currents.
+For two resistors in parallel: R_eq = R₁R₂/(R₁ + R₂).
+
+11.4 Electrical power and energy
+- P = VI
+- P = I²R
+- P = V²/R
+- Electrical energy: E = Pt = VIt.
+- Heating effect: H = I²Rt for a resistor with constant resistance.
+- 1 kilowatt-hour (kWh) = 3.6 × 10⁶ J.
+A kWh is a unit of energy, not power.
+
+11.5 Cells and internal resistance
+For a cell with emf ε and internal resistance r delivering current I:
+- Terminal voltage V = ε − Ir (discharging).
+- Simple circuit current: I = ε/(R + r).
+For cells in series, emfs add algebraically; for identical cells in parallel, ideal equivalent emf stays the same while effective internal resistance decreases.
+
+11.6 Kirchhoff’s laws
+- Junction rule: total current entering a junction equals total current leaving it (charge conservation).
+- Loop rule: algebraic sum of potential changes around a closed loop is zero (energy conservation).
+Choose current directions and voltage signs consistently.
+
+============================================================
+12. MAGNETISM AND ELECTROMAGNETIC INDUCTION
+============================================================
+
+12.1 Magnetic force
+- Force on a straight current-carrying conductor: F = BIL sinθ.
+- Magnetic force on a moving charge: F = qvB sinθ.
+- Circular path radius for a charged particle moving perpendicular to a uniform magnetic field: r = mv/(|q|B).
+- Magnetic flux: Φ = BA cosθ for a uniform field through a flat area, where θ is between B and the area normal.
+SI unit of magnetic flux: weber (Wb).
+
+12.2 Electromagnetic induction
+Faraday’s law:
+- Induced emf ε = −N(dΦ/dt), for N turns.
+The minus sign represents Lenz’s law: the induced effect opposes the change in magnetic flux that produces it.
+- Motional emf for a rod of length L moving perpendicular to a uniform magnetic field: ε = BLv.
+- Transformer ideal ratio: V_s/V_p = N_s/N_p.
+- For an ideal transformer: V_p I_p ≈ V_s I_s.
+A transformer changes AC voltage; it does not operate by steady DC in the normal way because changing flux is required.
+
+12.3 Electric motor and generator
+- Motor: electrical energy → mechanical energy.
+- Generator: mechanical energy → electrical energy.
+- Electromagnetic induction is the operating principle of a generator.
+- Fleming’s left-hand rule: direction of force/motion in a motor.
+- Fleming’s right-hand rule: direction of induced current in a generator.
+- Right-hand thumb rule: magnetic field direction around a straight current-carrying conductor.
+
+12.4 Alternating current
+For sinusoidal AC:
+- V_rms = V₀/√2.
+- I_rms = I₀/√2.
+- Average power for a resistive load: P = V_rms I_rms.
+For a general AC circuit: P_avg = V_rms I_rms cosφ, where cosφ is the power factor.
+
+============================================================
+13. ELECTRONICS AND COMMUNICATION
+============================================================
+
+13.1 Basic semiconductor ideas
+- Semiconductor conductivity lies between that of a conductor and an insulator and changes with temperature, doping and illumination.
+- n-type semiconductor: donor doping provides electrons as majority carriers.
+- p-type semiconductor: acceptor doping produces holes as majority carriers.
+- A p–n junction diode conducts strongly in forward bias and offers high resistance in reverse bias under ordinary conditions (ignoring breakdown and leakage).
+- Rectifier: converts AC into pulsating DC.
+- Transistor: can act as an amplifier or switch.
+- LED: emits light when forward biased.
+- Photodiode: converts incident light into an electrical signal.
+- Solar cell: converts light energy into electrical energy through the photovoltaic effect.
+
+13.2 Communication
+- Information can be transmitted using electromagnetic waves.
+- Modulation changes a carrier-wave property according to the information signal.
+- AM: amplitude of carrier varies.
+- FM: frequency of carrier varies.
+- Digital communication represents information using discrete symbols/bits.
+- Optical fibre guides light mainly by total internal reflection.
+- Laser light is highly directional, coherent and often nearly monochromatic compared with ordinary light.
+
+============================================================
+14. ATOMIC AND NUCLEAR PHYSICS
+============================================================
+
+14.1 Photon and quantum relations
+- Photon energy: E = hf = hc/λ.
+- Planck constant: h ≈ 6.626 × 10⁻³⁴ J s.
+- Speed of light in vacuum: c ≈ 3.00 × 10⁸ m/s.
+- Photoelectric equation: K_max = hf − φ, when photon energy exceeds work function φ.
+- de Broglie wavelength: λ = h/p for a particle with momentum p.
+
+14.2 Radioactivity
+- Radioactive decay law: N = N₀e^(−λt).
+- Activity: A = λN.
+- Half-life: T₁/₂ = ln 2/λ ≈ 0.693/λ.
+- After n half-lives: N = N₀(1/2)^n.
+Radioactive decay is spontaneous and, for ordinary conditions, is not controlled by temperature or pressure in the way chemical reaction rates are.
+
+14.3 Nuclear energy
+- Mass–energy relation: E = mc².
+- Mass defect: Δm = (sum of separated nucleon masses) − (actual nuclear mass), with care about electron masses in the chosen convention.
+- Binding energy: BE = Δm c².
+- Nuclear fission: a heavy nucleus splits into lighter nuclei, releasing energy in suitable reactions.
+- Nuclear fusion: light nuclei combine to form a heavier nucleus, releasing energy in suitable reactions.
+- Alpha radiation: helium nucleus; charge +2e; relatively high ionising power and low penetration.
+- Beta-minus radiation: electron; charge −e; moderate penetration compared with alpha.
+- Gamma radiation: high-energy electromagnetic radiation; no electric charge; high penetration relative to alpha and beta.
+Radiation safety depends on type, energy, exposure time, distance and shielding.
+
+============================================================
+15. ASTRONOMY AND USEFUL CONSTANTS
+============================================================
+
+15.1 Distances and units
+- Astronomical unit (AU): mean Earth–Sun distance, approximately 1.496 × 10¹¹ m.
+- Light-year: distance light travels in one year, approximately 9.46 × 10¹⁵ m.
+- Parsec: approximately 3.086 × 10¹⁶ m, about 3.26 light-years.
+
+15.2 Useful constants (approximate)
+- g near Earth’s surface: 9.8 m/s²
+- G: 6.67 × 10⁻¹¹ N m² kg⁻²
+- c: 3.00 × 10⁸ m/s
+- h: 6.626 × 10⁻³⁴ J s
+- Elementary charge e: 1.602 × 10⁻¹⁹ C
+- Electron mass: 9.11 × 10⁻³¹ kg
+- Proton mass: 1.67 × 10⁻²⁷ kg
+- Avogadro constant: 6.022 × 10²³ mol⁻¹
+- Universal gas constant R: 8.314 J mol⁻¹ K⁻¹
+- Standard atmospheric pressure: approximately 1.013 × 10⁵ Pa
+- Speed of sound in air near 20°C: approximately 343 m/s
+
+============================================================
+16. QUICK LAW-TO-SCIENTIST REVISION TABLE
+============================================================
+
+Law / principle — Scientist commonly associated — Core idea
+- Newton’s laws of motion — Isaac Newton — relationship between force and motion
+- Universal gravitation — Isaac Newton — attraction between masses
+- Hooke’s law — Robert Hooke — elastic deformation proportional to force within limit
+- Pascal’s law — Blaise Pascal — pressure transmission in enclosed fluid
+- Archimedes’ principle — Archimedes — buoyant force equals displaced-fluid weight
+- Bernoulli’s principle — Daniel Bernoulli — pressure, speed and height relation in ideal flow
+- Stokes’ law — George Gabriel Stokes — viscous drag on a small sphere in slow flow
+- Boyle’s law — Robert Boyle — pressure inversely proportional to volume at fixed temperature
+- Charles’s law — Jacques Charles (commonly credited) — volume proportional to absolute temperature at fixed pressure
+- Ohm’s law — Georg Simon Ohm — V = IR under constant physical conditions
+- Joule heating law — James Prescott Joule — heat generated ∝ I²Rt
+- Faraday’s law of induction — Michael Faraday — changing flux induces emf
+- Lenz’s law — Heinrich Lenz — induced effect opposes the change causing it
+- Laws of reflection — experimental/geometric optics principle — angle of incidence equals angle of reflection
+- Snell’s law — Willebrord Snellius — refraction relation between angles and refractive indices
+- Planck relation — Max Planck — photon energy proportional to frequency
+- Photoelectric explanation — Albert Einstein — light quanta explain photoelectric effect
+- Mass–energy equivalence — Albert Einstein — E = mc²
+
+============================================================
+17. FORMULA CHECKLIST AND COMMON EXAM TRAPS
+============================================================
+
+FORMULA CHECKLIST
+Motion:
+- v = u + at
+- s = ut + ½at²
+- v² = u² + 2as
+- v = fλ
+- a_c = v²/r
+- F_c = mv²/r
+
+Force and energy:
+- F = ma
+- p = mv
+- J = Δp
+- W = Fs cosθ
+- KE = ½mv²
+- PE = mgh
+- P = W/t
+- P = Fv
+- η_efficiency = useful output/input × 100%
+
+Gravity and fluids:
+- F = Gm₁m₂/r²
+- W = mg
+- g = GM/r²
+- P = F/A
+- P_liquid = ρgh
+- F_b = ρVg
+- F₁/A₁ = F₂/A₂
+- A₁v₁ = A₂v₂
+- P + ½ρv² + ρgh = constant
+
+Heat and gases:
+- Q = mcΔT
+- Q = mL
+- ΔL = αL₀ΔT
+- PV = nRT
+- P₁V₁ = P₂V₂ (constant T)
+- V₁/T₁ = V₂/T₂ (constant P)
+- P₁/T₁ = P₂/T₂ (constant V)
+
+Optics:
+- 1/f = 1/v + 1/u (mirror; stated convention)
+- 1/f = 1/v − 1/u (thin lens; stated convention)
+- m = −v/u (mirror)
+- m = v/u (lens)
+- n₁ sin i = n₂ sin r
+- P_lens = 1/f (f in metres)
+
+Electricity and magnetism:
+- Q = It
+- V = IR
+- R = ρL/A
+- P = VI = I²R = V²/R
+- E = Pt
+- H = I²Rt
+- F = BIL sinθ
+- Φ = BA cosθ
+- ε = −N(dΦ/dt)
+- V_s/V_p = N_s/N_p
+
+Modern physics:
+- E_photon = hf = hc/λ
+- λ_de Broglie = h/p
+- E = mc²
+- T_half = 0.693/λ
+
+COMMON EXAM TRAPS
+1. Distance is scalar; displacement is vector.
+2. Speed is scalar; velocity is vector.
+3. Zero displacement does not necessarily mean zero distance.
+4. Action and reaction act on different bodies.
+5. Mass is measured in kg; weight is a force measured in N.
+6. Work can be zero even when a force acts, if displacement is perpendicular to that force.
+7. kWh is a unit of energy; kW is a unit of power.
+8. Heat and temperature are different physical quantities.
+9. Sound cannot travel through a vacuum; electromagnetic waves can.
+10. Frequency is measured in hertz; wavelength in metres.
+11. A convex lens usually converges parallel rays; a concave lens diverges them.
+12. Ohm’s law applies when physical conditions such as temperature remain constant.
+13. In a series circuit, current is common; in parallel, voltage is common.
+14. A transformer requires changing magnetic flux and normally works with AC.
+15. The minus sign in Faraday’s law represents Lenz’s law.
+16. Alpha particles are nuclei; gamma rays are electromagnetic waves.
+17. Always convert centimetres to metres and Celsius to kelvin where required.
+18. Lens/mirror formula signs depend on the sign convention; do not mix conventions.
+19. Use SI units consistently.
+20. Dimensional consistency is necessary but not sufficient to prove a formula.
+
+============================================================
+18. PRACTICE MCQs (10)
+============================================================
+
+1. A body starts from rest and accelerates uniformly at 2 m/s² for 5 s. Its final velocity is:
+A) 5 m/s  B) 10 m/s  C) 20 m/s  D) 25 m/s
+Answer: B. v = u + at = 0 + 2 × 5 = 10 m/s.
+
+2. Which quantity is equal to the area under a velocity–time graph?
+A) Acceleration  B) Force  C) Displacement  D) Momentum
+Answer: C. The signed area under the velocity–time graph gives displacement.
+
+3. A force of 20 N moves a body 3 m in the direction of the force. Work done is:
+A) 6 J  B) 17 J  C) 23 J  D) 60 J
+Answer: D. W = Fs = 20 × 3 = 60 J.
+
+4. The pressure at a point in a static liquid depends directly on:
+A) Colour of liquid  B) Depth and density  C) Shape of vessel only  D) Surface area only
+Answer: B. Gauge pressure is ρgh.
+
+5. A 100 W device operates for 2 hours. Electrical energy used is:
+A) 0.02 kWh  B) 0.2 kWh  C) 2 kWh  D) 200 kWh
+Answer: B. 100 W = 0.1 kW; energy = 0.1 × 2 = 0.2 kWh.
+
+6. If a wave has frequency 200 Hz and wavelength 1.5 m, its speed is:
+A) 75 m/s  B) 133.3 m/s  C) 201.5 m/s  D) 300 m/s
+Answer: D. v = fλ = 200 × 1.5 = 300 m/s.
+
+7. A lens has focal length +0.5 m. Its power is:
+A) −2 D  B) +0.5 D  C) +2 D  D) +5 D
+Answer: C. P = 1/f = 1/0.5 = +2 D.
+
+8. Two resistors of 6 Ω and 3 Ω are connected in parallel. Equivalent resistance is:
+A) 9 Ω  B) 3 Ω  C) 2 Ω  D) 18 Ω
+Answer: C. R = (6 × 3)/(6 + 3) = 18/9 = 2 Ω.
+
+9. Which law describes the direction of induced current opposing the change in magnetic flux?
+A) Ohm’s law  B) Lenz’s law  C) Pascal’s law  D) Hooke’s law
+Answer: B. Lenz’s law expresses the opposition represented by the negative sign in Faraday’s law.
+
+10. The half-life of a radioactive sample is 4 days. The fraction remaining after 12 days is:
+A) 1/2  B) 1/4  C) 1/8  D) 1/16
+Answer: C. Twelve days is three half-lives, so remaining fraction = (1/2)³ = 1/8.
+

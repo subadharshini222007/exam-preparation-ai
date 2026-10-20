@@ -1,0 +1,1725 @@
+
+==================================================
+UNIT 1: INTRODUCTION TO PARTS OF SPEECH
+==================================================
+
+1.1 MEANING OF PARTS OF SPEECH
+Parts of speech are the categories into which words are classified according to their function or use in a sentence. The same English word may belong to different parts of speech depending on how it is used in a sentence.
+
+Example:
+- "Water" is a noun in "Drink water."
+- "Water" is a verb in "Please water the plants."
+
+1.2 THE EIGHT PARTS OF SPEECH
+1. Noun - names a person, place, thing, animal or idea.
+   Examples: teacher, Chennai, book, dog, honesty.
+2. Pronoun - replaces a noun.
+   Examples: he, she, it, they, who, someone.
+3. Verb - expresses an action, occurrence or state of being.
+   Examples: run, write, is, become, seem.
+4. Adjective - describes or modifies a noun or pronoun.
+   Examples: beautiful, tall, five, Indian, this.
+5. Adverb - modifies a verb, adjective, another adverb or a whole sentence.
+   Examples: quickly, very, well, often, here.
+6. Preposition - shows the relationship between a noun/pronoun and another word.
+   Examples: in, on, at, by, with, between.
+7. Conjunction - joins words, phrases or clauses.
+   Examples: and, but, or, because, although.
+8. Interjection - expresses sudden feeling or emotion.
+   Examples: Oh!, Alas!, Hurrah!, Bravo!, Wow!
+
+Memory trick:
+N - Noun
+P - Pronoun
+V - Verb
+A - Adjective
+A - Adverb
+P - Preposition
+C - Conjunction
+I - Interjection
+
+1.3 HOW TO IDENTIFY PARTS OF SPEECH
+Do not identify a word only by its spelling. Always see its work in the sentence.
+
+Examples:
+- "She gave a quick answer." - "quick" is an adjective because it describes "answer".
+- "She answered quickly." - "quickly" is an adverb because it describes "answered".
+- "He is a fast runner." - "fast" is an adjective.
+- "He runs fast." - "fast" is an adverb.
+- "I like this book." - "this" is a demonstrative adjective.
+- "This is my book." - "this" is a demonstrative pronoun.
+
+1.4 BASIC SENTENCE PATTERN
+A simple English sentence usually has:
+Subject + Verb + Object
+Example: "The boy reads a book."
+- The boy = subject (noun phrase)
+- reads = verb
+- a book = object (noun phrase)
+
+==================================================
+UNIT 2: NOUN
+==================================================
+
+2.1 DEFINITION
+A noun is the name of a person, place, thing, animal, quality, action or idea.
+
+Examples:
+- Person: Ravi, doctor, teacher, girl
+- Place: Chennai, India, school, hospital
+- Thing: pen, book, car, mobile
+- Animal: dog, lion, elephant
+- Idea/quality: honesty, bravery, happiness, freedom
+- Action: laughter, movement, decision
+
+2.2 KINDS OF NOUNS
+(a) Proper Noun
+A proper noun is the special name of a particular person, place, animal or thing. It always begins with a capital letter.
+Examples: Tamil Nadu, Chennai, Ravi, India, Monday, Ganga, Taj Mahal.
+
+(b) Common Noun
+A common noun is the general name of a person, place, animal or thing.
+Examples: boy, city, country, river, school, animal.
+
+Proper noun vs common noun:
+- Chennai is a proper noun; city is a common noun.
+- India is a proper noun; country is a common noun.
+- Ganga is a proper noun; river is a common noun.
+
+(c) Collective Noun
+A collective noun is the name of a group of persons, animals or things taken as one unit.
+Examples: team, class, army, jury, committee, crowd, flock, herd, bunch, fleet.
+Examples in sentences:
+- The team has won the match.
+- A herd of cattle is grazing.
+- The jury has given its decision.
+
+(d) Material Noun
+A material noun is the name of a material or substance from which things are made.
+Examples: gold, silver, iron, cotton, wood, water, milk, rice, oil.
+Example: "This ring is made of gold."
+
+(e) Abstract Noun
+An abstract noun is the name of a quality, state, action or idea that cannot be seen or touched.
+Examples: honesty, kindness, bravery, childhood, poverty, love, freedom, anger, advice.
+Common abstract noun endings:
+- -ness: kindness, happiness, darkness
+- -ity: ability, cruelty, purity
+- -ty: honesty, beauty, safety
+- -th: truth, strength, growth
+- -ment: movement, agreement, development
+- -tion: education, action, decision
+- -hood: childhood, brotherhood, motherhood
+- -ship: friendship, leadership, citizenship
+- -ance/-ence: importance, difference, silence
+
+(f) Concrete Noun
+A concrete noun is the name of something that can be seen, touched, heard, smelt or tasted.
+Examples: book, tree, dog, water, sugar, music.
+
+2.3 COUNTABLE AND UNCOUNTABLE NOUNS
+(a) Countable nouns can be counted. They have singular and plural forms.
+Examples: book/books, boy/boys, chair/chairs, idea/ideas.
+
+(b) Uncountable nouns cannot be counted directly. They usually have no plural form and take a singular verb.
+Examples: water, milk, sugar, rice, information, advice, furniture, luggage, news, homework, equipment, scenery, machinery, poetry, jewellery, traffic, money.
+
+Important: "Furniture", "luggage", "information", "advice", "news", "homework", "machinery" and "equipment" are uncountable in English.
+
+Correct usage:
+- Correct: "She gave me some advice."
+- Incorrect: "She gave me some advices."
+- Correct: "The news is good."
+- Incorrect: "The news are good."
+- Correct: "The furniture is new."
+- Incorrect: "The furnitures are new."
+
+To show quantity of uncountable nouns, use expressions such as:
+- a piece of advice
+- a piece of information
+- an item of furniture
+- a loaf of bread
+- a bottle of water
+- a kilo of rice
+
+2.4 SINGULAR AND PLURAL NOUNS
+General rules:
+1. Most nouns add -s.
+   book - books, pen - pens, girl - girls.
+2. Nouns ending in -s, -ss, -sh, -ch, -x, -z add -es.
+   bus - buses, class - classes, dish - dishes, watch - watches, box - boxes.
+3. Nouns ending in consonant + y change y into i and add -es.
+   baby - babies, city - cities, story - stories.
+   But vowel + y adds only -s: boy - boys, day - days, key - keys.
+4. Some nouns ending in -f or -fe change into -ves.
+   leaf - leaves, knife - knives, wife - wives, life - lives, wolf - wolves.
+   Exceptions: roof - roofs, chief - chiefs, proof - proofs, belief - beliefs, cliff - cliffs.
+5. Nouns ending in -o:
+   Add -es in some words: tomato - tomatoes, potato - potatoes, hero - heroes, echo - echoes.
+   Add only -s in many words: photo - photos, piano - pianos, radio - radios, video - videos, zoo - zoos.
+6. Irregular plurals:
+   man - men, woman - women, child - children, foot - feet, tooth - teeth, mouse - mice, goose - geese, ox - oxen, person - people.
+7. Some nouns have the same singular and plural form:
+   sheep, deer, fish, series, species, aircraft, means.
+8. Some nouns are always plural:
+   scissors, trousers, spectacles, jeans, shorts, pajamas, belongings, surroundings, thanks, congratulations.
+   Example: "My trousers are new."
+
+2.5 GENDER OF NOUNS
+1. Masculine gender: man, boy, father, brother, king, lion.
+2. Feminine gender: woman, girl, mother, sister, queen, lioness.
+3. Common gender: teacher, doctor, student, friend, child, parent.
+4. Neuter gender: book, table, stone, car, tree.
+
+Common gender pairs:
+- boy - girl
+- man - woman
+- father - mother
+- brother - sister
+- son - daughter
+- husband - wife
+- uncle - aunt
+- nephew - niece
+- king - queen
+- hero - heroine
+- lion - lioness
+- tiger - tigress
+- actor - actress
+- waiter - waitress
+- prince - princess
+- wizard - witch
+
+2.6 CASE OF NOUNS
+1. Nominative case: the noun is the subject.
+   Example: "Ravi plays cricket."
+2. Objective/Accusative case: the noun receives the action.
+   Example: "Ravi plays cricket."
+3. Possessive case: the noun shows possession.
+   Example: "This is Ravi's book."
+
+Possessive case rules:
+1. Singular noun: add apostrophe + s.
+   Ravi's pen, the girl's bag, India's capital.
+2. Plural noun ending in -s: add only apostrophe.
+   boys' hostel, teachers' meeting, students' union.
+3. Irregular plural not ending in -s: add apostrophe + s.
+   children's park, men's room, women's college.
+4. For names ending in -s, usually add apostrophe + s.
+   James's book, Charles's car.
+
+2.7 IMPORTANT NOUN ERRORS FOR TNPSC
+1. "Cattle" takes a plural verb.
+   Correct: "The cattle are grazing."
+2. "Police" takes a plural verb.
+   Correct: "The police have arrested the thief."
+3. "People" takes a plural verb.
+   Correct: "Many people were present."
+4. "Scenery" is uncountable.
+   Correct: "The scenery is beautiful."
+5. "Hair" is usually uncountable.
+   Correct: "Her hair is long."
+6. "Bread" is uncountable.
+   Correct: "I bought two loaves of bread."
+7. "Paper" as material is uncountable; "a paper" means a newspaper or document.
+   Correct: "Please give me some paper."
+   Correct: "I read a paper yesterday."
+
+==================================================
+UNIT 3: PRONOUN
+==================================================
+
+3.1 DEFINITION
+A pronoun is a word used in place of a noun to avoid repetition.
+
+Example:
+- "Ravi is a doctor. He works in Chennai."
+Here "he" replaces "Ravi".
+
+3.2 KINDS OF PRONOUNS
+(a) Personal Pronouns
+Personal pronouns refer to persons or things.
+
+Subject pronouns: I, we, you, he, she, it, they.
+Object pronouns: me, us, you, him, her, it, them.
+Possessive adjectives: my, our, your, his, her, its, their.
+Possessive pronouns: mine, ours, yours, his, hers, its, theirs.
+Reflexive pronouns: myself, ourselves, yourself, himself, herself, itself, themselves.
+
+Examples:
+- I am a student.
+- She gave me a pen.
+- This book is mine.
+- He hurt himself.
+
+Important rule:
+After prepositions, use object pronouns.
+- Correct: "Between you and me."
+- Incorrect: "Between you and I."
+- Correct: "He gave the book to her."
+- Incorrect: "He gave the book to she."
+
+(b) Demonstrative Pronouns
+Demonstrative pronouns point out persons or things.
+Examples: this, that, these, those.
+- This is my pen. (near, singular)
+- That is your bag. (far, singular)
+- These are my books. (near, plural)
+- Those are your books. (far, plural)
+
+(c) Interrogative Pronouns
+Interrogative pronouns are used to ask questions.
+Examples: who, whom, whose, which, what.
+- Who came here?
+- Whom did you meet?
+- Whose book is this?
+- Which colour do you like?
+- What is your name?
+
+Who vs whom:
+- "Who" is used as subject.
+- "Whom" is used as object.
+Example:
+- Who wrote this letter?
+- Whom did you invite?
+
+(d) Relative Pronouns
+Relative pronouns connect a clause to a noun and relate it to the noun.
+Examples: who, whom, whose, which, that.
+- The man who came here is my uncle.
+- The book which I bought is interesting.
+- The girl whose father is a doctor is my friend.
+- The pen that you gave me is lost.
+
+Important uses:
+- "Who" is used for persons.
+- "Which" is used for animals and things.
+- "That" can be used for persons, animals and things.
+- "Whose" shows possession and can be used for persons, animals and things.
+
+(e) Indefinite Pronouns
+Indefinite pronouns refer to persons or things in a general way.
+Examples: someone, somebody, something, anyone, anybody, anything, everyone, everybody, everything, no one, nobody, nothing, one, each, either, neither, all, some, few, many, several, both.
+
+Important rule:
+Most indefinite pronouns take a singular verb.
+- Everyone is present.
+- Somebody has taken my pen.
+- Each of the students has submitted the form.
+- Neither of the answers is correct.
+- Either of the two roads leads to the station.
+
+But "both", "few", "many" and "several" take a plural verb.
+- Both of them are intelligent.
+- Many were injured in the accident.
+- Few students were absent.
+
+(f) Reflexive Pronouns
+Reflexive pronouns are used when the subject and object are the same person or thing.
+Examples: myself, ourselves, yourself, himself, herself, itself, themselves.
+- I taught myself English.
+- She introduced herself.
+- They enjoyed themselves.
+
+Important: Do not use reflexive pronouns unnecessarily after verbs such as "enjoy", "introduce", "avail", "absent" when the subject is already clear in ordinary usage.
+- Correct: "We enjoyed the function."
+- Also correct: "We enjoyed ourselves at the party."
+
+(g) Emphatic Pronouns
+Emphatic pronouns emphasise a noun or pronoun. They have the same form as reflexive pronouns.
+- I myself saw the accident.
+- She herself cooked the food.
+- The Prime Minister himself attended the meeting.
+
+Difference:
+- Reflexive: "He hurt himself." - "himself" is the object.
+- Emphatic: "He himself did the work." - "himself" only emphasises "he".
+
+(h) Distributive Pronouns
+Distributive pronouns refer to persons or things one at a time.
+Examples: each, either, neither.
+- Each of the boys was given a prize.
+- Either of you can go.
+- Neither of them is guilty.
+
+(i) Reciprocal Pronouns
+Reciprocal pronouns show a mutual relationship.
+Examples: each other, one another.
+- The two friends helped each other.
+- The members of the team supported one another.
+
+Traditional rule:
+- "Each other" is used for two persons or things.
+- "One another" is used for more than two.
+Example:
+- The two sisters love each other.
+- All the students helped one another.
+
+3.3 IMPORTANT PRONOUN ERRORS
+1. "One" should be followed by "one's", not "his" or "her", in formal English.
+   Correct: "One should do one's duty."
+2. "Everyone", "everybody", "someone", "somebody", "anyone", "anybody", "nobody" and "no one" take singular verbs.
+   Correct: "Everybody was happy."
+3. "Who" is subject; "whom" is object.
+   Correct: "Who is calling me?"
+   Correct: "To whom did you speak?"
+4. Use "its" for possession; "it's" means "it is".
+   Correct: "The dog wagged its tail."
+   Correct: "It's raining."
+5. Do not use both a noun and a pronoun as the same subject.
+   Incorrect: "Ravi he came here."
+   Correct: "Ravi came here."
+
+==================================================
+UNIT 4: VERB
+==================================================
+
+4.1 DEFINITION
+A verb is a word that expresses an action, an occurrence or a state of being.
+
+Examples:
+- Action: run, write, eat, play, read.
+- State: is, am, are, was, were, seem, appear, become.
+- Occurrence: happen, occur, die, grow.
+
+Examples in sentences:
+- Birds fly in the sky.
+- She is a teacher.
+- The meeting will happen tomorrow.
+- He became a doctor.
+
+4.2 KINDS OF VERBS
+(a) Main Verbs / Principal Verbs
+Main verbs express the main action or state.
+Examples: write, eat, go, sing, read.
+- She writes a letter.
+- They play football.
+
+(b) Helping Verbs / Auxiliary Verbs
+Helping verbs help the main verb to form tenses, questions, negatives and passive voice.
+Examples: be, am, is, are, was, were, have, has, had, do, does, did, will, would, shall, should, can, could, may, might, must.
+
+Examples:
+- She is writing a letter.
+- They have finished the work.
+- Do you know him?
+- He can swim.
+
+(c) Transitive Verbs
+A transitive verb needs an object to complete its meaning.
+Examples:
+- She wrote a letter.
+- He bought a car.
+- They built a house.
+
+(d) Intransitive Verbs
+An intransitive verb does not need an object.
+Examples:
+- Birds fly.
+- The baby slept.
+- He laughed loudly.
+- The sun rises in the east.
+
+Some verbs can be both transitive and intransitive:
+- "She sings a song." - transitive.
+- "She sings well." - intransitive.
+
+(e) Linking Verbs
+Linking verbs connect the subject with a word that describes or identifies it.
+Common linking verbs: is, am, are, was, were, become, seem, appear, look, feel, taste, smell, sound.
+Examples:
+- She is intelligent.
+- The milk smells bad.
+- He became angry.
+- The flower looks beautiful.
+
+After linking verbs, use an adjective, not an adverb.
+- Correct: "She looks beautiful."
+- Incorrect: "She looks beautifully."
+- Correct: "The food tastes good."
+- Incorrect: "The food tastes well."
+
+(f) Regular and Irregular Verbs
+Regular verbs form their past tense and past participle by adding -ed or -d.
+Examples:
+- work - worked - worked
+- play - played - played
+- walk - walked - walked
+
+Irregular verbs change their form irregularly.
+Examples:
+- go - went - gone
+- eat - ate - eaten
+- see - saw - seen
+- write - wrote - written
+- drink - drank - drunk
+- sing - sang - sung
+- take - took - taken
+- give - gave - given
+- buy - bought - bought
+- bring - brought - brought
+- teach - taught - taught
+- catch - caught - caught
+- begin - began - begun
+- break - broke - broken
+- choose - chose - chosen
+- speak - spoke - spoken
+
+4.3 FINITE AND NON-FINITE VERBS
+(a) Finite Verb
+A finite verb changes according to the subject, number, tense or person.
+Examples:
+- He writes a letter.
+- They write letters.
+- She wrote a letter.
+
+(b) Non-finite Verbs
+Non-finite verbs do not change according to the subject or tense.
+There are three types:
+
+1. Infinitive: to + base verb.
+   Examples: to read, to write, to go.
+   - He wants to learn English.
+   - To err is human.
+
+2. Gerund: verb + ing used as a noun.
+   Examples: reading, writing, swimming.
+   - Reading is a good habit.
+   - Swimming is good for health.
+   - I enjoy reading novels.
+
+3. Participle: present participle (-ing) or past participle (-ed/-en form).
+   - The crying child needs help.
+   - The broken window must be repaired.
+   - Seeing the police, the thief ran away.
+
+4.4 MODAL AUXILIARY VERBS
+Modals express ability, possibility, permission, obligation, advice, request and necessity.
+Common modals: can, could, may, might, shall, should, will, would, must, ought to, need, dare.
+
+1. Can - ability or permission.
+   - She can speak Tamil.
+   - Can I use your phone?
+
+2. Could - past ability, polite request or possibility.
+   - When he was young, he could run fast.
+   - Could you help me?
+
+3. May - permission or possibility.
+   - May I come in?
+   - It may rain today.
+
+4. Might - slight possibility.
+   - He might come late.
+
+5. Must - strong necessity or obligation.
+   - You must obey the law.
+   - We must wear helmets.
+
+6. Should - advice, duty or expectation.
+   - You should study regularly.
+   - Students should respect teachers.
+
+7. Will - future action, promise or determination.
+   - I will help you.
+
+8. Would - polite request, past habit or imagined situation.
+   - Would you please open the window?
+   - He would go for a walk every morning.
+
+9. Ought to - moral duty.
+   - We ought to help the poor.
+
+Important modal rules:
+- After a modal verb, use the base form of the verb.
+  Correct: "He can swim."
+  Incorrect: "He can swims."
+  Correct: "You must go."
+  Incorrect: "You must to go."
+- "Must" has no past form; use "had to".
+  Correct: "Yesterday, I had to go to Chennai."
+
+4.5 SUBJECT-VERB AGREEMENT
+The verb must agree with its subject in number and person.
+
+Important rules:
+1. Singular subject takes a singular verb.
+   - The boy plays cricket.
+2. Plural subject takes a plural verb.
+   - The boys play cricket.
+3. Two subjects joined by "and" usually take a plural verb.
+   - Ravi and Kumar are friends.
+4. If two nouns joined by "and" refer to one person or one idea, use a singular verb.
+   - Bread and butter is my favourite breakfast.
+   - The poet and philosopher has come. (one person)
+5. When "each", "every", "either", "neither", "everyone", "everybody", "someone", "somebody", "anyone", "anybody", "no one" and "nobody" is the subject, use a singular verb.
+   - Each student has a book.
+   - Every man and woman was present.
+   - Neither of the boys was present.
+6. When two subjects are joined by "or", "nor", "either...or" or "neither...nor", the verb agrees with the nearer subject.
+   - Either Ravi or his friends have done it.
+   - Neither the teacher nor the students were present.
+7. Words such as "along with", "as well as", "together with", "in addition to" do not change the number of the subject.
+   - The teacher, as well as the students, was present.
+   - Ravi, along with his friends, has gone to Chennai.
+8. Collective nouns usually take a singular verb when the group acts as one unit.
+   - The committee has decided.
+   - The team is playing well.
+9. "A number of" takes a plural verb; "the number of" takes a singular verb.
+   - A number of students were absent.
+   - The number of students is small.
+10. "One of the + plural noun" takes a singular verb.
+   - One of the boys is absent.
+   - One of my friends has gone abroad.
+11. Distances, amounts of money, time periods and weights are usually treated as singular units.
+   - Ten kilometres is a long distance.
+   - Five hundred rupees is enough.
+   - Two hours is sufficient time.
+
+==================================================
+UNIT 5: ADJECTIVE
+==================================================
+
+5.1 DEFINITION
+An adjective is a word that describes, qualifies or modifies a noun or pronoun. It gives more information about its quality, quantity, number, size, colour, shape or origin.
+
+Examples:
+- a beautiful flower
+- an intelligent boy
+- five books
+- Indian culture
+- this pen
+- whose bag
+
+5.2 KINDS OF ADJECTIVES
+(a) Adjective of Quality / Descriptive Adjective
+It describes the quality of a noun or pronoun.
+Examples: good, bad, big, small, tall, short, brave, kind, beautiful, intelligent.
+- She is a kind woman.
+- Chennai is a big city.
+
+(b) Adjective of Quantity
+It shows how much of a thing there is. It is usually used with uncountable nouns.
+Examples: some, much, little, enough, all, no, any.
+- I have some money.
+- There is little water in the bottle.
+- He has enough patience.
+
+(c) Adjective of Number / Numeral Adjective
+It shows how many persons or things there are. It is used with countable nouns.
+Examples: one, two, three, first, second, many, few, several, all, some, any, no.
+- I have three pens.
+- Many students were present.
+- This is my first visit to Delhi.
+
+Types:
+1. Definite numeral adjectives: one, two, first, second.
+2. Indefinite numeral adjectives: some, many, few, all, several.
+3. Distributive numeral adjectives: each, every, either, neither.
+
+(d) Demonstrative Adjective
+It points out which person or thing is meant.
+Examples: this, that, these, those.
+- This book is interesting.
+- Those boys are playing.
+
+(e) Interrogative Adjective
+It is used with a noun to ask a question.
+Examples: which, what, whose.
+- Which book do you want?
+- What colour do you like?
+- Whose bag is this?
+
+(f) Possessive Adjective
+It shows possession.
+Examples: my, our, your, his, her, its, their.
+- This is my book.
+- Her dress is new.
+- Their house is big.
+
+(g) Proper Adjective
+A proper adjective is formed from a proper noun.
+Examples: Indian, Tamil, Chinese, European, Shakespearean.
+- Indian culture is ancient.
+- He speaks Tamil.
+
+(h) Emphasising Adjective
+It emphasises a noun.
+Examples: own, very.
+- I saw it with my own eyes.
+- He is my very best friend.
+
+(i) Exclamatory Adjective
+It expresses strong feeling and is used with a noun.
+Example: what.
+- What a beautiful sight!
+- What an idea!
+
+5.3 DEGREES OF COMPARISON
+Adjectives have three degrees:
+1. Positive degree - describes one person or thing.
+   Example: Ram is tall.
+2. Comparative degree - compares two persons or things.
+   Example: Ram is taller than Kumar.
+3. Superlative degree - compares one person or thing with many others.
+   Example: Ram is the tallest boy in the class.
+
+Formation of comparative and superlative:
+1. One-syllable adjectives: add -er/-est.
+   tall - taller - tallest
+   small - smaller - smallest
+   old - older - oldest
+
+2. Adjectives ending in -e: add -r/-st.
+   large - larger - largest
+   brave - braver - bravest
+   wise - wiser - wisest
+
+3. Adjectives ending in consonant + y: change y into i and add -er/-est.
+   happy - happier - happiest
+   easy - easier - easiest
+   heavy - heavier - heaviest
+
+4. One-syllable adjectives ending in one vowel + one consonant: double the final consonant.
+   big - bigger - biggest
+   hot - hotter - hottest
+   thin - thinner - thinnest
+
+5. Adjectives of three or more syllables: use "more" and "most".
+   beautiful - more beautiful - most beautiful
+   intelligent - more intelligent - most intelligent
+   important - more important - most important
+
+6. Some adjectives of two syllables can take either form:
+   clever - cleverer/more clever - cleverest/most clever
+   simple - simpler/more simple - simplest/most simple
+
+Irregular comparison:
+- good - better - best
+- bad - worse - worst
+- little - less - least
+- much/many - more - most
+- far - farther/further - farthest/furthest
+- old - older/elder - oldest/eldest
+- late - later/latter - latest/last
+
+Important differences:
+- "Elder" and "eldest" are used only for members of the same family.
+  Correct: "My elder brother is a doctor."
+- "Older" and "oldest" can be used for persons and things.
+  Correct: "This is the oldest temple in the town."
+- "Farther" refers to physical distance; "further" means additional.
+  Correct: "Chennai is farther than Coimbatore."
+  Correct: "For further information, contact the office."
+- "Later" refers to time; "latter" refers to the second of two things already mentioned.
+  Correct: "I will meet you later."
+  Correct: "Of tea and coffee, I prefer the latter."
+
+5.4 POSITION OF ADJECTIVES
+1. Usually an adjective comes before the noun.
+   - a red car
+   - an honest officer
+2. After linking verbs, the adjective comes after the verb.
+   - The sky is blue.
+   - She is happy.
+3. Some adjectives are used only after the verb:
+   afraid, asleep, alive, alone, ashamed, awake, well.
+   Correct: "The child is asleep."
+   Incorrect: "The asleep child..."
+
+5.5 ORDER OF ADJECTIVES
+When more than one adjective is used before a noun, the usual order is:
+Opinion + Size + Age + Shape + Colour + Origin + Material + Purpose + Noun.
+
+Example:
+- a beautiful small old round brown Indian wooden dining table.
+
+Common examples:
+- a big black bag
+- a beautiful old Tamil temple
+- a small red plastic box
+
+5.6 IMPORTANT ADJECTIVE ERRORS
+1. Use "fewer" for countable nouns and "less" for uncountable nouns.
+   Correct: "There are fewer students today."
+   Correct: "There is less water in the tank."
+2. Use "many" for countable nouns and "much" for uncountable nouns.
+   Correct: "Many books were sold."
+   Correct: "Much money was spent."
+3. Use "elder" for family members; do not use "than" with "elder".
+   Correct: "He is my elder brother."
+   Correct: "He is older than I am."
+4. Comparative degree is followed by "than".
+   Correct: "She is taller than her sister."
+5. Superlative degree is usually preceded by "the".
+   Correct: "He is the best student."
+6. Do not use double comparatives or double superlatives.
+   Incorrect: "more better"
+   Correct: "better"
+   Incorrect: "most best"
+   Correct: "best"
+
+==================================================
+UNIT 6: ADVERB
+==================================================
+
+6.1 DEFINITION
+An adverb is a word that modifies a verb, an adjective, another adverb, a phrase or a whole sentence. It tells how, when, where, how often, how much or to what degree something happens.
+
+Examples:
+- He runs quickly. (modifies verb)
+- She is very intelligent. (modifies adjective)
+- He speaks too slowly. (modifies adverb)
+- Unfortunately, he failed. (modifies whole sentence)
+
+6.2 KINDS OF ADVERBS
+(a) Adverb of Manner
+It tells how an action is done.
+Examples: quickly, slowly, carefully, bravely, well, badly, happily.
+- She sings beautifully.
+- He walked slowly.
+
+(b) Adverb of Time
+It tells when an action happens.
+Examples: now, then, today, tomorrow, yesterday, soon, early, late, already, still.
+- I will come tomorrow.
+- He has already finished the work.
+
+(c) Adverb of Place
+It tells where an action happens.
+Examples: here, there, everywhere, outside, inside, above, below, near, far.
+- Come here.
+- The children are playing outside.
+
+(d) Adverb of Frequency
+It tells how often an action happens.
+Examples: always, usually, often, sometimes, rarely, seldom, never, daily, weekly.
+- He always speaks the truth.
+- I rarely watch television.
+
+(e) Adverb of Degree / Quantity
+It tells to what degree or extent something happens.
+Examples: very, quite, too, enough, almost, nearly, rather, extremely, completely.
+- She is very intelligent.
+- The water is too hot.
+- He is quite ready.
+
+(f) Adverb of Reason / Cause
+It tells why an action happens.
+Examples: therefore, hence, consequently, because.
+- He was ill; therefore, he did not come.
+- Hence, the result was delayed.
+
+(g) Interrogative Adverb
+It is used to ask questions.
+Examples: how, when, where, why.
+- How did you come?
+- When will you return?
+- Where do you live?
+- Why are you late?
+
+(h) Relative Adverb
+It introduces a relative clause.
+Examples: when, where, why.
+- I remember the day when we met.
+- This is the place where he was born.
+- Tell me the reason why you came late.
+
+(i) Sentence Adverb
+It modifies the whole sentence and often expresses the speaker's attitude.
+Examples: fortunately, unfortunately, clearly, certainly, probably, perhaps.
+- Fortunately, no one was injured.
+- Probably, he will come tomorrow.
+
+6.3 FORMATION OF ADVERBS
+1. Many adverbs are formed by adding -ly to adjectives.
+   quick - quickly
+   careful - carefully
+   brave - bravely
+   sad - sadly
+
+2. Adjectives ending in -y change y into i before -ly.
+   happy - happily
+   easy - easily
+   angry - angrily
+
+3. Adjectives ending in -le drop e and add -y.
+   simple - simply
+   gentle - gently
+   possible - possibly
+
+4. Adjectives ending in -ll add only -y.
+   full - fully
+   dull - dully
+
+5. Some adverbs have the same form as adjectives:
+   fast, hard, late, early, near, high, low, deep, straight, enough.
+   - He is a fast runner. (adjective)
+   - He runs fast. (adverb)
+   - It is hard work. (adjective)
+   - He works hard. (adverb)
+
+6. Some adverbs have two forms with different meanings:
+   hard - hardly
+   late - lately
+   near - nearly
+   high - highly
+   free - freely
+   hard = with effort; hardly = almost not.
+   - He works hard.
+   - He hardly works.
+   late = after the usual time; lately = recently.
+   - He came late.
+   - Have you seen him lately?
+
+6.4 COMPARISON OF ADVERBS
+Like adjectives, adverbs also have three degrees.
+
+Positive - Comparative - Superlative
+- fast - faster - fastest
+- hard - harder - hardest
+- early - earlier - earliest
+- well - better - best
+- badly - worse - worst
+- little - less - least
+- much - more - most
+
+Examples:
+- Ravi runs fast.
+- Kumar runs faster than Ravi.
+- Anil runs the fastest of all.
+
+Adverbs ending in -ly generally use "more" and "most".
+- quickly - more quickly - most quickly
+- carefully - more carefully - most carefully
+- beautifully - more beautifully - most beautifully
+
+6.5 POSITION OF ADVERBS
+1. Adverbs of frequency usually come before the main verb but after the verb "be".
+   - He always comes late.
+   - She is always punctual.
+2. Adverbs of manner usually come after the verb or object.
+   - He speaks English fluently.
+   - She completed the work carefully.
+3. Adverbs of time usually come at the end of a sentence.
+   - I met him yesterday.
+4. Adverbs of place usually come after the verb or object.
+   - The children are playing outside.
+5. "Only" should be placed close to the word it modifies.
+   - Only Ravi came. (no one else came)
+   - Ravi only came. (he did not do anything else)
+   - Ravi came only yesterday. (not earlier)
+
+6.6 IMPORTANT ADVERB ERRORS
+1. Do not use two negative words in the same clause.
+   Incorrect: "I don't know nothing."
+   Correct: "I don't know anything."
+   Correct: "I know nothing."
+2. "Hardly" and "scarcely" are already negative in meaning.
+   Incorrect: "I can't hardly understand."
+   Correct: "I can hardly understand."
+3. Use "very" with positive adjectives/adverbs and "much" with comparative forms.
+   Correct: "She is very intelligent."
+   Correct: "She is much better today."
+4. "Too" means "more than necessary" and usually gives a negative meaning.
+   - The tea is too hot to drink.
+5. "Enough" is placed after an adjective or adverb.
+   Correct: "He is strong enough."
+   Incorrect: "He is enough strong."
+
+==================================================
+UNIT 7: PREPOSITION
+==================================================
+
+7.1 DEFINITION
+A preposition is a word placed before a noun or pronoun to show its relationship with another word in the sentence. It may show place, time, direction, cause, manner, possession or purpose.
+
+Examples:
+- The book is on the table.
+- He came at 5 p.m.
+- She is good at English.
+- The gift is for you.
+
+7.2 KINDS OF PREPOSITIONS
+(a) Simple Prepositions
+Examples: at, by, for, from, in, of, off, on, out, through, till, to, up, with.
+- He lives in Chennai.
+- She came by bus.
+
+(b) Compound Prepositions
+Examples: according to, because of, in front of, instead of, in spite of, on account of, with reference to.
+- He was absent because of illness.
+- In spite of rain, we went out.
+
+(c) Phrase Prepositions
+Examples: in order to, as well as, along with, away from, by means of, with a view to.
+- He works hard in order to succeed.
+- She came along with her mother.
+
+(d) Participial Prepositions
+Examples: concerning, considering, regarding, during, pending.
+- Regarding your request, we shall reply soon.
+- During the holidays, I visited my village.
+
+7.3 PREPOSITIONS OF TIME
+1. "At" is used for exact time, festivals and points of time.
+   - at 6 o'clock, at noon, at night, at midnight, at dawn, at Christmas, at Pongal.
+
+2. "On" is used for days, dates and particular days.
+   - on Monday, on 15 August, on Sunday morning, on my birthday.
+
+3. "In" is used for months, years, seasons, centuries and parts of the day.
+   - in April, in 2026, in summer, in the morning, in the twentieth century.
+
+Exception:
+- "at night" but "in the morning", "in the afternoon", "in the evening".
+
+4. "Since" is used with a point of time and usually with perfect tenses.
+   - I have lived here since 2010.
+   - He has been ill since Monday.
+
+5. "For" is used with a period of time.
+   - I have lived here for ten years.
+   - He waited for two hours.
+
+6. "From" is used with a starting point of time.
+   - The class starts from Monday.
+   - He worked from morning to evening.
+
+7.4 PREPOSITIONS OF PLACE
+1. "At" is used for a specific point or small place.
+   - at the bus stop, at the door, at 10 Anna Salai.
+
+2. "In" is used inside an enclosed space or a large area.
+   - in the room, in Chennai, in India, in the box.
+
+3. "On" is used for a surface.
+   - on the table, on the wall, on the floor.
+
+4. "Between" is used for two persons or things.
+   - The bank is between the school and the hospital.
+
+5. "Among" is used for more than two persons or things.
+   - The sweets were distributed among the children.
+
+6. "Above" means higher than, without touching.
+   - The fan is above the table.
+
+7. "Over" means directly above or covering.
+   - The bridge is over the river.
+   - He put a blanket over the child.
+
+8. "Below" means lower than.
+   - The temperature is below zero.
+
+9. "Under" means directly below.
+   - The cat is under the table.
+
+10. "Beside" means by the side of; "besides" means in addition to.
+   - He sat beside me.
+   - Besides English, she knows French.
+
+7.5 PREPOSITIONS OF DIRECTION AND MOVEMENT
+1. "To" shows movement towards a place.
+   - He went to Chennai.
+2. "Into" shows movement from outside to inside.
+   - He walked into the room.
+3. "Onto" shows movement onto a surface.
+   - The cat jumped onto the table.
+4. "Towards" shows direction.
+   - He walked towards the station.
+5. "Through" means from one side to the other.
+   - The train passed through the tunnel.
+6. "Across" means from one side to the other of a surface or area.
+   - He swam across the river.
+7. "Along" means following a line or path.
+   - We walked along the beach.
+8. "Around" means on all sides or in a circular movement.
+   - They sat around the fire.
+
+7.6 IMPORTANT PREPOSITION COMBINATIONS
+1. Good at: "She is good at mathematics."
+2. Angry with a person: "He is angry with me."
+3. Angry at a thing: "He is angry at the delay."
+4. Married to: "She is married to a doctor."
+5. Consist of: "Water consists of hydrogen and oxygen."
+6. Depend on: "Success depends on hard work."
+7. Insist on: "He insisted on going."
+8. Interested in: "I am interested in music."
+9. Fond of: "He is fond of sweets."
+10. Afraid of: "She is afraid of dogs."
+11. Proud of: "We are proud of our country."
+12. Tired of: "I am tired of waiting."
+13. Suffer from: "He suffers from fever."
+14. Recover from: "He has recovered from illness."
+15. Complain about: "He complained about the noise."
+16. Agree with a person: "I agree with you."
+17. Agree to a proposal: "He agreed to the plan."
+18. Listen to: "Listen to me carefully."
+19. Wait for: "Please wait for me."
+20. Believe in: "I believe in hard work."
+21. Compare with: used to show similarities or differences between things of the same class.
+   - Compare your answer with the model answer.
+22. Compare to: used to show resemblance between things of different classes.
+   - Life is compared to a journey.
+23. Differ from: "My opinion differs from yours."
+24. Prefer to: "I prefer tea to coffee."
+25. Superior to / inferior to: "This cloth is superior to that."
+26. Senior to / junior to: "He is senior to me."
+27. Preferable to: "Health is preferable to wealth."
+28. Different from: "This book is different from that one."
+29. Deal in: to trade in goods. "He deals in textiles."
+30. Deal with: to handle a person, problem or subject. "This book deals with Indian history."
+
+7.7 IMPORTANT PREPOSITION ERRORS
+1. Do not use "to" after "home", "abroad", "here" and "there" with verbs of motion.
+   Correct: "He went home."
+   Incorrect: "He went to home."
+2. "Discuss" does not take "about".
+   Correct: "We discussed the problem."
+   Incorrect: "We discussed about the problem."
+3. "Enter" does not take "into" when referring to a room, building or hall.
+   Correct: "He entered the room."
+4. "Reach" does not take "to".
+   Correct: "He reached Chennai."
+   Incorrect: "He reached to Chennai."
+5. "Order" does not take "for".
+   Correct: "The judge ordered him to pay the fine."
+6. "Attack" does not take "on".
+   Correct: "The army attacked the enemy."
+7. "Married" is followed by "to", not "with".
+   Correct: "She is married to Ravi."
+8. "Comprises" does not take "of".
+   Correct: "The team comprises ten players."
+   Correct: "The team consists of ten players."
+
+==================================================
+UNIT 8: CONJUNCTION
+==================================================
+
+8.1 DEFINITION
+A conjunction is a word that joins words, phrases, clauses or sentences.
+
+Examples:
+- Ravi and Kumar are friends. (joins words)
+- She is poor but honest. (joins adjectives)
+- I came because it was raining. (joins clauses)
+- He worked hard, so he passed. (joins sentences)
+
+8.2 KINDS OF CONJUNCTIONS
+(a) Coordinating Conjunctions
+Coordinating conjunctions join words, phrases or clauses of equal grammatical rank.
+The four main types are:
+
+1. Cumulative or Copulative - adds one statement to another.
+   Examples: and, also, both...and, not only...but also.
+   - He is intelligent and hardworking.
+   - Not only Ravi but also Kumar came.
+
+2. Adversative - expresses contrast.
+   Examples: but, yet, still, however, whereas.
+   - He is poor but honest.
+   - She was ill, yet she attended the class.
+
+3. Alternative - expresses choice.
+   Examples: or, either...or, neither...nor, otherwise, else.
+   - You can take tea or coffee.
+   - Either you apologise or leave the room.
+   - Neither Ravi nor Kumar was present.
+
+4. Illative - expresses inference or result.
+   Examples: for, so, therefore, hence, consequently.
+   - He was hungry, so he ate food.
+   - It was raining; therefore, the match was cancelled.
+
+(b) Subordinating Conjunctions
+Subordinating conjunctions join a subordinate clause to a main clause.
+
+1. Time: when, while, before, after, until, till, since, as soon as.
+   - Wait until I return.
+   - As soon as he came, we started.
+
+2. Cause or reason: because, since, as.
+   - He stayed at home because he was ill.
+
+3. Purpose: so that, in order that, lest.
+   - Work hard so that you may pass.
+   - Walk carefully lest you should fall.
+
+4. Result or consequence: so...that, such...that.
+   - He was so tired that he could not walk.
+   - It was such a good film that everyone liked it.
+
+5. Condition: if, unless, provided, in case.
+   - If you work hard, you will pass.
+   - Unless you apologise, he will not forgive you.
+
+6. Concession or contrast: though, although, even though, while.
+   - Though he is poor, he is honest.
+   - Although it rained, we went out.
+
+7. Comparison: than, as...as, so...as.
+   - She is taller than her sister.
+   - He is as brave as a lion.
+
+8. Manner: as, as if, as though.
+   - Do as I say.
+   - He behaves as if he were a king.
+
+(c) Correlative Conjunctions
+Correlative conjunctions are used in pairs.
+Examples:
+- both...and: "Both Ravi and Kumar came."
+- either...or: "Either he or she must go."
+- neither...nor: "Neither he nor she came."
+- not only...but also: "He is not only intelligent but also hardworking."
+- whether...or: "I do not know whether he will come or not."
+- no sooner...than: "No sooner had he arrived than it started raining."
+- hardly...when: "Hardly had he left when the phone rang."
+- scarcely...when: "Scarcely had she entered when the bell rang."
+- such...that: "It was such a difficult question that nobody could answer it."
+- so...that: "He was so weak that he could not stand."
+
+Important rule:
+- "No sooner" is followed by "than", not "when".
+  Correct: "No sooner had he come than the rain started."
+- "Hardly" and "scarcely" are followed by "when", not "than".
+  Correct: "Hardly had he come when the rain started."
+- "Lest" is followed by "should".
+  Correct: "Work hard lest you should fail."
+
+8.3 IMPORTANT CONJUNCTION ERRORS
+1. Do not use "though" and "but" together.
+   Incorrect: "Though he is poor, but he is honest."
+   Correct: "Though he is poor, he is honest."
+2. Do not use "because" and "so" together.
+   Incorrect: "Because he was ill, so he did not come."
+   Correct: "Because he was ill, he did not come."
+3. Do not use "both" with "as well as".
+   Incorrect: "Both Ravi as well as Kumar came."
+   Correct: "Both Ravi and Kumar came."
+4. "Neither" is followed by "nor", not "or".
+   Correct: "Neither Ravi nor Kumar came."
+5. "Either" is followed by "or".
+   Correct: "Either Ravi or Kumar will come."
+6. "Not only" is followed by "but also".
+   Correct: "He is not only rich but also generous."
+
+==================================================
+UNIT 9: INTERJECTION
+==================================================
+
+9.1 DEFINITION
+An interjection is a word that expresses a sudden feeling or emotion such as joy, sorrow, surprise, pain, approval or disgust. It is usually followed by an exclamation mark.
+
+Examples:
+- Hurrah! We won the match.
+- Alas! He failed.
+- Oh! What a beautiful sight!
+- Bravo! Well done.
+- Wow! That is amazing.
+- Hush! The baby is sleeping.
+
+9.2 INTERJECTIONS AND THEIR FEELINGS
+1. Joy: Hurrah!, Wow!, Yippee!
+2. Sorrow: Alas!, Oh!, Ah!
+3. Surprise: Oh!, What!, Hey!, Wow!
+4. Pain: Oh!, Ouch!, Ah!
+5. Approval: Bravo!, Well done!
+6. Attention: Listen!, Hark!, Look!
+7. Silence: Hush!, Silence!
+8. Disgust: Fie!, Ugh!, Pooh!
+9. Greeting: Hello!, Hi!
+10. Calling attention: Hey!, Hello!
+
+Examples:
+- Hurrah! We have won the trophy.
+- Alas! The old man lost his son.
+- Bravo! You have played very well.
+- Ouch! That hurt.
+- Hush! Don't make noise.
+- Fie! How can you tell a lie?
+
+9.3 PUNCTUATION WITH INTERJECTIONS
+A strong emotion is followed by an exclamation mark.
+- Wow! What a match!
+
+A mild emotion may be followed by a comma.
+- Oh, I see.
+
+==================================================
+UNIT 10: IDENTIFYING PARTS OF SPEECH IN SENTENCES
+==================================================
+
+10.1 SAME WORD IN DIFFERENT PARTS OF SPEECH
+1. Book
+- Noun: "This is a good book."
+- Verb: "Please book two tickets."
+
+2. Water
+- Noun: "Drink some water."
+- Verb: "Water the plants."
+
+3. Work
+- Noun: "I have a lot of work."
+- Verb: "I work in a bank."
+
+4. Well
+- Noun: "Draw water from the well."
+- Adjective: "She is well now."
+- Adverb: "She sings well."
+- Interjection: "Well! Let us begin."
+
+5. Round
+- Adjective: "The earth is round."
+- Noun: "They played a round of golf."
+- Adverb: "He turned round."
+- Preposition: "The earth moves round the sun."
+- Verb: "The ship rounded the cape."
+
+6. But
+- Conjunction: "He is poor but honest."
+- Preposition: "All but Ravi were present."
+- Adverb: "He is but a child."
+
+7. Since
+- Preposition: "I have known him since 2010."
+- Conjunction: "Since he was ill, he stayed at home."
+- Adverb: "He left in 2010 and has not returned since."
+
+8. After
+- Preposition: "He came after lunch."
+- Conjunction: "After he finished his work, he went home."
+- Adverb: "He came soon after."
+
+9. Before
+- Preposition: "Wash your hands before dinner."
+- Conjunction: "Before you go, meet me."
+- Adverb: "I have seen this film before."
+
+10. Down
+- Adverb: "He sat down."
+- Preposition: "He fell down the stairs."
+- Adjective: "The down train is late."
+- Noun: "He has had a down in business."
+
+10.2 HOW TO FIND THE PART OF SPEECH
+Step 1: Find the main verb.
+Step 2: Find the subject and object.
+Step 3: See what work the given word does.
+Step 4: Check whether it names something, replaces something, shows action, describes something, shows relationship, joins something or expresses emotion.
+
+Example:
+"Ravi quickly wrote a beautiful letter to his friend."
+
+- Ravi = noun
+- quickly = adverb
+- wrote = verb
+- a = article/determiner
+- beautiful = adjective
+- letter = noun
+- to = preposition
+- his = possessive adjective
+- friend = noun
+
+==================================================
+UNIT 11: ARTICLES AND DETERMINERS
+==================================================
+
+11.1 ARTICLES
+Articles are words used before nouns. "A", "an" and "the" are called articles. They are often treated as a special type of adjective or determiner.
+
+1. Indefinite Articles: a, an.
+   - "A" is used before a word beginning with a consonant sound.
+     Examples: a book, a university, a European, a one-rupee coin.
+   - "An" is used before a word beginning with a vowel sound.
+     Examples: an apple, an hour, an honest man, an MLA, an umbrella.
+
+Important:
+Use the sound, not the spelling.
+- "a university" because "university" begins with the /yu/ sound.
+- "an hour" because "h" is silent.
+- "a European" because "European" begins with the /yu/ sound.
+- "an X-ray" because "X" begins with the /e/ sound.
+
+2. Definite Article: the.
+"The" is used:
+- Before a particular person or thing: "The sun rises in the east."
+- Before unique things: the sun, the moon, the earth, the sky.
+- Before superlatives: the best, the tallest, the most important.
+- Before rivers, seas, oceans, mountain ranges and groups of islands: the Cauvery, the Indian Ocean, the Himalayas, the Andamans.
+- Before the names of holy books, newspapers and famous buildings: the Gita, the Hindu, the Taj Mahal.
+- Before musical instruments: "She plays the violin."
+- Before an adjective used as a plural noun: "The rich should help the poor."
+
+"The" is not generally used:
+- Before proper nouns: Chennai, Ravi, India.
+- Before meals: breakfast, lunch, dinner.
+- Before games: cricket, football, chess.
+- Before languages: Tamil, English, Hindi.
+- Before abstract nouns used in a general sense: honesty, beauty, freedom.
+
+==================================================
+UNIT 12: COMMON CONFUSING WORDS
+==================================================
+
+12.1 ADJECTIVE VS ADVERB
+1. Good - adjective; Well - adverb.
+   - He is a good singer.
+   - He sings well.
+2. Hard - adjective/adverb; Hardly - adverb meaning "almost not".
+   - It is hard work.
+   - He works hard.
+   - I hardly know him.
+3. Late - adjective/adverb; Lately - adverb meaning "recently".
+   - He came late.
+   - I have not seen him lately.
+4. High - adjective/adverb; Highly - adverb meaning "very much".
+   - The bird flew high.
+   - He is highly qualified.
+5. Near - adjective/adverb/preposition; Nearly - adverb meaning "almost".
+   - The school is near my house.
+   - It is nearly six o'clock.
+6. Free - adjective/adverb; Freely - adverb meaning "without restriction".
+   - The entry is free.
+   - You may speak freely.
+
+12.2 COMMONLY CONFUSED PAIRS
+1. Advice - noun; Advise - verb.
+   - He gave me good advice.
+   - Please advise me.
+2. Practice - noun; Practise - verb.
+   - Practice makes perfect.
+   - We practise English every day.
+3. Effect - noun; Affect - verb.
+   - The medicine had a good effect.
+   - Smoking affects health.
+4. Lose - verb; Loose - adjective.
+   - Do not lose your pen.
+   - This knot is loose.
+5. Principal - chief/head; Principle - rule or belief.
+   - The principal spoke to the students.
+   - He is a man of principle.
+6. Stationary - not moving; Stationery - writing materials.
+   - The car was stationary.
+   - Buy stationery from that shop.
+7. Complement - something that completes; Compliment - praise.
+   - The scarf complements her dress.
+   - He complimented her on her success.
+8. Desert - dry land; Dessert - sweet dish.
+   - The Sahara is a desert.
+   - We had ice cream for dessert.
+9. Quite - fairly; Quiet - silent.
+   - The film was quite good.
+   - Please keep quiet.
+10. Weather - climate condition; Whether - expressing choice.
+    - The weather is pleasant.
+    - I do not know whether he will come.
+
+==================================================
+UNIT 13: TNPSC EXAM-ORIENTED POINTS
+==================================================
+
+13.1 ONE-WORD IDENTIFICATION
+1. "Chennai" - Proper noun.
+2. "Honesty" - Abstract noun.
+3. "Team" - Collective noun.
+4. "Gold" - Material noun.
+5. "He" - Personal pronoun.
+6. "This" - Demonstrative pronoun/adjective.
+7. "Who" - Interrogative pronoun.
+8. "Which" - Interrogative/relative pronoun.
+9. "Quickly" - Adverb of manner.
+10. "Always" - Adverb of frequency.
+11. "Very" - Adverb of degree.
+12. "Here" - Adverb of place.
+13. "Yesterday" - Adverb of time.
+14. "Between" - Preposition.
+15. "Although" - Subordinating conjunction.
+16. "And" - Coordinating conjunction.
+17. "Hurrah!" - Interjection.
+18. "Beautiful" - Adjective of quality.
+19. "Three" - Adjective of number.
+20. "Some" - Adjective of quantity/number, depending on use.
+
+13.2 COMMON TNPSC QUESTION TYPES
+1. Identify the part of speech of the underlined word.
+2. Identify the adverb in the sentence.
+3. Identify the abstract noun.
+4. Identify the collective noun.
+5. Choose the correct comparative form.
+6. Choose the correct preposition.
+7. Choose the correct conjunction.
+8. Identify the interjection.
+9. Identify the reflexive pronoun.
+10. Identify the modal verb.
+11. Choose the correct form of the verb.
+12. Identify the incorrect sentence.
+13. Choose the sentence with correct subject-verb agreement.
+14. Identify the kind of adjective.
+15. Identify the kind of adverb.
+
+13.3 QUICK REVISION CHART
+Noun - names: Chennai, boy, honesty, team.
+Pronoun - replaces a noun: he, she, they, who.
+Verb - action/state: run, is, become.
+Adjective - describes noun/pronoun: good, tall, five.
+Adverb - modifies verb/adjective/adverb: quickly, very, here.
+Preposition - relationship: in, on, at, between.
+Conjunction - joins: and, but, because, although.
+Interjection - emotion: Hurrah!, Alas!, Bravo!
+
+==================================================
+UNIT 14: PRACTICE QUESTIONS
+==================================================
+
+14.1 IDENTIFY THE PART OF SPEECH
+1. Chennai is the capital of Tamil Nadu.
+2. Honesty is the best policy.
+3. The team has won the match.
+4. He runs very fast.
+5. She is interested in music.
+6. Although he was ill, he attended the class.
+7. Hurrah! We have won.
+8. This is my book.
+9. The children enjoyed themselves.
+10. He must finish the work today.
+
+Answers:
+1. Chennai - proper noun.
+2. Honesty - abstract noun.
+3. Team - collective noun.
+4. Very - adverb of degree; fast - adverb of manner.
+5. In - preposition.
+6. Although - subordinating conjunction.
+7. Hurrah - interjection.
+8. This - demonstrative pronoun.
+9. Themselves - reflexive pronoun.
+10. Must - modal auxiliary verb.
+
+14.2 CHOOSE THE CORRECT OPTION
+1. She is good ___ mathematics.
+   (a) in (b) at (c) on (d) with
+   Answer: (b) at.
+
+2. He has been living here ___ 2015.
+   (a) for (b) from (c) since (d) by
+   Answer: (c) since.
+
+3. ___ he is rich, he is not happy.
+   (a) Because (b) Though (c) So (d) And
+   Answer: (b) Though.
+
+4. The news ___ good.
+   (a) are (b) is (c) were (d) have
+   Answer: (b) is.
+
+5. One of my friends ___ gone abroad.
+   (a) have (b) has (c) are (d) were
+   Answer: (b) has.
+
+6. She sings ___.
+   (a) beautiful (b) beautifully (c) beauty (d) more beautiful
+   Answer: (b) beautifully.
+
+7. He is ___ honest man.
+   (a) a (b) an (c) the (d) no article
+   Answer: (b) an.
+
+8. The cat is ___ the table.
+   (a) among (b) between (c) under (d) along
+   Answer: (c) under.
+
+9. Neither Ravi nor his friends ___ present.
+   (a) was (b) is (c) were (d) has
+   Answer: (c) were.
+
+10. ___! You have done very well.
+    (a) Alas (b) Bravo (c) Fie (d) Hush
+    Answer: (b) Bravo.
+
+14.3 IDENTIFY THE KIND OF NOUN
+1. Gold - Material noun.
+2. Childhood - Abstract noun.
+3. Army - Collective noun.
+4. India - Proper noun.
+5. Dog - Common noun.
+6. Water - Material noun.
+7. Freedom - Abstract noun.
+8. Jury - Collective noun.
+9. Monday - Proper noun.
+10. Teacher - Common noun.
+
+14.4 IDENTIFY THE KIND OF ADJECTIVE
+1. Five books - Adjective of number.
+2. Some milk - Adjective of quantity.
+3. This pen - Demonstrative adjective.
+4. Whose bag - Interrogative adjective.
+5. Indian culture - Proper adjective.
+6. A beautiful flower - Adjective of quality.
+7. Each student - Distributive adjective.
+8. My book - Possessive adjective.
+9. What a scene! - Exclamatory adjective.
+10. Enough food - Adjective of quantity.
+
+14.5 IDENTIFY THE KIND OF ADVERB
+1. He came yesterday. - Adverb of time.
+2. She sings sweetly. - Adverb of manner.
+3. They live here. - Adverb of place.
+4. He always helps others. - Adverb of frequency.
+5. The box is too heavy. - Adverb of degree.
+6. Why are you late? - Interrogative adverb.
+7. I know the place where he lives. - Relative adverb.
+8. Fortunately, he was saved. - Sentence adverb.
+9. He therefore resigned. - Adverb of reason.
+10. She nearly finished the work. - Adverb of degree.
+
+14.6 CORRECT THE ERRORS
+1. She gave me many advices.
+   Correct: She gave me much advice. / She gave me some advice.
+2. The sceneries are beautiful.
+   Correct: The scenery is beautiful.
+3. He is more better than I.
+   Correct: He is better than I.
+4. Neither of the boys were present.
+   Correct: Neither of the boys was present.
+5. He discussed about the matter.
+   Correct: He discussed the matter.
+6. I prefer coffee than tea.
+   Correct: I prefer coffee to tea.
+7. He entered into the room.
+   Correct: He entered the room.
+8. She is married with a doctor.
+   Correct: She is married to a doctor.
+9. Though he is poor but he is honest.
+   Correct: Though he is poor, he is honest.
+10. He can to swim.
+    Correct: He can swim.
+
+==================================================
+UNIT 15: MODEL MULTIPLE CHOICE QUESTIONS
+==================================================
+
+1. Identify the part of speech of the underlined word:
+"Ravi quickly finished his homework."
+(a) Adjective (b) Adverb (c) Verb (d) Noun
+Answer: (b) Adverb.
+
+2. Identify the abstract noun:
+(a) Chair (b) Bravery (c) Chennai (d) Army
+Answer: (b) Bravery.
+
+3. Choose the correct sentence:
+(a) The cattle is grazing.
+(b) The cattle are grazing.
+(c) The cattles are grazing.
+(d) The cattle was grazing.
+Answer: (b) The cattle are grazing.
+
+4. Choose the correct preposition:
+"She is afraid ___ dogs."
+(a) from (b) with (c) of (d) at
+Answer: (c) of.
+
+5. Choose the correct conjunction:
+"He worked hard, ___ he failed."
+(a) but (b) and (c) so (d) or
+Answer: (a) but.
+
+6. Identify the collective noun:
+(a) Honesty (b) Committee (c) Chennai (d) Gold
+Answer: (b) Committee.
+
+7. Choose the correct comparative form:
+"This problem is ___ than that one."
+(a) difficult (b) more difficult (c) most difficult (d) difficulter
+Answer: (b) more difficult.
+
+8. Identify the modal verb:
+"You should obey your parents."
+(a) You (b) Should (c) Obey (d) Parents
+Answer: (b) Should.
+
+9. Choose the correct sentence:
+(a) He is senior than me.
+(b) He is senior to me.
+(c) He is more senior than me.
+(d) He is senior from me.
+Answer: (b) He is senior to me.
+
+10. Identify the interjection:
+"Alas! He has lost his purse."
+(a) Alas (b) He (c) Has (d) Lost
+Answer: (a) Alas.
+
+11. Choose the correct article:
+"He is ___ university student."
+(a) a (b) an (c) the (d) no article
+Answer: (a) a.
+
+12. Identify the adverb of frequency:
+"She rarely goes to the cinema."
+(a) She (b) Rarely (c) Goes (d) Cinema
+Answer: (b) Rarely.
+
+13. Choose the correct pronoun:
+"Between you and ___, this is a secret."
+(a) I (b) me (c) myself (d) mine
+Answer: (b) me.
+
+14. Choose the correct form:
+"He is interested ___ music."
+(a) on (b) at (c) in (d) with
+Answer: (c) in.
+
+15. Identify the part of speech of "fast":
+"He is a fast runner."
+(a) Adjective (b) Adverb (c) Noun (d) Verb
+Answer: (a) Adjective.
+
+16. Identify the part of speech of "fast":
+"He runs fast."
+(a) Adjective (b) Adverb (c) Noun (d) Verb
+Answer: (b) Adverb.
+
+17. Choose the correct sentence:
+(a) The furniture are new.
+(b) The furniture is new.
+(c) The furnitures are new.
+(d) The furniture were new.
+Answer: (b) The furniture is new.
+
+18. Choose the correct conjunction pair:
+"___ he arrived ___ the function began."
+(a) No sooner / when
+(b) No sooner / than
+(c) Hardly / than
+(d) Scarcely / than
+Answer: (b) No sooner / than.
+
+19. Identify the demonstrative adjective:
+"This book is mine."
+(a) This (b) Book (c) Is (d) Mine
+Answer: (a) This.
+
+20. Choose the correct sentence:
+(a) One should do his duty.
+(b) One should do one's duty.
+(c) One should do their duty.
+(d) One should do them duty.
+Answer: (b) One should do one's duty.
+
+==================================================
+UNIT 16: FINAL REVISION
+==================================================
+
+1. Noun names a person, place, thing, quality or idea.
+2. Pronoun replaces a noun.
+3. Verb shows action, state or occurrence.
+4. Adjective describes a noun or pronoun.
+5. Adverb modifies a verb, adjective, another adverb or sentence.
+6. Preposition shows relationship between a noun/pronoun and another word.
+7. Conjunction joins words, phrases or clauses.
+8. Interjection expresses sudden emotion.
+9. Always identify a word's part of speech from its function in the sentence.
+
+---

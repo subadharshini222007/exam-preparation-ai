@@ -1,0 +1,494 @@
+---
+
+# 📉 POVERTY IN INDIA
+
+---
+
+# 🟢 INTRODUCTION
+
+Poverty refers to a condition in which a person is **unable to meet basic needs** such as food, clothing, shelter, education, and healthcare. It is not only economic deprivation but also **social exclusion and lack of opportunities**.
+
+---
+
+# 🟡 TYPES OF POVERTY
+
+## 🔵 1. ABSOLUTE POVERTY
+
+* Lack of basic necessities
+* Measured by poverty line
+
+## 🔵 2. RELATIVE POVERTY
+
+* Comparison with others in society
+* Reflects inequality
+
+## 🔵 3. RURAL POVERTY
+
+* Agriculture-based
+* Seasonal income
+
+## 🔵 4. URBAN POVERTY
+
+* Slums
+* Unemployment
+
+---
+
+# 🟣 POVERTY LINE IN INDIA
+
+## 🔵 DEFINITION
+
+Minimum level of income required to meet basic needs
+
+---
+
+## 🔵 COMMITTEES
+
+* Tendulkar Committee
+* Rangarajan Committee
+
+---
+
+## 🧠 ANALYSIS
+
+* Based on consumption expenditure
+* Criticized for underestimating poverty
+
+---
+
+# 🔴 CAUSES OF POVERTY
+
+## 🔵 ECONOMIC CAUSES
+
+* Unemployment
+* Low productivity
+* Unequal distribution of income
+
+---
+
+## 🔵 SOCIAL CAUSES
+
+* Illiteracy
+* Caste system
+* Gender inequality
+
+---
+
+## 🔵 DEMOGRAPHIC CAUSES
+
+* Population growth
+
+---
+
+## 🔵 POLITICAL CAUSES
+
+* Poor governance
+* Corruption
+
+---
+
+# 🔄 POVERTY CYCLE (VERY IMPORTANT 🔥)
+
+Low income → Low savings → Low investment → Low productivity → Poverty continues
+
+---
+
+# 📊 MEASUREMENT OF POVERTY
+
+## 🔵 HEAD COUNT RATIO
+
+* % of population below poverty line
+
+## 🔵 MULTIDIMENSIONAL POVERTY INDEX (MPI)
+
+* Education
+* Health
+* Living standards
+
+---
+
+## 🧠 ANALYSIS
+
+👉 MPI gives better picture than income alone
+
+---
+
+# 🌾 RURAL POVERTY
+
+## 🔵 FEATURES
+
+* Dependence on agriculture
+* Seasonal unemployment
+
+---
+
+## 🔴 PROBLEMS
+
+* Small land holdings
+* Lack of irrigation
+* Debt
+
+---
+
+# 🏙️ URBAN POVERTY
+
+## 🔵 FEATURES
+
+* Slums
+* Informal sector
+
+---
+
+## 🔴 PROBLEMS
+
+* Unemployment
+* Lack of housing
+
+---
+
+# ⚖️ INCOME INEQUALITY
+
+## 🔵 GINI COEFFICIENT
+
+* Measures inequality
+
+---
+
+## 🧠 ANALYSIS
+
+👉 High inequality = social instability
+
+---
+
+# 🏛️ GOVERNMENT MEASURES (VERY IMPORTANT 🔥)
+
+---
+
+## 🔵 EMPLOYMENT PROGRAMS
+
+* MGNREGA
+
+---
+
+## 🔵 FOOD SECURITY
+
+* Public Distribution System (PDS)
+
+---
+
+## 🔵 HOUSING
+
+* PMAY
+
+---
+
+## 🔵 FINANCIAL INCLUSION
+
+* Jan Dhan Yojana
+
+---
+
+# 🌍 GLOBAL POVERTY
+
+## 🔵 SDG GOAL
+
+* “No Poverty”
+
+---
+
+## 🧠 ANALYSIS
+
+India reduced poverty but still challenges remain
+
+---
+
+# 🌿 POVERTY & DEVELOPMENT
+
+## 🔵 RELATION
+
+* Poverty affects education & health
+
+---
+
+## 🔴 EFFECTS
+
+* Malnutrition
+* Illiteracy
+* Low productivity
+
+---
+
+# 🔥 SOLUTIONS TO POVERTY
+
+## 🔵 ECONOMIC
+
+* Job creation
+* Industrial growth
+
+## 🔵 SOCIAL
+
+* Education
+* Healthcare
+
+## 🔵 GOVERNMENT
+
+* Welfare schemes
+* Inclusive growth
+
+---
+
+# 🧠 HIGH-VALUE ANALYTICAL POINTS
+
+### 🔵 Poverty vs Inequality
+
+### 🔵 Growth vs Distribution
+
+### 🔵 Rural vs Urban poverty
+
+### 🔵 Role of education
+
+### 🔵 Inclusive development
+
+---
+
+# 🔥 QUICK REVISION
+
+* Poverty = lack of basic needs
+* MPI > income measure
+* MGNREGA = key scheme
+* Cycle of poverty important
+* Inequality increases poverty
+
+---
+
+# 📉 UNEMPLOYMENT IN INDIA
+
+---
+
+# 🟢 INTRODUCTION
+
+Unemployment refers to a situation where a person who is **willing and able to work** is unable to find a job at the prevailing wage rate. It is a major socio-economic problem affecting growth and development.
+
+---
+
+# 🟡 TYPES OF UNEMPLOYMENT
+
+---
+
+## 🔵 1. SEASONAL UNEMPLOYMENT
+
+* Found in agriculture
+* Work available only during certain seasons
+
+👉 Example: Farmers idle after harvest
+
+---
+
+## 🔵 2. DISGUISED UNEMPLOYMENT (VERY IMPORTANT 🔥)
+
+* More people employed than required
+* Marginal productivity = zero
+
+👉 Example: 5 பேர் வேலை, but 3 பேர் போதுமே
+
+---
+
+## 🔵 3. STRUCTURAL UNEMPLOYMENT
+
+* Mismatch between skills & jobs
+
+👉 Example: Engineering graduate but no suitable job
+
+---
+
+## 🔵 4. FRICTIONAL UNEMPLOYMENT
+
+* Temporary unemployment while changing jobs
+
+---
+
+## 🔵 5. CYCLICAL UNEMPLOYMENT
+
+* Due to economic slowdown
+
+---
+
+## 🔵 6. EDUCATED UNEMPLOYMENT (IMPORTANT)
+
+* Degree holders without jobs
+
+---
+
+# 🔴 CAUSES OF UNEMPLOYMENT
+
+---
+
+## 🔵 ECONOMIC CAUSES
+
+* Slow industrial growth
+* Low investment
+* Lack of infrastructure
+
+---
+
+## 🔵 SOCIAL CAUSES
+
+* Education system not skill-based
+* Preference for white-collar jobs
+
+---
+
+## 🔵 DEMOGRAPHIC CAUSES
+
+* Rapid population growth
+
+---
+
+## 🔵 TECHNOLOGICAL CAUSES
+
+* Automation reduces jobs
+
+---
+
+# 📊 MEASUREMENT OF UNEMPLOYMENT
+
+---
+
+## 🔵 UNEMPLOYMENT RATE
+
+* % of labour force without jobs
+
+---
+
+## 🔵 LABOUR FORCE PARTICIPATION RATE (LFPR)
+
+* % of working-age population working or seeking work
+
+---
+
+## 🔵 WORKER POPULATION RATIO (WPR)
+
+* % of population actually employed
+
+---
+
+## 🧠 ANALYSIS
+
+👉 Low LFPR = hidden unemployment
+
+---
+
+# 🌾 RURAL UNEMPLOYMENT
+
+---
+
+## 🔵 FEATURES
+
+* Seasonal + disguised unemployment
+
+---
+
+## 🔴 PROBLEMS
+
+* Small land holdings
+* Lack of irrigation
+* Low productivity
+
+---
+
+# 🏙️ URBAN UNEMPLOYMENT
+
+---
+
+## 🔵 FEATURES
+
+* Educated unemployment
+* Informal sector jobs
+
+---
+
+## 🔴 PROBLEMS
+
+* Job competition
+* Skill mismatch
+
+---
+
+# ⚖️ UNDEREMPLOYMENT
+
+* People working below their capacity
+  👉 Example: Engineer working as clerk
+
+---
+
+# 🔄 RELATION WITH POVERTY
+
+👉 Unemployment → Low income → Poverty
+👉 Poverty → Lack of education → Unemployment
+
+---
+
+# 🏛️ GOVERNMENT MEASURES (VERY IMPORTANT 🔥)
+
+---
+
+## 🔵 EMPLOYMENT SCHEMES
+
+* MGNREGA
+* PMEGP
+
+---
+
+## 🔵 SKILL DEVELOPMENT
+
+* Skill India Mission
+
+---
+
+## 🔵 SELF-EMPLOYMENT
+
+* Startup India
+* Mudra loans
+
+---
+
+# 📈 EMPLOYMENT GENERATION STRATEGIES
+
+---
+
+## 🔵 AGRICULTURE
+
+* Irrigation
+* Modern farming
+
+---
+
+## 🔵 INDUSTRY
+
+* MSMEs
+* Manufacturing
+
+---
+
+## 🔵 SERVICES
+
+* IT
+* Tourism
+
+---
+
+# 🌍 GLOBALIZATION & UNEMPLOYMENT
+
+* Outsourcing increases jobs
+* Automation reduces jobs
+
+---
+
+# 🔴 PROBLEMS OF UNEMPLOYMENT
+
+* Poverty
+* Social unrest
+* Crime
+* Migration
+
+---

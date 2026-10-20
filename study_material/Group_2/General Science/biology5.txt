@@ -1,0 +1,2570 @@
+# BIOLOGY – PART 11
+
+## ECOLOGY, ECOSYSTEM AND ENVIRONMENTAL SCIENCE
+
+# 1. INTRODUCTION TO ECOLOGY
+
+Ecology is the branch of biology that studies the relationships between living organisms and their environment.
+
+The term ecology was introduced by the German zoologist Ernst Haeckel in 1866. It is derived from the Greek words “oikos,” meaning home, and “logos,” meaning study.
+
+Ecology explains how organisms interact with one another and with non-living components such as air, water, soil, sunlight and temperature.
+
+### Importance of Ecology
+
+1. Helps us understand relationships among organisms.
+2. Explains the flow of energy in nature.
+3. Helps conserve biodiversity.
+4. Supports wildlife and forest conservation.
+5. Explains the effects of pollution.
+6. Helps maintain ecological balance.
+7. Supports sustainable use of natural resources.
+8. Helps understand climate change and environmental problems.
+
+## 1.1 Levels of Ecological Organization
+
+Ecological organization is studied at different levels.
+
+### 1. Organism
+
+An organism is an individual living being.
+
+Examples:
+
+* A human being
+* A mango tree
+* A frog
+* A bacterium
+
+### 2. Population
+
+A population is a group of individuals of the same species living in a particular area at a particular time.
+
+Example: All deer living in a particular forest.
+
+### 3. Community
+
+A community consists of populations of different species living and interacting in the same area.
+
+Example: Trees, birds, insects, fungi and mammals living in a forest.
+
+### 4. Ecosystem
+
+An ecosystem consists of a biological community and its physical environment interacting with each other.
+
+Example: Pond ecosystem, forest ecosystem and grassland ecosystem.
+
+### 5. Biome
+
+A biome is a large geographical region characterized by its climate and typical vegetation and animals.
+
+Examples:
+
+* Tropical rainforest
+* Desert
+* Tundra
+* Grassland
+
+### 6. Biosphere
+
+The biosphere includes all parts of Earth where life exists. It includes portions of the atmosphere, hydrosphere and lithosphere.
+
+**Important TNPSC fact:** The biosphere is the largest level of ecological organization commonly discussed in ecology.
+
+# 2. ENVIRONMENT
+
+The environment includes all living and non-living factors that influence organisms.
+
+## 2.1 Components of the Environment
+
+### A. Biotic Components
+
+Biotic components are the living components of an ecosystem.
+
+Examples:
+
+* Plants
+* Animals
+* Bacteria
+* Fungi
+* Algae
+
+Biotic components are commonly classified as producers, consumers and decomposers.
+
+### B. Abiotic Components
+
+Abiotic components are the non-living physical and chemical factors of the environment.
+
+Examples:
+
+* Sunlight
+* Temperature
+* Water
+* Air
+* Soil
+* Minerals
+* Humidity
+* pH
+* Salinity
+
+Abiotic factors influence the distribution, survival, growth and reproduction of organisms.
+
+## 2.2 Habitat and Niche
+
+### Habitat
+
+A habitat is the natural place where an organism lives.
+
+Examples:
+
+* Pond: Habitat of many freshwater organisms.
+* Forest: Habitat of deer, birds and trees.
+* Desert: Habitat of organisms adapted to dry conditions.
+
+### Ecological Niche
+
+An ecological niche describes the role of an organism in its ecosystem, including how it obtains food, uses resources and interacts with other organisms.
+
+**Difference between habitat and niche**
+
+| Habitat                                  | Ecological Niche                               |
+| ---------------------------------------- | ---------------------------------------------- |
+| The place where an organism lives        | The role played by an organism                 |
+| Describes the organism's living location | Describes how the organism lives and interacts |
+| Example: Pond                            | Example: An insect-eating fish in a pond       |
+
+# 3. ECOSYSTEM
+
+An ecosystem is a functional unit of nature in which living organisms interact with one another and with the non-living environment.
+
+The term ecosystem was proposed by British ecologist A. G. Tansley in 1935.
+
+## 3.1 Components of an Ecosystem
+
+An ecosystem has two major components:
+
+1. Abiotic components
+2. Biotic components
+
+### Abiotic Components
+
+These include sunlight, temperature, water, air, soil and minerals.
+
+Sunlight is the primary energy source for most ecosystems.
+
+### Biotic Components
+
+Biotic components are classified into the following groups.
+
+#### 1. Producers
+
+Producers prepare organic food from inorganic substances.
+
+Green plants use sunlight, carbon dioxide and water during photosynthesis.
+
+Examples:
+
+* Grass
+* Trees
+* Algae
+* Phytoplankton
+
+Producers are also called autotrophs.
+
+#### 2. Consumers
+
+Consumers depend directly or indirectly on other organisms for food.
+
+**Primary consumers:** Feed on producers.
+
+Examples: Deer, rabbit, grasshopper.
+
+**Secondary consumers:** Feed on primary consumers.
+
+Examples: Frog feeding on grasshoppers; small carnivorous fish feeding on herbivorous organisms.
+
+**Tertiary consumers:** Feed on secondary consumers.
+
+Examples vary according to the food chain and ecosystem.
+
+**Apex predators:** Occupy the highest trophic position in a particular food web and generally have few natural predators as adults.
+
+Examples may include tigers in some forest ecosystems and large predatory fish in aquatic ecosystems.
+
+#### 3. Decomposers
+
+Decomposers break down dead organisms and organic wastes into simpler substances.
+
+Examples:
+
+* Bacteria
+* Fungi
+
+They recycle nutrients and return mineral substances to the environment.
+
+Detritivores, such as earthworms, feed on dead organic matter. They are different from microorganisms that chemically decompose organic material.
+
+## 3.2 Functions of an Ecosystem
+
+The major functions of an ecosystem are:
+
+1. Productivity
+2. Energy flow
+3. Decomposition
+4. Nutrient cycling
+
+### Productivity
+
+Productivity refers to the rate at which organic matter is produced in an ecosystem.
+
+**Gross Primary Productivity (GPP):** Total rate at which producers capture energy and produce organic matter through photosynthesis.
+
+**Net Primary Productivity (NPP):** Organic matter remaining after producers use some of the captured energy for respiration.
+
+Formula:
+
+NPP = GPP − Respiration by producers
+
+NPP represents the energy available for plant growth and for consumers that depend on producers.
+
+### Decomposition
+
+Decomposition is the breakdown of dead organic matter into simpler substances.
+
+Major processes include:
+
+* Fragmentation
+* Leaching
+* Catabolism
+* Humification
+* Mineralization
+
+**Humification:** Formation of relatively stable organic matter called humus.
+
+**Mineralization:** Release of inorganic nutrients from organic matter.
+
+Decomposition is generally faster under warm, moist and oxygen-rich conditions, although the rate depends on the material and environment.
+
+# 4. FOOD CHAIN
+
+A food chain represents the transfer of food energy from one organism to another.
+
+Example:
+
+Grass → Grasshopper → Frog → Snake → Eagle
+
+In this food chain:
+
+* Grass is the producer.
+* Grasshopper is the primary consumer.
+* Frog is the secondary consumer.
+* Snake is a higher-level consumer.
+* Eagle occupies a higher trophic level.
+
+## 4.1 Types of Food Chains
+
+### A. Grazing Food Chain
+
+Begins with living green plants.
+
+Example:
+
+Grass → Deer → Tiger
+
+Another example:
+
+Phytoplankton → Zooplankton → Small fish → Large fish
+
+### B. Detritus Food Chain
+
+Begins with dead organic matter.
+
+Example:
+
+Dead leaves → Earthworms or other detritivores → Birds
+
+Microorganisms also play important roles in breaking down dead organic matter.
+
+## 4.2 Food Web
+
+A food web consists of interconnected food chains.
+
+In natural ecosystems, most organisms have more than one food source and may be eaten by several predators.
+
+### Importance of Food Webs
+
+1. Demonstrate feeding relationships.
+2. Provide alternative energy pathways.
+3. Help explain ecosystem stability.
+4. Show the interdependence of organisms.
+
+**TNPSC point:** A food web is more complex than a single food chain because it contains multiple interconnected feeding relationships.
+
+# 5. TROPHIC LEVELS AND ENERGY FLOW
+
+A trophic level is the feeding position occupied by an organism in a food chain.
+
+| Trophic Level | Organism Type       | Example     |
+| ------------- | ------------------- | ----------- |
+| First         | Producers           | Grass       |
+| Second        | Primary consumers   | Grasshopper |
+| Third         | Secondary consumers | Frog        |
+| Fourth        | Tertiary consumers  | Snake       |
+
+The exact trophic position of an organism may differ among food chains.
+
+## 5.1 Energy Flow
+
+Energy enters most ecosystems through sunlight.
+
+Green plants capture solar energy through photosynthesis. This energy passes to consumers through feeding relationships.
+
+Energy flow is generally unidirectional:
+
+Sun → Producers → Consumers → Decomposers
+
+Energy is lost as heat during metabolic processes at each trophic level. Therefore, the same energy cannot be recycled indefinitely.
+
+Nutrients, in contrast, can be recycled through biogeochemical cycles.
+
+## 5.2 Ten Percent Law
+
+The ten percent law was proposed by ecologist Raymond Lindeman in 1942.
+
+It states that, on average, approximately 10% of the energy at one trophic level may be transferred to the next trophic level in a simplified ecological model.
+
+For example:
+
+* Producers: 10,000 energy units
+* Primary consumers: 1,000 energy units
+* Secondary consumers: 100 energy units
+* Tertiary consumers: 10 energy units
+
+This is an illustrative model, not a fixed rule for every ecosystem. Actual transfer efficiency varies.
+
+**Important fact:** The ten percent law is associated with Raymond Lindeman.
+
+# 6. ECOLOGICAL PYRAMIDS
+
+An ecological pyramid represents the relationship between trophic levels in an ecosystem.
+
+The three major types are:
+
+1. Pyramid of numbers
+2. Pyramid of biomass
+3. Pyramid of energy
+
+## 6.1 Pyramid of Numbers
+
+Shows the number of organisms at each trophic level.
+
+It may be upright or inverted, depending on the ecosystem.
+
+For example, one large tree may support many insects. In such a case, the pyramid of numbers may be inverted or irregular.
+
+## 6.2 Pyramid of Biomass
+
+Shows the total mass of living organisms at each trophic level, usually measured as dry mass per unit area or volume.
+
+In many terrestrial ecosystems, the biomass pyramid is upright.
+
+In some aquatic ecosystems, it can be inverted because phytoplankton have a small standing biomass but reproduce rapidly and support a larger biomass of consumers.
+
+## 6.3 Pyramid of Energy
+
+Shows the amount of energy available at each trophic level per unit area per unit time.
+
+The energy pyramid is always upright in the conventional ecological representation because energy is lost during transfer between trophic levels.
+
+**TNPSC quick revision:**
+
+* Pyramid of numbers: May be upright or inverted.
+* Pyramid of biomass: May be upright or inverted.
+* Pyramid of energy: Always upright.
+
+# 7. BIOGEOCHEMICAL CYCLES
+
+Biogeochemical cycles describe the movement of chemical elements between living organisms and the physical environment.
+
+Important cycles include:
+
+1. Water cycle
+2. Carbon cycle
+3. Nitrogen cycle
+4. Oxygen cycle
+5. Phosphorus cycle
+
+## 7.1 Water Cycle
+
+The water cycle is the continuous movement of water between Earth's surface and the atmosphere.
+
+### Major Processes
+
+**Evaporation:** Liquid water changes into water vapour.
+
+**Transpiration:** Plants release water vapour, mainly through stomata.
+
+**Condensation:** Water vapour cools and forms liquid droplets.
+
+**Precipitation:** Water falls as rain, snow or other forms.
+
+**Infiltration:** Water enters the soil.
+
+**Runoff:** Water flows across the land surface.
+
+**Groundwater flow:** Water moves through underground spaces and geological formations.
+
+### Importance
+
+* Maintains freshwater availability.
+* Supports agriculture.
+* Regulates weather and climate.
+* Sustains aquatic ecosystems.
+* Replenishes groundwater.
+
+## 7.2 Carbon Cycle
+
+Carbon is essential for carbohydrates, proteins, lipids and nucleic acids.
+
+### Major Processes
+
+1. Photosynthesis removes carbon dioxide from the atmosphere.
+2. Carbon enters plants as organic compounds.
+3. Animals obtain carbon by feeding.
+4. Respiration releases carbon dioxide.
+5. Decomposition returns carbon to the environment.
+6. Oceans absorb and release carbon dioxide.
+7. Combustion of fossil fuels releases stored carbon.
+
+### Human Influence
+
+Burning coal, petroleum and natural gas increases atmospheric carbon dioxide.
+
+Deforestation reduces carbon storage in vegetation and can release stored carbon.
+
+Higher atmospheric greenhouse-gas concentrations contribute to global warming.
+
+## 7.3 Nitrogen Cycle
+
+Nitrogen is necessary for proteins, enzymes, DNA and RNA.
+
+Although atmospheric nitrogen forms approximately 78% of Earth's atmosphere, most organisms cannot use atmospheric nitrogen gas directly.
+
+### Major Steps
+
+#### 1. Nitrogen Fixation
+
+Atmospheric nitrogen is converted into biologically useful compounds.
+
+Examples of nitrogen-fixing microorganisms include:
+
+* Rhizobium
+* Certain cyanobacteria
+* Azotobacter
+
+Rhizobium commonly forms a symbiotic association with the root nodules of leguminous plants.
+
+Lightning can also convert atmospheric nitrogen into nitrogen compounds.
+
+Industrial processes can produce nitrogen fertilizers.
+
+#### 2. Nitrification
+
+Ammonia or ammonium is converted into nitrite and then nitrate by nitrifying microorganisms.
+
+#### 3. Assimilation
+
+Plants absorb inorganic nitrogen compounds and incorporate nitrogen into organic molecules.
+
+Animals obtain nitrogen by eating plants or other animals.
+
+#### 4. Ammonification
+
+Decomposers convert organic nitrogen from dead organisms and wastes into ammonia or ammonium compounds.
+
+#### 5. Denitrification
+
+Certain bacteria convert nitrate into gaseous nitrogen forms, returning nitrogen to the atmosphere.
+
+### Importance of the Nitrogen Cycle
+
+* Maintains nitrogen availability.
+* Supports plant growth.
+* Recycles nutrients.
+* Helps maintain ecosystem productivity.
+
+## 7.4 Phosphorus Cycle
+
+Phosphorus is essential for:
+
+* DNA and RNA
+* ATP
+* Phospholipids
+* Bones and teeth
+
+Weathering of phosphate-containing rocks releases phosphorus into soil and water.
+
+Plants absorb phosphate. Animals obtain phosphorus through food. Decomposition returns phosphorus to the environment.
+
+Unlike the carbon and nitrogen cycles, the phosphorus cycle has no major gaseous atmospheric phase under normal ecological conditions.
+
+Excess phosphorus entering water bodies can contribute to eutrophication.
+
+# 8. ECOLOGICAL SUCCESSION
+
+Ecological succession is the gradual change in the species composition and structure of an ecological community over time.
+
+## 8.1 Primary Succession
+
+Primary succession begins in an area where soil is absent or has not developed and where a community is being established on newly exposed surfaces.
+
+Examples:
+
+* Newly exposed rock
+* Fresh lava surfaces
+* Some newly formed glacial landscapes
+
+Lichens and other pioneer organisms may help initiate soil formation.
+
+Primary succession is generally slow because soil and suitable conditions must develop.
+
+## 8.2 Secondary Succession
+
+Secondary succession occurs where a previous community has been disturbed but soil remains.
+
+Examples:
+
+* Abandoned agricultural land
+* Forest regrowth after a fire
+* Vegetation recovery after some types of storms
+
+Secondary succession is often faster than primary succession because soil, nutrients and some biological material remain.
+
+| Primary Succession                         | Secondary Succession            |
+| ------------------------------------------ | ------------------------------- |
+| Begins where soil is absent or undeveloped | Begins where soil remains       |
+| Usually slower                             | Often faster                    |
+| Pioneer organisms help develop soil        | Existing soil supports recovery |
+| Example: Newly exposed rock                | Example: Abandoned farmland     |
+
+## 8.3 Pioneer Community
+
+A pioneer community is the first group of organisms to colonize a developing habitat.
+
+Examples may include lichens, mosses, grasses or other organisms, depending on environmental conditions.
+
+## 8.4 Climax Community
+
+In classical ecological models, a climax community is a relatively stable community that develops through succession under prevailing conditions.
+
+Modern ecology recognizes that ecosystems are dynamic and may experience repeated disturbances rather than reaching one permanent final state.
+
+# 9. BIODIVERSITY
+
+Biodiversity means the variety of living organisms and the ecological systems in which they occur.
+
+It includes variation within species, between species and among ecosystems.
+
+## 9.1 Levels of Biodiversity
+
+### 1. Genetic Diversity
+
+Variation in genes within a species.
+
+Example: Different varieties of rice with different characteristics.
+
+Importance:
+
+* Supports adaptation.
+* Improves resilience to disease.
+* Provides material for plant and animal breeding.
+
+### 2. Species Diversity
+
+The variety of species in a region.
+
+Example: Different species of plants, insects, birds and mammals in a forest.
+
+### 3. Ecosystem Diversity
+
+The variety of ecosystems in a region.
+
+Examples:
+
+* Forests
+* Wetlands
+* Grasslands
+* Deserts
+* Mangroves
+* Coral reefs
+
+## 9.2 Importance of Biodiversity
+
+1. Provides food, medicine and raw materials.
+2. Supports pollination.
+3. Maintains soil fertility.
+4. Helps regulate climate.
+5. Supports nutrient cycling.
+6. Maintains ecological relationships.
+7. Provides cultural, educational and recreational benefits.
+8. Supports genetic resources for future use.
+
+## 9.3 Biodiversity Hotspots
+
+A biodiversity hotspot is a region with high concentrations of endemic species that has experienced substantial habitat loss.
+
+The hotspot concept is associated with Norman Myers.
+
+To qualify under the widely used Conservation International criteria, a region must contain at least 1,500 endemic vascular plant species and must have lost at least 70% of its original natural vegetation.
+
+India includes parts of four global biodiversity hotspots:
+
+1. Himalaya
+2. Indo-Burma
+3. Western Ghats–Sri Lanka
+4. Sundaland, represented in India by the Nicobar Islands
+
+**TNPSC point:** The Western Ghats are an important biodiversity-rich region of southern India.
+
+## 9.4 Endemic Species
+
+An endemic species is naturally restricted to a particular geographical area.
+
+Examples include species found naturally only in particular island systems or mountain ranges.
+
+Endemism does not automatically mean that a species is endangered. However, a species restricted to a small area may be especially vulnerable to habitat destruction.
+
+## 9.5 Threats to Biodiversity
+
+Major threats include:
+
+* Habitat destruction
+* Habitat fragmentation
+* Pollution
+* Overexploitation
+* Invasive alien species
+* Climate change
+* Illegal wildlife trade
+
+### Habitat Destruction
+
+Conversion of forests and wetlands into agricultural land, settlements or industrial areas can reduce available habitats.
+
+### Invasive Alien Species
+
+These are species introduced outside their natural range that can spread and cause ecological, economic or social harm.
+
+Examples often discussed in Indian environmental studies include water hyacinth and Lantana camara.
+
+### Overexploitation
+
+Excessive hunting, fishing, logging or collection can reduce populations faster than they can recover.
+
+# 10. CONSERVATION OF BIODIVERSITY
+
+Biodiversity conservation aims to protect species, genetic variation and ecosystems.
+
+## 10.1 In-Situ Conservation
+
+In-situ conservation protects organisms in their natural habitats.
+
+Examples:
+
+* National parks
+* Wildlife sanctuaries
+* Biosphere reserves
+* Community-protected areas
+
+Advantages:
+
+* Protects many species together.
+* Maintains natural interactions.
+* Allows evolutionary processes to continue.
+* Can protect entire habitats.
+
+## 10.2 Ex-Situ Conservation
+
+Ex-situ conservation protects organisms outside their natural habitats.
+
+Examples:
+
+* Zoos
+* Botanical gardens
+* Seed banks
+* Gene banks
+* Tissue culture facilities
+* Cryopreservation
+
+Advantages:
+
+* Supports breeding programmes.
+* Can preserve rare genetic material.
+* Helps protect species facing immediate threats.
+* Supports research and education.
+
+| In-Situ Conservation                          | Ex-Situ Conservation                            |
+| --------------------------------------------- | ----------------------------------------------- |
+| Within the natural habitat                    | Outside the natural habitat                     |
+| Protects habitats and ecological interactions | Protects selected organisms or genetic material |
+| Example: National park                        | Example: Seed bank                              |
+| Supports natural ecological processes         | Supports managed breeding and storage           |
+
+## 10.3 National Park, Wildlife Sanctuary and Biosphere Reserve
+
+### National Park
+
+A national park is a protected area established for conservation of wildlife, habitats and ecosystems. Activities are regulated under applicable laws.
+
+### Wildlife Sanctuary
+
+A wildlife sanctuary is a protected area intended primarily to protect wildlife and their habitats. Specific rights and permitted activities depend on the applicable legal provisions.
+
+### Biosphere Reserve
+
+A biosphere reserve aims to conserve biodiversity while supporting research, education and sustainable human activities.
+
+Biosphere reserves commonly have three zones:
+
+1. Core zone: Strictly protected central area.
+2. Buffer zone: Supports research, education and compatible activities.
+3. Transition zone: Allows sustainable human activities and settlements.
+
+# 11. ENVIRONMENTAL POLLUTION
+
+Pollution occurs when substances or forms of energy are introduced into the environment at levels that cause harmful effects.
+
+Major types:
+
+* Air pollution
+* Water pollution
+* Soil pollution
+* Noise pollution
+* Thermal pollution
+* Radioactive pollution
+* Light pollution
+
+## 11.1 Air Pollution
+
+Air pollution occurs when harmful gases, particles or biological substances contaminate the atmosphere.
+
+### Major Air Pollutants
+
+**Particulate Matter (PM10 and PM2.5):** Small airborne particles that can enter the respiratory system. Fine particles can penetrate deeply into the lungs.
+
+**Sulphur Dioxide (SO₂):** Produced by burning sulphur-containing fuels and certain industrial processes.
+
+**Nitrogen Oxides (NOx):** Produced by high-temperature combustion, including vehicle engines and power plants.
+
+**Carbon Monoxide (CO):** Formed during incomplete combustion. It reduces the blood's ability to transport oxygen.
+
+**Ground-Level Ozone (O₃):** A secondary pollutant formed through reactions involving nitrogen oxides and volatile organic compounds in sunlight.
+
+**Lead:** A toxic metal that may enter the environment from certain industrial sources and contaminated materials.
+
+### Effects of Air Pollution
+
+* Respiratory illness
+* Cardiovascular effects
+* Reduced visibility
+* Damage to crops
+* Damage to buildings
+* Harm to wildlife
+* Contribution to climate and atmospheric chemistry problems
+
+### Control Measures
+
+1. Improve public transport.
+2. Use cleaner energy sources.
+3. Maintain vehicles properly.
+4. Control industrial emissions.
+5. Avoid open burning of waste.
+6. Increase energy efficiency.
+7. Monitor air quality.
+8. Protect and restore green spaces.
+
+## 11.2 Water Pollution
+
+Water pollution occurs when harmful substances or organisms enter water bodies and reduce water quality.
+
+### Sources
+
+* Untreated sewage
+* Industrial effluents
+* Agricultural runoff
+* Oil spills
+* Plastics
+* Mining waste
+* Pathogenic microorganisms
+
+### Effects
+
+* Waterborne diseases
+* Fish mortality
+* Reduced dissolved oxygen
+* Eutrophication
+* Contamination of drinking water
+* Damage to aquatic biodiversity
+
+### Water Quality Indicators
+
+**Dissolved Oxygen (DO):** Oxygen available in water for aquatic organisms.
+
+**Biochemical Oxygen Demand (BOD):** The amount of dissolved oxygen required by microorganisms to break down biodegradable organic matter under specified test conditions.
+
+A high BOD value often indicates substantial biodegradable organic pollution.
+
+**Chemical Oxygen Demand (COD):** An estimate of the oxygen equivalent needed to chemically oxidize substances in a water sample under a specified test.
+
+BOD and COD are related but are not identical measurements.
+
+## 11.3 Eutrophication
+
+Eutrophication is the enrichment of a water body with nutrients, especially nitrogen and phosphorus.
+
+### Causes
+
+* Fertilizer runoff
+* Sewage discharge
+* Detergent-related nutrient inputs
+* Agricultural drainage
+
+### Process
+
+1. Nutrients enter the water.
+2. Algae and aquatic plants may grow rapidly.
+3. Some of this biomass dies.
+4. Decomposers break down the dead material.
+5. Microbial decomposition consumes dissolved oxygen.
+6. Oxygen depletion can harm or kill aquatic organisms.
+
+Severe oxygen depletion may create hypoxic conditions.
+
+## 11.4 Soil Pollution
+
+Soil pollution occurs when harmful chemicals or wastes contaminate the soil.
+
+Sources:
+
+* Excessive pesticide use
+* Industrial waste
+* Improper disposal of batteries
+* Heavy metals
+* Plastic waste
+* Oil contamination
+
+Effects:
+
+* Reduced soil fertility
+* Harm to soil organisms
+* Contamination of crops
+* Groundwater contamination
+* Entry of pollutants into food chains
+
+Control measures include safe waste disposal, integrated pest management, soil testing and remediation of contaminated land.
+
+## 11.5 Noise Pollution
+
+Noise pollution refers to unwanted or excessive sound that affects human health or environmental quality.
+
+Sources:
+
+* Road traffic
+* Aircraft
+* Construction
+* Industries
+* Loudspeakers
+* Machinery
+
+Possible effects:
+
+* Hearing impairment
+* Sleep disturbance
+* Stress
+* Reduced concentration
+* Communication difficulties
+
+Noise levels are commonly measured in decibels (dB).
+
+Control measures include noise barriers, machinery maintenance, sound insulation and appropriate regulation of loud activities.
+
+# 12. GREENHOUSE EFFECT AND GLOBAL WARMING
+
+## 12.1 Greenhouse Effect
+
+The greenhouse effect is a natural process in which certain atmospheric gases absorb and re-emit infrared radiation, helping keep Earth warm.
+
+Major greenhouse gases include:
+
+* Water vapour
+* Carbon dioxide
+* Methane
+* Nitrous oxide
+* Ozone
+* Certain industrial gases
+
+The natural greenhouse effect is essential for life. However, increased greenhouse-gas concentrations from human activities strengthen the effect and contribute to global warming.
+
+## 12.2 Global Warming
+
+Global warming refers to the long-term increase in Earth's average surface temperature, primarily driven by human-caused greenhouse-gas emissions.
+
+Major human causes:
+
+* Burning fossil fuels
+* Deforestation
+* Agriculture
+* Industrial processes
+* Certain waste-management practices
+
+### Effects
+
+1. Rising average temperatures.
+2. Melting glaciers and ice sheets.
+3. Rising global mean sea level.
+4. Changes in rainfall patterns.
+5. Increased heatwave risk.
+6. Changes in ecosystem distribution.
+7. Greater risks to agriculture and water security.
+8. Increased stress on some wildlife populations.
+
+## 12.3 Climate Change
+
+Climate change includes long-term changes in temperature, rainfall, wind patterns and other climate characteristics.
+
+Global warming is one major component of modern climate change.
+
+### Mitigation
+
+Mitigation means reducing greenhouse-gas emissions or increasing the removal of greenhouse gases from the atmosphere.
+
+Examples:
+
+* Renewable energy
+* Energy efficiency
+* Forest protection
+* Reduced fossil-fuel use
+* Low-emission transport
+
+### Adaptation
+
+Adaptation means adjusting systems and practices to reduce harm from actual or expected climate impacts.
+
+Examples:
+
+* Drought-resistant crops
+* Flood-resilient infrastructure
+* Heat action plans
+* Water conservation
+* Early-warning systems
+
+# 13. OZONE LAYER
+
+The ozone layer is a region of the stratosphere containing relatively high concentrations of ozone.
+
+It absorbs much of the Sun's harmful ultraviolet-B radiation.
+
+## 13.1 Ozone Depletion
+
+Certain chemicals, especially chlorofluorocarbons (CFCs) and related ozone-depleting substances, release reactive chlorine or bromine in the stratosphere.
+
+These reactive substances participate in catalytic reactions that destroy ozone.
+
+### Effects of Ozone Depletion
+
+* Increased exposure to harmful ultraviolet radiation.
+* Greater risk of skin damage.
+* Increased risk of certain eye conditions.
+* Harm to phytoplankton and some terrestrial plants.
+* Potential damage to ecosystems.
+
+## 13.2 Montreal Protocol
+
+The Montreal Protocol on Substances that Deplete the Ozone Layer was adopted in 1987.
+
+It aims to phase out the production and consumption of ozone-depleting substances.
+
+**TNPSC fact:** The Montreal Protocol is associated with protection of the ozone layer.
+
+Do not confuse it with the Kyoto Protocol or the Paris Agreement, which are associated with climate-change action.
+
+# 14. ACID RAIN
+
+Acid rain refers to precipitation that is more acidic than normal because of atmospheric pollutants.
+
+Sulphur dioxide and nitrogen oxides can react in the atmosphere to form acids that contribute to acid deposition.
+
+### Sources
+
+* Coal-fired power plants
+* Industrial emissions
+* Vehicle emissions
+* Certain natural sources
+
+### Effects
+
+1. Acidification of lakes and streams.
+2. Damage to sensitive aquatic organisms.
+3. Nutrient loss from some soils.
+4. Damage to forests.
+5. Corrosion of buildings and monuments.
+6. Mobilization of toxic metals in certain soils.
+
+### Control
+
+* Reduce sulphur dioxide emissions.
+* Control nitrogen oxide emissions.
+* Use cleaner energy.
+* Improve industrial emission controls.
+* Improve energy efficiency.
+
+# 15. SOLID WASTE MANAGEMENT
+
+Solid waste includes unwanted materials generated by households, industries, institutions and commercial activities.
+
+## 15.1 Types of Solid Waste
+
+* Municipal solid waste
+* Industrial waste
+* Agricultural waste
+* Biomedical waste
+* Electronic waste
+* Construction and demolition waste
+* Hazardous waste
+
+Different waste categories require different collection, treatment and disposal methods.
+
+## 15.2 The 5Rs
+
+Commonly used waste-reduction principles include:
+
+1. Refuse unnecessary products.
+2. Reduce consumption.
+3. Reuse products.
+4. Repair products where practical.
+5. Recycle suitable materials.
+
+The exact wording and order of the “Rs” can vary between educational frameworks.
+
+## 15.3 Composting
+
+Composting is the controlled biological breakdown of suitable organic waste into a stable soil-amendment material.
+
+Examples of compostable materials may include vegetable scraps, fruit peels and dry leaves.
+
+Benefits:
+
+* Reduces biodegradable waste sent to landfill.
+* Returns organic matter to soil.
+* Can improve soil structure.
+* Supports nutrient recycling.
+
+## 15.4 E-Waste
+
+Electronic waste includes discarded electrical and electronic equipment.
+
+Examples:
+
+* Computers
+* Mobile phones
+* Printers
+* Televisions
+* Circuit boards
+
+E-waste may contain recoverable valuable materials as well as hazardous substances.
+
+It should be collected and processed through appropriate authorized systems rather than burned or dumped carelessly.
+
+# 16. RENEWABLE AND NON-RENEWABLE RESOURCES
+
+## 16.1 Renewable Resources
+
+Renewable resources are replenished naturally on a human-relevant timescale when managed appropriately.
+
+Examples:
+
+* Solar energy
+* Wind energy
+* Hydropower
+* Sustainable biomass
+* Geothermal energy
+
+Renewable resources can still cause environmental impacts if poorly planned or managed.
+
+## 16.2 Non-Renewable Resources
+
+These resources are finite or form much more slowly than humans consume them.
+
+Examples:
+
+* Coal
+* Petroleum
+* Natural gas
+* Many mineral resources
+
+### Conservation Measures
+
+1. Reduce unnecessary energy consumption.
+2. Improve energy efficiency.
+3. Use renewable energy where suitable.
+4. Reduce material waste.
+5. Reuse and recycle products.
+6. Protect forests and watersheds.
+7. Use water efficiently.
+
+# 17. FOREST CONSERVATION
+
+Forests provide habitat, store carbon, regulate water flow and protect soil.
+
+### Importance of Forests
+
+* Maintain biodiversity.
+* Reduce soil erosion.
+* Support the water cycle.
+* Store carbon.
+* Provide timber and non-timber products.
+* Support livelihoods.
+* Help moderate local environmental conditions.
+
+### Deforestation
+
+Deforestation is the removal of forest cover and conversion of forest land to other uses.
+
+Causes include:
+
+* Agricultural expansion
+* Infrastructure development
+* Mining
+* Urban expansion
+* Unsustainable logging
+* Some types of forest fires
+
+Effects include habitat loss, soil erosion, biodiversity decline and changes in local water cycles.
+
+### Afforestation and Reforestation
+
+**Afforestation:** Establishing forest on land that has not recently been forested, according to the definition used in a particular context.
+
+**Reforestation:** Re-establishing forest on land where forest was previously present.
+
+Planting trees alone does not automatically restore a complete natural forest ecosystem. Species selection, soil conditions, water availability and biodiversity also matter.
+
+# 18. ENVIRONMENTAL PROTECTION IN INDIA
+
+India has laws and institutions designed to protect the environment.
+
+Important laws include:
+
+### Wildlife (Protection) Act, 1972
+
+Provides a legal framework for the protection of specified wild animals, plants and habitats, with provisions amended over time.
+
+### Water (Prevention and Control of Pollution) Act, 1974
+
+A major law addressing prevention and control of water pollution.
+
+### Forest (Conservation) Act, 1980
+
+Originally enacted to regulate the diversion of forest land for non-forest purposes. The law's current name and scope should be studied using the latest official syllabus and legal materials because amendments have changed aspects of the framework.
+
+### Air (Prevention and Control of Pollution) Act, 1981
+
+Addresses prevention, control and reduction of air pollution.
+
+### Environment (Protection) Act, 1986
+
+An important umbrella law that provides powers for environmental protection and regulation.
+
+### Biological Diversity Act, 2002
+
+Provides a framework for biodiversity conservation, sustainable use and fair and equitable sharing of benefits arising from biological resources.
+
+**Exam preparation note:** For legal questions, verify current amendments and official terminology before the examination.
+
+# 19. IMPORTANT ENVIRONMENTAL ORGANIZATIONS AND AGREEMENTS
+
+## United Nations Environment Programme (UNEP)
+
+UNEP coordinates environmental activities within the United Nations system and supports environmental science, policy and cooperation.
+
+## International Union for Conservation of Nature (IUCN)
+
+IUCN is known for its work in nature conservation and the IUCN Red List of Threatened Species.
+
+## Convention on Biological Diversity (CBD)
+
+The CBD was opened for signature at the 1992 Rio Earth Summit. Its objectives include:
+
+1. Conservation of biological diversity.
+2. Sustainable use of its components.
+3. Fair and equitable sharing of benefits arising from genetic resources.
+
+## Ramsar Convention
+
+The Ramsar Convention is an international treaty concerned with the conservation and wise use of wetlands.
+
+It was adopted in Ramsar, Iran, in 1971.
+
+## CITES
+
+The Convention on International Trade in Endangered Species of Wild Fauna and Flora regulates international trade in listed wild animals and plants to help ensure that such trade does not threaten their survival.
+
+## Paris Agreement
+
+The Paris Agreement was adopted in 2015 under the United Nations Framework Convention on Climate Change.
+
+It aims to strengthen the global response to climate change, including efforts to limit global temperature rise.
+
+# 20. IMPORTANT TNPSC ONE-LINE FACTS
+
+1. Ecology is the study of interactions between organisms and their environment.
+2. Ernst Haeckel introduced the term ecology in 1866.
+3. A. G. Tansley proposed the term ecosystem in 1935.
+4. Producers are autotrophs.
+5. Bacteria and fungi are major decomposers.
+6. A food web consists of interconnected food chains.
+7. Energy flow through ecosystems is generally unidirectional.
+8. Nutrients are recycled through biogeochemical cycles.
+9. Raymond Lindeman is associated with the ten percent law.
+10. The energy pyramid is always upright in the conventional representation.
+11. The water cycle includes evaporation, condensation and precipitation.
+12. Rhizobium commonly forms root-nodule associations with leguminous plants.
+13. Nitrogen fixation converts atmospheric nitrogen into biologically usable forms.
+14. Primary succession begins where soil is absent or undeveloped.
+15. Secondary succession occurs where soil remains after disturbance.
+16. Biodiversity includes genetic, species and ecosystem diversity.
+17. A biodiversity hotspot contains high endemism and has experienced substantial habitat loss.
+18. The Western Ghats are an important biodiversity-rich region in India.
+19. In-situ conservation protects organisms in natural habitats.
+20. Ex-situ conservation includes seed banks and botanical gardens.
+21. Eutrophication is associated with nutrient enrichment of water bodies.
+22. BOD stands for Biochemical Oxygen Demand.
+23. Greenhouse gases absorb and re-emit infrared radiation.
+24. The Montreal Protocol addresses ozone-depleting substances.
+25. Acid deposition is associated with sulphur dioxide and nitrogen oxides.
+26. The Ramsar Convention focuses on wetlands.
+27. IUCN publishes the IUCN Red List of Threatened Species.
+28. CITES regulates international trade in listed wild species.
+29. The Paris Agreement addresses climate change.
+30. The Environment (Protection) Act was enacted in India in 1986.
+
+# 21. TNPSC-STYLE PRACTICE QUESTIONS
+
+### Question 1
+
+Who introduced the term ecology?
+
+A. Charles Darwin
+B. Ernst Haeckel
+C. Gregor Mendel
+D. Louis Pasteur
+
+**Answer: B. Ernst Haeckel**
+
+Explanation: Ernst Haeckel introduced the term ecology in 1866.
+
+### Question 2
+
+Which of the following is a producer?
+
+A. Tiger
+B. Frog
+C. Green plant
+D. Snake
+
+**Answer: C. Green plant**
+
+Explanation: Green plants synthesize organic food through photosynthesis.
+
+### Question 3
+
+Which organisms are major decomposers?
+
+A. Tigers and lions
+B. Bacteria and fungi
+C. Deer and rabbits
+D. Eagles and snakes
+
+**Answer: B. Bacteria and fungi**
+
+Explanation: They break down dead organic matter and recycle nutrients.
+
+### Question 4
+
+Which ecological pyramid is always upright in the conventional representation?
+
+A. Pyramid of numbers
+B. Pyramid of biomass
+C. Pyramid of energy
+D. None of these
+
+**Answer: C. Pyramid of energy**
+
+Explanation: Energy decreases at successive trophic levels because much is used in metabolism and lost as heat.
+
+### Question 5
+
+The ten percent law is associated with:
+
+A. Raymond Lindeman
+B. Ernst Haeckel
+C. A. G. Tansley
+D. Alexander Fleming
+
+**Answer: A. Raymond Lindeman**
+
+### Question 6
+
+Which process converts atmospheric nitrogen into usable nitrogen compounds?
+
+A. Transpiration
+B. Nitrogen fixation
+C. Condensation
+D. Photosynthesis
+
+**Answer: B. Nitrogen fixation**
+
+### Question 7
+
+Which of the following is an example of in-situ conservation?
+
+A. Seed bank
+B. Botanical garden
+C. National park
+D. Laboratory tissue culture
+
+**Answer: C. National park**
+
+### Question 8
+
+Which of the following is associated with the Ramsar Convention?
+
+A. Wetland conservation
+B. Nuclear energy
+C. Space exploration
+D. Ozone measurement only
+
+**Answer: A. Wetland conservation**
+
+### Question 9
+
+Excessive nutrient enrichment of a lake may result in:
+
+A. Eutrophication
+B. Nitrogen fixation only
+C. Condensation
+D. Afforestation
+
+**Answer: A. Eutrophication**
+
+### Question 10
+
+Which agreement focuses on the protection of the ozone layer?
+
+A. Paris Agreement
+B. Montreal Protocol
+C. Ramsar Convention
+D. Convention on Biological Diversity
+
+**Answer: B. Montreal Protocol**
+
+### Question 11
+
+Which of the following is a greenhouse gas?
+
+A. Carbon dioxide
+B. Argon only
+C. Helium only
+D. Neon only
+
+**Answer: A. Carbon dioxide**
+
+### Question 12
+
+Which of the following is an example of ex-situ conservation?
+
+A. Wildlife habitat protection in a national park
+B. Natural forest conservation
+C. Seed bank
+D. Protection of a wetland in its natural location
+
+**Answer: C. Seed bank**
+
+### Question 13
+
+Which measurement estimates oxygen consumption associated with the biological breakdown of biodegradable organic matter in water?
+
+A. BOD
+B. Atmospheric pressure
+C. Wind speed
+D. Salinity alone
+
+**Answer: A. BOD**
+
+### Question 14
+
+Which gas is strongly associated with acid deposition through atmospheric chemical reactions?
+
+A. Sulphur dioxide
+B. Helium
+C. Neon
+D. Hydrogen only
+
+**Answer: A. Sulphur dioxide**
+
+### Question 15
+
+Which law is an important umbrella environmental protection law in India?
+
+A. Environment (Protection) Act, 1986
+B. Indian Contract Act, 1872
+C. Companies Act, 2013
+D. Indian Partnership Act, 1932
+
+**Answer: A. Environment (Protection) Act, 1986**
+
+# 22. FINAL REVISION SUMMARY
+
+Ecology studies the interactions between organisms and their environment. An ecosystem includes both biotic and abiotic components. Producers capture energy, consumers transfer it through feeding relationships, and decomposers recycle nutrients.
+
+Energy flow is generally unidirectional, whereas nutrients move through cycles such as the water, carbon, nitrogen and phosphorus cycles.
+
+Biodiversity includes genetic diversity, species diversity and ecosystem diversity. It can be protected through in-situ and ex-situ conservation.
+
+Major environmental challenges include air and water pollution, soil contamination, climate change, ozone depletion, acid deposition, habitat destruction and biodiversity loss.
+
+Environmental laws, protected areas, international agreements and sustainable resource management play important roles in environmental protection.
+
+**Important final revision terms:** Ecology, ecosystem, food chain, food web, trophic level, ten percent law, ecological pyramid, nitrogen fixation, ecological succession, biodiversity hotspot, endemic species, in-situ conservation, ex-situ conservation, eutrophication, BOD, greenhouse effect, ozone layer, Montreal Protocol, Ramsar Convention, CITES and Paris Agreement.
+
+# BIOLOGY – PART 12
+
+## NATURAL RESOURCES, SUSTAINABLE DEVELOPMENT AND HUMAN IMPACT ON THE ENVIRONMENT
+
+### TNPSC GROUP 2 – GENERAL SCIENCE STUDY MATERIAL
+
+# 1. NATURAL RESOURCES
+
+Natural resources are materials, organisms and forms of energy obtained from nature and used to support life and human activities.
+
+Examples:
+
+* Air
+* Water
+* Soil
+* Forests
+* Wildlife
+* Minerals
+* Sunlight
+* Wind
+* Fossil fuels
+
+Natural resources support agriculture, industries, transport, energy production and human settlements.
+
+## 1.1 Classification of Natural Resources
+
+Natural resources can be classified in several ways.
+
+### A. Renewable Resources
+
+Renewable resources are replenished naturally over time, although the rate of replenishment varies.
+
+Examples:
+
+* Solar energy
+* Wind energy
+* Flowing water
+* Sustainably managed forests
+* Certain biological resources
+
+A renewable resource can still be depleted if it is consumed faster than it is replenished.
+
+### B. Non-Renewable Resources
+
+These are resources that form extremely slowly compared with the rate at which humans generally use them.
+
+Examples:
+
+* Coal
+* Petroleum
+* Natural gas
+* Many mineral deposits
+
+### C. Biotic Resources
+
+Resources obtained from living organisms or biological systems.
+
+Examples:
+
+* Forest products
+* Fish
+* Livestock
+* Agricultural crops
+
+### D. Abiotic Resources
+
+Resources derived from non-living components of nature.
+
+Examples:
+
+* Air
+* Water
+* Rocks
+* Minerals
+* Sunlight
+
+### E. Exhaustible and Inexhaustible Resources
+
+Exhaustible resources are limited or can be depleted through use.
+
+Examples: Coal, petroleum and many mineral deposits.
+
+Inexhaustible resources are available in very large quantities relative to human use, or are continuously supplied.
+
+Examples often include sunlight and wind.
+
+However, the infrastructure used to capture these resources may require land, materials and maintenance.
+
+# 2. WATER RESOURCES
+
+Water is essential for all known forms of life. It is required for cellular reactions, transport of substances, temperature regulation and many ecological processes.
+
+## 2.1 Distribution of Water on Earth
+
+Most of Earth's water is saline and occurs in oceans. Only a small proportion is freshwater, and much freshwater is stored in glaciers, ice sheets and groundwater.
+
+The proportion of readily accessible freshwater in rivers and lakes is very small compared with total global water.
+
+This is why freshwater management is important despite the apparent abundance of water on Earth.
+
+## 2.2 Uses of Water
+
+1. Drinking
+2. Cooking
+3. Agriculture
+4. Industrial production
+5. Electricity generation
+6. Sanitation
+7. Transportation
+8. Maintenance of aquatic ecosystems
+
+Agriculture is a major water user in many countries, including India.
+
+## 2.3 Water Scarcity
+
+Water scarcity occurs when available water resources are insufficient in quantity or quality to meet demand.
+
+### Causes
+
+* Irregular rainfall
+* Drought
+* Over-extraction of groundwater
+* Population growth
+* Urbanization
+* Pollution
+* Inefficient irrigation
+* Loss of wetlands
+* Unequal distribution of water
+
+### Effects
+
+* Reduced crop production
+* Drinking-water shortages
+* Damage to aquatic ecosystems
+* Economic difficulties
+* Increased competition among water users
+* Greater risk of water-related conflict
+
+## 2.4 Groundwater
+
+Groundwater is water stored beneath Earth's surface in soil pores, fractures and permeable geological formations.
+
+An aquifer is a geological formation that can store and transmit usable quantities of groundwater.
+
+### Importance
+
+* Provides drinking water.
+* Supports agriculture.
+* Maintains water availability during dry periods.
+* Can sustain springs and streams.
+
+### Problems Associated with Overuse
+
+* Falling groundwater levels
+* Increased pumping costs
+* Drying of some wells
+* Land subsidence in susceptible areas
+* Saltwater intrusion in some coastal aquifers
+* Reduced groundwater contribution to rivers and wetlands
+
+## 2.5 Rainwater Harvesting
+
+Rainwater harvesting is the collection and storage of rainwater for later use or groundwater recharge.
+
+### Methods
+
+* Rooftop rainwater harvesting
+* Storage tanks
+* Recharge pits
+* Recharge wells
+* Percolation ponds
+* Check dams
+* Contour bunding
+
+### Benefits
+
+1. Reduces runoff.
+2. Supports groundwater recharge where conditions are suitable.
+3. Reduces pressure on conventional water supplies.
+4. Helps manage rainfall variability.
+5. Can reduce local flooding when designed appropriately.
+
+### Rainwater Harvesting in Tamil Nadu
+
+Rainwater harvesting has been promoted in Tamil Nadu as a method of improving water conservation and groundwater recharge.
+
+Its effectiveness depends on rainfall, soil permeability, local geology, design and maintenance.
+
+## 2.6 Watershed Management
+
+A watershed is an area of land from which water drains toward a common outlet.
+
+Watershed management involves coordinated practices to conserve soil, water and vegetation across the drainage area.
+
+Methods include:
+
+* Check dams
+* Contour bunding
+* Vegetative barriers
+* Afforestation using suitable native species
+* Restoration of tanks and ponds
+* Protection of drainage channels
+* Soil-moisture conservation
+
+# 3. SOIL RESOURCES
+
+Soil is a mixture of mineral particles, organic matter, water, air and living organisms.
+
+It supports plant growth and provides habitat for many organisms.
+
+## 3.1 Importance of Soil
+
+* Supports agriculture.
+* Stores and filters water.
+* Recycles nutrients.
+* Provides habitat for soil organisms.
+* Stores carbon.
+* Supports natural vegetation.
+* Helps stabilize terrestrial ecosystems.
+
+## 3.2 Soil Formation
+
+Soil formation is influenced by:
+
+1. Parent material
+2. Climate
+3. Organisms
+4. Relief or topography
+5. Time
+
+Weathering breaks rocks into smaller particles. Biological activity and the accumulation of organic matter help develop soil properties.
+
+## 3.3 Soil Horizons
+
+A typical soil profile may contain several horizons.
+
+**O Horizon:** Surface organic layer containing litter and decomposing organic matter.
+
+**A Horizon:** Topsoil, often containing mineral particles and organic matter.
+
+**E Horizon:** A zone of eluviation, where certain materials may be washed out. It is not present in every soil.
+
+**B Horizon:** Subsoil where materials transported from upper layers may accumulate.
+
+**C Horizon:** Partly weathered parent material.
+
+**R Horizon:** Relatively unweathered bedrock.
+
+Not all soils have every horizon clearly developed.
+
+## 3.4 Soil Erosion
+
+Soil erosion is the removal of soil particles by water, wind or other forces.
+
+### Causes
+
+* Deforestation
+* Overgrazing
+* Poor agricultural practices
+* Construction
+* Mining
+* Removal of vegetation
+* Heavy rainfall on exposed soil
+
+### Effects
+
+* Loss of fertile topsoil
+* Reduced agricultural productivity
+* Sedimentation of rivers and reservoirs
+* Increased runoff
+* Damage to aquatic habitats
+
+## 3.5 Soil Conservation
+
+Methods include:
+
+### Contour Ploughing
+
+Ploughing along contour lines to reduce the speed of runoff on slopes.
+
+### Terracing
+
+Creating step-like surfaces on suitable slopes to reduce erosion and improve water retention.
+
+### Strip Cropping
+
+Growing crops in alternating strips to reduce erosion.
+
+### Shelter Belts
+
+Planting rows of trees or shrubs to reduce wind speed and wind erosion.
+
+### Cover Crops
+
+Growing plants to protect soil between main cropping periods.
+
+### Afforestation and Vegetative Restoration
+
+Maintaining suitable plant cover can reduce erosion and improve soil structure.
+
+# 4. FOREST RESOURCES
+
+Forests are ecosystems dominated by trees and other vegetation, together with the organisms and environmental processes they support.
+
+## 4.1 Uses of Forests
+
+### Ecological Uses
+
+* Carbon storage
+* Biodiversity conservation
+* Soil protection
+* Water-cycle regulation
+* Habitat provision
+* Nutrient cycling
+* Local climate regulation
+
+### Economic Uses
+
+* Timber
+* Fuelwood
+* Fibres
+* Medicinal plants
+* Fruits and nuts
+* Resins and other non-timber products
+
+### Social and Cultural Uses
+
+Forests support many communities through livelihoods, cultural traditions and access to biological resources.
+
+## 4.2 Forest Degradation
+
+Forest degradation is the reduction in the quality, ecological function or structure of a forest.
+
+It may occur even when some tree cover remains.
+
+Causes include:
+
+* Unsustainable logging
+* Repeated damaging fires
+* Fragmentation
+* Pollution
+* Excessive grazing
+* Invasive species
+* Poorly planned extraction
+
+## 4.3 Sustainable Forest Management
+
+Sustainable forest management aims to maintain forest biodiversity, productivity, regeneration capacity and ecological functions while meeting appropriate social and economic needs.
+
+Important approaches:
+
+1. Prevent illegal logging.
+2. Restore degraded forests.
+3. Protect wildlife habitats.
+4. Support community participation.
+5. Use forest resources responsibly.
+6. Reduce forest fragmentation.
+7. Monitor forest health.
+8. Prevent and manage destructive fires.
+
+# 5. MINERAL RESOURCES
+
+Minerals are naturally occurring substances with characteristic chemical compositions and structures.
+
+Mineral resources are important for construction, manufacturing, electronics, energy technologies and infrastructure.
+
+## 5.1 Metallic Minerals
+
+Examples:
+
+* Iron ore
+* Copper
+* Bauxite, an important aluminium ore
+* Manganese ore
+
+## 5.2 Non-Metallic Minerals
+
+Examples:
+
+* Limestone
+* Gypsum
+* Mica
+* Phosphate minerals
+* Clay
+
+## 5.3 Environmental Effects of Mining
+
+Mining can cause:
+
+* Land degradation
+* Habitat loss
+* Dust pollution
+* Water contamination
+* Noise and vibration
+* Large quantities of waste rock and tailings
+* Changes to groundwater flow
+
+## 5.4 Sustainable Mining Practices
+
+* Environmental impact assessment
+* Dust control
+* Safe waste management
+* Water treatment
+* Land restoration
+* Progressive rehabilitation
+* Monitoring of groundwater
+* Appropriate worker-safety measures
+
+# 6. ENERGY RESOURCES
+
+Energy resources provide power for households, transportation, agriculture and industry.
+
+## 6.1 Conventional Energy Sources
+
+Commonly discussed conventional energy sources include:
+
+* Coal
+* Petroleum
+* Natural gas
+* Large-scale hydropower
+* Nuclear energy
+
+The classification of a source as conventional or non-conventional may vary across educational contexts.
+
+## 6.2 Non-Conventional and Renewable Energy
+
+Examples:
+
+* Solar
+* Wind
+* Tidal
+* Geothermal
+* Modern biomass
+* Small hydropower in suitable locations
+
+## 6.3 Solar Energy
+
+Solar energy is energy obtained from sunlight.
+
+### Applications
+
+* Solar photovoltaic electricity
+* Solar water heating
+* Solar cooking
+* Solar drying
+* Solar-powered pumps
+
+### Advantages
+
+* Renewable source
+* Low direct greenhouse-gas emissions during operation
+* Suitable for distributed electricity generation
+* Can support electricity access in remote areas
+
+### Limitations
+
+* Variable output depending on sunlight and weather
+* Storage or complementary generation may be required
+* Requires suitable space
+* Manufacturing and disposal have environmental impacts
+
+## 6.4 Wind Energy
+
+Wind turbines convert the kinetic energy of moving air into electricity.
+
+Advantages:
+
+* Renewable
+* Low direct emissions during operation
+* Can reduce dependence on fossil fuels
+
+Limitations:
+
+* Variable generation
+* Site-specific suitability
+* Potential wildlife impacts
+* Visual and noise concerns in some locations
+
+## 6.5 Hydroelectric Power
+
+Hydropower uses moving or falling water to generate electricity.
+
+Advantages:
+
+* Low direct greenhouse-gas emissions during operation in many cases
+* Can provide dispatchable electricity depending on design and water availability
+* Reservoirs may support additional uses
+
+Limitations:
+
+* Flooding of land
+* Displacement of communities
+* Changes in river ecology
+* Effects on fish migration and sediment transport
+* Dependence on rainfall and water availability
+
+## 6.6 Biomass Energy
+
+Biomass energy is obtained from biological material, such as plant matter and certain organic wastes.
+
+Its sustainability depends on the source, land use, production method and emissions control.
+
+## 6.7 Geothermal Energy
+
+Geothermal energy uses heat from within Earth.
+
+It is useful in regions with suitable geological conditions.
+
+## 6.8 Nuclear Energy
+
+Nuclear power plants generate heat through nuclear reactions, commonly fission, and use that heat to produce electricity.
+
+Advantages:
+
+* High energy density
+* Low direct carbon dioxide emissions during operation
+
+Challenges:
+
+* Radioactive waste management
+* High construction costs
+* Accident prevention
+* Decommissioning
+* Security and regulatory requirements
+
+# 7. SUSTAINABLE DEVELOPMENT
+
+Sustainable development means meeting present needs without compromising the ability of future generations to meet their own needs.
+
+This widely used definition was popularized by the 1987 report of the World Commission on Environment and Development, commonly known as the Brundtland Report.
+
+## 7.1 Three Dimensions of Sustainability
+
+### Environmental Sustainability
+
+Protecting ecosystems, biodiversity and natural resources.
+
+### Social Sustainability
+
+Supporting health, education, equality, participation and human well-being.
+
+### Economic Sustainability
+
+Maintaining productive economic systems and responsible resource use over time.
+
+Sustainable development requires balancing these dimensions.
+
+## 7.2 Sustainable Development Goals
+
+The United Nations adopted the 2030 Agenda for Sustainable Development in 2015. It contains 17 Sustainable Development Goals (SDGs).
+
+Examples:
+
+**SDG 1:** No Poverty
+
+**SDG 2:** Zero Hunger
+
+**SDG 3:** Good Health and Well-Being
+
+**SDG 4:** Quality Education
+
+**SDG 5:** Gender Equality
+
+**SDG 6:** Clean Water and Sanitation
+
+**SDG 7:** Affordable and Clean Energy
+
+**SDG 11:** Sustainable Cities and Communities
+
+**SDG 12:** Responsible Consumption and Production
+
+**SDG 13:** Climate Action
+
+**SDG 14:** Life Below Water
+
+**SDG 15:** Life on Land
+
+**SDG 17:** Partnerships for the Goals
+
+The SDGs are interconnected. For example, clean energy can support climate action, while sustainable agriculture can contribute to food security and biodiversity protection.
+
+# 8. POPULATION GROWTH AND THE ENVIRONMENT
+
+Human population growth, consumption patterns and production systems influence the environment.
+
+The environmental impact of a population depends not only on its size but also on resource use, technology, infrastructure and waste generation.
+
+## 8.1 Environmental Effects
+
+* Greater demand for water
+* Increased demand for food
+* Land-use change
+* Higher energy demand
+* Increased waste generation
+* Habitat loss
+* Air and water pollution
+
+## 8.2 Urbanization
+
+Urbanization is the growth of the proportion of people living in urban areas.
+
+### Benefits
+
+* Access to education
+* Access to healthcare
+* Employment opportunities
+* Better access to some services
+* Economies of scale in infrastructure
+
+### Challenges
+
+* Traffic congestion
+* Air pollution
+* Housing shortages
+* Waste-management problems
+* Urban flooding
+* Pressure on water supplies
+* Loss of green spaces
+
+## 8.3 Sustainable Cities
+
+Sustainable urban planning may include:
+
+1. Reliable public transport.
+2. Walking and cycling infrastructure.
+3. Energy-efficient buildings.
+4. Efficient water management.
+5. Waste reduction and recycling.
+6. Green spaces.
+7. Flood-resilient drainage.
+8. Affordable housing.
+9. Pollution monitoring.
+10. Public participation.
+
+# 9. AGRICULTURE AND THE ENVIRONMENT
+
+Agriculture provides food, fibre and other biological products.
+
+However, agricultural activities can affect soil, water, biodiversity and climate.
+
+## 9.1 Intensive Agriculture
+
+Intensive agriculture aims to produce high yields from a given area through inputs such as fertilizers, irrigation, machinery and improved crop varieties.
+
+Benefits may include high productivity.
+
+Potential environmental concerns include:
+
+* Nutrient runoff
+* Pesticide impacts
+* Soil degradation
+* Groundwater depletion
+* Reduced crop diversity in some systems
+
+## 9.2 Organic Agriculture
+
+Organic agriculture follows standards that emphasize ecological processes and restrict or prohibit specified synthetic inputs, depending on the applicable certification system.
+
+Practices may include:
+
+* Composting
+* Crop rotation
+* Biological pest management
+* Cover cropping
+* Use of permitted organic inputs
+
+Organic agriculture is not automatically free of environmental impacts. Outcomes depend on crop, location, management and yield.
+
+## 9.3 Integrated Pest Management (IPM)
+
+IPM combines multiple methods to manage pests while minimizing unnecessary risks to people and the environment.
+
+Methods include:
+
+* Pest monitoring
+* Cultural practices
+* Biological control
+* Mechanical control
+* Use of resistant varieties
+* Carefully selected pesticide use when necessary
+
+## 9.4 Crop Rotation
+
+Crop rotation means growing different crops sequentially on the same land.
+
+Benefits may include:
+
+* Breaking some pest and disease cycles
+* Improving soil structure
+* Supporting nutrient management
+* Reducing dependence on a single crop
+
+Leguminous crops can contribute nitrogen to farming systems through biological nitrogen fixation, although the amount available to subsequent crops depends on management and decomposition.
+
+# 10. PESTICIDES AND FERTILIZERS
+
+## 10.1 Pesticides
+
+Pesticides are substances used to control pests.
+
+Different pesticides target insects, weeds, fungi or other unwanted organisms.
+
+### Potential Problems
+
+* Harm to non-target organisms
+* Contamination of water
+* Pesticide resistance
+* Residues in food
+* Effects on pollinators
+* Human health risks from unsafe exposure
+
+The risk depends on the chemical, dose, exposure route, duration and conditions of use.
+
+## 10.2 Fertilizers
+
+Fertilizers supply nutrients required for plant growth.
+
+Major plant nutrients include:
+
+* Nitrogen
+* Phosphorus
+* Potassium
+
+These are commonly represented by N, P and K.
+
+### Benefits
+
+* Improve nutrient availability.
+* Support plant growth.
+* Help maintain crop productivity when used appropriately.
+
+### Potential Problems
+
+Excessive or poorly timed fertilizer application may cause:
+
+* Nutrient runoff
+* Eutrophication
+* Groundwater contamination
+* Greenhouse-gas emissions
+* Nutrient imbalance in soil
+
+## 10.3 Integrated Nutrient Management
+
+Integrated nutrient management combines suitable sources of nutrients to maintain soil fertility and plant productivity.
+
+It may include:
+
+* Soil testing
+* Balanced fertilizer application
+* Compost
+* Green manure
+* Crop residues
+* Biological nitrogen fixation
+* Appropriate nutrient timing
+
+# 11. BIOMAGNIFICATION AND BIOACCUMULATION
+
+## 11.1 Bioaccumulation
+
+Bioaccumulation is the buildup of a substance within an organism over time when absorption exceeds elimination.
+
+## 11.2 Biomagnification
+
+Biomagnification is the increase in the concentration of certain persistent substances at higher trophic levels in a food chain.
+
+It is especially important for substances that persist in the environment and accumulate in organisms.
+
+Certain forms of mercury and some persistent organic pollutants can biomagnify.
+
+### Example
+
+A persistent pollutant enters an aquatic ecosystem.
+
+Small organisms absorb it. Small fish eat these organisms, and larger fish eat the smaller fish.
+
+If the pollutant accumulates and is not readily eliminated, concentrations may become higher in organisms at higher trophic levels.
+
+### Difference
+
+| Bioaccumulation                       | Biomagnification                                        |
+| ------------------------------------- | ------------------------------------------------------- |
+| Buildup within one organism over time | Increase in concentration across trophic levels         |
+| Focuses on an individual organism     | Focuses on feeding relationships                        |
+| May occur without biomagnification    | Depends on pollutant properties and ecological transfer |
+
+# 12. BIOMEDICAL WASTE AND PUBLIC HEALTH
+
+Biomedical waste is waste generated during healthcare, diagnosis, treatment, immunization, medical research and related activities.
+
+Examples may include:
+
+* Contaminated dressings
+* Certain laboratory waste
+* Used sharps
+* Specified pathological waste
+* Certain pharmaceutical waste
+
+Biomedical waste requires segregation, handling, treatment and disposal under applicable rules.
+
+### Importance of Proper Management
+
+* Reduces infection risks.
+* Prevents injuries from sharps.
+* Reduces environmental contamination.
+* Protects healthcare workers and waste handlers.
+* Prevents unsafe reuse of contaminated materials.
+
+Biomedical waste must not be mixed indiscriminately with ordinary household waste.
+
+# 13. DISASTER MANAGEMENT AND ENVIRONMENTAL HAZARDS
+
+A disaster is a serious disruption that causes substantial human, economic or environmental losses and exceeds the affected community's capacity to cope using its own resources.
+
+## 13.1 Natural Hazards
+
+Examples:
+
+* Cyclones
+* Floods
+* Droughts
+* Earthquakes
+* Landslides
+* Tsunamis
+* Heatwaves
+
+The disaster impact depends on the hazard, exposure, vulnerability and capacity to respond.
+
+## 13.2 Floods
+
+Floods occur when water inundates land that is normally dry.
+
+Causes may include:
+
+* Heavy rainfall
+* River overflow
+* Storm surges
+* Dam or embankment failure
+* Poor drainage
+* Rapid urban runoff
+
+### Mitigation
+
+* Flood forecasting
+* Early-warning systems
+* Floodplain planning
+* Wetland conservation
+* Appropriate drainage
+* Protection of natural waterways
+* Emergency preparedness
+
+## 13.3 Drought
+
+Drought is a prolonged period of unusually low water availability relative to demand.
+
+Types commonly discussed include:
+
+* Meteorological drought
+* Agricultural drought
+* Hydrological drought
+* Socioeconomic drought
+
+### Management
+
+* Water conservation
+* Rainwater harvesting
+* Efficient irrigation
+* Drought-resilient cropping
+* Groundwater management
+* Early-warning systems
+* Protection of watersheds
+
+## 13.4 Cyclones
+
+Tropical cyclones are organized storm systems that develop over warm tropical or subtropical oceans under suitable atmospheric conditions.
+
+Potential impacts include:
+
+* Strong winds
+* Heavy rainfall
+* Storm surge
+* Coastal flooding
+* Infrastructure damage
+
+Preparedness includes early warnings, evacuation planning, resilient construction and emergency supplies.
+
+## 13.5 Landslides
+
+A landslide is the movement of rock, soil or debris down a slope.
+
+Contributing factors may include:
+
+* Heavy rainfall
+* Earthquakes
+* Slope cutting
+* Deforestation
+* Poor drainage
+* Geological conditions
+
+Risk reduction can include slope stabilization, drainage management, hazard mapping and avoiding unsafe development.
+
+# 14. ENVIRONMENTAL IMPACT ASSESSMENT
+
+Environmental Impact Assessment (EIA) is a process used to identify, predict and evaluate potential environmental effects of proposed projects before decisions are finalized.
+
+Depending on the applicable legal framework, the process may include:
+
+1. Screening
+2. Scoping
+3. Baseline environmental studies
+4. Impact prediction
+5. Evaluation of alternatives
+6. Mitigation planning
+7. Public consultation where required
+8. Decision-making
+9. Monitoring and compliance
+
+## 14.1 Importance of EIA
+
+* Identifies potential environmental risks.
+* Supports informed decision-making.
+* Encourages consideration of alternatives.
+* Helps design mitigation measures.
+* Can improve transparency.
+* Supports environmental monitoring.
+
+An EIA does not automatically mean that a project will be rejected. It provides information to support decisions under the relevant legal and regulatory framework.
+
+# 15. ENVIRONMENTAL ETHICS
+
+Environmental ethics examines moral responsibilities toward nature, living organisms and future generations.
+
+## 15.1 Anthropocentric View
+
+An anthropocentric approach places human interests at the centre of environmental decision-making.
+
+It may support environmental protection because ecosystems provide food, water, health benefits and other services to humans.
+
+## 15.2 Biocentric View
+
+A biocentric approach gives moral consideration to living organisms beyond their usefulness to humans.
+
+## 15.3 Ecocentric View
+
+An ecocentric approach emphasizes the value of ecological systems, communities and relationships as a whole.
+
+## 15.4 Intergenerational Equity
+
+Intergenerational equity concerns fairness between present and future generations.
+
+It supports responsible resource use so that future people retain opportunities for health, livelihood and well-being.
+
+# 16. ENVIRONMENTAL MOVEMENTS IN INDIA
+
+Environmental movements have contributed to public awareness and conservation debates.
+
+## 16.1 Chipko Movement
+
+The Chipko Movement is associated with forest conservation in the Himalayan region, particularly in present-day Uttarakhand.
+
+Community members used non-violent methods, including embracing trees, to oppose certain tree-felling activities.
+
+Important names associated with the movement include Gaura Devi, Chandi Prasad Bhatt and Sunderlal Bahuguna, in different roles and phases.
+
+## 16.2 Appiko Movement
+
+The Appiko Movement emerged in Karnataka in 1983 and was inspired in part by the Chipko Movement.
+
+It focused on forest protection and sustainable use in the Western Ghats.
+
+Pandurang Hegde is closely associated with the movement.
+
+## 16.3 Silent Valley Movement
+
+The Silent Valley Movement in Kerala opposed a proposed hydroelectric project that threatened a biologically important tropical evergreen forest.
+
+The campaign contributed to the protection of Silent Valley.
+
+## 16.4 Narmada Bachao Andolan
+
+The Narmada Bachao Andolan raised concerns about the social and environmental consequences of large dam projects in the Narmada Valley, including displacement and rehabilitation.
+
+Medha Patkar is a prominent figure associated with the movement.
+
+**Exam preparation note:** Distinguish the location, purpose and associated individuals of each movement.
+
+# 17. ENVIRONMENTAL EDUCATION AND PUBLIC PARTICIPATION
+
+Environmental education helps people understand ecological processes, environmental challenges and responsible actions.
+
+### Major Objectives
+
+1. Build environmental awareness.
+2. Develop scientific understanding.
+3. Encourage responsible attitudes.
+4. Support problem-solving skills.
+5. Promote community participation.
+6. Encourage sustainable behaviour.
+
+Public participation can contribute to waste reduction, biodiversity protection, water conservation and environmental monitoring.
+
+# 18. CARBON FOOTPRINT AND ECOLOGICAL FOOTPRINT
+
+## 18.1 Carbon Footprint
+
+A carbon footprint estimates greenhouse-gas emissions associated with an activity, product, organization or individual, usually expressed as carbon dioxide equivalents.
+
+Sources may include:
+
+* Electricity use
+* Transport
+* Heating and cooling
+* Food production
+* Manufacturing
+* Waste disposal
+
+Carbon footprints depend on the boundaries and methods used in the calculation.
+
+## 18.2 Ecological Footprint
+
+An ecological footprint estimates the biologically productive land and water area needed to provide the resources consumed and absorb certain wastes generated by a population or activity, using a specified accounting framework.
+
+It is broader than a carbon footprint.
+
+| Carbon Footprint                               | Ecological Footprint                                    |
+| ---------------------------------------------- | ------------------------------------------------------- |
+| Focuses on greenhouse-gas emissions            | Focuses on resource demand and ecological capacity      |
+| Commonly expressed as CO₂-equivalent emissions | Commonly expressed in standardized area units           |
+| Used in climate-related assessments            | Used in broader resource and sustainability assessments |
+
+# 19. CIRCULAR ECONOMY
+
+A circular economy aims to reduce waste and keep products, materials and resources in use for as long as practical.
+
+It contrasts with a simple linear model:
+
+Take → Make → Use → Dispose
+
+A circular approach may emphasize:
+
+Reduce → Reuse → Repair → Refurbish → Remanufacture → Recycle
+
+### Benefits
+
+* Reduces waste.
+* Conserves materials.
+* Can reduce demand for virgin resources.
+* Encourages product durability.
+* Supports resource efficiency.
+* May reduce some environmental impacts.
+
+Recycling is useful, but preventing unnecessary material use and extending product life can also be important.
+
+# 20. GREEN TECHNOLOGY
+
+Green technology refers to technologies and practices intended to reduce environmental harm or improve resource efficiency.
+
+Examples:
+
+* Renewable-energy systems
+* Energy-efficient lighting
+* Electric public transport
+* Wastewater treatment
+* Precision irrigation
+* Building energy management
+* Pollution-control equipment
+* Battery recycling systems
+
+The overall environmental benefit depends on the full life cycle, including materials, manufacturing, operation and disposal.
+
+# 21. ENVIRONMENTAL PROBLEMS IN TAMIL NADU: GENERAL STUDY NOTES
+
+Tamil Nadu contains coastal ecosystems, rivers, wetlands, agricultural landscapes, forests, hill ecosystems and urban environments.
+
+Environmental issues vary by location and change over time.
+
+Important areas for study include:
+
+### Water Management
+
+Rainfall variability, groundwater use, tank restoration and water conservation are important in many districts.
+
+### Coastal Ecosystems
+
+Coastal areas may face erosion, flooding, pollution and habitat pressure. Mangroves and wetlands can provide important ecological services.
+
+### Urban Pollution
+
+Urban areas may experience traffic emissions, wastewater challenges, solid-waste problems and pressure on green spaces.
+
+### Forest and Wildlife Conservation
+
+The Western Ghats and other forested regions support biodiversity and require habitat protection.
+
+### Waste Management
+
+Segregation, recycling, composting, safe disposal and wastewater treatment are important parts of local environmental management.
+
+For examination preparation, study current official information about Tamil Nadu's protected areas, wetlands, rivers, environmental institutions and conservation programmes.
+
+# 22. IMPORTANT TNPSC ONE-LINE FACTS
+
+1. Natural resources are obtained from the natural environment.
+2. Renewable resources can be replenished naturally, depending on use and conditions.
+3. Coal, petroleum and natural gas are fossil fuels.
+4. An aquifer stores and transmits groundwater.
+5. Rainwater harvesting collects rainfall for storage or recharge.
+6. A watershed drains water toward a common outlet.
+7. Soil formation depends on parent material, climate, organisms, relief and time.
+8. Soil erosion removes soil particles through water, wind or other processes.
+9. Contour ploughing helps reduce erosion on suitable slopes.
+10. Shelter belts can reduce wind erosion.
+11. Solar energy is obtained from sunlight.
+12. Wind turbines convert wind energy into electricity.
+13. Geothermal energy comes from heat within Earth.
+14. Nuclear fission releases energy by splitting heavy atomic nuclei.
+15. Sustainable development considers present and future generations.
+16. The Brundtland Report was published in 1987.
+17. The United Nations adopted the 17 SDGs in 2015.
+18. Integrated Pest Management combines multiple pest-control approaches.
+19. Nitrogen, phosphorus and potassium are major plant nutrients.
+20. Bioaccumulation occurs within an organism.
+21. Biomagnification refers to increasing concentrations across trophic levels.
+22. Environmental Impact Assessment evaluates potential environmental effects of proposed projects.
+23. The Chipko Movement is associated with forest conservation in the Himalayan region.
+24. The Appiko Movement began in Karnataka in 1983.
+25. The Silent Valley Movement is associated with forest protection in Kerala.
+26. A carbon footprint estimates greenhouse-gas emissions.
+27. An ecological footprint assesses resource demand relative to ecological capacity.
+28. Circular economy principles aim to reduce waste and extend resource use.
+29. Environmental ethics examines moral responsibilities toward nature.
+30. Public participation can support environmental conservation and sustainable resource management.
+

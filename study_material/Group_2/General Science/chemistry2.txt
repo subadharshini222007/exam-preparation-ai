@@ -1,0 +1,1334 @@
+# CHEMISTRY – PERIODIC TABLE
+
+### 1. Introduction to the Periodic Table
+
+The Periodic Table is a systematic arrangement of chemical elements in increasing order of their atomic numbers.
+
+Elements are arranged according to their electronic configurations and chemical properties.
+
+The modern periodic table was developed based on the Modern Periodic Law.
+
+**Modern Periodic Law:**
+
+The physical and chemical properties of elements are periodic functions of their atomic numbers.
+
+This means that when elements are arranged in increasing order of atomic number, similar chemical properties repeat at regular intervals.
+
+**Important points:**
+
+* Total number of elements: 118.
+* Number of periods: 7.
+* Number of groups: 18.
+* First element: Hydrogen (H).
+* Element with atomic number 118: Oganesson (Og).
+* Most elements are metals.
+* Elements in the same group generally have similar chemical properties because they have similar outer-shell electronic configurations.
+
+**TNPSC Group 2 Exam Point:** The modern periodic table is based on atomic number, not atomic mass.
+
+---
+
+### 2. Development of the Periodic Table
+
+#### 2.1 Dobereiner's Triads
+
+Johann Wolfgang Dobereiner proposed the Law of Triads in 1829.
+
+He arranged certain elements into groups of three having similar chemical properties.
+
+The atomic mass of the middle element was approximately equal to the average atomic masses of the other two elements.
+
+**Example: Lithium, Sodium and Potassium**
+
+| Element   | Symbol | Approximate Atomic Mass |
+| --------- | ------ | ----------------------: |
+| Lithium   | Li     |                       7 |
+| Sodium    | Na     |                      23 |
+| Potassium | K      |                      39 |
+
+Formula:
+
+Average atomic mass of the first and third elements:
+
+$$
+\frac{7+39}{2}=23
+$$
+
+The result is approximately equal to the atomic mass of sodium.
+
+**Limitation:** This law was applicable only to a few groups of elements.
+
+#### 2.2 Newlands' Law of Octaves
+
+John Newlands proposed the Law of Octaves in 1864.
+
+When elements were arranged in increasing order of atomic mass, every eighth element had properties similar to the first element.
+
+**Limitation:** The law was mainly applicable to lighter elements and did not work well for heavier elements.
+
+#### 2.3 Mendeleev's Periodic Table
+
+Dmitri Mendeleev proposed his periodic table in 1869.
+
+He arranged elements primarily in increasing order of atomic mass and grouped elements with similar properties together.
+
+**Achievements:**
+
+1. He left gaps for undiscovered elements.
+2. He predicted the properties of some undiscovered elements.
+3. He corrected certain atomic masses.
+4. His table helped scientists understand relationships among elements.
+
+**Limitation:** Some elements could not be arranged correctly according to increasing atomic mass.
+
+#### 2.4 Modern Periodic Table
+
+Henry Moseley demonstrated the importance of atomic number in classifying elements.
+
+The modern periodic table arranges elements in increasing order of atomic number.
+
+**TNPSC Important Questions:**
+
+* Who proposed the Law of Triads? — Dobereiner.
+* Who proposed the Law of Octaves? — Newlands.
+* Who developed the periodic table in 1869? — Mendeleev.
+* Who established the importance of atomic number in periodic classification? — Henry Moseley.
+* What is the basis of the modern periodic table? — Atomic number.
+
+---
+
+### 3. Structure of the Modern Periodic Table
+
+The periodic table consists of horizontal rows called periods and vertical columns called groups.
+
+#### 3.1 Periods
+
+There are seven periods.
+
+| Period     | Number of Elements |
+| ---------- | -----------------: |
+| 1st period |                  2 |
+| 2nd period |                  8 |
+| 3rd period |                  8 |
+| 4th period |                 18 |
+| 5th period |                 18 |
+| 6th period |                 32 |
+| 7th period |           Up to 32 |
+
+The first period is the shortest period.
+
+The sixth period includes the lanthanides, while the seventh period includes the actinides.
+
+#### 3.2 Groups
+
+There are 18 groups in the modern periodic table.
+
+| Group | Family                | Examples     |
+| ----- | --------------------- | ------------ |
+| 1     | Alkali metals         | Li, Na, K    |
+| 2     | Alkaline earth metals | Be, Mg, Ca   |
+| 3–12  | Transition elements   | Fe, Cu, Zn   |
+| 13    | Boron family          | B, Al        |
+| 14    | Carbon family         | C, Si        |
+| 15    | Nitrogen family       | N, P         |
+| 16    | Oxygen family         | O, S         |
+| 17    | Halogens              | F, Cl, Br, I |
+| 18    | Noble gases           | He, Ne, Ar   |
+
+**Important exception:** Hydrogen is placed in Group 1 because of its electronic configuration, but it has properties different from those of alkali metals.
+
+---
+
+### 4. Important Elements and Their Atomic Numbers
+
+The following elements are especially useful for TNPSC preparation.
+
+| Atomic Number | Element    | Symbol |
+| ------------: | ---------- | ------ |
+|             1 | Hydrogen   | H      |
+|             2 | Helium     | He     |
+|             3 | Lithium    | Li     |
+|             4 | Beryllium  | Be     |
+|             5 | Boron      | B      |
+|             6 | Carbon     | C      |
+|             7 | Nitrogen   | N      |
+|             8 | Oxygen     | O      |
+|             9 | Fluorine   | F      |
+|            10 | Neon       | Ne     |
+|            11 | Sodium     | Na     |
+|            12 | Magnesium  | Mg     |
+|            13 | Aluminium  | Al     |
+|            14 | Silicon    | Si     |
+|            15 | Phosphorus | P      |
+|            16 | Sulphur    | S      |
+|            17 | Chlorine   | Cl     |
+|            18 | Argon      | Ar     |
+|            19 | Potassium  | K      |
+|            20 | Calcium    | Ca     |
+|            24 | Chromium   | Cr     |
+|            25 | Manganese  | Mn     |
+|            26 | Iron       | Fe     |
+|            29 | Copper     | Cu     |
+|            30 | Zinc       | Zn     |
+|            35 | Bromine    | Br     |
+|            47 | Silver     | Ag     |
+|            53 | Iodine     | I      |
+|            79 | Gold       | Au     |
+|            80 | Mercury    | Hg     |
+|            82 | Lead       | Pb     |
+|            92 | Uranium    | U      |
+|           118 | Oganesson  | Og     |
+
+**Remember these symbols:**
+
+* Sodium — Na
+* Potassium — K
+* Iron — Fe
+* Copper — Cu
+* Silver — Ag
+* Gold — Au
+* Mercury — Hg
+* Lead — Pb
+* Tin — Sn
+
+These symbols are not always the same as the English names because some originate from Latin names.
+
+---
+
+### 5. Atomic Structure and Important Formulas
+
+To understand the periodic table, first understand atomic structure.
+
+An atom consists of a nucleus containing protons and neutrons, with electrons occupying the surrounding regions.
+
+| Particle | Charge | Relative Mass          |
+| -------- | ------ | ---------------------- |
+| Proton   | +1     | Approximately 1 u      |
+| Neutron  | 0      | Approximately 1 u      |
+| Electron | −1     | Approximately 1/1836 u |
+
+#### 5.1 Atomic Number
+
+Atomic number is the number of protons in the nucleus.
+
+Formula:
+
+$$
+\boxed{Z=\text{Number of Protons}}
+$$
+
+For a neutral atom:
+
+$$
+\boxed{\text{Number of Protons}=\text{Number of Electrons}}
+$$
+
+**Example: Sodium**
+
+Atomic number of sodium = 11.
+
+Therefore:
+
+* Protons = 11.
+* Electrons in a neutral sodium atom = 11.
+
+#### 5.2 Mass Number
+
+Mass number is the total number of protons and neutrons.
+
+$$
+\boxed{A=Z+N}
+$$
+
+Where:
+
+* \(A\) = Mass number.
+* \(Z\) = Atomic number.
+* \(N\) = Number of neutrons.
+
+Therefore:
+
+$$
+\boxed{N=A-Z}
+$$
+
+**Solved Sum 1**
+
+An atom has atomic number 17 and mass number 35. Find the number of protons, electrons and neutrons.
+
+**Solution:**
+
+Given:
+
+$$
+Z=17,\qquad A=35
+$$
+
+Protons:
+
+$$
+=Z=17
+$$
+
+Electrons in a neutral atom:
+
+$$
+=17
+$$
+
+Neutrons:
+
+$$
+N=A-Z=35-17=18
+$$
+
+**Answer:** 17 protons, 17 electrons and 18 neutrons.
+
+#### 5.3 Electronic Configuration
+
+Electronic configuration describes how electrons are distributed among the shells of an atom.
+
+The maximum number of electrons in a shell is calculated using:
+
+$$
+\boxed{2n^2}
+$$
+
+Where \(n\) is the shell number.
+
+| Shell | Shell Number | Maximum Capacity |
+| ----- | -----------: | ---------------: |
+| K     |            1 |                2 |
+| L     |            2 |                8 |
+| M     |            3 |               18 |
+| N     |            4 |               32 |
+
+These values represent the maximum theoretical capacities of the shells. Actual filling order follows orbital-energy rules, so electrons do not always fill an entire shell before entering the next one.
+
+**Solved Sum 2**
+
+Find the maximum number of electrons in the third shell.
+
+Formula:
+
+$$
+2n^2
+$$
+
+Substitute \(n=3\):
+
+$$
+2(3)^2=2\times9=18
+$$
+
+**Answer: 18 electrons.**
+
+#### 5.4 Electronic Configuration of Important Elements
+
+| Element   | Atomic Number | Shell Configuration |
+| --------- | ------------: | ------------------- |
+| Hydrogen  |             1 | 1                   |
+| Helium    |             2 | 2                   |
+| Lithium   |             3 | 2, 1                |
+| Carbon    |             6 | 2, 4                |
+| Nitrogen  |             7 | 2, 5                |
+| Oxygen    |             8 | 2, 6                |
+| Neon      |            10 | 2, 8                |
+| Sodium    |            11 | 2, 8, 1             |
+| Magnesium |            12 | 2, 8, 2             |
+| Aluminium |            13 | 2, 8, 3             |
+| Silicon   |            14 | 2, 8, 4             |
+| Chlorine  |            17 | 2, 8, 7             |
+| Argon     |            18 | 2, 8, 8             |
+| Potassium |            19 | 2, 8, 8, 1          |
+| Calcium   |            20 | 2, 8, 8, 2          |
+
+**TNPSC concept:**
+
+For many main-group elements:
+
+* The number of occupied shells indicates the period.
+* The number of outermost-shell electrons helps identify the group.
+
+For example, sodium has the configuration 2, 8, 1.
+
+It has three occupied shells, so it is in Period 3. It has one outermost-shell electron, consistent with Group 1.
+
+---
+
+### 6. Valency and Chemical Formulas
+
+Valency is the combining capacity of an atom.
+
+Atoms may gain, lose or share electrons to form chemical bonds.
+
+| Element   | Symbol | Common Valency |
+| --------- | ------ | -------------: |
+| Hydrogen  | H      |              1 |
+| Oxygen    | O      |              2 |
+| Nitrogen  | N      |              3 |
+| Carbon    | C      |              4 |
+| Sodium    | Na     |              1 |
+| Magnesium | Mg     |              2 |
+| Aluminium | Al     |              3 |
+| Chlorine  | Cl     |              1 |
+| Calcium   | Ca     |              2 |
+| Zinc      | Zn     |              2 |
+
+Some elements show more than one valency or oxidation state. The table lists common introductory examples.
+
+#### 6.1 Writing Chemical Formulas Using Valency
+
+For a simple compound, the valencies can be crossed over to determine the subscripts, then reduced to the smallest whole-number ratio where necessary.
+
+**Example 1: Magnesium Chloride**
+
+Magnesium valency = 2.
+
+Chlorine valency = 1.
+
+Cross the valencies:
+
+$$
+Mg^{2+},\ Cl^-
+$$
+
+The formula is:
+
+$$
+\boxed{MgCl_2}
+$$
+
+One magnesium ion combines with two chloride ions to produce a neutral compound.
+
+**Example 2: Aluminium Oxide**
+
+Aluminium valency = 3.
+
+Oxygen valency = 2.
+
+Cross the valencies:
+
+$$
+\boxed{Al_2O_3}
+$$
+
+**Example 3: Calcium Chloride**
+
+Calcium valency = 2.
+
+Chlorine valency = 1.
+
+Therefore:
+
+$$
+\boxed{CaCl_2}
+$$
+
+**Example 4: Sodium Oxide**
+
+Sodium valency = 1.
+
+Oxygen valency = 2.
+
+Therefore:
+
+$$
+\boxed{Na_2O}
+$$
+
+**Example 5: Calcium Hydroxide**
+
+Calcium ion = \(Ca^{2+}\).
+
+Hydroxide ion = \(OH^-\).
+
+Therefore:
+
+$$
+\boxed{Ca(OH)_2}
+$$
+
+Brackets are used because two hydroxide ions are needed.
+
+---
+
+### 7. Important Chemical Formulas
+
+#### 7.1 Common Compounds
+
+| Compound                  | Chemical Formula |
+| ------------------------- | ---------------- |
+| Water                     | H₂O              |
+| Hydrogen peroxide         | H₂O₂             |
+| Carbon dioxide            | CO₂              |
+| Carbon monoxide           | CO               |
+| Ammonia                   | NH₃              |
+| Methane                   | CH₄              |
+| Hydrochloric acid         | HCl              |
+| Sulphuric acid            | H₂SO₄            |
+| Nitric acid               | HNO₃             |
+| Acetic acid               | CH₃COOH          |
+| Sodium chloride           | NaCl             |
+| Sodium hydroxide          | NaOH             |
+| Potassium hydroxide       | KOH              |
+| Calcium carbonate         | CaCO₃            |
+| Sodium carbonate          | Na₂CO₃           |
+| Sodium hydrogen carbonate | NaHCO₃           |
+| Calcium oxide             | CaO              |
+| Calcium hydroxide         | Ca(OH)₂          |
+| Magnesium oxide           | MgO              |
+| Aluminium oxide           | Al₂O₃            |
+
+#### 7.2 Common Names of Important Compounds
+
+| Common Name         | Chemical Name                               | Formula      |
+| ------------------- | ------------------------------------------- | ------------ |
+| Common salt         | Sodium chloride                             | NaCl         |
+| Baking soda         | Sodium hydrogen carbonate                   | NaHCO₃       |
+| Washing soda        | Sodium carbonate decahydrate                | Na₂CO₃·10H₂O |
+| Quicklime           | Calcium oxide                               | CaO          |
+| Slaked lime         | Calcium hydroxide                           | Ca(OH)₂      |
+| Limestone           | Calcium carbonate                           | CaCO₃        |
+| Bleaching powder    | Commonly represented as calcium oxychloride | CaOCl₂       |
+| Plaster of Paris    | Calcium sulphate hemihydrate                | CaSO₄·½H₂O   |
+| Gypsum              | Calcium sulphate dihydrate                  | CaSO₄·2H₂O   |
+| Vinegar's main acid | Acetic acid                                 | CH₃COOH      |
+| Green vitriol       | Ferrous sulphate heptahydrate               | FeSO₄·7H₂O   |
+| Blue vitriol        | Copper sulphate pentahydrate                | CuSO₄·5H₂O   |
+
+**Exam point:** Baking soda is NaHCO₃, while washing soda is Na₂CO₃·10H₂O.
+
+---
+
+### 8. Periodic Trends
+
+Periodic trends are changes in the properties of elements across a period and down a group.
+
+#### 8.1 Atomic Radius
+
+Atomic radius indicates the approximate size of an atom.
+
+**Across a period:** Atomic radius generally decreases from left to right.
+
+**Down a group:** Atomic radius generally increases from top to bottom.
+
+**Reason:** Across a period, nuclear charge increases while electrons are added to the same principal shell. Down a group, additional electron shells increase atomic size.
+
+#### 8.2 Ionisation Energy
+
+Ionisation energy is the energy required to remove an electron from an isolated gaseous atom.
+
+General trend:
+
+* Across a period: increases.
+* Down a group: decreases.
+
+There are exceptions due to electronic configurations.
+
+#### 8.3 Electronegativity
+
+Electronegativity is the tendency of an atom in a chemical bond to attract shared electrons.
+
+General trend:
+
+* Across a period: increases.
+* Down a group: decreases.
+
+Fluorine is the most electronegative element.
+
+#### 8.4 Metallic Character
+
+Metallic character describes the tendency of an element to lose electrons and form positive ions.
+
+General trend:
+
+* Across a period: decreases.
+* Down a group: increases.
+
+#### 8.5 Non-Metallic Character
+
+Non-metallic character generally:
+
+* Increases across a period.
+* Decreases down a group.
+
+**TNPSC revision table**
+
+| Property                  | Across a Period     | Down a Group        |
+| ------------------------- | ------------------- | ------------------- |
+| Atomic radius             | Generally decreases | Generally increases |
+| Ionisation energy         | Generally increases | Generally decreases |
+| Electronegativity         | Generally increases | Generally decreases |
+| Metallic character        | Generally decreases | Generally increases |
+| Number of occupied shells | Remains the same    | Increases           |
+
+---
+
+### 9. Important Families in the Periodic Table
+
+#### 9.1 Group 1 – Alkali Metals
+
+Examples: Lithium, Sodium, Potassium.
+
+Properties:
+
+* Have one outermost-shell electron.
+* Commonly form +1 ions.
+* Are generally soft and reactive metals.
+* Reactivity generally increases down the group.
+* React with water to form hydroxides and hydrogen gas.
+
+Example reaction:
+
+$$
+2Na+2H_2O\rightarrow2NaOH+H_2
+$$
+
+Sodium reacts with water to form sodium hydroxide and hydrogen.
+
+#### 9.2 Group 2 – Alkaline Earth Metals
+
+Examples: Beryllium, Magnesium, Calcium.
+
+Properties:
+
+* Have two outermost-shell electrons.
+* Commonly form +2 ions.
+* Are generally metals.
+* Calcium compounds are important in bones, teeth and building materials.
+
+#### 9.3 Group 17 – Halogens
+
+Examples: Fluorine, Chlorine, Bromine, Iodine.
+
+Properties:
+
+* Have seven outermost-shell electrons.
+* Commonly form −1 ions.
+* Are reactive non-metals.
+* Reactivity generally decreases down the group.
+* Many occur naturally as diatomic molecules.
+
+Examples:
+
+$$
+H_2+Cl_2\rightarrow2HCl
+$$
+
+Hydrogen reacts with chlorine to produce hydrogen chloride.
+
+#### 9.4 Group 18 – Noble Gases
+
+Examples: Helium, Neon, Argon.
+
+Properties:
+
+* Have filled outer electron shells, with helium having two electrons.
+* Have low chemical reactivity.
+* Exist as individual atoms under ordinary conditions.
+* Are used in lighting and other specialised applications.
+
+---
+
+### 10. Isotopes, Isobars and Isotones
+
+These terms are important for competitive examinations.
+
+#### 10.1 Isotopes
+
+Isotopes are atoms of the same element with the same atomic number but different mass numbers.
+
+Example:
+
+$$
+{}^{12}_{6}C,\quad{}^{14}_{6}C
+$$
+
+Both have six protons, but their neutron counts differ.
+
+Uses:
+
+* Carbon-14 is used in radiocarbon dating.
+* Cobalt-60 is used in certain medical and industrial applications.
+
+#### 10.2 Isobars
+
+Isobars are atoms of different elements with the same mass number but different atomic numbers.
+
+Example:
+
+$$
+{}^{40}_{18}Ar,\quad{}^{40}_{20}Ca
+$$
+
+Both have mass number 40, but their atomic numbers differ.
+
+#### 10.3 Isotones
+
+Isotones are atoms of different elements that have the same number of neutrons.
+
+Example:
+
+* Carbon-14: 14 − 6 = 8 neutrons.
+* Nitrogen-15: 15 − 7 = 8 neutrons.
+
+Both have eight neutrons.
+
+**Quick memory:**
+
+* Isotopes: Same atomic number.
+* Isobars: Same mass number.
+* Isotones: Same number of neutrons.
+
+---
+
+### 11. Chemical Reactions and Formula-Based Sums
+
+#### 11.1 Balancing Chemical Equations
+
+A chemical equation must have the same number of atoms of each element on both sides.
+
+**Example:**
+
+Unbalanced equation:
+
+$$
+H_2+O_2\rightarrow H_2O
+$$
+
+Balanced equation:
+
+$$
+\boxed{2H_2+O_2\rightarrow2H_2O}
+$$
+
+Left side:
+
+* Hydrogen atoms = 4.
+* Oxygen atoms = 2.
+
+Right side:
+
+* Hydrogen atoms = 4.
+* Oxygen atoms = 2.
+
+The equation is balanced.
+
+#### 11.2 Moles and Molar Mass
+
+The mole is a unit used to express the amount of a substance.
+
+One mole contains approximately:
+
+$$
+\boxed{6.022\times10^{23}}
+$$
+
+elementary entities. This number is called the Avogadro constant.
+
+The formula for the number of moles is:
+
+$$
+\boxed{n=\frac{m}{M}}
+$$
+
+Where:
+
+* \(n\) = Number of moles.
+* \(m\) = Given mass in grams.
+* \(M\) = Molar mass in grams per mole.
+
+**Solved Sum 1: Number of Moles of Water**
+
+Find the number of moles in 36 g of water.
+
+Atomic masses:
+
+* Hydrogen = 1.
+* Oxygen = 16.
+
+Molar mass of water:
+
+$$
+M(H_2O)=2(1)+16=18\ g/mol
+$$
+
+Number of moles:
+
+$$
+n=\frac{36}{18}
+$$
+
+$$
+\boxed{n=2\ mol}
+$$
+
+**Answer: 2 moles.**
+
+#### 11.3 Calculating Molecular Mass
+
+Molecular mass is the sum of the atomic masses of all atoms in a molecule.
+
+**Solved Sum 2: Carbon Dioxide**
+
+Calculate the molecular mass of CO₂.
+
+Atomic masses:
+
+* Carbon = 12.
+* Oxygen = 16.
+
+$$
+M(CO_2)=12+2(16)
+$$
+
+$$
+=12+32
+$$
+
+$$
+\boxed{44\ u}
+$$
+
+**Answer: 44 u.**
+
+#### 11.4 Percentage Composition
+
+Percentage composition gives the percentage by mass of an element in a compound.
+
+Formula:
+
+$$
+\boxed{\%\text{ of element}=
+\frac{\text{Mass of the element in one mole of compound}}
+{\text{Molar mass of compound}}\times100}
+$$
+
+**Solved Sum 3: Percentage of Oxygen in Water**
+
+Molar mass of water:
+
+$$
+H_2O=18\ g/mol
+$$
+
+Mass of oxygen in one mole of water:
+
+$$
+=16\ g
+$$
+
+Therefore:
+
+$$
+\%\text{ Oxygen}=\frac{16}{18}\times100
+$$
+
+$$
+\boxed{88.89\%}
+$$
+
+**Answer: Approximately 88.89%.**
+
+#### 11.5 Density
+
+Density is the mass per unit volume.
+
+$$
+\boxed{\rho=\frac{m}{V}}
+$$
+
+Where:
+
+* \(\rho\) = Density.
+* \(m\) = Mass.
+* \(V\) = Volume.
+
+**Solved Sum 4**
+
+A substance has a mass of 200 g and a volume of 50 cm³. Find its density.
+
+$$
+\rho=\frac{200}{50}
+$$
+
+$$
+\boxed{4\ g/cm^3}
+$$
+
+**Answer: 4 g/cm³.**
+
+#### 11.6 Concentration – Molarity
+
+Molarity is the number of moles of solute per litre of solution.
+
+$$
+\boxed{M=\frac{\text{Moles of solute}}{\text{Volume of solution in litres}}}
+$$
+
+**Solved Sum 5**
+
+A solution contains 0.5 mol of solute in 2 litres of solution. Calculate its molarity.
+
+$$
+M=\frac{0.5}{2}
+$$
+
+$$
+\boxed{0.25\ mol/L}
+$$
+
+**Answer: 0.25 M.**
+
+---
+
+### 12. Oxidation, Reduction and Oxidation Number
+
+Oxidation and reduction occur together in redox reactions.
+
+**Oxidation:** Loss of electrons.
+
+**Reduction:** Gain of electrons.
+
+Example:
+
+$$
+Zn+CuSO_4\rightarrow ZnSO_4+Cu
+$$
+
+In this reaction:
+
+* Zinc loses electrons and is oxidised.
+* Copper ions gain electrons and are reduced.
+
+Half-reactions:
+
+$$
+Zn\rightarrow Zn^{2+}+2e^-
+$$
+
+$$
+Cu^{2+}+2e^-\rightarrow Cu
+$$
+
+**Important points:**
+
+* Oxidation involves an increase in oxidation number.
+* Reduction involves a decrease in oxidation number.
+* An oxidising agent causes another substance to be oxidised and is itself reduced.
+* A reducing agent causes another substance to be reduced and is itself oxidised.
+
+---
+
+### 13. Acids, Bases and pH
+
+Acids and bases are classified according to their chemical properties.
+
+Examples of acids:
+
+* Hydrochloric acid — HCl.
+* Sulphuric acid — H₂SO₄.
+* Nitric acid — HNO₃.
+
+Examples of bases:
+
+* Sodium hydroxide — NaOH.
+* Potassium hydroxide — KOH.
+* Calcium hydroxide — Ca(OH)₂.
+
+At approximately 25°C, for a dilute aqueous solution:
+
+* pH below 7 indicates an acidic solution.
+* pH equal to 7 indicates a neutral solution.
+* pH above 7 indicates a basic solution.
+
+The pH formula is:
+
+$$
+\boxed{pH=-\log_{10}[H^+]}
+$$
+
+Here, \([H^+]\) represents the hydrogen-ion concentration in mol/L under the usual introductory approximation.
+
+**Solved Sum 1**
+
+If the hydrogen-ion concentration is:
+
+$$
+[H^+]=10^{-3}\ mol/L
+$$
+
+Then:
+
+$$
+pH=-\log_{10}(10^{-3})
+$$
+
+$$
+\boxed{pH=3}
+$$
+
+The solution is acidic.
+
+**TNPSC fact:** Blue litmus turns red in an acidic solution, while red litmus turns blue in a basic solution.
+
+---
+
+### 14. Important Gas-Related Reactions
+
+#### Preparation of Carbon Dioxide
+
+When calcium carbonate reacts with dilute hydrochloric acid:
+
+$$
+CaCO_3+2HCl\rightarrow CaCl_2+H_2O+CO_2
+$$
+
+Carbon dioxide is released.
+
+#### Preparation of Hydrogen
+
+A typical reaction between zinc and dilute hydrochloric acid is:
+
+$$
+Zn+2HCl\rightarrow ZnCl_2+H_2
+$$
+
+Hydrogen gas is released.
+
+#### Combustion of Methane
+
+$$
+CH_4+2O_2\rightarrow CO_2+2H_2O
+$$
+
+Methane burns in oxygen to produce carbon dioxide and water.
+
+**Exam point:** Complete combustion of many hydrocarbons produces carbon dioxide and water.
+
+---
+
+### 15. Important TNPSC Group 2 One-Mark Questions
+
+**1. What is the basis of the modern periodic table?**
+
+Answer: Atomic number.
+
+**2. How many groups are present in the modern periodic table?**
+
+Answer: 18.
+
+**3. How many periods are present in the modern periodic table?**
+
+Answer: 7.
+
+**4. Which element has atomic number 1?**
+
+Answer: Hydrogen.
+
+**5. Which element has atomic number 8?**
+
+Answer: Oxygen.
+
+**6. Which element has atomic number 11?**
+
+Answer: Sodium.
+
+**7. Which element has atomic number 17?**
+
+Answer: Chlorine.
+
+**8. Which element has atomic number 20?**
+
+Answer: Calcium.
+
+**9. Which group contains noble gases?**
+
+Answer: Group 18.
+
+**10. Which group contains halogens?**
+
+Answer: Group 17.
+
+**11. What is the chemical formula of common salt?**
+
+Answer: NaCl.
+
+**12. What is the chemical formula of baking soda?**
+
+Answer: NaHCO₃.
+
+**13. What is the chemical formula of washing soda?**
+
+Answer: Na₂CO₃·10H₂O.
+
+**14. What is the chemical formula of quicklime?**
+
+Answer: CaO.
+
+**15. What is the chemical formula of slaked lime?**
+
+Answer: Ca(OH)₂.
+
+**16. What is the chemical formula of sulphuric acid?**
+
+Answer: H₂SO₄.
+
+**17. What is the chemical formula of nitric acid?**
+
+Answer: HNO₃.
+
+**18. What is the formula for mass number?**
+
+Answer: \(A=Z+N\).
+
+**19. What is the formula for the number of neutrons?**
+
+Answer: \(N=A-Z\).
+
+**20. What is the formula for the maximum electron capacity of a shell?**
+
+Answer: \(2n^2\).
+
+**21. Which element is the most electronegative?**
+
+Answer: Fluorine.
+
+**22. Which scientist proposed the Law of Octaves?**
+
+Answer: John Newlands.
+
+**23. Which scientist proposed the periodic table in 1869?**
+
+Answer: Dmitri Mendeleev.
+
+**24. Which scientist established the importance of atomic number in periodic classification?**
+
+Answer: Henry Moseley.
+
+**25. What is the SI unit of amount of substance?**
+
+Answer: Mole.
+
+---
+
+### 16. TNPSC Group 2 Practice Sums
+
+Try to solve these questions before checking the answers.
+
+**Sum 1:** An atom has atomic number 12 and mass number 24. Find its number of neutrons.
+
+**Sum 2:** Calculate the maximum electron capacity of the fourth shell using the formula \(2n^2\).
+
+**Sum 3:** Calculate the molecular mass of H₂SO₄. Use H = 1, S = 32 and O = 16.
+
+**Sum 4:** Calculate the molecular mass of CaCO₃. Use Ca = 40, C = 12 and O = 16.
+
+**Sum 5:** Find the number of moles in 44 g of CO₂. Use its molar mass as 44 g/mol.
+
+**Sum 6:** Calculate the number of moles in 9 g of water. Use the molar mass of water as 18 g/mol.
+
+**Sum 7:** Calculate the percentage of carbon in CO₂. Use C = 12 and O = 16.
+
+**Sum 8:** A substance has a mass of 150 g and a volume of 30 cm³. Calculate its density.
+
+**Sum 9:** A solution contains 2 moles of solute in 4 litres of solution. Calculate its molarity.
+
+**Sum 10:** An atom has a mass number of 39 and an atomic number of 19. Find the number of protons, electrons and neutrons, assuming the atom is neutral.
+
+#### Answers with Explanations
+
+**Answer 1:**
+
+$$
+N=A-Z=24-12=\boxed{12}
+$$
+
+**Answer 2:**
+
+$$
+2n^2=2(4)^2=2(16)=\boxed{32}
+$$
+
+**Answer 3:**
+
+$$
+H_2SO_4=2(1)+32+4(16)
+$$
+
+$$
+=2+32+64=\boxed{98\ u}
+$$
+
+**Answer 4:**
+
+$$
+CaCO_3=40+12+3(16)
+$$
+
+$$
+=40+12+48=\boxed{100\ u}
+$$
+
+**Answer 5:**
+
+$$
+n=\frac{44}{44}=\boxed{1\ mol}
+$$
+
+**Answer 6:**
+
+$$
+n=\frac{9}{18}=\boxed{0.5\ mol}
+$$
+
+**Answer 7:**
+
+$$
+\%\text{ Carbon}=\frac{12}{44}\times100
+$$
+
+$$
+=\boxed{27.27\%}
+$$
+
+**Answer 8:**
+
+$$
+\rho=\frac{150}{30}=\boxed{5\ g/cm^3}
+$$
+
+**Answer 9:**
+
+$$
+M=\frac{2}{4}=\boxed{0.5\ mol/L}
+$$
+
+**Answer 10:**
+
+Protons = 19.
+
+Electrons = 19.
+
+Neutrons:
+
+$$
+39-19=\boxed{20}
+$$
+
+---
+
+### 17. Additional Multiple-Choice Questions
+
+**1. The modern periodic table is arranged according to:**
+
+A) Atomic mass
+B) Atomic number
+C) Density
+D) Melting point
+
+**Answer: B) Atomic number**
+
+**2. Which of the following belongs to Group 18?**
+
+A) Sodium
+B) Chlorine
+C) Argon
+D) Calcium
+
+**Answer: C) Argon**
+
+**3. Which element has the electronic configuration 2, 8, 1?**
+
+A) Magnesium
+B) Sodium
+C) Aluminium
+D) Chlorine
+
+**Answer: B) Sodium**
+
+**4. Which of the following is an isotope of carbon-12?**
+
+A) Nitrogen-14
+B) Carbon-14
+C) Oxygen-16
+D) Argon-40
+
+**Answer: B) Carbon-14**
+
+**5. Which of the following is the correct formula for aluminium oxide?**
+
+A) AlO
+B) AlO₂
+C) Al₂O₃
+D) Al₃O₂
+
+**Answer: C) Al₂O₃**
+
+**6. Which element is the most electronegative?**
+
+A) Oxygen
+B) Chlorine
+C) Fluorine
+D) Nitrogen
+
+**Answer: C) Fluorine**
+
+**7. The number of neutrons in sodium-23 is:**
+
+A) 11
+B) 12
+C) 23
+D) 34
+
+**Answer: B) 12**
+
+**8. The molar mass of CO₂ is:**
+
+A) 12 g/mol
+B) 16 g/mol
+C) 28 g/mol
+D) 44 g/mol
+
+**Answer: D) 44 g/mol**
+
+**9. Which compound is known as baking soda?**
+
+A) NaCl
+B) NaOH
+C) NaHCO₃
+D) Na₂CO₃·10H₂O
+
+**Answer: C) NaHCO₃**
+
+**10. Which of the following generally increases down Group 1?**
+
+A) Atomic radius
+B) Electronegativity
+C) Ionisation energy
+D) Non-metallic character
+
+**Answer: A) Atomic radius**
+
+---
+
+## 18. Final Revision: Important Formulas
+
+| Concept                | Formula                                                                   |
+| ---------------------- | ------------------------------------------------------------------------- |
+| Atomic number          | \(Z=\text{Number of protons}\)                                            |
+| Mass number            | \(A=Z+N\)                                                                 |
+| Number of neutrons     | \(N=A-Z\)                                                                 |
+| Maximum shell capacity | \(2n^2\)                                                                  |
+| Number of moles        | \(n=m/M\)                                                                 |
+| Number of particles    | \(N=nN_A\)                                                                |
+| Density                | \(\rho=m/V\)                                                              |
+| Molarity               | \(M=n/V\), where \(V\) is in litres                                       |
+| Percentage composition | \(\frac{\text{Mass of element}}{\text{Molar mass of compound}}\times100\) |
+| pH                     | \(pH=-\log_{10}[H^+]\)                                                    |
+
+**Important:** In the molarity formula, the solution volume must be expressed in litres. In the percentage composition formula, use the mass contributed by the relevant element in one mole of the compound.
+
+---
+

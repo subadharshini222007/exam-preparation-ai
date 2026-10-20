@@ -1,0 +1,511 @@
+---
+
+# 💰 INDIAN ECONOMY – BASICS
+
+---
+
+# 🟢 INTRODUCTION TO ECONOMICS
+
+Economics is the study of how individuals and societies use limited resources to satisfy unlimited wants. It deals with production, distribution, exchange, and consumption of goods and services.
+
+---
+
+# 🟡 BASIC ECONOMIC CONCEPTS
+
+### 🔵 SCARCITY
+
+* Resources are limited, wants are unlimited
+
+### 🔵 CHOICE
+
+* Selection of best alternative
+
+### 🔵 OPPORTUNITY COST
+
+* Cost of next best alternative
+
+### 🔵 PRODUCTION
+
+* Creation of goods and services
+
+### 🔵 CONSUMPTION
+
+* Use of goods and services
+
+---
+
+# 🟣 TYPES OF ECONOMY
+
+### 🔵 CAPITALIST ECONOMY
+
+* Private ownership
+* Profit motive
+
+### 🔵 SOCIALIST ECONOMY
+
+* Government control
+* Welfare focus
+
+### 🔵 MIXED ECONOMY (INDIA)
+
+* Public + private sectors
+
+---
+
+# 🏭 SECTORS OF INDIAN ECONOMY
+
+### 🔵 PRIMARY SECTOR
+
+* Agriculture, fishing
+
+### 🔵 SECONDARY SECTOR
+
+* Manufacturing industries
+
+### 🔵 TERTIARY SECTOR
+
+* Services (IT, banking)
+
+---
+
+# 📊 NATIONAL INCOME
+
+### 🔵 GDP (Gross Domestic Product)
+
+* Total value of goods & services
+
+### 🔵 GNP
+
+* GDP + income from abroad
+
+### 🔵 NNP
+
+* GNP – depreciation
+
+---
+
+## 🧠 IMPORTANCE
+
+* Measures economic growth
+* Helps policy making
+
+---
+
+# 💸 INFLATION
+
+### 🔵 DEFINITION
+
+* Rise in general price level
+
+---
+
+## 🔴 TYPES
+
+* Demand-pull
+* Cost-push
+
+---
+
+## 🔵 EFFECTS
+
+* Reduces purchasing power
+* Affects savings
+
+---
+
+# 💳 BANKING SYSTEM IN INDIA
+
+### 🔵 RBI (Central Bank)
+
+* Controls money supply
+* Controls inflation
+
+---
+
+## 🔵 FUNCTIONS
+
+* Issue currency
+* Banker to government
+* Monetary policy
+
+---
+
+# 🏦 MONEY AND CREDIT
+
+### 🔵 FUNCTIONS OF MONEY
+
+* Medium of exchange
+* Store of value
+* Unit of account
+
+---
+
+## 🔵 TYPES
+
+* Paper money
+* Digital money
+
+---
+
+# 📉 UNEMPLOYMENT
+
+### 🔴 TYPES
+
+* Seasonal
+* Structural
+* Disguised
+
+---
+
+# 🏭 INDUSTRIAL DEVELOPMENT
+
+### 🔵 IMPORTANCE
+
+* Economic growth
+* Employment
+
+---
+
+## 🔴 ISSUES
+
+* Pollution
+* Regional imbalance
+
+---
+
+# 🌾 AGRICULTURE & ECONOMY
+
+### 🔵 ROLE
+
+* Backbone of Indian economy
+
+---
+
+## 🔴 PROBLEMS
+
+* Monsoon dependency
+* Small land holdings
+
+---
+
+# 🌍 GLOBALIZATION
+
+### 🔵 LPG REFORMS (1991)
+
+* Liberalization
+* Privatization
+* Globalization
+
+---
+
+# 💼 POVERTY
+
+### 🔴 CAUSES
+
+* Unemployment
+* Low income
+
+---
+
+## 🔵 GOVERNMENT MEASURES
+
+* Poverty alleviation schemes
+
+---
+
+# 🧾 GOVERNMENT BUDGET
+
+### 🔵 TYPES
+
+* Revenue budget
+* Capital budget
+
+---
+
+# ⚖️ ECONOMIC PLANNING
+
+### 🔵 FIVE YEAR PLANS
+
+* Development planning
+
+---
+
+## 🔵 NITI AAYOG
+
+* Policy think tank
+
+---
+
+# 🌿 SUSTAINABLE DEVELOPMENT
+
+### 🔵 CONCEPT
+
+Balance between growth & environment
+
+---
+
+## 🔥 BUDGET • TAX • SCHEMES 
+
+–---
+
+# 🧾 1. GOVERNMENT BUDGET 
+
+## 🔵 DEFINITION
+
+Government budget is an **annual financial statement** of income and expenditure of the government.
+
+---
+
+## 🟡 COMPONENTS OF BUDGET
+
+### 🔵 1. REVENUE RECEIPTS
+
+* Tax revenue
+* Non-tax revenue (fees, fines, dividends)
+
+### 🔵 2. CAPITAL RECEIPTS
+
+* Borrowings
+* Disinvestment
+
+---
+
+### 🔵 3. REVENUE EXPENDITURE
+
+* Salaries
+* Subsidies
+* Interest payments
+
+### 🔵 4. CAPITAL EXPENDITURE
+
+* Infrastructure
+* Asset creation
+
+---
+
+## 🔴 TYPES OF DEFICITS
+
+### 🔵 Fiscal Deficit
+
+= Total expenditure – Total receipts (excluding borrowings)
+
+### 🔵 Revenue Deficit
+
+= Revenue expenditure – Revenue receipts
+
+### 🔵 Primary Deficit
+
+= Fiscal deficit – Interest payments
+
+---
+
+## 🧠 ANALYSIS (VERY IMPORTANT)
+
+* High fiscal deficit → inflation risk
+* Capital expenditure → long-term growth
+* Revenue expenditure → short-term consumption
+
+---
+
+# 💸 2. TAXATION SYSTEM IN INDIA
+
+## 🔵 DEFINITION
+
+Tax is a **compulsory payment** to government without direct benefit.
+
+---
+
+## 🟡 TYPES OF TAXES
+
+### 🔵 DIRECT TAX
+
+* Paid directly to government
+* Example: Income Tax
+
+✔ Progressive (rich pay more)
+
+---
+
+### 🔵 INDIRECT TAX
+
+* Collected via goods/services
+* Example: GST
+
+✔ Regressive (affects all equally)
+
+---
+
+## 🔥 GST (VERY IMPORTANT)
+
+### 🔵 FEATURES
+
+* One Nation, One Tax
+* Replaced multiple taxes
+
+### 🔵 TYPES
+
+* CGST (Central)
+* SGST (State)
+* IGST (Interstate)
+
+---
+
+## 🔴 PROBLEMS IN TAX SYSTEM
+
+* Tax evasion
+* Complex compliance
+* Narrow tax base
+
+---
+
+## 🧠 ANALYSIS
+
+* Direct tax = equality
+* Indirect tax = easy collection
+
+---
+
+# 🏦 3. MONETARY POLICY (ADVANCED)
+
+## 🔵 DEFINITION
+
+Policy used by RBI to control **money supply & inflation**
+
+---
+
+## 🟡 TOOLS
+
+### 🔵 Repo Rate
+
+* Rate at which RBI lends to banks
+
+### 🔵 Reverse Repo Rate
+
+* RBI borrows from banks
+
+### 🔵 CRR (Cash Reserve Ratio)
+
+* Cash banks keep with RBI
+
+### 🔵 SLR (Statutory Liquidity Ratio)
+
+* Liquid assets maintained by banks
+
+---
+
+## 🧠 ANALYSIS
+
+* Increase rates → reduce inflation
+* Decrease rates → increase growth
+
+---
+
+# 📊 4. FISCAL POLICY
+
+## 🔵 DEFINITION
+
+Government policy related to **tax + expenditure**
+
+---
+
+## 🔵 OBJECTIVES
+
+* Economic growth
+* Reduce inequality
+* Control inflation
+
+---
+
+## 🔴 TOOLS
+
+* Taxes
+* Government spending
+* Subsidies
+
+---
+
+# 🏛️ 5. GOVERNMENT SCHEMES (VERY IMPORTANT 🔥)
+
+---
+
+## 🟡 TYPES OF SCHEMES
+
+### 🔵 SOCIAL WELFARE
+
+* PMAY (Housing)
+* Ayushman Bharat (Health)
+
+---
+
+### 🔵 EMPLOYMENT
+
+* MGNREGA
+
+---
+
+### 🔵 AGRICULTURE
+
+* PM-KISAN
+
+---
+
+### 🔵 DIGITAL & INFRASTRUCTURE
+
+* Digital India
+* Smart Cities
+
+---
+
+## 🧠 ANALYSIS
+
+* Improves standard of living
+* Reduces poverty
+* Boosts economy
+
+---
+
+# 📉 6. PUBLIC DEBT
+
+## 🔵 TYPES
+
+* Internal debt
+* External debt
+
+---
+
+## 🔴 ISSUES
+
+* High interest burden
+* Fiscal imbalance
+
+---
+
+# 🌍 7. INCLUSIVE GROWTH
+
+## 🔵 MEANING
+
+Growth that benefits all sections of society
+
+---
+
+## 🔵 METHODS
+
+* Education
+* Employment
+* Social schemes
+
+---
+
+# 🔥 FINAL QUICK REVISION
+
+* Budget = income + expenditure
+* Fiscal deficit = key indicator
+* GST = unified tax system
+* Monetary policy = RBI control
+* Fiscal policy = govt control
+* Schemes = welfare + development
+
+---
+
+
+

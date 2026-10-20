@@ -1,0 +1,2394 @@
+# BIOLOGY – PART 5
+
+## HUMAN BODY: NUTRITION AND DIGESTIVE SYSTEM
+
+### 1. INTRODUCTION TO HUMAN NUTRITION
+
+Human nutrition is the biological process through which the human body obtains and utilizes nutrients from food. These nutrients are essential for energy production, growth, repair of tissues, maintenance of body functions, and protection against diseases.
+
+The human body requires different nutrients in appropriate quantities. A deficiency or excess of nutrients can affect normal body functions.
+
+**Major functions of nutrition:**
+
+1. Provides energy for daily activities.
+2. Supports growth and development.
+3. Repairs damaged tissues.
+4. Maintains body temperature.
+5. Helps regulate metabolic activities.
+6. Supports the immune system.
+7. Maintains the normal functioning of organs.
+
+Human beings are classified as **holozoic organisms** because they obtain nutrition by ingesting food and digesting it internally.
+
+Holozoic nutrition involves five major stages:
+
+1. **Ingestion:** Taking food into the body.
+2. **Digestion:** Breaking complex food substances into simpler substances.
+3. **Absorption:** Movement of digested nutrients into the blood or lymph.
+4. **Assimilation:** Utilization of absorbed nutrients by body cells.
+5. **Egestion:** Removal of undigested food from the body.
+
+**TNPSC Important Point:** Egestion is different from excretion. Egestion removes undigested food, whereas excretion removes metabolic waste products.
+
+---
+
+### 2. TYPES OF NUTRIENTS
+
+Nutrients are substances present in food that the body needs to maintain health and perform its functions.
+
+The major nutrients are carbohydrates, proteins, fats, vitamins, minerals and water.
+
+They are broadly classified into:
+
+**A. Macronutrients**
+
+Macronutrients are required in relatively large quantities.
+
+* Carbohydrates
+* Proteins
+* Fats
+
+Water is also required in substantial quantities and is essential for normal body functions.
+
+**B. Micronutrients**
+
+Micronutrients are required in comparatively small quantities.
+
+* Vitamins
+* Minerals
+
+Although vitamins and minerals are needed in small amounts, they are essential for normal growth, metabolism and health.
+
+#### Functions of nutrients
+
+| Nutrient      | Major function                                           | Common sources                   |
+| ------------- | -------------------------------------------------------- | -------------------------------- |
+| Carbohydrates | Main energy source                                       | Rice, wheat, potatoes            |
+| Proteins      | Growth and tissue repair                                 | Pulses, eggs, milk               |
+| Fats          | Energy storage and insulation                            | Nuts, oils, seeds                |
+| Vitamins      | Regulation of body processes                             | Fruits, vegetables               |
+| Minerals      | Bone formation and other functions                       | Milk, leafy vegetables           |
+| Water         | Transport, temperature regulation and chemical reactions | Drinking water, beverages, foods |
+
+**Important fact:** Carbohydrates and fats are major energy-providing nutrients. Proteins primarily support growth and tissue repair, although they can also provide energy.
+
+---
+
+### 3. CARBOHYDRATES
+
+Carbohydrates are organic compounds composed mainly of carbon, hydrogen and oxygen. They are one of the body's primary energy sources.
+
+One gram of digestible carbohydrate provides approximately **4 kilocalories** of energy.
+
+#### 3.1 Types of carbohydrates
+
+**A. Monosaccharides**
+
+Monosaccharides are the simplest carbohydrates and cannot be broken down into smaller carbohydrate units by hydrolysis.
+
+Examples:
+
+* Glucose
+* Fructose
+* Galactose
+
+Glucose is an important energy source for body cells. Fructose occurs naturally in fruits and honey.
+
+**B. Disaccharides**
+
+Disaccharides consist of two monosaccharide units.
+
+Examples:
+
+| Disaccharide | Components          |
+| ------------ | ------------------- |
+| Sucrose      | Glucose + fructose  |
+| Lactose      | Glucose + galactose |
+| Maltose      | Glucose + glucose   |
+
+Sucrose is common table sugar. Lactose is the principal sugar in milk.
+
+**C. Polysaccharides**
+
+Polysaccharides are complex carbohydrates composed of many sugar units.
+
+Examples:
+
+* Starch
+* Glycogen
+* Cellulose
+
+**Starch:** The principal storage carbohydrate in many plants. It is present in rice, wheat and potatoes.
+
+**Glycogen:** The storage form of glucose in animals. It is stored mainly in the liver and skeletal muscles.
+
+**Cellulose:** A structural component of plant cell walls. Humans cannot digest cellulose because they lack the enzyme cellulase. However, dietary fibre supports normal bowel function.
+
+#### 3.2 Digestion of carbohydrates
+
+Carbohydrate digestion begins in the mouth.
+
+1. Salivary amylase begins the breakdown of starch into smaller carbohydrate molecules.
+2. In the stomach, the acidic environment greatly reduces salivary amylase activity.
+3. In the small intestine, pancreatic amylase continues starch digestion.
+4. Enzymes on the intestinal lining complete the breakdown of disaccharides.
+5. Monosaccharides, such as glucose, are absorbed through the small intestine.
+
+#### 3.3 Importance of carbohydrates
+
+* Supply energy for physical activity.
+* Support normal functioning of the brain and other tissues.
+* Help spare proteins from being used as an energy source.
+* Provide dietary fibre when carbohydrate-rich foods contain whole grains, fruits and vegetables.
+
+**TNPSC Exam Points**
+
+* Glucose is a monosaccharide.
+* Sucrose is composed of glucose and fructose.
+* Lactose is the principal sugar in milk.
+* Glycogen is the storage carbohydrate in animals.
+* Cellulose is a major component of plant cell walls.
+* Salivary amylase begins starch digestion in the mouth.
+
+---
+
+### 4. PROTEINS
+
+Proteins are essential organic compounds composed of amino acids linked by peptide bonds. They contain carbon, hydrogen, oxygen and nitrogen; some proteins also contain sulfur.
+
+Proteins are necessary for growth, tissue repair, enzyme production, immune defence and several regulatory functions.
+
+One gram of protein provides approximately **4 kilocalories** of energy when metabolized.
+
+#### 4.1 Structure of proteins
+
+Amino acids are the basic building blocks of proteins.
+
+There are 20 commonly used amino acids in human proteins. Nine are generally classified as essential amino acids in human nutrition because the body cannot synthesize them in sufficient quantities.
+
+Essential amino acids must be obtained through food.
+
+#### 4.2 Functions of proteins
+
+**Growth and tissue repair:** Proteins help build and repair muscles, skin and other tissues.
+
+**Enzymes:** Most enzymes are proteins that accelerate biochemical reactions.
+
+**Hormones:** Some hormones, such as insulin, are proteins or peptides.
+
+**Immunity:** Antibodies are proteins that help the immune system recognize specific foreign substances.
+
+**Transport:** Haemoglobin transports oxygen in the blood.
+
+**Structural support:** Collagen provides strength to connective tissues, including tendons and skin.
+
+**Energy:** Proteins can provide energy when required, although this is not their primary role.
+
+#### 4.3 Sources of proteins
+
+**Animal sources:**
+
+* Eggs
+* Milk
+* Fish
+* Meat
+
+**Plant sources:**
+
+* Beans
+* Lentils
+* Chickpeas
+* Soybeans
+* Nuts and seeds
+
+Combining different plant protein sources across the day can help provide all essential amino acids.
+
+#### 4.4 Protein deficiency
+
+Severe protein and energy deficiency can contribute to malnutrition.
+
+Two classical forms are:
+
+**Kwashiorkor:** Traditionally associated with severe protein deficiency, often alongside inadequate overall nutrition. It may involve oedema, growth impairment and skin or hair changes.
+
+**Marasmus:** A severe form of undernutrition characterized by marked wasting and loss of body fat and muscle.
+
+These conditions are serious and require professional medical care.
+
+**TNPSC Important Points**
+
+* Proteins are made of amino acids.
+* Peptide bonds link amino acids.
+* Haemoglobin is a protein.
+* Antibodies are proteins involved in immune defence.
+* Enzymes are biological catalysts; most are proteins.
+* Protein provides approximately 4 kcal per gram.
+
+---
+
+### 5. FATS AND LIPIDS
+
+Fats are energy-rich nutrients that belong to the broader group called lipids.
+
+One gram of fat provides approximately **9 kilocalories**, making it more energy-dense than carbohydrates or proteins.
+
+#### 5.1 Types of dietary fats
+
+**Saturated fats:** Commonly found in foods such as butter, ghee, fatty meat and some tropical oils.
+
+**Unsaturated fats:** Found in foods such as nuts, seeds, fish and many vegetable oils.
+
+Unsaturated fats include monounsaturated and polyunsaturated fats.
+
+**Trans fats:** Industrial trans fats can adversely affect cardiovascular health. Their intake should be minimized.
+
+#### 5.2 Functions of fats
+
+1. Provide and store energy.
+2. Form part of cell membranes.
+3. Help insulate the body.
+4. Protect certain internal organs.
+5. Assist absorption of vitamins A, D, E and K.
+6. Supply essential fatty acids.
+7. Participate in hormone and signalling molecule production.
+
+#### 5.3 Digestion of fats
+
+Fat digestion occurs mainly in the small intestine.
+
+1. Bile produced by the liver and stored in the gallbladder helps emulsify fats into smaller droplets.
+2. Pancreatic lipase breaks down triglycerides into smaller molecules, including fatty acids and monoglycerides.
+3. These products are incorporated into micelles that help deliver them to the intestinal surface.
+4. Most long-chain fatty acids are absorbed and reassembled into triglycerides within intestinal cells.
+5. They are packaged into chylomicrons and transported primarily through the lymphatic system before entering the bloodstream.
+
+**Important distinction:** Bile helps emulsify fats, but it is not itself a digestive enzyme.
+
+#### 5.4 Essential fatty acids
+
+Certain fatty acids cannot be synthesized by the human body in sufficient quantities and must be obtained from food.
+
+The two essential fatty acids are:
+
+* Linoleic acid, an omega-6 fatty acid.
+* Alpha-linolenic acid, an omega-3 fatty acid.
+
+**TNPSC Exam Points**
+
+* Fat provides approximately 9 kcal per gram.
+* Bile is produced by the liver.
+* Bile is stored and concentrated in the gallbladder.
+* Pancreatic lipase digests fats.
+* Vitamins A, D, E and K are fat-soluble vitamins.
+
+---
+
+### 6. VITAMINS
+
+Vitamins are organic micronutrients required in small quantities for normal growth, metabolism and health.
+
+They do not generally provide energy directly, but they help the body use energy and maintain essential functions.
+
+Vitamins are classified into two groups.
+
+**Fat-soluble vitamins:**
+
+* Vitamin A
+* Vitamin D
+* Vitamin E
+* Vitamin K
+
+**Water-soluble vitamins:**
+
+* Vitamin B-complex
+* Vitamin C
+
+#### 6.1 Vitamin A
+
+**Functions:**
+
+* Supports normal vision.
+* Maintains healthy epithelial tissues.
+* Supports immune function and growth.
+
+**Sources:** Carrots, pumpkin, sweet potatoes, leafy vegetables, eggs and dairy products.
+
+**Deficiency:** Night blindness can occur due to vitamin A deficiency. Severe deficiency may damage the cornea.
+
+#### 6.2 Vitamin B1 – Thiamine
+
+**Functions:**
+
+* Supports carbohydrate metabolism.
+* Helps normal nerve and muscle function.
+
+**Sources:** Whole grains, legumes, nuts and fortified foods.
+
+**Deficiency:** Beriberi.
+
+#### 6.3 Vitamin B2 – Riboflavin
+
+**Functions:**
+
+* Participates in energy metabolism.
+* Supports normal skin and tissue health.
+
+**Sources:** Milk, eggs, meat and green vegetables.
+
+**Deficiency:** May cause cracks at the corners of the mouth and inflammation of the tongue.
+
+#### 6.4 Vitamin B3 – Niacin
+
+**Functions:**
+
+* Participates in cellular energy metabolism.
+* Supports normal skin and nervous system function.
+
+**Sources:** Meat, fish, peanuts and whole grains.
+
+**Deficiency:** Pellagra, classically associated with dermatitis, diarrhoea and dementia.
+
+#### 6.5 Vitamin B9 – Folate
+
+**Functions:**
+
+* Required for DNA synthesis.
+* Important for red blood cell formation.
+* Essential for normal fetal neural tube development.
+
+**Sources:** Leafy vegetables, legumes and fortified grains.
+
+**Deficiency:** May cause megaloblastic anaemia.
+
+#### 6.6 Vitamin B12 – Cobalamin
+
+**Functions:**
+
+* Supports normal nerve function.
+* Required for DNA synthesis and red blood cell formation.
+
+**Sources:** Mainly animal-derived foods and fortified foods.
+
+**Deficiency:** May cause megaloblastic anaemia and neurological problems.
+
+#### 6.7 Vitamin C – Ascorbic acid
+
+**Functions:**
+
+* Supports collagen formation.
+* Helps wound healing.
+* Improves absorption of non-haem iron.
+* Acts as an antioxidant.
+
+**Sources:** Citrus fruits, guava, amla, tomatoes and other fruits and vegetables.
+
+**Deficiency:** Scurvy, which can cause bleeding gums and impaired wound healing.
+
+#### 6.8 Vitamin D
+
+**Functions:**
+
+* Helps the body absorb calcium and phosphorus.
+* Supports bone mineralization.
+
+**Sources:** Production in the skin after suitable sunlight exposure, oily fish, egg yolk and fortified foods.
+
+**Deficiency:**
+
+* Rickets in children.
+* Osteomalacia in adults.
+
+#### 6.9 Vitamin E
+
+**Functions:**
+
+* Acts as an antioxidant.
+* Helps protect cell membranes from oxidative damage.
+
+**Sources:** Nuts, seeds and vegetable oils.
+
+#### 6.10 Vitamin K
+
+**Functions:**
+
+* Required for normal blood clotting.
+* Participates in bone-related processes.
+
+**Sources:** Green leafy vegetables and certain other foods. Gut bacteria also contribute to vitamin K availability.
+
+**Deficiency:** May cause abnormal bleeding.
+
+#### Summary table of vitamins
+
+| Vitamin | Major function                              | Deficiency condition                        |
+| ------- | ------------------------------------------- | ------------------------------------------- |
+| A       | Vision and epithelial health                | Night blindness                             |
+| B1      | Energy metabolism and nerve function        | Beriberi                                    |
+| B3      | Cellular metabolism                         | Pellagra                                    |
+| B9      | DNA synthesis and red blood cell formation  | Megaloblastic anaemia                       |
+| B12     | Nerve function and red blood cell formation | Megaloblastic anaemia                       |
+| C       | Collagen formation                          | Scurvy                                      |
+| D       | Calcium absorption and bone health          | Rickets in children                         |
+| E       | Antioxidant protection                      | Neuromuscular problems in severe deficiency |
+| K       | Blood clotting                              | Increased bleeding                          |
+
+**TNPSC Memory Tip:** Vitamins A, D, E and K are fat-soluble; B-complex and C are water-soluble.
+
+---
+
+### 7. MINERALS AND THEIR FUNCTIONS
+
+Minerals are inorganic nutrients required for structural, regulatory and metabolic functions.
+
+#### 7.1 Calcium
+
+**Functions:**
+
+* Formation of bones and teeth.
+* Muscle contraction.
+* Nerve signalling.
+* Blood clotting.
+
+**Sources:** Milk, curd, certain leafy vegetables and calcium-fortified foods.
+
+#### 7.2 Iron
+
+Iron is an essential component of haemoglobin and helps transport oxygen.
+
+**Sources:** Meat, legumes, beans, leafy vegetables and fortified foods.
+
+**Deficiency:** Iron-deficiency anaemia.
+
+Vitamin C can improve the absorption of non-haem iron from plant foods.
+
+#### 7.3 Iodine
+
+Iodine is required for the synthesis of thyroid hormones.
+
+**Sources:** Iodized salt and certain seafood.
+
+**Deficiency:** Can cause goitre and impair normal growth and development.
+
+#### 7.4 Sodium and potassium
+
+Both minerals are important electrolytes.
+
+**Sodium:**
+
+* Helps maintain extracellular fluid balance.
+* Participates in nerve impulses and muscle function.
+
+**Potassium:**
+
+* Helps maintain intracellular fluid balance.
+* Supports normal nerve and muscle function.
+
+#### 7.5 Phosphorus
+
+Phosphorus is required for:
+
+* Bones and teeth.
+* ATP, the main energy-transfer molecule in cells.
+* DNA and RNA.
+* Cell membranes.
+
+#### 7.6 Zinc
+
+Zinc supports immune function, wound healing, growth and the activity of numerous enzymes.
+
+#### 7.7 Fluoride
+
+Fluoride can help strengthen tooth enamel and reduce the risk of dental caries when present in appropriate amounts. Excessive exposure can cause fluorosis.
+
+**TNPSC Important Facts**
+
+* Iron is a component of haemoglobin.
+* Iodine is required for thyroid hormone production.
+* Calcium is essential for bones, muscle contraction and clotting.
+* Sodium and potassium are important electrolytes.
+* Phosphorus is a component of ATP, DNA and RNA.
+
+---
+
+### 8. WATER AND DIETARY FIBRE
+
+#### 8.1 Importance of water
+
+Water forms a major component of the human body and is essential for life.
+
+Functions include:
+
+1. Transporting nutrients and waste products.
+2. Regulating body temperature through sweating.
+3. Supporting chemical reactions.
+4. Maintaining blood volume and fluid balance.
+5. Lubricating joints and moistening tissues.
+6. Supporting digestion and bowel function.
+
+Water needs vary according to age, activity, climate and health. Adequate fluid intake is essential, particularly in hot weather.
+
+#### 8.2 Dietary fibre
+
+Dietary fibre consists of plant-derived carbohydrate components that are not fully digested by human enzymes.
+
+**Functions:**
+
+* Supports regular bowel movements.
+* Helps prevent constipation.
+* Supports beneficial gut microorganisms.
+* Certain types of fibre help regulate blood cholesterol.
+* Some fibres slow nutrient absorption and support blood glucose control.
+
+**Sources:** Whole grains, vegetables, fruits, legumes, nuts and seeds.
+
+**Important point:** Cellulose is a dietary fibre and a structural component of plant cell walls.
+
+---
+
+### 9. BALANCED DIET
+
+A balanced diet provides adequate energy and essential nutrients in appropriate proportions to support normal health and body functions.
+
+A balanced diet varies according to age, activity, growth, pregnancy and other individual requirements.
+
+#### Components of a balanced diet
+
+* Whole grains and other carbohydrate-rich foods.
+* Protein-rich foods.
+* Vegetables and fruits.
+* Appropriate amounts of healthy fats.
+* Sources of vitamins and minerals.
+* Adequate water.
+
+#### Malnutrition
+
+Malnutrition occurs when nutrient intake or utilization is insufficient, excessive or imbalanced.
+
+It includes:
+
+* Undernutrition.
+* Micronutrient deficiencies.
+* Overnutrition.
+* Diet-related health problems.
+
+**Undernutrition** can impair growth, immunity and physical development.
+
+**Overnutrition** can contribute to obesity and increase the risk of conditions such as type 2 diabetes and cardiovascular disease.
+
+**TNPSC Exam Point:** Malnutrition does not mean only insufficient food intake; it also includes excessive or imbalanced nutrient intake.
+
+---
+
+### 10. HUMAN DIGESTIVE SYSTEM
+
+The human digestive system consists of the alimentary canal and associated digestive organs.
+
+The alimentary canal is a continuous muscular tube extending from the mouth to the anus.
+
+#### Main organs of the alimentary canal
+
+1. Mouth
+2. Pharynx
+3. Oesophagus
+4. Stomach
+5. Small intestine
+6. Large intestine
+7. Rectum
+8. Anus
+
+#### Accessory digestive organs
+
+* Salivary glands
+* Liver
+* Gallbladder
+* Pancreas
+
+These organs assist digestion by producing or storing substances involved in the digestive process.
+
+---
+
+### 11. MOUTH AND SALIVARY GLANDS
+
+Digestion begins in the mouth through mechanical and chemical processes.
+
+#### 11.1 Teeth
+
+Teeth cut, tear and grind food into smaller pieces.
+
+The four main types of permanent human teeth are:
+
+| Type      | Function              |
+| --------- | --------------------- |
+| Incisors  | Cutting               |
+| Canines   | Tearing               |
+| Premolars | Crushing and grinding |
+| Molars    | Grinding              |
+
+A typical adult has 32 permanent teeth, including wisdom teeth. Primary or milk dentition usually contains 20 teeth.
+
+#### 11.2 Tongue
+
+The tongue:
+
+* Helps mix food with saliva.
+* Assists swallowing.
+* Contains sensory structures involved in taste.
+* Helps articulate speech.
+
+#### 11.3 Saliva
+
+Saliva is secreted by salivary glands.
+
+The three major pairs of salivary glands are:
+
+* Parotid glands
+* Submandibular glands
+* Sublingual glands
+
+Functions of saliva:
+
+1. Moistens food.
+2. Lubricates food for swallowing.
+3. Begins starch digestion through salivary amylase.
+4. Helps maintain oral health.
+5. Dissolves substances so that taste receptors can detect them.
+
+**Important fact:** Salivary amylase begins the chemical digestion of starch in the mouth.
+
+---
+
+### 12. PHARYNX AND OESOPHAGUS
+
+#### Pharynx
+
+The pharynx is a passage shared by the digestive and respiratory systems.
+
+During swallowing, coordinated movements direct food toward the oesophagus and help prevent it from entering the airway.
+
+#### Oesophagus
+
+The oesophagus is a muscular tube that carries food from the pharynx to the stomach.
+
+Food moves through the oesophagus by **peristalsis**.
+
+Peristalsis is the coordinated, wave-like contraction and relaxation of smooth muscles that propels material through the digestive tract.
+
+**TNPSC Exam Point:** Peristalsis is responsible for moving food through the oesophagus and other parts of the digestive tract.
+
+---
+
+### 13. STOMACH
+
+The stomach is a muscular, expandable organ that temporarily stores food and mixes it with gastric secretions.
+
+#### 13.1 Functions of the stomach
+
+1. Stores food temporarily.
+2. Mixes food mechanically.
+3. Begins substantial protein digestion.
+4. Secretes hydrochloric acid.
+5. Produces pepsinogen, the inactive precursor of pepsin.
+6. Helps destroy many ingested microorganisms.
+7. Releases partially digested food into the small intestine.
+
+#### 13.2 Gastric secretions
+
+**Hydrochloric acid (HCl):**
+
+* Creates an acidic environment.
+* Helps activate pepsin from pepsinogen.
+* Helps denature proteins.
+* Reduces the survival of many microorganisms.
+
+**Pepsin:**
+
+* A proteolytic enzyme.
+* Breaks proteins into smaller peptides.
+
+**Mucus:**
+
+* Protects the stomach lining from acid and digestive enzymes.
+
+**Intrinsic factor:**
+
+* A protein secreted by stomach parietal cells.
+* Required for normal vitamin B12 absorption in the terminal ileum.
+
+#### 13.3 Why does the stomach not digest itself?
+
+The stomach protects itself through:
+
+* A mucus-bicarbonate barrier.
+* Closely regulated acid secretion.
+* Tight connections between epithelial cells.
+* Continuous renewal and repair of the stomach lining.
+
+Damage to these protective mechanisms can contribute to ulcers.
+
+**TNPSC Important Points**
+
+* Hydrochloric acid is secreted by parietal cells.
+* Pepsinogen is secreted by chief cells.
+* Pepsin digests proteins.
+* Intrinsic factor is necessary for vitamin B12 absorption.
+
+---
+
+### 14. SMALL INTESTINE
+
+The small intestine is the principal site of digestion and nutrient absorption.
+
+It consists of three sections:
+
+1. Duodenum
+2. Jejunum
+3. Ileum
+
+#### 14.1 Duodenum
+
+The duodenum receives partially digested food from the stomach, bile from the biliary system and pancreatic secretions.
+
+Acidic stomach contents are neutralized largely by bicarbonate in pancreatic secretions.
+
+The duodenum is an important site of chemical digestion.
+
+#### 14.2 Jejunum
+
+The jejunum is an important site for absorption of many nutrients, including sugars, amino acids and lipids after digestion.
+
+#### 14.3 Ileum
+
+The ileum absorbs remaining nutrients and is particularly important for the absorption of vitamin B12 bound to intrinsic factor and the recycling of bile salts.
+
+#### 14.4 Intestinal villi
+
+The inner surface of the small intestine contains numerous finger-like projections called **villi**.
+
+Each villus contains:
+
+* Blood capillaries.
+* A lymphatic vessel called a lacteal.
+* An epithelial lining with absorptive cells.
+
+Microvilli on the absorptive cells further increase the surface area.
+
+**Functions of villi:**
+
+1. Increase the surface area for absorption.
+2. Facilitate uptake of digested nutrients.
+3. Allow water-soluble nutrients to enter blood capillaries.
+4. Help absorb most long-chain dietary fats through the lymphatic system.
+
+**Important distinction:** Most absorbed monosaccharides and amino acids enter blood capillaries, whereas most long-chain dietary fats are transported initially through lymphatic vessels.
+
+---
+
+### 15. LARGE INTESTINE
+
+The large intestine absorbs water and electrolytes from the remaining intestinal contents and helps form faeces.
+
+Its major parts include:
+
+* Caecum
+* Colon
+* Rectum
+* Anal canal
+
+#### Functions
+
+1. Absorbs remaining water and electrolytes.
+2. Supports the formation and storage of faeces.
+3. Houses microorganisms that metabolize certain undigested food components.
+4. Supports the production and absorption of some microbial metabolites.
+
+The rectum temporarily stores faeces before elimination.
+
+**Egestion** is the removal of undigested food material through the anus.
+
+**TNPSC Exam Point:** The small intestine is the main site of nutrient absorption, while the large intestine is especially important for water and electrolyte absorption and faeces formation.
+
+---
+
+### 16. LIVER
+
+The liver is the largest internal organ and performs numerous metabolic, storage and detoxification functions.
+
+#### Major functions
+
+1. Produces bile.
+2. Processes absorbed nutrients.
+3. Helps regulate blood glucose by storing and releasing glucose.
+4. Stores glycogen, certain vitamins and iron.
+5. Synthesizes many plasma proteins.
+6. Produces important components involved in blood clotting.
+7. Converts ammonia into urea.
+8. Metabolizes many medicines and other substances.
+9. Processes bilirubin derived from haem breakdown.
+
+#### Bile
+
+Bile is produced by the liver and stored and concentrated in the gallbladder between meals.
+
+It contains bile salts that help emulsify fats and facilitate their digestion and absorption.
+
+**Important distinction:** Bile is not an enzyme. It assists fat digestion by dispersing large fat droplets into smaller droplets.
+
+---
+
+### 17. PANCREAS
+
+The pancreas performs both exocrine and endocrine functions.
+
+#### Exocrine function
+
+The pancreas releases digestive secretions into the duodenum.
+
+These include:
+
+* Pancreatic amylase, which digests starch.
+* Pancreatic lipase, which digests fats.
+* Protease precursors, such as trypsinogen, which become active in the small intestine.
+* Bicarbonate, which helps neutralize acidic contents entering from the stomach.
+
+#### Endocrine function
+
+Clusters of cells called the islets of Langerhans release hormones into the blood.
+
+**Insulin:** Lowers blood glucose by promoting glucose uptake and storage in appropriate tissues.
+
+**Glucagon:** Helps raise blood glucose, particularly by promoting glucose release from liver stores.
+
+**TNPSC Important Point:** The pancreas is both an endocrine and an exocrine gland.
+
+---
+
+### 18. DIGESTIVE ENZYMES AND THEIR FUNCTIONS
+
+| Enzyme             | Main source                  | Substance acted upon  | Main result                      |
+| ------------------ | ---------------------------- | --------------------- | -------------------------------- |
+| Salivary amylase   | Salivary glands              | Starch                | Smaller carbohydrates            |
+| Pepsin             | Stomach                      | Proteins              | Smaller peptides                 |
+| Pancreatic amylase | Pancreas                     | Starch                | Smaller carbohydrates            |
+| Trypsin            | Activated in small intestine | Proteins and peptides | Smaller peptides                 |
+| Pancreatic lipase  | Pancreas                     | Triglycerides         | Fatty acids and monoglycerides   |
+| Maltase            | Small intestinal lining      | Maltose               | Glucose                          |
+| Sucrase            | Small intestinal lining      | Sucrose               | Glucose and fructose             |
+| Lactase            | Small intestinal lining      | Lactose               | Glucose and galactose            |
+| Peptidases         | Small intestinal lining      | Small peptides        | Amino acids and smaller peptides |
+
+**Important facts:**
+
+* Amylases digest starch.
+* Proteases digest proteins.
+* Lipases digest fats.
+* Maltase acts on maltose.
+* Lactase acts on lactose.
+* Sucrase acts on sucrose.
+
+Enzymes are selective biological catalysts. Their activity depends on conditions such as temperature, pH and the availability of their substrates.
+
+---
+
+### 19. ABSORPTION AND ASSIMILATION
+
+**Absorption** is the movement of digested nutrients from the digestive tract into the blood or lymph.
+
+**Assimilation** is the use of absorbed nutrients by body cells.
+
+Examples:
+
+* Glucose is used to produce energy or stored in the form of glycogen.
+* Amino acids are used to synthesize proteins.
+* Fatty acids are used in cell membranes, energy metabolism and other cellular processes.
+* Calcium is used in bone formation and other physiological functions.
+
+Most nutrient absorption occurs in the small intestine because of its extensive surface area.
+
+Water can be absorbed throughout the intestines.
+
+---
+
+### 20. COMMON DIGESTIVE DISORDERS
+
+#### 20.1 Constipation
+
+Constipation involves difficult or infrequent bowel movements. It may be associated with inadequate fibre intake, insufficient fluid intake, inactivity or other causes.
+
+#### 20.2 Diarrhoea
+
+Diarrhoea involves frequent passage of loose or watery stools. It can result from infections, food-related causes and various medical conditions.
+
+Severe diarrhoea may lead to dehydration.
+
+#### 20.3 Peptic ulcers
+
+Peptic ulcers are sores in the lining of the stomach or duodenum.
+
+Important causes include infection with *Helicobacter pylori* and the use of certain anti-inflammatory medicines.
+
+#### 20.4 Jaundice
+
+Jaundice is yellow discoloration of the skin and eyes caused by elevated bilirubin. It is a sign that can occur in several liver, bile duct or blood-related conditions.
+
+#### 20.5 Lactose intolerance
+
+Lactose intolerance occurs when insufficient lactase activity prevents normal digestion of lactose. Symptoms may include bloating, abdominal discomfort and diarrhoea after consuming lactose-containing foods.
+
+#### 20.6 Gallstones
+
+Gallstones are hardened deposits that form in the gallbladder. Some cause no symptoms, while others may obstruct bile flow and cause pain or complications.
+
+---
+
+### 21. IMPORTANT TNPSC EXAM FACTS
+
+1. Nutrition involving ingestion and internal digestion is called holozoic nutrition.
+2. Digestion begins in the mouth.
+3. Salivary amylase acts on starch.
+4. Peristalsis moves food through the digestive tract.
+5. The stomach secretes hydrochloric acid.
+6. Pepsin helps digest proteins.
+7. The small intestine is the principal site of nutrient absorption.
+8. Villi increase the absorptive surface area of the small intestine.
+9. The liver produces bile.
+10. The gallbladder stores and concentrates bile.
+11. Bile helps emulsify fats but is not an enzyme.
+12. Pancreatic lipase digests triglycerides.
+13. Lactase digests lactose.
+14. The large intestine absorbs water and electrolytes.
+15. The pancreas has endocrine and exocrine functions.
+16. Insulin helps lower blood glucose.
+17. Glucagon helps raise blood glucose.
+18. Vitamin C deficiency causes scurvy.
+19. Vitamin D deficiency can cause rickets in children.
+20. Iron deficiency can cause anaemia.
+21. Iodine is needed to produce thyroid hormones.
+22. Proteins are composed of amino acids.
+23. Glycogen is a storage form of glucose in animals.
+24. Cellulose is a structural component of plant cell walls.
+25. Dietary fibre supports normal bowel function.
+
+---
+
+### 22. PART 5 – QUICK REVISION TABLE
+
+| Topic                            | Key fact                |
+| -------------------------------- | ----------------------- |
+| Carbohydrate energy              | Approximately 4 kcal/g  |
+| Protein energy                   | Approximately 4 kcal/g  |
+| Fat energy                       | Approximately 9 kcal/g  |
+| Starch digestion begins          | Mouth                   |
+| Protein digestion begins         | Stomach                 |
+| Main site of absorption          | Small intestine         |
+| Main fat-emulsifying substance   | Bile salts              |
+| Enzyme for fat digestion         | Lipase                  |
+| Enzyme for starch digestion      | Amylase                 |
+| Enzyme for lactose digestion     | Lactase                 |
+| Bile production                  | Liver                   |
+| Bile storage                     | Gallbladder             |
+| Blood glucose-lowering hormone   | Insulin                 |
+| Blood glucose-raising hormone    | Glucagon                |
+| Vitamin C deficiency             | Scurvy                  |
+| Vitamin B1 deficiency            | Beriberi                |
+| Vitamin B3 deficiency            | Pellagra                |
+| Vitamin D deficiency in children | Rickets                 |
+| Iron deficiency                  | Iron-deficiency anaemia |
+| Iodine deficiency                | May cause goitre        |
+
+BIOLOGY – PART 6
+
+# HUMAN RESPIRATION, CIRCULATION AND EXCRETION
+
+# SECTION 1: HUMAN RESPIRATORY SYSTEM
+
+## 1.1 Introduction to Respiration
+
+Respiration is one of the most important biological processes required for the survival of living organisms. It involves obtaining oxygen, releasing energy from food and eliminating carbon dioxide produced during cellular activities.
+
+The human body requires a continuous supply of energy to perform activities such as walking, studying, maintaining body temperature, pumping blood and transmitting nerve impulses.
+
+The energy required for these activities is mainly obtained through cellular respiration.
+
+Glucose is an important respiratory substrate. In the presence of oxygen, cells can break down glucose and transfer energy into ATP molecules.
+
+ATP stands for Adenosine Triphosphate. It is commonly described as the energy currency of the cell because it provides usable energy for many cellular processes.
+
+The overall simplified equation for aerobic respiration is:
+
+Glucose + Oxygen → Carbon dioxide + Water + Energy
+
+The balanced chemical equation is:
+
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy
+
+This equation represents the overall process. Cellular respiration actually involves multiple biochemical reactions and occurs in different stages.
+
+### Importance of respiration
+
+1. Supplies energy for muscular activities.
+2. Supports brain and nervous system functions.
+3. Provides energy for active transport across cell membranes.
+4. Supports growth and tissue repair.
+5. Helps maintain normal body temperature.
+6. Supplies energy for the functioning of internal organs.
+7. Produces carbon dioxide, which must be removed from the body.
+
+### Important terminology
+
+**Breathing:** The mechanical movement of air into and out of the lungs.
+
+**External respiration:** Exchange of oxygen and carbon dioxide between the air in the alveoli and the blood.
+
+**Internal respiration:** Exchange of gases between systemic blood and body tissues.
+
+**Cellular respiration:** Biochemical processes through which cells obtain usable energy from nutrients.
+
+**Ventilation:** Movement of air into and out of the respiratory system.
+
+### Difference between breathing and cellular respiration
+
+Breathing is a physical process involving the movement of air. Cellular respiration is a biochemical process occurring within cells.
+
+Breathing supplies oxygen that can be used in aerobic respiration. Cellular respiration releases usable energy from nutrients.
+
+Breathing occurs through the respiratory organs, while cellular respiration involves biochemical reactions in the cytoplasm and mitochondria.
+
+**TNPSC Important Point:** Breathing and cellular respiration are related processes, but they are not the same.
+
+---
+
+## 1.2 Human Respiratory Organs
+
+The human respiratory system consists of organs and structures that allow the exchange of gases between the external environment and the blood.
+
+The main structures are:
+
+1. Nose and nasal cavity
+2. Pharynx
+3. Larynx
+4. Trachea
+5. Bronchi
+6. Bronchioles
+7. Alveoli
+8. Lungs
+9. Diaphragm and other respiratory muscles
+
+Each structure performs a specific function in breathing and gas exchange.
+
+### A. Nose and nasal cavity
+
+The nose is the main entry point for inhaled air.
+
+The nasal cavity is lined with a mucous membrane and contains hairs and mucus-producing cells.
+
+Functions of the nasal cavity include:
+
+* Filtering particles from inhaled air.
+* Warming incoming air.
+* Moistening the air.
+* Contributing to the sense of smell.
+
+Mucus traps dust and other particles. Tiny hair-like structures called cilia help move mucus toward the pharynx, where it can be swallowed or expelled.
+
+Breathing through the nose generally helps condition incoming air before it reaches the lower respiratory tract.
+
+### B. Pharynx
+
+The pharynx is a muscular passage located behind the nasal and oral cavities.
+
+It forms part of both the respiratory and digestive systems.
+
+Air passes through the pharynx toward the larynx. Food passes through the pharynx toward the oesophagus.
+
+During swallowing, coordinated movements help direct food into the oesophagus and protect the airway.
+
+### C. Larynx
+
+The larynx is commonly called the voice box.
+
+It connects the pharynx to the trachea.
+
+Important functions include:
+
+* Allowing air to pass into the trachea.
+* Producing sound through the vocal folds.
+* Helping protect the lower respiratory tract during swallowing.
+
+The epiglottis is a flap-like structure associated with the entrance to the larynx. During swallowing, protective movements help prevent food and liquid from entering the airway.
+
+### D. Trachea
+
+The trachea is commonly called the windpipe.
+
+It connects the larynx to the primary bronchi.
+
+The walls of the trachea contain C-shaped rings of cartilage. These rings help prevent the airway from collapsing during breathing.
+
+The inner surface is lined with mucus-producing cells and ciliated epithelium.
+
+Functions:
+
+1. Conducts air toward the lungs.
+2. Helps filter inhaled particles.
+3. Supports movement of mucus toward the pharynx.
+4. Maintains an open passage for airflow.
+
+### E. Bronchi
+
+The trachea divides into the right and left primary bronchi.
+
+Each primary bronchus enters a lung and divides repeatedly into smaller branches.
+
+The branching airway system distributes air throughout the lungs.
+
+The right and left lungs are supplied by their respective primary bronchi.
+
+### F. Bronchioles
+
+Bronchioles are smaller branches of the bronchial tree.
+
+They contain smooth muscle that helps regulate airway diameter.
+
+When bronchioles narrow, airflow resistance increases. When they widen, airflow can increase.
+
+Bronchioles conduct air toward the respiratory portions of the lungs, where gas exchange occurs.
+
+### G. Alveoli
+
+Alveoli are microscopic air sacs located at the ends of the respiratory passages.
+
+They are the principal sites of gas exchange in the lungs.
+
+Each alveolus has a very thin wall and is surrounded by a network of blood capillaries.
+
+Important features of alveoli include:
+
+* Thin walls.
+* Large combined surface area.
+* Moist internal surfaces.
+* Rich capillary supply.
+* A short diffusion distance between air and blood.
+
+Oxygen diffuses from alveolar air into the blood when the oxygen partial pressure is higher in the alveoli than in the incoming blood.
+
+Carbon dioxide diffuses from the blood into the alveoli when its partial pressure is higher in the blood than in the alveolar air.
+
+Carbon dioxide is then removed during exhalation.
+
+**TNPSC Important Point:** Alveoli are the principal sites of gaseous exchange in the human lungs.
+
+---
+
+## 1.3 Structure of the Human Lungs
+
+The lungs are a pair of spongy organs located inside the thoracic cavity.
+
+They are protected by the rib cage and surrounded by a double-layered membrane called the pleura.
+
+### Right lung
+
+The right lung is divided into three lobes:
+
+1. Superior lobe
+2. Middle lobe
+3. Inferior lobe
+
+### Left lung
+
+The left lung is divided into two lobes:
+
+1. Superior lobe
+2. Inferior lobe
+
+The left lung is smaller than the right lung because space is required for the heart.
+
+### Pleura
+
+The pleura consists of two layers:
+
+* Visceral pleura: Closely covers the lung surface.
+* Parietal pleura: Lines the inner surface of the chest wall and related structures.
+
+A thin film of pleural fluid lies between the layers.
+
+Functions of pleural fluid include reducing friction during breathing and helping the lungs move smoothly against the chest wall.
+
+### Main functions of the lungs
+
+1. Exchange oxygen and carbon dioxide.
+2. Help maintain acid–base balance by regulating carbon dioxide removal.
+3. Contribute to normal speech by supplying airflow.
+4. Filter small blood clots and other particles from pulmonary circulation.
+5. Participate in certain metabolic processes.
+
+### Comparison of right and left lungs
+
+| Feature               | Right lung           | Left lung                          |
+| --------------------- | -------------------- | ---------------------------------- |
+| Number of lobes       | Three                | Two                                |
+| Relative size         | Usually larger       | Usually smaller                    |
+| Reason for difference | More space available | Space occupied partly by the heart |
+| Main function         | Gas exchange         | Gas exchange                       |
+
+---
+
+## 1.4 Mechanism of Breathing
+
+Breathing consists of two main phases:
+
+1. Inspiration or inhalation.
+2. Expiration or exhalation.
+
+Air moves because of pressure differences between the atmosphere and the lungs.
+
+### Inspiration
+
+During quiet inspiration:
+
+1. The diaphragm contracts.
+2. The diaphragm moves downward and becomes flatter.
+3. External intercostal muscles contract.
+4. The ribs move upward and outward.
+5. The volume of the thoracic cavity increases.
+6. Pressure inside the lungs decreases slightly below atmospheric pressure.
+7. Air flows into the lungs.
+
+Inspiration is an active process during normal quiet breathing because respiratory muscles contract.
+
+### Expiration
+
+During quiet expiration:
+
+1. The diaphragm relaxes.
+2. The diaphragm returns toward its dome-shaped position.
+3. The external intercostal muscles relax.
+4. The rib cage moves downward and inward.
+5. Thoracic cavity volume decreases.
+6. Pressure inside the lungs rises slightly above atmospheric pressure.
+7. Air flows out of the lungs.
+
+Quiet expiration is generally passive because elastic recoil of the lungs and chest wall helps move air out.
+
+During forced expiration, internal intercostal and abdominal muscles can contribute to expelling air.
+
+### Role of the diaphragm
+
+The diaphragm is a dome-shaped skeletal muscle separating the thoracic and abdominal cavities.
+
+It is the principal muscle of quiet inspiration.
+
+When it contracts, the thoracic cavity expands vertically. This contributes to a reduction in intrapulmonary pressure and allows air to enter the lungs.
+
+When it relaxes, thoracic volume decreases and air moves out.
+
+### Role of intercostal muscles
+
+Intercostal muscles are located between the ribs.
+
+External intercostal muscles help elevate the ribs during inspiration.
+
+Other intercostal muscles participate in respiratory movements, particularly during forced breathing.
+
+### Comparison of inspiration and expiration
+
+| Feature            | Inspiration                      | Quiet expiration                 |
+| ------------------ | -------------------------------- | -------------------------------- |
+| Diaphragm          | Contracts                        | Relaxes                          |
+| Diaphragm movement | Downward                         | Upward                           |
+| Thoracic volume    | Increases                        | Decreases                        |
+| Lung pressure      | Falls below atmospheric pressure | Rises above atmospheric pressure |
+| Air movement       | Into lungs                       | Out of lungs                     |
+| Nature             | Generally active                 | Generally passive                |
+
+**TNPSC Exam Point:** During inspiration, thoracic cavity volume increases and pressure inside the lungs decreases.
+
+---
+
+## 1.5 Gas Exchange in the Alveoli
+
+Gas exchange is the movement of oxygen and carbon dioxide between the alveolar air and pulmonary blood.
+
+It occurs mainly by diffusion.
+
+Diffusion is the net movement of particles from a region of higher partial pressure to a region of lower partial pressure.
+
+### Oxygen exchange
+
+The oxygen partial pressure in alveolar air is normally higher than that in the deoxygenated blood entering pulmonary capillaries.
+
+Consequently, oxygen diffuses across the respiratory membrane into the blood.
+
+Most oxygen entering the blood binds to haemoglobin in red blood cells.
+
+A small amount remains dissolved in plasma.
+
+### Carbon dioxide exchange
+
+The carbon dioxide partial pressure in blood entering pulmonary capillaries is normally higher than that in alveolar air.
+
+Carbon dioxide therefore diffuses from the blood into the alveoli and is removed through exhalation.
+
+### Factors affecting gas exchange
+
+1. Surface area available for diffusion.
+2. Thickness of the respiratory membrane.
+3. Difference in partial pressures.
+4. Adequacy of blood flow through pulmonary capillaries.
+5. Adequacy of ventilation reaching the alveoli.
+
+Diseases that damage alveoli or thicken the respiratory membrane can impair gas exchange.
+
+### Why are alveoli efficient for gas exchange?
+
+Alveoli provide a large surface area, thin walls and a rich blood supply.
+
+These features shorten the diffusion distance and support rapid movement of gases.
+
+**Important distinction:** Gas exchange between alveoli and blood is external respiration. Gas exchange between blood and body tissues is internal respiration.
+
+---
+
+## 1.6 Transport of Oxygen in Blood
+
+Oxygen is transported in blood in two main forms:
+
+1. Bound to haemoglobin in red blood cells.
+2. Dissolved in plasma.
+
+Most oxygen is transported bound to haemoglobin.
+
+Haemoglobin is an iron-containing protein found in red blood cells.
+
+Each haemoglobin molecule can bind oxygen reversibly, allowing oxygen to be loaded in the lungs and released in tissues.
+
+### Oxyhaemoglobin
+
+When oxygen binds to haemoglobin, the resulting compound is called oxyhaemoglobin.
+
+In the lungs, oxygen binds to haemoglobin because oxygen availability is high.
+
+In body tissues, oxygen can be released when tissue oxygen levels are lower and metabolic demand is higher.
+
+### Factors influencing oxygen release
+
+Oxygen release from haemoglobin is influenced by:
+
+* Oxygen partial pressure.
+* Carbon dioxide concentration.
+* pH.
+* Temperature.
+* Certain metabolic compounds in red blood cells.
+
+Active tissues often have higher carbon dioxide concentrations, lower pH and higher temperatures. These conditions favour oxygen unloading from haemoglobin.
+
+### Importance of haemoglobin
+
+1. Transports most oxygen in blood.
+2. Supports oxygen delivery to tissues.
+3. Contributes to buffering of blood.
+4. Participates in carbon dioxide transport indirectly through its effects on blood chemistry.
+
+Iron deficiency can reduce haemoglobin production and cause iron-deficiency anaemia.
+
+---
+
+## 1.7 Transport of Carbon Dioxide
+
+Carbon dioxide is produced by cellular metabolism and must be transported from tissues to the lungs.
+
+It travels in blood in three principal forms:
+
+1. As bicarbonate ions.
+2. Bound to proteins, particularly haemoglobin.
+3. Dissolved in plasma.
+
+Most carbon dioxide is transported in the form of bicarbonate ions.
+
+### Bicarbonate formation
+
+Within red blood cells, the enzyme carbonic anhydrase accelerates the reversible reaction:
+
+CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻
+
+Carbon dioxide reacts with water to form carbonic acid, which can dissociate into hydrogen ions and bicarbonate ions.
+
+Bicarbonate is transported in the blood and helps carry carbon dioxide from tissues toward the lungs.
+
+In the lungs, these reactions proceed in the reverse direction, allowing carbon dioxide to be released into alveolar air.
+
+### Importance of carbon dioxide removal
+
+Excess carbon dioxide can increase acidity in body fluids.
+
+The respiratory system helps regulate blood pH by adjusting the rate and depth of breathing.
+
+**TNPSC Important Point:** Most carbon dioxide is transported in blood as bicarbonate ions.
+
+---
+
+## 1.8 Lung Volumes and Capacities
+
+Lung volumes describe the amount of air moved into or out of the lungs during breathing.
+
+Measurements vary with age, height, sex, health and physical condition.
+
+### Tidal volume
+
+Tidal volume is the amount of air inhaled or exhaled during a normal quiet breath.
+
+A commonly used approximate adult reference value is around 500 mL, but actual values vary.
+
+### Inspiratory reserve volume
+
+Inspiratory reserve volume is the additional amount of air that can be inhaled after a normal inspiration.
+
+### Expiratory reserve volume
+
+Expiratory reserve volume is the additional amount of air that can be forcibly exhaled after a normal expiration.
+
+### Residual volume
+
+Residual volume is the air remaining in the lungs after maximal expiration.
+
+It helps prevent the lungs from completely emptying between breaths.
+
+### Vital capacity
+
+Vital capacity is the maximum amount of air that can be exhaled after a maximal inspiration.
+
+It is calculated as:
+
+Vital Capacity = Tidal Volume + Inspiratory Reserve Volume + Expiratory Reserve Volume
+
+### Total lung capacity
+
+Total lung capacity is the total volume of air in the lungs after maximal inspiration.
+
+It is calculated as:
+
+Total Lung Capacity = Vital Capacity + Residual Volume
+
+### Spirometry
+
+Spirometry is a test that measures how much air a person can inhale and exhale and how quickly air can be expelled.
+
+It is used to assess lung function and help evaluate respiratory conditions.
+
+Standard spirometry cannot directly measure residual volume.
+
+### Summary table
+
+| Term                       | Meaning                                         |
+| -------------------------- | ----------------------------------------------- |
+| Tidal volume               | Air moved during normal quiet breathing         |
+| Inspiratory reserve volume | Extra air inhaled after normal inspiration      |
+| Expiratory reserve volume  | Extra air exhaled after normal expiration       |
+| Residual volume            | Air remaining after maximal expiration          |
+| Vital capacity             | Maximum air exhaled after maximal inspiration   |
+| Total lung capacity        | Total lung air volume after maximal inspiration |
+
+---
+
+## 1.9 Regulation of Breathing
+
+Breathing is regulated by neural mechanisms that respond to the body's changing requirements.
+
+Important respiratory control centres are located in the brainstem, especially the medulla oblongata and pons.
+
+### Medulla oblongata
+
+The medulla contains neural networks that generate and regulate basic respiratory rhythm.
+
+It coordinates signals to respiratory muscles.
+
+### Pons
+
+The pons helps modify breathing patterns and coordinate the transitions between inspiration and expiration.
+
+### Chemoreceptors
+
+Chemoreceptors detect changes in chemical conditions, including carbon dioxide, hydrogen ion concentration and oxygen.
+
+Central chemoreceptors respond mainly to changes associated with carbon dioxide through its effects on the pH of fluid surrounding the brain.
+
+Peripheral chemoreceptors, located in the carotid and aortic bodies, respond to changes in oxygen, carbon dioxide and pH.
+
+### Effect of carbon dioxide
+
+Carbon dioxide is a major regulator of ventilation under normal conditions.
+
+When carbon dioxide rises, associated changes in acidity stimulate increased ventilation. Faster or deeper breathing can remove more carbon dioxide.
+
+When carbon dioxide falls, the respiratory drive can decrease.
+
+### Effect of exercise
+
+During exercise, muscles require more oxygen and produce more carbon dioxide.
+
+Breathing rate and depth increase to meet metabolic demand and help regulate blood chemistry.
+
+**TNPSC Important Point:** The medulla oblongata and pons are important brainstem regions involved in respiratory control.
+
+---
+
+## 1.10 Common Respiratory Disorders
+
+### Asthma
+
+Asthma is a chronic inflammatory airway condition characterized by variable respiratory symptoms and narrowing of the airways.
+
+Symptoms can include wheezing, coughing, chest tightness and shortness of breath.
+
+Triggers differ among individuals and may include allergens, respiratory infections, exercise, smoke and air pollution.
+
+### Bronchitis
+
+Bronchitis is inflammation of the bronchi.
+
+It may be acute, often associated with respiratory infections, or chronic, which can be associated with long-term exposure to airway irritants.
+
+### Pneumonia
+
+Pneumonia is an infection or inflammatory condition affecting the lung tissue, particularly the air sacs.
+
+The alveoli may become filled with fluid or inflammatory material, impairing gas exchange.
+
+### Tuberculosis
+
+Tuberculosis is an infectious disease caused by bacteria belonging to the *Mycobacterium tuberculosis* complex.
+
+It most commonly affects the lungs but can involve other organs.
+
+It spreads primarily through the air when a person with infectious pulmonary or laryngeal tuberculosis releases infectious particles.
+
+### Emphysema
+
+Emphysema is a lung condition involving damage to alveolar walls and loss of elastic recoil.
+
+It can reduce the surface area available for gas exchange and make expiration difficult.
+
+It is commonly associated with chronic obstructive pulmonary disease.
+
+### Lung cancer
+
+Lung cancer is the uncontrolled growth of abnormal cells in lung tissue.
+
+Tobacco smoking is a major risk factor. Exposure to certain environmental and occupational carcinogens can also increase risk.
+
+### Prevention and general respiratory health
+
+* Avoid tobacco smoke.
+* Reduce exposure to harmful air pollution when possible.
+* Maintain appropriate ventilation in indoor environments.
+* Follow recommended vaccination guidance.
+* Seek medical evaluation for persistent breathing difficulties or a prolonged cough.
+* Follow professional treatment advice for diagnosed respiratory conditions.
+
+---
+
+# SECTION 2: CELLULAR RESPIRATION
+
+## 2.1 Introduction
+
+Cellular respiration is a series of biochemical reactions through which cells obtain energy from nutrients.
+
+The energy released is transferred partly into ATP, which powers many cellular activities.
+
+There are two broad forms commonly discussed in school biology:
+
+1. Aerobic respiration.
+2. Anaerobic pathways.
+
+Aerobic respiration uses oxygen as the final electron acceptor in the electron transport chain.
+
+In humans, anaerobic energy production during intense activity can involve conversion of pyruvate to lactate when the rate of glycolysis exceeds the capacity for mitochondrial oxidation.
+
+## 2.2 Glycolysis
+
+Glycolysis is the first major stage of glucose breakdown.
+
+It occurs in the cytoplasm and does not directly require oxygen.
+
+One molecule of glucose is converted into two molecules of pyruvate.
+
+The process produces a net gain of two ATP molecules per glucose molecule and also produces NADH.
+
+Glycolysis can occur under both aerobic and anaerobic conditions.
+
+## 2.3 Krebs cycle
+
+The Krebs cycle is also known as the citric acid cycle or tricarboxylic acid cycle.
+
+In eukaryotic cells, it occurs mainly in the mitochondrial matrix.
+
+Acetyl-CoA enters the cycle and undergoes a series of reactions that produce carbon dioxide, reduced electron carriers and a small amount of directly generated energy.
+
+The reduced electron carriers transfer high-energy electrons to the electron transport chain.
+
+## 2.4 Electron transport chain
+
+In eukaryotic cells, the electron transport chain is located in the inner mitochondrial membrane.
+
+Electrons pass through a series of protein complexes and associated carriers.
+
+The released energy helps pump protons across the membrane, establishing an electrochemical gradient.
+
+ATP synthase uses this gradient to produce ATP.
+
+Oxygen acts as the final electron acceptor and combines with electrons and protons to form water.
+
+## 2.5 Aerobic and anaerobic respiration: comparison
+
+| Feature               | Aerobic respiration                      | Anaerobic pathways in human muscle                                        |
+| --------------------- | ---------------------------------------- | ------------------------------------------------------------------------- |
+| Oxygen requirement    | Requires oxygen for the complete pathway | Can proceed without direct oxygen use in glycolysis and lactate formation |
+| Initial stage         | Glycolysis                               | Glycolysis                                                                |
+| Main location         | Cytoplasm and mitochondria               | Cytoplasm                                                                 |
+| End products          | Mainly carbon dioxide and water          | Lactate in human muscle                                                   |
+| ATP yield per glucose | Much higher                              | Low; net two ATP from glycolysis                                          |
+| Energy efficiency     | Higher                                   | Lower                                                                     |
+
+The exact ATP yield from aerobic respiration depends on cellular conditions and how reducing equivalents are transferred into mitochondria.
+
+**Important distinction:** Human muscle cells generally produce lactate during anaerobic glycolysis; they do not normally produce ethanol as a major end product.
+
+---
+
+# SECTION 3: INTRODUCTION TO THE HUMAN CIRCULATORY SYSTEM
+
+## 3.1 Meaning of Circulation
+
+Circulation is the continuous movement of blood through the heart and blood vessels.
+
+The circulatory system transports oxygen, nutrients, hormones and other substances to body tissues. It also carries carbon dioxide and metabolic waste products away from tissues.
+
+The human circulatory system is a closed, double circulatory system.
+
+**Closed circulation:** Blood normally remains within the heart and blood vessels.
+
+**Double circulation:** During one complete circuit, blood passes through the heart twice—once through the pulmonary circuit and once through the systemic circuit.
+
+### Main components
+
+1. Heart
+2. Blood
+3. Blood vessels
+
+### Functions
+
+* Transport of oxygen.
+* Transport of carbon dioxide.
+* Distribution of nutrients.
+* Transport of hormones.
+* Removal of metabolic waste products.
+* Regulation of body temperature.
+* Maintenance of fluid balance.
+* Immune defence.
+* Prevention of excessive blood loss through clotting.
+
+## 3.2 Pulmonary circulation
+
+Pulmonary circulation carries blood between the heart and lungs.
+
+Sequence:
+
+Right ventricle → Pulmonary arteries → Lung capillaries → Pulmonary veins → Left atrium
+
+The right ventricle pumps oxygen-poor blood toward the lungs.
+
+In the pulmonary capillaries, carbon dioxide leaves the blood and oxygen enters it.
+
+Oxygen-rich blood then returns to the left atrium through the pulmonary veins.
+
+**Important fact:** Pulmonary arteries carry oxygen-poor blood in adults, while pulmonary veins carry oxygen-rich blood.
+
+This is a notable exception to the general school-level rule that arteries carry oxygen-rich blood and veins carry oxygen-poor blood.
+
+## 3.3 Systemic circulation
+
+Systemic circulation carries blood between the heart and the rest of the body, excluding the lungs.
+
+Sequence:
+
+Left ventricle → Aorta → Systemic arteries → Tissue capillaries → Systemic veins → Superior and inferior venae cavae → Right atrium
+
+The left ventricle pumps oxygen-rich blood into the aorta.
+
+Arteries distribute blood to tissues. In tissue capillaries, oxygen and nutrients move toward cells, while carbon dioxide and other waste products enter the blood.
+
+Systemic veins return oxygen-poor blood to the right atrium.
+
+## 3.4 Double circulation
+
+Double circulation ensures that blood passing through the lungs for oxygenation returns to the heart before being pumped to the body.
+
+Advantages include:
+
+1. Efficient delivery of oxygen to tissues.
+2. Separation of pulmonary and systemic blood flows.
+3. Maintenance of appropriate pressure in the pulmonary circulation.
+4. Support for the high metabolic requirements of the human body.
+
+### Pulmonary and systemic circulation: comparison
+
+| Feature                 | Pulmonary circulation | Systemic circulation                        |
+| ----------------------- | --------------------- | ------------------------------------------- |
+| Main route              | Heart–lungs–heart     | Heart–body tissues–heart                    |
+| Blood leaving the heart | Oxygen-poor           | Oxygen-rich                                 |
+| Starting chamber        | Right ventricle       | Left ventricle                              |
+| Returning chamber       | Left atrium           | Right atrium                                |
+| Main purpose            | Gas exchange          | Delivery of oxygen and nutrients to tissues |
+
+---
+
+# SECTION 4: HUMAN HEART
+
+## 4.1 Structure of the heart
+
+The human heart is a muscular organ located in the thoracic cavity between the lungs, slightly toward the left side.
+
+It is enclosed in a protective sac called the pericardium.
+
+The heart has four chambers:
+
+1. Right atrium
+2. Right ventricle
+3. Left atrium
+4. Left ventricle
+
+The atria receive blood returning to the heart.
+
+The ventricles pump blood out of the heart.
+
+The right side of the heart receives systemic venous blood and pumps it to the lungs.
+
+The left side receives oxygen-rich blood from the lungs and pumps it to the body.
+
+### Heart wall
+
+The heart wall has three principal layers:
+
+**Epicardium:** The outer layer of the heart wall.
+
+**Myocardium:** The thick muscular layer responsible for contraction.
+
+**Endocardium:** The inner lining of the heart chambers and valves.
+
+The myocardium is particularly thick in the left ventricle because it must generate the pressure needed to supply the systemic circulation.
+
+## 4.2 Valves of the heart
+
+Heart valves help maintain one-way blood flow.
+
+The four principal valves are:
+
+1. Tricuspid valve
+2. Pulmonary valve
+3. Mitral valve
+4. Aortic valve
+
+### Tricuspid valve
+
+Located between the right atrium and right ventricle.
+
+It prevents substantial backflow into the right atrium when the right ventricle contracts.
+
+### Pulmonary valve
+
+Located between the right ventricle and pulmonary artery.
+
+It helps prevent blood from flowing back into the right ventricle after ventricular contraction.
+
+### Mitral valve
+
+Also called the bicuspid valve.
+
+It lies between the left atrium and left ventricle.
+
+It prevents substantial backflow into the left atrium during ventricular contraction.
+
+### Aortic valve
+
+Located between the left ventricle and aorta.
+
+It helps prevent blood from flowing back into the left ventricle after ventricular contraction.
+
+## 4.3 Pathway of blood through the heart
+
+The pathway of blood through the heart is:
+
+1. Blood from the body enters the right atrium through the superior and inferior venae cavae.
+2. Blood passes through the tricuspid valve into the right ventricle.
+3. The right ventricle pumps blood through the pulmonary valve into the pulmonary arteries.
+4. Blood travels to the lungs for gas exchange.
+5. Oxygen-rich blood returns through the pulmonary veins to the left atrium.
+6. Blood passes through the mitral valve into the left ventricle.
+7. The left ventricle pumps blood through the aortic valve into the aorta.
+8. The aorta distributes blood to the systemic circulation.
+
+### Heart chamber summary
+
+| Chamber         | Receives blood from            | Sends blood to     |
+| --------------- | ------------------------------ | ------------------ |
+| Right atrium    | Venae cavae and coronary sinus | Right ventricle    |
+| Right ventricle | Right atrium                   | Pulmonary arteries |
+| Left atrium     | Pulmonary veins                | Left ventricle     |
+| Left ventricle  | Left atrium                    | Aorta              |
+
+## 4.4 Cardiac cycle
+
+The cardiac cycle is the sequence of events occurring during one complete heartbeat.
+
+It includes atrial contraction, ventricular contraction and relaxation.
+
+**Atrial systole:** The atria contract and help move blood into the ventricles.
+
+**Ventricular systole:** The ventricles contract and pump blood into the pulmonary artery and aorta.
+
+**Diastole:** The heart chambers relax and fill with blood.
+
+The coordinated opening and closing of valves maintains the direction of blood flow.
+
+## 4.5 Heart sounds
+
+The normal first heart sound, S1, is mainly associated with closure of the mitral and tricuspid valves at the beginning of ventricular systole.
+
+The second heart sound, S2, is mainly associated with closure of the aortic and pulmonary valves at the end of ventricular systole.
+
+Abnormal sounds, known as murmurs, can occur when blood flow through the heart becomes turbulent. Some murmurs are harmless, while others may indicate a heart condition.
+
+## 4.6 Pacemaker of the heart
+
+The sinoatrial node, or SA node, is the heart's normal primary pacemaker.
+
+It is located in the right atrium.
+
+It generates electrical impulses that normally initiate each heartbeat.
+
+The impulse spreads through the atria and reaches the atrioventricular node.
+
+From there, electrical signals pass through the conduction system, including the bundle of His and Purkinje fibres, coordinating ventricular contraction.
+
+**TNPSC Important Point:** The SA node is commonly called the natural pacemaker of the human heart.
+
+---
+
+# SECTION 5: BLOOD AND ITS COMPONENTS
+
+## 5.1 Introduction to blood
+
+Blood is a specialized connective tissue that circulates through the cardiovascular system.
+
+It consists of a liquid component called plasma and formed elements, which include red blood cells, white blood cells and platelets.
+
+Major functions of blood include:
+
+* Transporting oxygen and carbon dioxide.
+* Transporting nutrients and hormones.
+* Carrying metabolic waste products.
+* Helping regulate body temperature.
+* Maintaining acid–base balance.
+* Supporting immune defence.
+* Participating in clot formation.
+
+## 5.2 Plasma
+
+Plasma is the liquid component of blood.
+
+It consists mostly of water, together with proteins, electrolytes, nutrients, hormones, dissolved gases and waste products.
+
+Important plasma proteins include:
+
+**Albumin:** Helps maintain the osmotic pressure of blood and transports various substances.
+
+**Globulins:** Include proteins involved in immunity and transport.
+
+**Fibrinogen:** A protein that is converted into fibrin during blood clotting.
+
+Plasma also carries nutrients such as glucose, amino acids and lipids in appropriate transport forms.
+
+## 5.3 Red blood cells
+
+Red blood cells are also called erythrocytes.
+
+Their principal function is transporting oxygen through haemoglobin.
+
+Mature human red blood cells normally lack a nucleus and have a biconcave shape.
+
+This shape increases surface area relative to volume and supports gas exchange.
+
+Red blood cells are produced in the red bone marrow under the influence of erythropoietin, a hormone produced mainly by the kidneys in adults.
+
+Their average lifespan is approximately 120 days.
+
+Old or damaged red blood cells are removed mainly by the spleen and liver.
+
+### Haemoglobin
+
+Haemoglobin is an iron-containing protein that binds oxygen reversibly.
+
+Low haemoglobin levels may impair oxygen delivery and can occur in different forms of anaemia.
+
+## 5.4 White blood cells
+
+White blood cells are also called leukocytes.
+
+They are involved in immune defence against pathogens and other foreign substances.
+
+The five major types traditionally identified in a differential blood count are:
+
+1. Neutrophils
+2. Lymphocytes
+3. Monocytes
+4. Eosinophils
+5. Basophils
+
+**Neutrophils:** Important in defence against many bacterial infections.
+
+**Lymphocytes:** Include B cells, T cells and natural killer cells, which have different immune functions.
+
+**Monocytes:** Can develop into macrophages and certain other tissue immune cells.
+
+**Eosinophils:** Participate in defence against certain parasites and are involved in allergic inflammation.
+
+**Basophils:** Release substances such as histamine in certain immune responses.
+
+## 5.5 Platelets
+
+Platelets are small cell fragments derived from megakaryocytes in the bone marrow.
+
+They play an important role in haemostasis, the process that stops bleeding.
+
+When a blood vessel is injured, platelets adhere to the damaged area, become activated and help form a platelet plug.
+
+Clotting proteins then contribute to the formation of a more stable fibrin network.
+
+## 5.6 Comparison of blood components
+
+| Component         | Main function                              |
+| ----------------- | ------------------------------------------ |
+| Plasma            | Transport and maintenance of fluid balance |
+| Red blood cells   | Oxygen transport                           |
+| White blood cells | Immune defence                             |
+| Platelets         | Haemostasis and clot formation             |
+
+---
+
+# SECTION 6: BLOOD GROUPS AND BLOOD PRESSURE
+
+## 6.1 ABO blood group system
+
+The ABO blood group system is based primarily on the presence or absence of A and B antigens on red blood cells.
+
+The main groups are A, B, AB and O.
+
+| Blood group | Red-cell antigens | Naturally occurring plasma antibodies |
+| ----------- | ----------------- | ------------------------------------- |
+| A           | A                 | Anti-B                                |
+| B           | B                 | Anti-A                                |
+| AB          | A and B           | Usually neither anti-A nor anti-B     |
+| O           | Neither A nor B   | Anti-A and anti-B                     |
+
+Blood compatibility is important during transfusion.
+
+The table is a simplified description of the ABO system. Real transfusion decisions also consider Rh status and other blood group antigens, and require appropriate laboratory testing.
+
+## 6.2 Rh blood group system
+
+The Rh system includes several antigens. The D antigen is especially important in routine blood grouping.
+
+People whose red blood cells express the D antigen are usually described as Rh-positive.
+
+Those whose red blood cells do not express the D antigen are usually described as Rh-negative.
+
+Rh incompatibility can be medically important during pregnancy and transfusion.
+
+Appropriate antenatal screening and preventive medical care can greatly reduce the risk of Rh-related complications.
+
+## 6.3 Blood pressure
+
+Blood pressure is the force exerted by circulating blood against the walls of blood vessels.
+
+It is commonly measured using two values.
+
+**Systolic pressure:** Arterial pressure during ventricular contraction.
+
+**Diastolic pressure:** Arterial pressure during ventricular relaxation.
+
+Blood pressure is commonly expressed in millimetres of mercury, written as mmHg.
+
+Blood pressure varies with age, activity, stress, health and other factors. Persistent abnormal readings should be assessed by a qualified healthcare professional.
+
+## 6.4 Pulse
+
+The pulse is the rhythmic expansion of an artery associated with the pressure wave produced by each heartbeat.
+
+Common pulse measurement sites include the wrist and neck.
+
+Pulse rate often increases during exercise because the body requires greater blood flow.
+
+## 6.5 Blood clotting
+
+Blood clotting helps prevent excessive blood loss after vascular injury.
+
+Major stages include:
+
+1. Blood vessel constriction.
+2. Platelet adhesion and activation.
+3. Formation of a platelet plug.
+4. Activation of the coagulation system.
+5. Conversion of fibrinogen into fibrin.
+6. Formation of a more stable clot.
+
+Calcium ions and vitamin K-dependent clotting factors participate in normal coagulation.
+
+**TNPSC Important Point:** Platelets and clotting proteins are both important for haemostasis.
+
+---
+
+# SECTION 7: BLOOD VESSELS AND CIRCULATION
+
+## 7.1 Arteries
+
+Arteries carry blood away from the heart.
+
+They generally have thick, elastic and muscular walls because they must withstand the pressure generated by ventricular contraction.
+
+Most systemic arteries carry oxygen-rich blood.
+
+The pulmonary arteries are an important exception because they carry oxygen-poor blood from the right ventricle to the lungs.
+
+## 7.2 Veins
+
+Veins carry blood toward the heart.
+
+Many veins contain valves that help prevent backward flow, particularly in the limbs.
+
+Most systemic veins carry oxygen-poor blood.
+
+The pulmonary veins are an important exception because they carry oxygen-rich blood from the lungs to the left atrium.
+
+## 7.3 Capillaries
+
+Capillaries are microscopic blood vessels with very thin walls.
+
+They connect the arterial and venous sides of the circulation through networks of small vessels.
+
+Their thin walls permit exchange of gases, nutrients, water and waste products between blood and surrounding tissues.
+
+## 7.4 Comparison of arteries, veins and capillaries
+
+| Feature       | Arteries                             | Veins                 | Capillaries                      |
+| ------------- | ------------------------------------ | --------------------- | -------------------------------- |
+| Direction     | Away from heart                      | Toward heart          | Connect small arteries and veins |
+| Wall          | Thick and elastic                    | Generally thinner     | Very thin                        |
+| Pressure      | Relatively high                      | Relatively low        | Low                              |
+| Valves        | Generally absent along most arteries | Present in many veins | Absent                           |
+| Main function | Distribution of blood                | Return of blood       | Exchange of substances           |
+
+---
+
+# SECTION 8: HUMAN EXCRETORY SYSTEM
+
+## 8.1 Meaning of excretion
+
+Excretion is the removal of metabolic waste products from the body.
+
+Metabolism produces waste substances that must be eliminated to maintain a stable internal environment.
+
+Examples include:
+
+* Urea.
+* Excess water.
+* Excess salts.
+* Carbon dioxide.
+* Certain metabolic breakdown products.
+
+Excretion is different from egestion.
+
+Egestion removes undigested food from the digestive tract.
+
+Excretion removes substances produced by metabolism or present in excess within the body.
+
+## 8.2 Organs involved in excretion
+
+Several organs contribute to excretion.
+
+**Kidneys:** Remove nitrogenous waste and regulate water, electrolytes and acid–base balance.
+
+**Lungs:** Remove carbon dioxide and water vapour.
+
+**Skin:** Sweat glands remove water, salts and small quantities of certain waste substances.
+
+**Liver:** Processes substances, converts ammonia to urea and helps eliminate certain compounds through bile.
+
+The kidneys are the principal organs of the urinary system.
+
+## 8.3 Human urinary system
+
+The main organs of the urinary system are:
+
+1. Two kidneys
+2. Two ureters
+3. Urinary bladder
+4. Urethra
+
+### Kidneys
+
+The kidneys are bean-shaped organs located toward the back of the abdominal cavity, one on each side of the vertebral column.
+
+They filter blood and produce urine.
+
+### Ureters
+
+The ureters are muscular tubes that transport urine from the kidneys to the urinary bladder through peristaltic movements.
+
+### Urinary bladder
+
+The urinary bladder temporarily stores urine before it is expelled.
+
+Its muscular wall expands as urine accumulates.
+
+### Urethra
+
+The urethra carries urine from the bladder to the exterior.
+
+Its length and anatomical relationships differ between males and females.
+
+---
+
+# SECTION 9: STRUCTURE AND FUNCTIONS OF THE KIDNEY
+
+## 9.1 Gross structure of the kidney
+
+Each kidney has an outer cortex and an inner medulla.
+
+The renal cortex contains structures such as renal corpuscles and parts of the renal tubules.
+
+The renal medulla contains loops of Henle and collecting ducts arranged within renal pyramids.
+
+Urine flows from collecting ducts into the renal papillae and then into the minor and major calyces, renal pelvis and ureter.
+
+## 9.2 Functions of the kidneys
+
+1. Remove urea and other nitrogenous waste products.
+2. Regulate body water.
+3. Regulate electrolyte concentrations.
+4. Help maintain blood pH.
+5. Participate in blood pressure regulation.
+6. Produce erythropoietin.
+7. Activate vitamin D into a form important for calcium regulation.
+8. Maintain the composition of extracellular fluid.
+
+## 9.3 Nephron
+
+The nephron is the structural and functional unit of the kidney.
+
+Each kidney contains a very large number of nephrons.
+
+A nephron includes:
+
+* Renal corpuscle.
+* Proximal convoluted tubule.
+* Loop of Henle.
+* Distal convoluted tubule.
+* Connection to the collecting system.
+
+### Renal corpuscle
+
+The renal corpuscle consists of the glomerulus and Bowman's capsule.
+
+The glomerulus is a network of capillaries where filtration begins.
+
+Bowman's capsule surrounds the glomerulus and collects the filtrate.
+
+### Proximal convoluted tubule
+
+The proximal convoluted tubule reabsorbs a large proportion of filtered water and sodium.
+
+It also reabsorbs most filtered glucose and amino acids under normal conditions.
+
+### Loop of Henle
+
+The loop of Henle contributes to the concentration gradient in the renal medulla.
+
+This gradient helps the kidney conserve water when necessary.
+
+### Distal convoluted tubule
+
+The distal convoluted tubule participates in regulating electrolyte balance and acid–base status.
+
+Its functions are influenced by hormones and the body's physiological requirements.
+
+### Collecting duct
+
+The collecting duct receives fluid from multiple nephrons.
+
+Its water permeability can change in response to antidiuretic hormone, allowing the kidneys to conserve water and produce more concentrated urine.
+
+---
+
+# SECTION 10: URINE FORMATION AND KIDNEY HEALTH
+
+## 10.1 Glomerular filtration
+
+Glomerular filtration is the movement of water and small dissolved substances from the glomerular blood into Bowman's capsule.
+
+Blood cells and most large plasma proteins are normally retained in the bloodstream.
+
+The filtrate contains water and small molecules, including electrolytes, glucose, amino acids and nitrogenous waste products.
+
+## 10.2 Selective reabsorption
+
+Selective reabsorption returns useful substances from the renal tubules to the blood.
+
+These substances include:
+
+* Glucose.
+* Amino acids.
+* Water.
+* Sodium and other electrolytes.
+* Bicarbonate.
+
+Under normal conditions, almost all filtered glucose is reabsorbed before urine leaves the kidneys.
+
+## 10.3 Tubular secretion
+
+Tubular secretion transfers selected substances from the blood into the renal tubules.
+
+It contributes to:
+
+* Removal of certain drugs and metabolites.
+* Regulation of potassium.
+* Regulation of acid–base balance.
+* Control of selected ions.
+
+## 10.4 Concentration of urine
+
+The kidneys adjust urine concentration according to the body's water needs.
+
+Antidiuretic hormone, also known as ADH or vasopressin, increases water reabsorption in appropriate parts of the collecting system.
+
+When water conservation is necessary, the kidneys can produce more concentrated urine.
+
+When excess water is available, urine can become more dilute.
+
+## 10.5 Composition of normal urine
+
+Normal urine consists mainly of water and contains dissolved substances such as urea, electrolytes and other waste products.
+
+Its composition varies with diet, hydration, metabolism and health.
+
+Glucose and substantial amounts of protein are not normally present in urine in significant quantities.
+
+Their presence may require medical evaluation.
+
+## 10.6 Dialysis
+
+Dialysis is a medical treatment that helps remove waste products and excess fluid from the blood when kidney function is severely impaired.
+
+Two main forms are:
+
+**Haemodialysis:** Blood is passed through a dialyser, where waste products and excess fluid are removed before the blood is returned to the body.
+
+**Peritoneal dialysis:** The peritoneal membrane inside the abdomen acts as a filtering surface. Dialysis fluid is introduced into the abdominal cavity and later drained.
+
+Dialysis can replace some kidney functions but does not fully reproduce every hormonal and metabolic function of healthy kidneys.
+
+## 10.7 Common urinary and kidney disorders
+
+**Kidney stones:** Hard deposits of minerals and salts that form in the urinary system.
+
+**Urinary tract infection:** An infection affecting part of the urinary system.
+
+**Glomerulonephritis:** Inflammation affecting the glomeruli.
+
+**Chronic kidney disease:** Long-term reduction in kidney function or evidence of kidney damage.
+
+**Kidney failure:** A severe condition in which kidney function is insufficient to meet the body's needs.
+
+**General kidney health measures:**
+
+* Maintain appropriate hydration.
+* Manage chronic health conditions with professional guidance.
+* Avoid unnecessary use of medicines that may damage the kidneys.
+* Seek medical assessment for persistent urinary symptoms.
+* Follow professional advice regarding kidney disease.
+
+---
+
+# FINAL REVISION: PART 6
+
+## Important One-Line Facts
+
+1. The principal muscle of quiet inspiration is the diaphragm.
+2. The trachea is supported by C-shaped cartilage rings.
+3. Alveoli are the main sites of gas exchange in the lungs.
+4. Oxygen is transported mainly bound to haemoglobin.
+5. Most carbon dioxide is transported as bicarbonate ions.
+6. The medulla oblongata is involved in respiratory rhythm regulation.
+7. Aerobic respiration involves the use of oxygen as the final electron acceptor.
+8. Glycolysis occurs in the cytoplasm.
+9. The Krebs cycle occurs mainly in the mitochondrial matrix in eukaryotic cells.
+10. The electron transport chain is located in the inner mitochondrial membrane.
+11. The human circulatory system is closed and double.
+12. The heart contains four chambers.
+13. The SA node is the normal primary pacemaker of the heart.
+14. The left ventricle pumps blood into the aorta.
+15. The pulmonary artery carries oxygen-poor blood from the heart to the lungs.
+16. The pulmonary veins carry oxygen-rich blood from the lungs to the heart.
+17. Red blood cells transport oxygen through haemoglobin.
+18. White blood cells participate in immune defence.
+19. Platelets help in blood clotting.
+20. Plasma is the liquid component of blood.
+21. Arteries carry blood away from the heart.
+22. Veins carry blood toward the heart.
+23. Capillaries are major sites of exchange between blood and tissues.
+24. The kidneys are the principal organs of the urinary system.
+25. The nephron is the structural and functional unit of the kidney.
+26. The glomerulus is the principal site of initial blood filtration in a nephron.
+27. The proximal convoluted tubule reabsorbs a large proportion of filtered nutrients and water.
+28. ADH promotes water conservation by the kidneys.
+29. The kidneys produce erythropoietin.
+30. Dialysis helps remove waste products and excess fluid when kidney function is severely impaired.
+
+---
+
+## Important Comparison Questions
+
+### Breathing vs Cellular Respiration
+
+| Breathing                                  | Cellular respiration                              |
+| ------------------------------------------ | ------------------------------------------------- |
+| Physical movement of air                   | Biochemical energy-producing process              |
+| Occurs through respiratory organs          | Occurs through cellular biochemical pathways      |
+| Supplies oxygen and removes carbon dioxide | Transfers energy from nutrients into usable forms |
+| Does not itself describe ATP production    | Produces ATP                                      |
+
+### Pulmonary vs Systemic Circulation
+
+| Pulmonary circulation     | Systemic circulation           |
+| ------------------------- | ------------------------------ |
+| Heart to lungs and back   | Heart to body tissues and back |
+| Starts at right ventricle | Starts at left ventricle       |
+| Returns to left atrium    | Returns to right atrium        |
+| Supports gas exchange     | Supplies body tissues          |
+
+### Arteries vs Veins
+
+| Arteries                                    | Veins                        |
+| ------------------------------------------- | ---------------------------- |
+| Carry blood away from heart                 | Carry blood toward heart     |
+| Generally thicker walls                     | Generally thinner walls      |
+| Higher pressure                             | Lower pressure               |
+| Valves generally absent along most arteries | Valves present in many veins |
+
+### Filtration vs Reabsorption vs Secretion
+
+| Process      | Meaning                                                                         |
+| ------------ | ------------------------------------------------------------------------------- |
+| Filtration   | Movement of water and small solutes from glomerular blood into Bowman's capsule |
+| Reabsorption | Return of useful substances from renal tubules to blood                         |
+| Secretion    | Movement of selected substances from blood into renal tubules                   |
+
+---

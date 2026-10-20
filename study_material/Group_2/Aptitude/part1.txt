@@ -1,0 +1,1042 @@
+
+==================================================
+TOPIC 1: SIMPLIFICATION (எளிமைப்படுத்துதல்)
+==================================================
+
+A. WHAT TO STUDY
+- BODMAS rule and the order of brackets
+- Fractions and decimals (operations, comparison)
+- Squares, cubes, square roots and cube roots
+- Algebraic identities for fast calculation
+- Indices (powers) and surds
+- Recurring decimals and approximation
+- Missing number (?) problems
+
+B. RULES AND FORMULAS
+1. BODMAS: Brackets, Of, Division, Multiplication, Addition, Subtraction. 
+   Order of brackets: vinculum (bar) first, then ( ), then { }, then [ ].
+   "Of" means multiplication and it is done before division. D and M are done left to right; A and S are done left to right.
+2. Identities: 
+   (a + b)^2 = a^2 + 2ab + b^2; (a - b)^2 = a^2 - 2ab + b^2; a^2 - b^2 = (a + b)(a - b);
+   (a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3; a^3 + b^3 = (a + b)(a^2 - ab + b^2); a^3 - b^3 = (a - b)(a^2 + ab + b^2).
+3. Indices: a^m x a^n = a^(m + n); a^m / a^n = a^(m - n); (a^m)^n = a^(mn); a^0 = 1; a^(-n) = 1 / a^n; (ab)^n = a^n b^n.
+4. Surds: sqrt(a) x sqrt(b) = sqrt(ab); (sqrt(a) + sqrt(b))(sqrt(a) - sqrt(b)) = a - b. To rationalise 1/(sqrt(a) - sqrt(b)), multiply the numerator and the denominator by (sqrt(a) + sqrt(b)).
+5. Recurring decimals: 0.aaa... = a/9; 0.ababab... = ab/99; 0.a bbb... = (ab - a)/90.
+6. Squares: 11^2 = 121, 12^2 = 144, 13^2 = 169, 14^2 = 196, 15^2 = 225, 16^2 = 256, 17^2 = 289, 18^2 = 324, 19^2 = 361, 20^2 = 400, 21^2 = 441, 22^2 = 484, 23^2 = 529, 24^2 = 576, 25^2 = 625.
+   Cubes: 2^3 = 8, 3^3 = 27, 4^3 = 64, 5^3 = 125, 6^3 = 216, 7^3 = 343, 8^3 = 512, 9^3 = 729, 10^3 = 1000, 11^3 = 1331, 12^3 = 1728, 13^3 = 2197, 14^3 = 2744, 15^3 = 3375.
+7. Fraction to decimal: 1/2 = 0.5, 1/4 = 0.25, 1/5 = 0.2, 1/8 = 0.125, 1/3 = 0.333..., 1/6 = 0.1666..., 1/9 = 0.111..., 1/11 = 0.0909...
+8. Divisibility: by 3 (sum of digits divisible by 3), by 4 (last two digits), by 6 (by 2 and 3), by 8 (last three digits), by 9 (sum of digits divisible by 9), by 11 (difference of sums of alternate digits is 0 or a multiple of 11).
+
+C. TYPES AND SOLVED EXAMPLES
+
+TYPE 1: BODMAS EXPRESSIONS
+1) Simplify: 18 + 6 x 4 - 10 / 2.
+   Multiplication and division first: 6 x 4 = 24; 10 / 2 = 5. Then 18 + 24 - 5 = 37. Answer: 37.
+2) Simplify: 120 / 4 x 3 + 15 - 5 x 2.
+   120 / 4 = 30; 30 x 3 = 90; 5 x 2 = 10. Then 90 + 15 - 10 = 95. Answer: 95.
+3) Simplify: 25 - [4 + {8 - (6 - 2)}].
+   Innermost bracket: 6 - 2 = 4; then 8 - 4 = 4; then 4 + 4 = 8; then 25 - 8 = 17. Answer: 17.
+4) Simplify: 36 / 9 of 2 + 7 x 3.
+   "9 of 2" = 18 first; 36 / 18 = 2; 7 x 3 = 21; total 2 + 21 = 23. Answer: 23.
+5) Simplify: (15 + 5) x 3 - 48 / (2 + 4).
+   20 x 3 = 60; 48 / 6 = 8; 60 - 8 = 52. Answer: 52.
+
+TYPE 2: FRACTIONS AND DECIMALS
+1) Simplify: 3/4 + 5/6 - 2/3.
+   LCM of 4, 6, 3 = 12. So 9/12 + 10/12 - 8/12 = 11/12. Answer: 11/12.
+2) Find the value of (2/3 of 450) + (3/5 of 250).
+   2/3 x 450 = 300; 3/5 x 250 = 150; total = 450. Answer: 450.
+3) Simplify: 0.8 x 0.25 + 1.5 / 0.3.
+   0.8 x 0.25 = 0.2; 1.5 / 0.3 = 5; total = 5.2. Answer: 5.2.
+4) Simplify: (7/8 / 21/32) x 3/4.
+   7/8 x 32/21 = 224/168 = 4/3; then 4/3 x 3/4 = 1. Answer: 1.
+5) Simplify: 4.5 + 3.25 - 1.875.
+   4.5 + 3.25 = 7.75; 7.75 - 1.875 = 5.875. Answer: 5.875.
+
+TYPE 3: SQUARES, CUBES, ROOTS AND IDENTITIES
+1) Find 99^2.
+   (100 - 1)^2 = 10000 - 200 + 1 = 9801. Answer: 9801.
+2) Find 103 x 97.
+   (100 + 3)(100 - 3) = 10000 - 9 = 9991. Answer: 9991.
+3) Find sqrt(1764).
+   42 x 42 = 1764 (since 40^2 = 1600 and 42^2 = 1764). Answer: 42.
+4) Find the cube root of 2744.
+   14^3 = 2744. Answer: 14.
+5) Evaluate 45^2 - 35^2.
+   (45 + 35)(45 - 35) = 80 x 10 = 800. Answer: 800.
+
+TYPE 4: INDICES AND SURDS
+1) Simplify: 2^5 x 2^3 / 2^6.
+   2^(5 + 3 - 6) = 2^2 = 4. Answer: 4.
+2) Simplify: (3^4 x 3^(-2)) / 3^1.
+   3^(4 - 2 - 1) = 3^1 = 3. Answer: 3.
+3) Simplify: (sqrt(5) + sqrt(3))(sqrt(5) - sqrt(3)).
+   5 - 3 = 2. Answer: 2.
+4) Rationalise 1 / (sqrt(3) - sqrt(2)).
+   Multiply by (sqrt(3) + sqrt(2)): (sqrt(3) + sqrt(2)) / (3 - 2) = sqrt(3) + sqrt(2). Answer: sqrt(3) + sqrt(2).
+5) Simplify: sqrt(50) + sqrt(18) - sqrt(8).
+   sqrt(50) = 5 sqrt(2); sqrt(18) = 3 sqrt(2); sqrt(8) = 2 sqrt(2). Total = (5 + 3 - 2) sqrt(2) = 6 sqrt(2). Answer: 6 sqrt(2).
+
+TYPE 5: RECURRING DECIMALS, APPROXIMATION AND MISSING NUMBERS
+1) Express 0.444... as a fraction.
+   0.4 recurring = 4/9. Answer: 4/9.
+2) Express 0.272727... as a fraction.
+   27/99 = 3/11. Answer: 3/11.
+3) Express 0.1666... (0.1 followed by recurring 6) as a fraction.
+   (16 - 1)/90 = 15/90 = 1/6. Answer: 1/6.
+4) Approximate: 49.98 x 20.01.
+   About 50 x 20 = 1000. Answer: about 1000.
+5) Find ?: ? + 35% of 480 = 200.
+   35% of 480 = 168. So ? = 200 - 168 = 32. Answer: 32.
+
+==================================================
+TOPIC 2: PERCENTAGE (சதவீதம்)
+==================================================
+
+A. WHAT TO STUDY
+- Meaning, conversion of fractions, decimals and percentages
+- Percentage increase and decrease; successive changes
+- Price and consumption relation
+- Population growth and depreciation
+- Marks, votes, salary and savings problems
+- Area and volume changes (percentage change in sides)
+
+B. RULES AND FORMULAS
+1. x% = x / 100. To find x% of N: (x / 100) x N.
+2. Percentage change = (Change / Original value) x 100.
+3. Fraction-percentage table: 1/2 = 50%; 1/3 = 33 1/3%; 1/4 = 25%; 1/5 = 20%; 1/6 = 16 2/3%; 1/7 = 14 2/7%; 1/8 = 12.5%; 1/9 = 11 1/9%; 1/10 = 10%; 1/11 = 9 1/11%; 1/12 = 8 1/3%; 1/15 = 6 2/3%; 1/16 = 6.25%; 1/20 = 5%.
+4. If A is x% more than B, then B is less than A by [x / (100 + x)] x 100 %. If A is x% less than B, then B is more than A by [x / (100 - x)] x 100 %.
+5. Successive changes of a% and b%: Net change = a + b + (ab / 100) % (use signs: + for increase and - for decrease).
+6. If a quantity increases by x% and then decreases by x%, the net change is a decrease of x^2 / 100 %.
+7. If the price of a commodity increases by r%, the consumption must decrease by [r / (100 + r)] x 100 % to keep the expenditure the same. If the price decreases by r%, the consumption must increase by [r / (100 - r)] x 100 %.
+8. Population: P x (1 + r/100)^n (growth); P x (1 - r/100)^n (decline or depreciation).
+9. If the side of a square increases by x%, area increases by (2x + x^2/100) %. For length and breadth changing by a% and b%, the area changes by (a + b + ab/100) %.
+10. Passing marks = Pass% x Total marks. Marks obtained + shortfall = passing marks.
+11. In an election between two candidates, Winner% - Loser% = (Majority / Total valid votes) x 100.
+
+C. TYPES AND SOLVED EXAMPLES
+
+TYPE 1: BASIC PERCENTAGE
+1) Find 20% of 350.
+   (20/100) x 350 = 70. Answer: 70.
+2) What percent of 250 is 75?
+   (75/250) x 100 = 30%. Answer: 30%.
+3) 15 is what percent of 60?
+   (15/60) x 100 = 25%. Answer: 25%.
+4) 40% of a number is 84. Find the number.
+   Number = 84 x 100/40 = 210. Answer: 210.
+5) Convert 5/8 into a percentage.
+   5/8 = 0.625 = 62.5%. Answer: 62.5%.
+
+TYPE 2: PERCENTAGE INCREASE AND DECREASE
+1) The price of a book rises from Rs 80 to Rs 100. Find the percentage increase.
+   Increase = 20; (20/80) x 100 = 25%. Answer: 25%.
+2) A salary of Rs 25,000 is increased by 12%. Find the new salary.
+   12% of 25,000 = 3,000. New salary = 28,000. Answer: Rs 28,000.
+3) A quantity decreases from 500 to 425. Find the percentage decrease.
+   Decrease = 75; (75/500) x 100 = 15%. Answer: 15%.
+4) The price of sugar rises by 25%. By what percentage must a family reduce its consumption so that the expenditure remains the same?
+   [25 / (100 + 25)] x 100 = 20%. Answer: 20%.
+5) A is 20% more than B. By what percentage is B less than A?
+   [20 / 120] x 100 = 16 2/3%. Answer: 16 2/3%.
+
+TYPE 3: SUCCESSIVE CHANGES AND AREA CHANGES
+1) A quantity is increased by 10% and then by 20%. Find the net increase.
+   10 + 20 + (10 x 20)/100 = 32%. Answer: 32% increase.
+2) A number is increased by 20% and then decreased by 20%. Find the net change.
+   Net change = 20 - 20 - (20 x 20)/100 = -4%. Answer: 4% decrease. (Check: 1.2 x 0.8 = 0.96.)
+3) The side of a square is increased by 10%. Find the percentage increase in its area.
+   (1.1)^2 = 1.21, so the increase is 21%. Answer: 21%.
+4) The length of a rectangle is increased by 20% and its breadth is decreased by 10%. Find the change in area.
+   1.2 x 0.9 = 1.08, so the area increases by 8%. Answer: 8% increase.
+5) The radius of a circle is increased by 50%. Find the increase in area.
+   (1.5)^2 = 2.25, so the area increases by 125%. Answer: 125%.
+
+TYPE 4: POPULATION AND DEPRECIATION
+1) The population of a town is 20,000 and it grows at 10% per year. Find the population after 2 years.
+   20,000 x (1.1)^2 = 20,000 x 1.21 = 24,200. Answer: 24,200.
+2) A machine costing Rs 50,000 depreciates at 10% per year. Find its value after 2 years.
+   50,000 x (0.9)^2 = 50,000 x 0.81 = 40,500. Answer: Rs 40,500.
+3) The population of a town after 2 years is 44,100, and it grows at 5% per year. Find the present population.
+   P x (1.05)^2 = 44,100; P = 44,100 / 1.1025 = 40,000. Answer: 40,000.
+4) A car costing Rs 4,00,000 depreciates by 15% in the first year and by 10% in the second year. Find its value after 2 years.
+   4,00,000 x 0.85 x 0.90 = 4,00,000 x 0.765 = 3,06,000. Answer: Rs 3,06,000.
+5) The population of a village is 1,00,000. It increases by 10% in the first year and decreases by 10% in the second year. Find the population after 2 years.
+   1,00,000 x 1.1 x 0.9 = 99,000. Answer: 99,000.
+
+TYPE 5: MARKS, VOTES, SALARY AND SAVINGS
+1) A student needs 40% to pass. He gets 180 marks and fails by 20 marks. Find the total marks.
+   Pass marks = 180 + 20 = 200 = 40% of total. Total = 500. Answer: 500.
+2) In an election between two candidates, the winner got 55% of the votes and won by 2,000 votes. Find the total number of votes.
+   Winner - loser = 55% - 45% = 10% of total = 2,000. Total = 20,000. Answer: 20,000.
+3) A man spends 75% of his income and saves Rs 5,000. Find his income.
+   Saving = 25% of income = 5,000. Income = 20,000. Answer: Rs 20,000.
+4) A student scores 72 out of 90, 85 out of 100 and 43 out of 50 in three subjects. Find his overall percentage.
+   Total marks obtained = 72 + 85 + 43 = 200; maximum = 240; (200/240) x 100 = 83 1/3%. Answer: 83 1/3%.
+5) 12% of a number is 60 more than 8% of it. Find the number.
+   (12 - 8)% = 4% of the number = 60. Number = 1,500. Answer: 1,500.
+
+==================================================
+TOPIC 3: RATIO AND PROPORTION (விகிதம் மற்றும் விகிதாசாரம்)
+==================================================
+
+A. WHAT TO STUDY
+- Ratio: meaning, simplification, comparison
+- Types of ratio: compound, duplicate, triplicate, sub-duplicate, inverse
+- Proportion: fourth, third and mean proportional
+- Dividing a quantity in a given ratio
+- Direct and inverse proportion
+- Change in ratio, age problems, mixtures (alligation basics), partnership
+
+B. RULES AND FORMULAS
+1. Ratio a : b = a / b (b is not zero). Both terms must be in the same unit. Multiplying or dividing both terms by the same non-zero number does not change the ratio.
+2. Compound ratio of a : b, c : d, e : f = ace : bdf.
+3. Duplicate ratio of a : b = a^2 : b^2; triplicate = a^3 : b^3; sub-duplicate = sqrt(a) : sqrt(b); inverse (reciprocal) = b : a.
+4. Proportion: a : b = c : d (written a : b :: c : d). Then ad = bc (product of extremes = product of means).
+   Fourth proportional to a, b, c is bc / a. Third proportional to a, b is b^2 / a. Mean proportional between a and b is sqrt(ab).
+5. If a : b = x : y and b : c = m : n, then a : b : c = xm : ym : yn.
+6. To divide a quantity N in the ratio a : b : c: the shares are [a / (a + b + c)] N, [b / (a + b + c)] N and [c / (a + b + c)] N.
+7. Direct proportion: if one quantity increases, the other increases in the same ratio (cost and number of articles). Inverse proportion: if one increases, the other decreases (men and days).
+8. Componendo and dividendo: if a/b = c/d, then (a + b)/(a - b) = (c + d)/(c - d).
+9. Ratio of ages: use the common multiplier x. After n years, add n to each age (the difference between ages never changes).
+10. Alligation: ratio of quantities of the cheaper and dearer items = (Dearer price - Mean price) : (Mean price - Cheaper price).
+
+C. TYPES AND SOLVED EXAMPLES
+
+TYPE 1: SIMPLIFICATION AND COMPARISON OF RATIOS
+1) Simplify the ratio 48 : 72.
+   HCF = 24; 48/24 : 72/24 = 2 : 3. Answer: 2 : 3.
+2) Find the ratio 1/2 : 2/3.
+   Multiply both by 6: 3 : 4. Answer: 3 : 4.
+3) Which is greater, 3 : 4 or 5 : 6?
+   3/4 = 18/24 and 5/6 = 20/24, so 5 : 6 is greater. Answer: 5 : 6.
+4) Find the ratio of 2.5 kg to 750 g.
+   2.5 kg = 2,500 g; 2,500 : 750 = 10 : 3. Answer: 10 : 3.
+5) If x : y = 3 : 5 and y : z = 10 : 7, find x : y : z.
+   Make y equal: x : y = 6 : 10; y : z = 10 : 7. So x : y : z = 6 : 10 : 7. Answer: 6 : 10 : 7.
+
+TYPE 2: DIVIDING A QUANTITY IN A GIVEN RATIO
+1) Divide Rs 1,200 in the ratio 3 : 5.
+   Total parts = 8; one part = 150. Shares: 450 and 750. Answer: Rs 450 and Rs 750.
+2) Divide Rs 5,400 among A, B and C in the ratio 2 : 3 : 4.
+   Total parts = 9; one part = 600. Shares: 1,200; 1,800; 2,400. Answer: 1,200; 1,800; 2,400.
+3) A : B = 2 : 3 and B : C = 4 : 5. Divide Rs 4,200 among A, B and C.
+   A : B : C = 8 : 12 : 15 (make B equal to 12). Total = 35 parts; one part = 120. Shares: 960; 1,440; 1,800. Answer: Rs 960, Rs 1,440, Rs 1,800.
+4) Two numbers are in the ratio 5 : 7 and their sum is 144. Find the numbers.
+   12 parts = 144; one part = 12. Numbers: 60 and 84. Answer: 60 and 84.
+5) Rs 4,500 is divided between A and B in the ratio 1/2 : 1/3. Find each share.
+   1/2 : 1/3 = 3 : 2. Total parts = 5; one part = 900. Shares: 2,700 and 1,800. Answer: Rs 2,700 and Rs 1,800.
+
+TYPE 3: CHANGE IN RATIO AND FINDING NUMBERS
+1) Two numbers are in the ratio 3 : 4. If 6 is added to each, the ratio becomes 4 : 5. Find the numbers.
+   (3x + 6)/(4x + 6) = 4/5; 15x + 30 = 16x + 24; x = 6. Numbers: 18 and 24. Answer: 18 and 24.
+2) The ratio of boys to girls in a school is 5 : 3 and there are 640 students in all. Find the number of boys.
+   8 parts = 640; one part = 80. Boys = 5 x 80 = 400. Answer: 400.
+3) Two numbers are in the ratio 7 : 11. If 7 is added to each, the ratio becomes 2 : 3. Find the numbers.
+   (7x + 7)/(11x + 7) = 2/3; 21x + 21 = 22x + 14; x = 7. Numbers: 49 and 77. Answer: 49 and 77.
+4) A mixture of 14 litres contains milk and water in the ratio 5 : 2. How much water should be added to make the ratio 5 : 3?
+   Milk = 10 L, water = 4 L. For ratio 5 : 3 with milk 10 L, water must be 6 L. Add 6 - 4 = 2 L. Answer: 2 litres.
+5) An alloy weighing 100 kg contains copper and zinc in the ratio 13 : 7. Find the weight of zinc.
+   Zinc = (7/20) x 100 = 35 kg. Answer: 35 kg.
+
+TYPE 4: PROPORTION
+1) Find the fourth proportional to 4, 6, 8.
+   (6 x 8) / 4 = 12. Answer: 12.
+2) Find the third proportional to 9 and 12.
+   12^2 / 9 = 144/9 = 16. Answer: 16.
+3) Find the mean proportional between 4 and 25.
+   sqrt(4 x 25) = sqrt(100) = 10. Answer: 10.
+4) If 8 pens cost Rs 120, find the cost of 15 pens (direct proportion).
+   Cost of one pen = 15; 15 pens = Rs 225. Answer: Rs 225.
+5) 6 men can do a piece of work in 12 days. In how many days can 9 men do it (inverse proportion)?
+   Total work = 6 x 12 = 72 man-days; 72 / 9 = 8 days. Answer: 8 days.
+
+TYPE 5: AGES AND COMPOUND RATIO
+1) The ratio of the present ages of a father and his son is 5 : 3. The sum of their ages is 64. Find their ages.
+   8 parts = 64; one part = 8. Father = 40; son = 24. Answer: 40 years and 24 years.
+2) The ages of A and B are in the ratio 3 : 5. After 4 years the ratio will be 7 : 11. Find their present ages.
+   (3x + 4)/(5x + 4) = 7/11; 33x + 44 = 35x + 28; x = 8. Ages: 24 and 40. Answer: 24 and 40.
+3) Find the compound ratio of 2 : 3, 4 : 5 and 6 : 7.
+   (2 x 4 x 6) : (3 x 5 x 7) = 48 : 105 = 16 : 35. Answer: 16 : 35.
+4) Find the duplicate ratio of 3 : 4 and the sub-duplicate ratio of 16 : 25.
+   Duplicate = 9 : 16; sub-duplicate = 4 : 5. Answer: 9 : 16 and 4 : 5.
+5) A father's age is three times his son's age. After 10 years, the father's age will be twice the son's age. Find the father's present age.
+   Let the son be x; father 3x. 3x + 10 = 2(x + 10); x = 10. Father = 30. Answer: 30 years.
+
+==================================================
+TOPIC 4: HCF AND LCM (மீ.பெ.வ. மற்றும் மீ.சி.ம.)
+==================================================
+
+A. WHAT TO STUDY
+- Factors, multiples, prime and co-prime numbers
+- HCF (Highest Common Factor, also called GCD) and LCM (Lowest Common Multiple)
+- Methods: prime factorisation and long division
+- The relation HCF x LCM = product of two numbers
+- HCF and LCM of fractions
+- Word problems: tiles, ropes, grouping (HCF) and bells, traffic lights, race tracks (LCM)
+- Remainder problems
+
+B. RULES AND FORMULAS
+1. HCF = the product of the lowest powers of the common prime factors. LCM = the product of the highest powers of all prime factors.
+2. For two numbers a and b: HCF x LCM = a x b.
+3. HCF of fractions = HCF of numerators / LCM of denominators. LCM of fractions = LCM of numerators / HCF of denominators.
+4. Co-prime numbers have HCF = 1; their LCM is their product.
+5. HCF always divides the LCM; the LCM of numbers is a multiple of each.
+6. Largest number that divides a, b, c leaving the same remainder r each time = HCF of (a - r), (b - r), (c - r).
+7. Largest number that divides a, b, c leaving remainders r1, r2, r3 = HCF of (a - r1), (b - r2), (c - r3).
+8. Smallest number which when divided by a, b, c leaves the same remainder r in each case = LCM(a, b, c) + r.
+9. Smallest number which when divided by a, b, c leaves remainders (a - k), (b - k), (c - k) = LCM(a, b, c) - k.
+10. Smallest number exactly divisible by a, b, c = LCM(a, b, c). Largest n-digit number divisible by x = n-digit largest number - remainder when divided by x.
+11. If the numbers are in the ratio p : q (co-prime) with HCF h, the numbers are ph and qh and the LCM is pqh.
+12. Long division method for HCF: divide the larger number by the smaller, then the divisor by the remainder, and so on until the remainder is zero. The last divisor is the HCF.
+
+C. TYPES AND SOLVED EXAMPLES
+
+TYPE 1: FINDING HCF AND LCM
+1) Find the HCF and LCM of 12 and 18.
+   12 = 2^2 x 3; 18 = 2 x 3^2. HCF = 2 x 3 = 6; LCM = 2^2 x 3^2 = 36. Answer: HCF 6; LCM 36.
+2) Find the HCF of 24, 36 and 60.
+   24 = 2^3 x 3; 36 = 2^2 x 3^2; 60 = 2^2 x 3 x 5. Common: 2^2 x 3 = 12. Answer: 12.
+3) Find the LCM of 15, 20 and 25.
+   15 = 3 x 5; 20 = 2^2 x 5; 25 = 5^2. LCM = 2^2 x 3 x 5^2 = 300. Answer: 300.
+4) Find the HCF of 84 and 126 by the division method.
+   126 = 84 x 1 + 42; 84 = 42 x 2 + 0. HCF = 42. Answer: 42.
+5) Find the LCM of 8, 12 and 18.
+   8 = 2^3; 12 = 2^2 x 3; 18 = 2 x 3^2. LCM = 2^3 x 3^2 = 72. Answer: 72.
+
+TYPE 2: PRODUCT RELATION AND RATIO PROBLEMS
+1) The HCF of two numbers is 12 and the LCM is 144. If one number is 36, find the other.
+   Other = (12 x 144) / 36 = 48. Answer: 48.
+2) The product of two numbers is 4,608 and their HCF is 24. Find the LCM.
+   LCM = 4,608 / 24 = 192. Answer: 192.
+3) The HCF of two numbers is 9 and the LCM is 270. If one number is 54, find the other.
+   Other = (9 x 270) / 54 = 45. Answer: 45.
+4) The sum of two numbers is 55, their HCF is 5 and their LCM is 120. Find the sum of their reciprocals.
+   Product = 5 x 120 = 600. Sum of reciprocals = (a + b)/(ab) = 55/600 = 11/120. Answer: 11/120.
+5) Two numbers are in the ratio 3 : 4 and their LCM is 240. Find the numbers.
+   Numbers = 3x and 4x; LCM = 12x = 240; x = 20. Numbers: 60 and 80 (HCF = 20). Answer: 60 and 80.
+
+TYPE 3: WORD PROBLEMS BASED ON HCF
+1) Find the greatest length of a rope which can measure exactly 15 m, 20 m and 25 m.
+   HCF of 15, 20, 25 = 5. Answer: 5 m.
+2) A room is 8 m 25 cm long and 6 m 75 cm broad. Find the side of the largest square tile that can cover the floor exactly, and the number of such tiles.
+   825 cm and 675 cm. HCF: 825 - 675 = 150; 675 = 150 x 4 + 75; 150 = 75 x 2. HCF = 75 cm. Number of tiles = (825/75) x (675/75) = 11 x 9 = 99. Answer: 75 cm; 99 tiles.
+3) 60 apples, 96 oranges and 144 bananas are to be put into identical baskets with no fruit left. Find the maximum number of baskets.
+   HCF of 60, 96, 144 = 12. Answer: 12 baskets.
+4) Find the maximum number of students among whom 1,001 pens and 910 pencils can be distributed equally.
+   1,001 - 910 = 91; 910 = 91 x 10. HCF = 91. Answer: 91.
+5) Three ribbons of lengths 24 m, 36 m and 48 m are to be cut into equal pieces of the greatest possible length. Find the length and the total number of pieces.
+   HCF = 12 m. Pieces = 2 + 3 + 4 = 9. Answer: 12 m; 9 pieces.
+
+TYPE 4: WORD PROBLEMS BASED ON LCM
+1) Three bells ring at intervals of 6, 8 and 12 minutes. They ring together at 9:00 a.m. When will they ring together next?
+   LCM of 6, 8, 12 = 24 minutes. Next time = 9:24 a.m. Answer: 9:24 a.m.
+2) Three traffic lights change after 48 s, 72 s and 108 s. If they change together at 8:00 a.m., after what time will they change together again?
+   48 = 2^4 x 3; 72 = 2^3 x 3^2; 108 = 2^2 x 3^3. LCM = 2^4 x 3^3 = 432 s = 7 min 12 s. Answer: 7 minutes 12 seconds.
+3) Three runners take 10, 15 and 20 minutes to complete one round of a circular track. If they start together, after how long will they meet at the starting point?
+   LCM of 10, 15, 20 = 60 minutes. Answer: 1 hour.
+4) Find the smallest number divisible by 12, 15 and 20.
+   LCM = 60. Answer: 60.
+5) Find the smallest 4-digit number divisible by 12, 18 and 30.
+   LCM = 180. 1000 / 180 gives 5.55, so the next multiple is 6 x 180 = 1,080. Answer: 1,080.
+
+TYPE 5: REMAINDER PROBLEMS
+1) Find the largest number that divides 52 and 76 leaving a remainder of 4 in each case.
+   Numbers: 52 - 4 = 48 and 76 - 4 = 72. HCF(48, 72) = 24. Answer: 24.
+2) Find the smallest number which when divided by 6, 8 and 12 leaves a remainder of 5 in each case.
+   LCM(6, 8, 12) = 24. Number = 24 + 5 = 29. Answer: 29.
+3) Find the greatest number that divides 285 and 1,249 leaving remainders 9 and 7 respectively.
+   Numbers: 285 - 9 = 276 and 1,249 - 7 = 1,242. 1,242 = 276 x 4 + 138; 276 = 138 x 2. HCF = 138. Answer: 138.
+4) Find the least number which when divided by 12, 16 and 24 leaves a remainder of 7 each time.
+   LCM(12, 16, 24) = 48. Number = 48 + 7 = 55. Answer: 55.
+5) Find the least number which when divided by 8, 12 and 15 leaves remainders 5, 9 and 12 respectively.
+   The divisor minus remainder is 3 in each case (8 - 5 = 12 - 9 = 15 - 12 = 3). LCM = 120. Number = 120 - 3 = 117. Check: 117 = 8 x 14 + 5, 12 x 9 + 9, 15 x 7 + 12. Answer: 117.
+
+==================================================
+TOPIC 5: SIMPLE INTEREST (தனிவட்டி)
+==================================================
+
+A. WHAT TO STUDY
+- Terms: principal, rate, time, interest, amount
+- Formula for SI and Amount; finding P, R, T
+- Time conversion (months, days)
+- Split sums and different rates
+- Borrowing and lending (gain or loss)
+- Doubling and tripling of money
+- Instalments (simple cases)
+
+B. RULES AND FORMULAS
+1. Simple Interest (SI) = (P x R x T) / 100, where P = Principal (the money lent), R = Rate % per annum and T = Time in years.
+2. Amount (A) = P + SI = P (1 + RT/100).
+3. P = (100 x SI) / (R x T); R = (100 x SI) / (P x T); T = (100 x SI) / (P x R).
+4. Time: months / 12 = years; days / 365 = years.
+5. If a sum becomes n times itself in T years at SI, then R = [(n - 1) x 100] / T and T = [(n - 1) x 100] / R. Money doubles when SI = P, so T = 100 / R.
+6. If the same sum gives the same interest at rates R1 for T1 years and R2 for T2 years, then R1 T1 = R2 T2.
+7. For equal times and rates, interests are in the ratio of principals; for the same sum and rate, interests are in the ratio of the times.
+8. Gain (or loss) in a transaction = Principal x (difference in rates) x Time / 100.
+9. If a sum amounts to A1 in T1 years and A2 in T2 years, then SI for (T2 - T1) years = A2 - A1; find the yearly SI, then P = A1 - (yearly SI x T1).
+10. Where the borrower repays part of the money, interest is charged only on the remaining principal.
+
+C. TYPES AND SOLVED EXAMPLES
+
+TYPE 1: BASIC SI AND AMOUNT
+1) Find the SI on Rs 8,000 at 6% per annum for 3 years.
+   SI = (8,000 x 6 x 3) / 100 = Rs 1,440. Answer: Rs 1,440.
+2) Find the amount on Rs 5,000 at 8% per annum for 2 years.
+   SI = (5,000 x 8 x 2) / 100 = 800. Amount = 5,000 + 800 = Rs 5,800. Answer: Rs 5,800.
+3) Find the SI on Rs 12,000 at 5% per annum for 9 months.
+   T = 9/12 = 3/4 year. SI = (12,000 x 5 x 3/4) / 100 = Rs 450. Answer: Rs 450.
+4) Find the SI on Rs 7,300 at 10% per annum for 73 days.
+   T = 73/365 = 1/5 year. SI = (7,300 x 10 x 1/5) / 100 = Rs 146. Answer: Rs 146.
+5) Find the SI on Rs 15,000 at 4 1/2% per annum for 2 years 4 months.
+   T = 2 1/3 = 7/3 years. SI = (15,000 x 4.5 x 7/3) / 100 = 150 x 4.5 x 7/3 = 150 x 10.5 = Rs 1,575. Answer: Rs 1,575.
+
+TYPE 2: FINDING RATE, TIME OR PRINCIPAL
+1) At what rate per annum will Rs 6,000 yield an SI of Rs 1,080 in 3 years?
+   R = (100 x 1,080) / (6,000 x 3) = 6%. Answer: 6%.
+2) In how many years will Rs 8,000 yield an SI of Rs 2,400 at 5% per annum?
+   T = (100 x 2,400) / (8,000 x 5) = 6 years. Answer: 6 years.
+3) What principal will give an SI of Rs 1,500 in 5 years at 6% per annum?
+   P = (100 x 1,500) / (5 x 6) = Rs 5,000. Answer: Rs 5,000.
+4) A sum amounts to Rs 5,800 in 2 years and Rs 7,000 in 5 years. Find the sum and the rate.
+   SI for 3 years = 7,000 - 5,800 = 1,200; yearly SI = 400. SI for 2 years = 800. Principal = 5,800 - 800 = Rs 5,000. R = 400/5,000 x 100 = 8%. Answer: Rs 5,000; 8%.
+5) A sum doubles itself in 10 years at SI. Find the rate. In how many years will it become three times?
+   R = 100/10 = 10%. For 3 times: T = (3 - 1) x 100 / 10 = 20 years. Answer: 10%; 20 years.
+
+TYPE 3: SPLIT SUMS AND DIFFERENT RATES
+1) Rs 10,000 is divided into two parts, one lent at 6% and the other at 8% for 1 year. The total interest is Rs 740. Find the two parts.
+   Let the first part be x. 0.06x + 0.08(10,000 - x) = 740; 800 - 0.02x = 740; x = 3,000. Parts: Rs 3,000 and Rs 7,000. Answer: Rs 3,000 and Rs 7,000.
+2) If the rate of interest were 3% more, the SI on a sum for 3 years would be Rs 540 more. Find the sum.
+   P x 3 x 3 / 100 = 540; P = Rs 6,000. Answer: Rs 6,000.
+3) Anil borrows Rs 12,000 at 8% per annum and lends it at 10% per annum for 3 years. Find his gain.
+   Gain = 12,000 x (10 - 8) x 3 / 100 = Rs 720. Answer: Rs 720.
+4) A lends Rs 4,000 to B at 6% and the same sum to C at 8% per annum for 2 years. Find the difference between the interests.
+   Difference = 4,000 x 2 x 2 / 100 = Rs 160. Answer: Rs 160.
+5) Rs 7,500 is invested partly at 4% and partly at 6% per annum for a year, and the total interest is Rs 390. Find the sums invested at each rate.
+   Let x be at 4%. 0.04x + 0.06(7,500 - x) = 390; 450 - 0.02x = 390; x = 3,000. Answer: Rs 3,000 at 4% and Rs 4,500 at 6%.
+
+TYPE 4: INSTALMENTS, DEBTS AND MIXED PROBLEMS
+1) A man borrowed Rs 5,000 at 10% SI per annum. After 1 year he repaid Rs 3,000. How much must he pay at the end of the 2nd year to clear the debt?
+   After 1 year: 5,000 + 500 = 5,500; after repaying 3,000, balance = 2,500. In the 2nd year: 2,500 + 10% of 2,500 = 2,750. Answer: Rs 2,750.
+2) A sum of Rs 3,000 amounts to Rs 3,720 in 4 years. What will Rs 5,000 amount to in 6 years at the same rate?
+   SI on 3,000 = 720 in 4 years; R = (100 x 720) / (3,000 x 4) = 6%. SI on 5,000 for 6 years = 1,800. Amount = Rs 6,800. Answer: Rs 6,800.
+3) Find the total SI on Rs 2,000 for 3 years at 5% and on Rs 3,000 for 2 years at 4%.
+   First: 2,000 x 5 x 3 / 100 = 300. Second: 3,000 x 4 x 2 / 100 = 240. Total = Rs 540. Answer: Rs 540.
+4) A principal of Rs 4,000 amounts to Rs 4,640 in 2 years. Find the rate.
+   SI = 640; R = (100 x 640) / (4,000 x 2) = 8%. Answer: 8%.
+5) Find the SI on Rs 6,000 at 6% per annum for 146 days.
+   T = 146/365 = 0.4 year. SI = 6,000 x 6 x 0.4 / 100 = Rs 144. Answer: Rs 144.
+
+TYPE 5: DOUBLING, TRIPLING AND RATIOS
+1) A sum of money doubles itself in 8 years at SI. Find the rate.
+   R = 100 / 8 = 12.5%. Answer: 12.5%.
+2) At 5% SI per annum, in how many years will a sum become three times itself?
+   T = (3 - 1) x 100 / 5 = 40 years. Answer: 40 years.
+3) A sum becomes 3/2 of itself in 5 years at SI. Find the rate.
+   SI = (1/2) P; R = (100 x 1/2) / 5 = 10%. Answer: 10%.
+4) Two sums are invested at 5% and 6% respectively for the same time and give equal interest. Find the ratio of the sums.
+   P1 x 5 = P2 x 6; P1 : P2 = 6 : 5. Answer: 6 : 5.
+5) At what rate per annum will Rs 800 amount to Rs 1,000 in 2 years?
+   SI = 200; R = (100 x 200) / (800 x 2) = 12.5%. Answer: 12.5%.
+
+==================================================
+TOPIC 6: COMPOUND INTEREST (கூட்டுவட்டி)
+==================================================
+
+A. WHAT TO STUDY
+- Meaning of compound interest (interest on interest)
+- Amount and CI formula
+- Half-yearly and quarterly compounding
+- Different rates for different years
+- Difference between CI and SI
+- Population growth and depreciation (as CI)
+- Finding principal, rate and time
+- Equal annual instalments (basic)
+
+B. RULES AND FORMULAS
+1. Amount A = P (1 + R/100)^n, and CI = A - P (n in years, compounded annually).
+2. Half-yearly compounding: A = P (1 + R/200)^(2n). Quarterly: A = P (1 + R/400)^(4n). In general, if compounded k times a year: rate = R/k per period; number of periods = nk.
+3. If the rates for successive years are R1, R2, R3: A = P (1 + R1/100)(1 + R2/100)(1 + R3/100).
+4. For a time with a fraction (for example 2 1/2 years): A = P (1 + R/100)^2 x (1 + (1/2) R/100) (compound for the whole years, simple interest for the fraction).
+5. Difference between CI and SI:
+   For 2 years: CI - SI = P (R/100)^2.
+   For 3 years: CI - SI = P (R/100)^2 (3 + R/100).
+6. If a sum becomes k times in n years at CI, it becomes k^m times in mn years. (If it doubles in 5 years, it becomes 8 times in 15 years.)
+7. Population: P (1 + r/100)^n for increase and P (1 - r/100)^n for decrease.
+8. Equal annual instalments x paid for n years at CI: Present value = x / (1 + r) + x / (1 + r)^2 + ... (r = R/100).
+9. CI is always greater than SI for the same P, R and T (for T more than 1 year). For one year, CI = SI (if compounded annually).
+10. Useful values: (1.1)^2 = 1.21; (1.1)^3 = 1.331; (1.05)^2 = 1.1025; (1.05)^3 = 1.157625; (1.2)^2 = 1.44; (1.08)^2 = 1.1664; (1.04)^3 = 1.124864.
+
+C. TYPES AND SOLVED EXAMPLES
+
+TYPE 1: BASIC COMPOUND INTEREST
+1) Find the CI on Rs 10,000 at 10% per annum for 2 years.
+   A = 10,000 x (1.1)^2 = 12,100. CI = 12,100 - 10,000 = Rs 2,100. Answer: Rs 2,100.
+2) Find the amount on Rs 8,000 at 5% per annum for 2 years (compounded annually).
+   A = 8,000 x 1.1025 = Rs 8,820. Answer: Rs 8,820.
+3) Find the CI on Rs 5,000 at 8% per annum for 3 years.
+   (1.08)^3 = 1.259712. A = 5,000 x 1.259712 = 6,298.56. CI = Rs 1,298.56. Answer: Rs 1,298.56.
+4) Find the CI on Rs 4,000 at 10% per annum for 3 years.
+   A = 4,000 x 1.331 = 5,324. CI = Rs 1,324. Answer: Rs 1,324.
+5) Rs 15,000 is invested at 10% for the first year and 20% for the second year (compound). Find the amount and CI.
+   A = 15,000 x 1.1 x 1.2 = 19,800. CI = Rs 4,800. Answer: Amount Rs 19,800; CI Rs 4,800.
+
+TYPE 2: HALF-YEARLY AND QUARTERLY COMPOUNDING
+1) Find the CI on Rs 8,000 at 10% per annum for 1 year compounded half-yearly.
+   Rate = 5% per half-year; periods = 2. A = 8,000 x (1.05)^2 = 8,820. CI = Rs 820. Answer: Rs 820.
+2) Find the CI on Rs 10,000 at 8% per annum for 6 months compounded quarterly.
+   Rate = 2% per quarter; periods = 2. A = 10,000 x (1.02)^2 = 10,404. CI = Rs 404. Answer: Rs 404.
+3) Find the amount on Rs 12,000 at 20% per annum for 1 1/2 years compounded half-yearly.
+   Rate = 10% per half-year; periods = 3. A = 12,000 x 1.331 = Rs 15,972. Answer: Rs 15,972 (CI = Rs 3,972).
+4) Compare the amounts on Rs 4,000 at 20% per annum for 1 year, compounded (a) yearly and (b) half-yearly.
+   (a) 4,000 x 1.2 = 4,800. (b) 4,000 x (1.1)^2 = 4,840. Difference = Rs 40. Answer: Rs 4,800 and Rs 4,840.
+5) Find the amount on Rs 20,000 at 10% per annum for 1 year compounded half-yearly.
+   20,000 x (1.05)^2 = 20,000 x 1.1025 = Rs 22,050. Answer: Rs 22,050 (CI = Rs 2,050).
+
+TYPE 3: DIFFERENCE BETWEEN CI AND SI
+1) Find the difference between CI and SI on Rs 5,000 at 10% for 2 years.
+   P (R/100)^2 = 5,000 x 0.01 = Rs 50. Answer: Rs 50.
+2) The difference between CI and SI for 2 years at 8% per annum is Rs 160. Find the sum.
+   P x (0.08)^2 = 160; P = 160 / 0.0064 = Rs 25,000. Answer: Rs 25,000.
+3) Find the difference between CI and SI on Rs 8,000 at 5% for 2 years.
+   8,000 x (0.05)^2 = 8,000 x 0.0025 = Rs 20. Answer: Rs 20.
+4) Find the difference between CI and SI on Rs 1,000 at 10% for 3 years.
+   P (R/100)^2 (3 + R/100) = 1,000 x 0.01 x 3.1 = Rs 31. Answer: Rs 31.
+5) The difference between CI and SI on a sum for 2 years at 5% per annum is Rs 45. Find the sum.
+   P x 0.0025 = 45; P = Rs 18,000. Answer: Rs 18,000.
+
+TYPE 4: POPULATION, GROWTH AND FINDING UNKNOWNS
+1) The population of a town is 1,00,000 and it grows at 10% per annum. Find the population after 3 years.
+   1,00,000 x 1.331 = 1,33,100. Answer: 1,33,100.
+2) A sum amounts to Rs 4,840 in 2 years at 10% CI. Find the sum.
+   P = 4,840 / 1.21 = Rs 4,000. Answer: Rs 4,000.
+3) A sum doubles itself in 5 years at CI. In how many years will it become 8 times?
+   8 = 2^3, so 3 x 5 = 15 years. Answer: 15 years.
+4) At what rate of CI will Rs 2,000 amount to Rs 2,420 in 2 years?
+   2,420 / 2,000 = 1.21 = (1.1)^2, so R = 10%. Answer: 10%.
+5) In how many years will Rs 8,000 amount to Rs 9,261 at 5% CI per annum?
+   9,261 / 8,000 = 1.157625 = (1.05)^3. Answer: 3 years.
+
+TYPE 5: FRACTIONAL TIME, INSTALMENTS AND MIXED PROBLEMS
+1) Find the amount and CI on Rs 8,000 at 10% per annum for 2 1/2 years.
+   For 2 years: 8,000 x 1.21 = 9,680. For 1/2 year at SI: 9,680 x 10 x (1/2) / 100 = 484. Amount = 9,680 + 484 = Rs 10,164. CI = Rs 2,164. Answer: Rs 10,164; Rs 2,164.
+2) A sum is to be paid in two equal annual instalments of Rs 4,410 each at 5% CI. Find the sum.
+   Sum = 4,410 / 1.05 + 4,410 / 1.1025 = 4,200 + 4,000 = Rs 8,200. Answer: Rs 8,200.
+3) The CI on a sum for 2 years at 5% per annum is Rs 410. Find the sum.
+   CI = P x (1.1025 - 1) = 0.1025 P = 410; P = Rs 4,000. Answer: Rs 4,000.
+4) A sum of Rs 3,000 amounts to Rs 3,630 in 2 years at CI. Find the rate.
+   3,630 / 3,000 = 1.21; R = 10%. Answer: 10%.
+5) Find the amount on Rs 15,625 at 4% per annum for 3 years (compounded annually).
+   A = 15,625 x (26/25)^3 = 15,625 x 17,576 / 15,625 = Rs 17,576. Answer: Rs 17,576.
+
+==================================================
+QUICK REVISION SHEET (ALL SIX TOPICS)
+==================================================
+
+1. BODMAS: Brackets, Of, Division, Multiplication, Addition, Subtraction.
+2. (a + b)^2 = a^2 + 2ab + b^2; (a - b)^2 = a^2 - 2ab + b^2; a^2 - b^2 = (a + b)(a - b).
+3. Percentage change = Change / Original x 100. Successive change = a + b + ab/100.
+4. Price up by r%: consumption down by r / (100 + r) x 100 %.
+5. Ratio: divide N in a : b into a/(a + b) N and b/(a + b) N. Fourth proportional d = bc/a; mean proportional = sqrt(ab).
+6. HCF x LCM = product of two numbers. Same remainder: HCF of differences; LCM + r.
+7. SI = PRT/100; Amount = P + SI; doubling time = 100/R.
+8. CI: A = P(1 + R/100)^n; half-yearly: R/2 and 2n; CI - SI (2 years) = P(R/100)^2.
+
+COMMON MISTAKES TO AVOID
+- Doing addition before multiplication in BODMAS; forgetting that "of" is done before division.
+- Taking R/100 instead of R/200 for half-yearly compounding with time doubled.
+- Not converting months and days into years in interest problems.
+- Not matching the units (g and kg) in ratio questions.
+- Forgetting that the CI formula gives the amount; CI = A - P.
+- In HCF-remainder problems, forgetting to subtract the remainders first.
+
+STUDY PLAN FOR THIS UNIT
+Week 1: Simplification and Percentage (learn tables, 20 questions a day).
+Week 2: Ratio and Proportion, HCF and LCM.
+Week 3: Simple Interest and Compound Interest.
+Week 4: Revise formulas and attempt timed tests (25 questions in 25 minutes).
+
+ஆமாங்க—கீழே உள்ளது **Aptitude** topic-க்கான **Formulas List, Question Types, Solved Examples, and 50 Practice Questions with Options** (TNPSC Group 2 அளவில்).
+
+## FORMULAS LIST
+
+### 1. Simplification
+
+- BODMAS: Brackets, Orders, Division, Multiplication, Addition, Subtraction.
+- a^2 - b^2 = (a+b)(a-b)
+- (a+b)^2 = a^2 + 2ab + b^2
+- (a-b)^2 = a^2 - 2ab + b^2
+- a^3 + b^3 = (a+b)(a^2 - ab + b^2)
+- a^3 - b^3 = (a-b)(a^2 + ab + b^2)
+
+### 2. Percentage
+
+- Percentage = (Part / Whole) x 100
+- Increase% = (Increase / Original) x 100
+- Decrease% = (Decrease / Original) x 100
+- Successive change: a + b + ab/100
+
+### 3. Ratio and Proportion
+
+- Ratio: a : b
+- Proportion: a : b :: c : d
+- Mean proportion: sqrt(ab)
+- Third proportion: b^2 / a
+- Fourth proportion: bc / a
+
+### 4. HCF and LCM
+
+- HCF x LCM = Product of two numbers
+- HCF of fractions = HCF of numerators / LCM of denominators
+- LCM of fractions = LCM of numerators / HCF of denominators
+
+### 5. Simple Interest
+
+- SI = (P x R x T) / 100
+- P = (100 x SI) / (R x T)
+- R = (100 x SI) / (P x T)
+- T = (100 x SI) / (P x R)
+- Amount = P + SI
+
+### 6. Compound Interest
+
+- A = P(1 + R/100)^n
+- CI = A - P
+- For half-yearly: R/2, 2n
+- For quarterly: R/4, 4n
+
+## QUESTION TYPES
+
+1. Simplification: BODMAS, surds, algebraic identities.
+2. Percentage: Increase, decrease, election, population.
+3. Ratio and Proportion: Ages, mixtures, shares.
+4. HCF and LCM: Greatest/least number, remainders.
+5. Simple Interest: Rate, time, principal.
+6. Compound Interest: Amount, difference, time.
+
+## SOLVED EXAMPLES
+
+### Example 1: Simplification
+
+Find the value of (0.5 x 0.5 x 0.5 + 0.3 x 0.3 x 0.3) / (0.5 x 0.5 - 0.5 x 0.3 + 0.3 x 0.3).
+
+Solution:
+Numerator = 0.125 + 0.027 = 0.152
+Denominator = 0.25 - 0.15 + 0.09 = 0.19
+Value = 0.152 / 0.19 = 0.8
+
+Answer: 0.8.
+
+### Example 2: Percentage
+
+In an election, 20% did not vote and 5% of votes cast were invalid. Winner got 55% of valid votes and defeated other by 1,368 votes. Find registered voters.
+
+Solution:
+Let total = x.
+Votes cast = 0.8x.
+Valid = 0.95 x 0.8x = 0.76x.
+Winner = 0.55 x 0.76x = 0.418x.
+Loser = 0.45 x 0.76x = 0.342x.
+Difference = 0.076x = 1368.
+x = 18000.
+
+Answer: 18,000.
+
+### Example 3: Ratio and Proportion
+
+The ratio of present ages of A and B is 4 : 5. Ten years ago it was 3 : 4. Find sum of present ages.
+
+Solution:
+Let ages be 4x and 5x.
+(4x-10)/(5x-10) = 3/4.
+16x - 40 = 15x - 30.
+x = 10.
+Sum = 90.
+
+Answer: 90 years.
+
+### Example 4: HCF and LCM
+
+HCF of two numbers is 16, LCM is 480. One number is 80. Find sum.
+
+Solution:
+Other number = (16 x 480) / 80 = 96.
+Sum = 80 + 96 = 176.
+
+Answer: 176.
+
+### Example 5: Simple Interest
+
+A sum amounts to Rs 6,900 in 3 years and Rs 7,500 in 5 years. Find rate.
+
+Solution:
+SI for 2 years = 600.
+SI per year = 300.
+P = 6900 - 900 = 6000.
+R = (100 x 900) / (6000 x 3) = 5%.
+
+Answer: 5%.
+
+### Example 6: Compound Interest
+
+Difference between CI and SI for 3 years at 10% is Rs 620. Find sum.
+
+Solution:
+Difference = P(R/100)^2(3 + R/100).
+620 = P(0.1)^2(3.1).
+P = 20000.
+
+Answer: Rs 20,000.
+
+## PRACTICE QUESTIONS (50)
+
+1. Find the value of (0.5 x 0.5 x 0.5 + 0.3 x 0.3 x 0.3) / (0.5 x 0.5 - 0.5 x 0.3 + 0.3 x 0.3).  
+A) 0.2  
+B) 0.8  
+C) 0.5  
+D) 1.2  
+Answer: B
+
+2. Find the value of 1/(1 + sqrt2) + 1/(sqrt2 + sqrt3) + ... + 1/(sqrt8 + sqrt9).  
+A) 1  
+B) 2  
+C) 3  
+D) sqrt3  
+Answer: B
+
+3. If x + 1/x = 5, find x^3 + 1/x^3.  
+A) 100  
+B) 110  
+C) 120  
+D) 125  
+Answer: B
+
+4. In an election, 20% did not vote and 5% of votes cast were invalid. Winner got 55% of valid votes and defeated other by 1,368 votes. Find registered voters.  
+A) 16,000  
+B) 18,000  
+C) 20,000  
+D) 24,000  
+Answer: B
+
+5. Population increased 20%, decreased 10%, increased 25%. Final 16,200. Find initial.  
+A) 10,000  
+B) 12,000  
+C) 12,500  
+D) 15,000  
+Answer: B
+
+6. A's salary is 20% more than B's. C's is 25% less than A's. By what percent is C's less than B's?  
+A) 5%  
+B) 10%  
+C) 12%  
+D) 15%  
+Answer: B
+
+7. 70% passed Maths, 65% English, 10% failed both. What percent passed both?  
+A) 35%  
+B) 40%  
+C) 45%  
+D) 55%  
+Answer: C
+
+8. Ratio of present ages 4 : 5. Ten years ago 3 : 4. Find sum.  
+A) 80  
+B) 90  
+C) 100  
+D) 110  
+Answer: B
+
+9. Rs 6,500 divided so that 2A = 3B = 4C. Find A's share.  
+A) 2,000  
+B) 2,500  
+C) 3,000  
+D) 3,250  
+Answer: C
+
+10. Two vessels milk:water 3:2 and 4:1. Mixed 2:3. Find milk:water.  
+A) 7:18  
+B) 9:4  
+C) 18:7  
+D) 3:2  
+Answer: C
+
+11. HCF 16, LCM 480, one number 80. Find sum.  
+A) 160  
+B) 176  
+C) 196  
+D) 240  
+Answer: B
+
+12. Greatest number divides 243 and 1073 leaving remainders 3 and 5.  
+A) 6  
+B) 12  
+C) 24  
+D) 48  
+Answer: B
+
+13. Smallest number leaves remainder 4 when divided by 6, 9, 15, 18 and divisible by 7.  
+A) 274  
+B) 364  
+C) 454  
+D) 544  
+Answer: B
+
+14. HCF of 2/3, 8/9, 16/81.  
+A) 2/9  
+B) 2/81  
+C) 8/81  
+D) 16/243  
+Answer: B
+
+15. Sum amounts to 6,900 in 3 years, 7,500 in 5 years. Find rate.  
+A) 4%  
+B) 5%  
+C) 6%  
+D) 6.25%  
+Answer: B
+
+16. 13,200 divided, lent at 5% and 6%, equal interest. Find sum at 6%.  
+A) 5,500  
+B) 6,000  
+C) 6,600  
+D) 7,200  
+Answer: B
+
+17. Sum triples in 15 years at SI. In how many years 5 times?  
+A) 25  
+B) 30  
+C) 35  
+D) 40  
+Answer: B
+
+18. Difference between CI and SI for 3 years at 10% is 620. Find sum.  
+A) 15,000  
+B) 18,000  
+C) 20,000  
+D) 25,000  
+Answer: C
+
+19. Sum becomes 8 times in 3 years at CI. In how many years 16 times?  
+A) 4  
+B) 5  
+C) 6  
+D) 8  
+Answer: A
+
+20. Amount on 25,000 at 8% for 1.5 years compounded half-yearly.  
+A) 27,500  
+B) 28,000  
+C) 28,121.60  
+D) 28,500  
+Answer: C
+
+21. Find 25% of 480.  
+A) 100  
+B) 120  
+C) 120  
+D) 120  
+Answer: B
+
+22. If 30% of a number is 90, find the number.  
+A) 250  
+B) 300  
+C) 350  
+D) 400  
+Answer: B
+
+23. A number increased by 20% becomes 240. Find the number.  
+A) 180  
+B) 200  
+C) 220  
+D) 240  
+Answer: B
+
+24. Ratio 3:5, sum 64. Find larger number.  
+A) 30  
+B) 35  
+C) 40  
+D) 45  
+Answer: C
+
+25. Two numbers ratio 5:7, difference 12. Find smaller.  
+A) 20  
+B) 25  
+C) 30  
+D) 35  
+Answer: B
+
+26. HCF of 12, 18, 24.  
+A) 2  
+B) 4  
+C) 6  
+D) 8  
+Answer: C
+
+27. LCM of 12, 18, 24.  
+A) 48  
+B) 60  
+C) 72  
+D) 96  
+Answer: C
+
+28. SI on 5,000 at 6% for 2 years.  
+A) 500  
+B) 600  
+C) 700  
+D) 800  
+Answer: B
+
+29. CI on 5,000 at 10% for 2 years.  
+A) 1,000  
+B) 1,050  
+C) 1,100  
+D) 1,150  
+Answer: B
+
+30. If A:B = 2:3, B:C = 4:5, find A:B:C.  
+A) 8:12:15  
+B) 8:15:12  
+C) 12:8:15  
+D) 15:12:8  
+Answer: A
+
+31. Find 40% of 250.  
+A) 90  
+B) 100  
+C) 110  
+D) 120  
+Answer: B
+
+32. A number decreased by 15% becomes 170. Find the number.  
+A) 180  
+B) 190  
+C) 200  
+D) 200  
+Answer: C
+
+33. Ratio of ages 3:4. After 6 years ratio 5:6. Find present ages.  
+A) 18,24  
+B) 18,24  
+C) 18,24  
+D) 18,24  
+Answer: A
+
+34. HCF of 36, 48, 60.  
+A) 6  
+B) 12  
+C) 18  
+D) 24  
+Answer: B
+
+35. LCM of 8, 12, 16.  
+A) 24  
+B) 32  
+C) 48  
+D) 64  
+Answer: C
+
+36. SI on 8,000 at 5% for 3 years.  
+A) 1,000  
+B) 1,200  
+C) 1,400  
+D) 1,600  
+Answer: B
+
+37. CI on 8,000 at 10% for 2 years.  
+A) 1,600  
+B) 1,680  
+C) 1,760  
+D) 1,840  
+Answer: B
+
+38. If A:B = 3:4, B:C = 2:3, find A:B:C.  
+A) 3:4:6  
+B) 3:6:4  
+C) 6:4:3  
+D) 4:3:6  
+Answer: A
+
+39. Find 15% of 600.  
+A) 80  
+B) 90  
+C) 100  
+D) 110  
+Answer: B
+
+40. A number increased by 25% becomes 250. Find the number.  
+A) 180  
+B) 200  
+C) 220  
+D) 240  
+Answer: B
+
+41. Ratio 2:3, sum 50. Find smaller.  
+A) 15  
+B) 20  
+C) 25  
+D) 30  
+Answer: B
+
+42. Two numbers ratio 4:7, difference 15. Find larger.  
+A) 25  
+B) 30  
+C) 35  
+D) 40  
+Answer: C
+
+43. HCF of 16, 24, 32.  
+A) 4  
+B) 8  
+C) 12  
+D) 16  
+Answer: B
+
+44. LCM of 10, 15, 20.  
+A) 30  
+B) 40  
+C) 60  
+D) 60  
+Answer: C
+
+45. SI on 6,000 at 8% for 2 years.  
+A) 800  
+B) 960  
+C) 1,000  
+D) 1,200  
+Answer: B
+
+46. CI on 6,000 at 10% for 2 years.  
+A) 1,200  
+B) 1,260  
+C) 1,320  
+D) 1,320  
+Answer: B
+
+47. If A:B = 5:6, B:C = 3:4, find A:B:C.  
+A) 5:6:8  
+B) 5:8:6  
+C) 6:5:8  
+D) 8:6:5  
+Answer: A
+
+48. Find 12% of 500.  
+A) 50  
+B) 60  
+C) 70  
+D) 80  
+Answer: B
+
+49. A number decreased by 10% becomes 180. Find the number.  
+A) 180  
+B) 190  
+C) 200  
+D) 200  
+Answer: C
+
+50. Ratio of ages 2:3. After 4 years ratio 4:5. Find present ages.  
+A) 8,12  
+B) 8,12  
+C) 8,12  
+D) 8,12  
+Answer: A
+

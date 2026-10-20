@@ -1,0 +1,901 @@
+
+==================================================
+UNIT 1: BASICS OF THE INDIAN ECONOMY
+==================================================
+
+1.1 MEANING OF ECONOMICS
+The word "Economics" comes from the Greek words "oikos" (house) and "nomos" (management), meaning household management. Economics is the study of how people use limited resources to satisfy unlimited wants.
+Important definitions:
+- Adam Smith (Father of Economics; "An Inquiry into the Nature and Causes of the Wealth of Nations", 1776): economics is the science of wealth.
+- Alfred Marshall ("Principles of Economics", 1890): economics is the study of mankind in the ordinary business of life; it examines material welfare (welfare definition).
+- Lionel Robbins (1932): economics is the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses (scarcity definition).
+- Paul Samuelson: economics is the study of how people and society choose, with or without money, to employ scarce productive resources to produce commodities and distribute them for consumption (growth definition).
+- J. M. Keynes: "The General Theory of Employment, Interest and Money" (1936), the father of modern macroeconomics.
+- Amartya Sen (Nobel prize in 1998): welfare economics, famines and poverty, capability approach.
+
+1.2 BRANCHES OF ECONOMICS
+- Microeconomics: study of individual units - a consumer, a firm, a household, price of a product (Ragnar Frisch coined the terms micro and macro in 1933).
+- Macroeconomics: study of the economy as a whole - national income, employment, inflation, money, public finance, growth.
+- Positive economics: what is (facts, e.g., "unemployment is 7 percent"). Normative economics: what ought to be (value judgments, e.g., "the government should raise the minimum wage").
+- Other branches: development economics, public finance, international economics, agricultural economics, econometrics.
+
+1.3 BASIC ECONOMIC CONCEPTS
+- Wants: human desires; unlimited. Needs: necessities, comforts and luxuries.
+- Scarcity: resources are limited relative to wants; this is the root cause of the economic problem.
+- Choice and opportunity cost: the value of the next best alternative given up. If a farmer uses land for sugarcane instead of paddy, the paddy income lost is the opportunity cost.
+- Production Possibility Curve (PPC) or Production Possibility Frontier: shows the maximum combination of two goods that can be produced with given resources and technology; shows scarcity, choice and opportunity cost. A point inside the PPC means unemployment or inefficiency; a point outside is unattainable; economic growth shifts the PPC outward.
+- Utility: want-satisfying power of a good. Value, price, wealth, income, goods and services.
+- Economic goods and free goods: air is a free good; water in a city is an economic good.
+
+1.4 THE CENTRAL PROBLEMS OF AN ECONOMY
+Every economy must solve three basic questions:
+1. What to produce? (consumer goods vs capital goods; choice of quantity)
+2. How to produce? (labour-intensive or capital-intensive technology)
+3. For whom to produce? (distribution of goods among people)
+Some add a fourth: what provision for growth.
+
+1.5 FACTORS OF PRODUCTION AND THEIR REWARDS
+- Land (all natural resources) - Rent
+- Labour (human effort) - Wages
+- Capital (man-made resources used in production) - Interest
+- Organisation or Entrepreneurship (the factor that combines the other three and bears risk) - Profit
+Capital formation is the increase in the stock of capital; it depends on savings and investment.
+
+1.6 TYPES OF ECONOMIC SYSTEMS
+- Capitalist (market) economy: private ownership of the means of production, profit motive, price mechanism, consumer sovereignty, competition. Example: USA. Founder thinker: Adam Smith ("invisible hand").
+- Socialist (centrally planned) economy: state or collective ownership, planning by a central authority, social welfare as the aim. Example: erstwhile USSR, China (before reforms). Thinker: Karl Marx ("Das Kapital").
+- Mixed economy: both the public and private sectors exist together. Example: India. The Constitution makes India a "socialist" republic through the 42nd Amendment (1976).
+- Other types: traditional, command, and market economies; a closed economy (no foreign trade) and an open economy (foreign trade).
+
+1.7 FEATURES OF THE INDIAN ECONOMY
+1. A mixed economy with both public and private sector.
+2. A developing economy: relatively low per capita income, but one of the fastest growing major economies. India is among the largest economies by GDP (at current prices, about fifth, with the fourth place often projected soon; verify the latest).
+3. Large population (India became the most populous country in 2023) and a large young workforce (demographic dividend).
+4. Agrarian base: agriculture employs a very large share of workers but contributes a much lower share of GDP.
+5. Service sector dominance in GDP.
+6. Poverty, inequality and unemployment as continuing challenges.
+7. Dualism: a modern sector coexisting with a traditional sector; large unorganised (informal) sector.
+8. Regional disparities between states.
+9. Heavy dependence on monsoon in agriculture.
+10. Capital scarcity and low capital formation in the early decades; rising savings and investment today.
+
+1.8 SECTORS OF THE ECONOMY
+A. By activity (Colin Clark and Fisher's classification):
+- Primary sector: extracting natural resources - agriculture, mining, fishing, forestry, dairy.
+- Secondary sector (industrial sector): manufacturing, construction, electricity, gas, water supply.
+- Tertiary sector (services): trade, transport, banking, insurance, communication, education, health, IT.
+- Some also add the Quaternary sector (knowledge-based: research, IT, consultancy) and the Quinary sector (top-level decision making).
+B. By ownership:
+- Public sector: owned by the government (Railways, SBI, LIC, ONGC).
+- Private sector: owned by private persons or companies (Tata, Reliance, Infosys).
+- Joint sector: both government and private ownership.
+- Cooperative sector.
+C. By organisation of work:
+- Organised sector: registered, regular wages, social security.
+- Unorganised sector: unregistered, irregular jobs, low wages; most Indian workers (about 80-90 percent) work in this sector.
+D. Sectoral share (approximate; verify): services contribute about 55 percent of GDP, industry about 25-28 percent and agriculture and allied sectors about 15-18 percent. Agriculture still employs close to 45 percent of the workforce. 
+Rostow, Fisher and Clark noted that, as an economy develops, the share of agriculture falls and the share of services rises.
+
+1.9 THE ECONOMY AT INDEPENDENCE - COLONIAL LEGACY
+- Under British rule, India's economy was stagnant and a supplier of raw materials. Handicraft industries (cotton, silk) declined due to British policies (deindustrialisation).
+- "Drain of Wealth" theory by Dadabhai Naoroji ("Poverty and Un-British Rule in India"; he was called the Grand Old Man of India) - the economic drain of India to Britain. R. C. Dutt wrote "Economic History of India".
+- At independence in 1947: very low national income growth (about 0.5-1 percent per year during 1900-1947), literacy about 12 percent, life expectancy about 32 years, agriculture low productivity, poor infrastructure. The Indian economy was divided by Partition.
+- India's colonial agrarian policy: Permanent Settlement (1793, Bengal), Ryotwari and Mahalwari systems; commercialisation of agriculture.
+
+1.10 ECONOMIC PLANNING IN INDIA
+- Meaning: advance determination of economic objectives and the use of resources to achieve them.
+- The idea of planning: M. Visvesvaraya's book "Planned Economy for India" (1934); the National Planning Committee (1938, Jawaharlal Nehru as chairman, set up by Subhas Chandra Bose as Congress president); the Bombay Plan (1944, by industrialists like J.R.D. Tata and G.D. Birla); the People's Plan (M.N. Roy); the Gandhian Plan (S.N. Agarwal).
+- The Planning Commission was set up on 15 March 1950 by a Cabinet resolution (an extra-constitutional, non-statutory body). The Prime Minister was the chairman. The National Development Council (NDC; 1952) approved the plans. 
+- NITI Aayog (National Institution for Transforming India) replaced the Planning Commission on 1 January 2015. It is a think tank; the Prime Minister is the chairman. Its aim: cooperative federalism, "bottom-up" planning. 
+- Five Year Plans (FYPs): 
+  1. First Plan (1951-56): Harrod-Domar model; agriculture, irrigation and power (Bhakra Nangal, Hirakud). Target growth 2.1 percent; achieved 3.6 percent.
+  2. Second Plan (1956-61): Mahalanobis model (P. C. Mahalanobis); rapid industrialisation, heavy and basic industries (public sector); steel plants at Bhilai, Rourkela, Durgapur. Based on Nehru-Mahalanobis strategy.
+  3. Third Plan (1961-66): self-reliant and self-generating economy; failed due to wars with China (1962), Pakistan (1965) and drought.
+  4. Plan holiday (1966-69): three Annual Plans.
+  5. Fourth Plan (1969-74): "growth with stability"; bank nationalisation (1969); Green Revolution progress.
+  6. Fifth Plan (1974-79): "Garibi Hatao" and self-reliance; terminated in 1978 by the Janata government (rolling plan).
+  7. Rolling Plan (1978-80). 
+  8. Sixth Plan (1980-85): poverty reduction, IRDP, NREP; achieved higher growth than the target.
+  9. Seventh Plan (1985-90): "food, work and productivity".
+  10. Annual Plans (1990-92) due to the political instability.
+  11. Eighth Plan (1992-97): after the reforms of 1991; human development; the first plan of liberalisation; achieved a growth rate higher than the target (6.8 percent).
+  12. Ninth Plan (1997-2002): growth with social justice and equity.
+  13. Tenth Plan (2002-07): target growth 8 percent; achieved about 7.7 percent.
+  14. Eleventh Plan (2007-12): "faster and more inclusive growth".
+  15. Twelfth Plan (2012-17): "faster, more inclusive and sustainable growth"; the last Five Year Plan.
+  Planning was formally ended with the Planning Commission in 2017; the Government now publishes a 15-year vision and 7-year strategy with NITI Aayog.
+- Objectives of planning in India: growth, self-reliance, modernisation, equity and social justice (the "four objectives of Indian planning": growth, modernisation, self-reliance and equity).
+- Industrial Policy Resolutions: 1948 (mixed economy), 1956 (called the "economic constitution of India"; classified industries into three schedules: Schedule A - state monopoly, Schedule B - progressively state-owned, Schedule C - private), 1977, 1980, and the New Industrial Policy of 1991.
+
+1.11 ECONOMIC REFORMS OF 1991 (NEW ECONOMIC POLICY)
+- Cause: a severe balance of payments crisis (foreign exchange reserves fell to about two weeks of imports in 1991), high fiscal deficit, inflation, the Gulf War oil price rise. India pledged part of its gold reserves abroad to raise foreign exchange.
+- Prime Minister P. V. Narasimha Rao and Finance Minister Dr Manmohan Singh launched the reforms.
+- The reforms are often summarised as LPG: Liberalisation, Privatisation and Globalisation.
+  - Liberalisation: abolition of industrial licensing (except a few industries), removal of the MRTP restrictions, reduction of import tariffs, freeing the interest rate, currency devaluation (the rupee was devalued by about 18-20 percent in July 1991).
+  - Privatisation: disinvestment of public sector units, reduction of reserved areas for the public sector.
+  - Globalisation: opening to foreign trade and foreign investment (FDI), convertibility of the rupee on the current account (1994).
+- Later reforms: the Foreign Exchange Management Act (FEMA) 1999, the Fiscal Responsibility and Budget Management Act (FRBM) 2003, GST (1 July 2017), the Insolvency and Bankruptcy Code (2016), demonetisation (8 November 2016), Make in India (2014), Digital India (2015), and Production Linked Incentive (PLI) schemes.
+
+1.12 INDIA'S ECONOMIC INDICATORS - SOME STANDARD FACTS
+- Financial year: 1 April to 31 March. The Indian rupee is the currency (the sign was approved in 2010; the RBI issues notes except for the one-rupee note, which is issued by the Ministry of Finance).
+- The Reserve Bank of India (RBI) was established on 1 April 1935 and nationalised on 1 January 1949; its headquarters is in Mumbai.
+- Central Statistics Office (CSO) merged with the National Sample Survey Office to form the National Statistical Office (NSO), under the Ministry of Statistics and Programme Implementation (MoSPI), which releases GDP data.
+- Economic Survey: presented by the Finance Ministry (Chief Economic Adviser) a day before the Union Budget in Parliament; it reviews the economy of the previous year.
+
+==================================================
+UNIT 2: ECONOMIC GROWTH
+==================================================
+
+2.1 MEANING
+Economic growth is a sustained increase in the real national output (real GDP) or real per capita income of an economy over a long period of time. It is a quantitative change. 
+Growth rate = (GDP in the current year - GDP in the previous year) / GDP in the previous year x 100.
+Nominal GDP is measured at current prices; real GDP is measured at constant prices (adjusted for inflation). Real growth shows true increase in output.
+
+2.2 MEASURES OF GROWTH
+- Growth rate of real GDP.
+- Growth rate of per capita income (GDP/population).
+- Growth of sectoral output (agriculture, industry, services).
+- Other indicators: capital formation, industrial production (Index of Industrial Production), employment.
+Simon Kuznets, who won the Nobel prize (1971) for his study of economic growth, defined growth as the long-term rise in capacity to supply goods to the population.
+
+2.3 DETERMINANTS (FACTORS) OF ECONOMIC GROWTH
+1. Natural resources (land, minerals, forests, water).
+2. Human resources: population quality, education, health, skills (human capital).
+3. Capital formation: savings, investment, banking.
+4. Technology and innovation.
+5. Entrepreneurship.
+6. Institutions: stable government, law and order, property rights, financial system.
+7. Infrastructure: roads, railways, power, ports.
+8. Social and cultural factors: attitudes toward work and saving.
+9. International trade and foreign investment.
+Non-economic factors: political stability, honest administration, social structure.
+
+2.4 THEORIES AND MODELS OF GROWTH
+- Classical theory: Adam Smith, Ricardo, Malthus (population theory), J. S. Mill: growth depends on capital accumulation, division of labour.
+- Harrod-Domar model: growth depends on savings rate and capital-output ratio (g = s / v). Used in India's First Five Year Plan.
+- Solow (Neo-classical) growth model (Robert Solow, 1956; Nobel prize 1987): technology (the Solow residual) and capital deepening explain growth.
+- Lewis model (Arthur Lewis): dual economy model - surplus labour moves from the traditional agricultural sector to the modern industrial sector.
+- Rostow's five stages of growth (W. W. Rostow, "The Stages of Economic Growth", 1960): (1) the traditional society, (2) the pre-conditions for take-off, (3) the take-off, (4) the drive to maturity, (5) the age of high mass consumption. India is often classified in the "take-off" or "drive to maturity" stages.
+- Endogenous growth theory (Paul Romer, Robert Lucas): human capital and innovation as sources of growth.
+- Vicious circle of poverty (Ragnar Nurkse): low income -> low savings -> low investment -> low productivity -> low income.
+- Big Push theory (Paul Rosenstein-Rodan): a large simultaneous investment in many industries is needed to break underdevelopment.
+- Balanced growth (Nurkse) vs unbalanced growth (Albert Hirschman).
+- Schumpeter: the entrepreneur and innovation as the engine of growth.
+
+2.5 INDIA'S GROWTH PERFORMANCE
+- 1950-1980: the growth rate averaged about 3.5 percent per annum, nicknamed the "Hindu rate of growth" (a term coined by Prof. Raj Krishna). Per capita income grew about 1.3 percent.
+- 1980s: growth increased to about 5.5 percent.
+- After 1991 reforms: about 6-7 percent on average; 2003-2008 growth was about 8-9 percent. 
+- 2008-09 (global financial crisis), 2012-13 slow down (about 5 percent), 2020-21 contraction (about -5.8 percent; COVID-19 pandemic; verify) followed by a strong recovery; the economy has recently grown at about 6.5-8 percent per annum (verify the latest estimates).
+- India is among the fastest-growing large economies. The Government's goal of Viksit Bharat by 2047 (a developed economy) and a 5 trillion dollar economy in the medium term are often cited targets (verify).
+- Base year for national accounts: 2011-12 (the series was revised; a new base year is expected, verify).
+
+2.6 TYPES OF GROWTH
+- Sustainable growth: growth that meets present needs without damaging the ability of future generations (Brundtland Commission 1987).
+- Inclusive growth: growth that benefits all sections, including the poor (the 11th Plan theme).
+- Jobless growth: growth without a proportionate increase in employment.
+- Balanced and unbalanced growth; Export-led growth; Pro-poor growth; Green growth.
+
+2.7 ECONOMIC GROWTH VS ECONOMIC DEVELOPMENT
+- Growth: quantitative, increase in output/income; narrow concept; no change in structure necessarily; can happen without reduction in poverty.
+- Development: qualitative and quantitative, includes improvement in quality of life, health, education, equity, structural change; broader concept. Growth is necessary but not sufficient for development.
+- Growth can be measured by GDP; development is measured by HDI and other indices.
+Example: A country can have rapid growth because of oil exports but low literacy and high poverty (growth without development).
+
+2.8 PROBLEMS OF GROWTH
+Inequality of income, regional imbalance, environmental damage, jobless growth, inflation, dependency on imports, infrastructure bottlenecks, and low productivity in agriculture.
+
+==================================================
+UNIT 3: ECONOMIC DEVELOPMENT
+==================================================
+
+3.1 MEANING
+Economic development is a process by which the real per capita income of a country increases along with improvements in living standards, health, education, reduction of poverty and inequality, and structural change of the economy. Meier and Baldwin: "Economic development is a process whereby an economy's real national income increases over a long period of time." Todaro: development is a multidimensional process involving changes in social structures, attitudes and institutions along with growth, reduction of inequality and eradication of poverty. 
+Amartya Sen: development is expansion of "capabilities" and freedoms people enjoy ("Development as Freedom", 1999).
+
+3.2 INDICATORS OF ECONOMIC DEVELOPMENT
+(a) Per capita income: national income divided by population. A higher per capita income suggests higher average living standards, but it does not show distribution.
+(b) Human Development Index (HDI): published by the UNDP in the Human Development Report since 1990; developed by Mahbub ul Haq (Pakistani economist) with Amartya Sen. It has three dimensions: 
+  1. Health: life expectancy at birth.
+  2. Education: mean years of schooling and expected years of schooling.
+  3. Standard of living: Gross National Income per capita (PPP).
+  Values range from 0 to 1. Categories: very high, high, medium, low human development. India is in the medium human development category (ranked in the 130s out of about 190 countries; verify the latest report). Kerala is the best-performing Indian state (HDI) and Tamil Nadu is among the better states.
+(c) Physical Quality of Life Index (PQLI): developed by Morris D. Morris (1979); has three components: life expectancy at age one, infant mortality rate and literacy rate.
+(d) Gender Development Index (GDI) and Gender Inequality Index (GII): measure gender gaps. 
+(e) Multidimensional Poverty Index (MPI): by UNDP and OPHI (Oxford Poverty and Human Development Initiative; since 2010); 10 indicators in three dimensions - health (nutrition, child mortality, maternal health), education (years of schooling, school attendance), standard of living (cooking fuel, sanitation, drinking water, electricity, housing, assets). NITI Aayog publishes India's National MPI (first report in November 2021; it uses NFHS data). The 2023 national MPI report showed that the proportion of multidimensionally poor people fell from about 24.85 percent (NFHS-4, 2015-16) to about 14.96 percent (NFHS-5, 2019-21). Kerala has the lowest poverty and Bihar has the highest MPI. Check the latest NITI Aayog discussion paper for newer numbers.
+(f) Global Hunger Index (GHI): by Concern Worldwide and Welthungerhilfe. 
+(g) World Happiness Report: by the UN Sustainable Development Solutions Network.
+(h) Sustainable Development Goals (SDGs): 17 goals adopted by the UN in 2015 for 2030; NITI Aayog releases the SDG India Index (Kerala and Tamil Nadu among the top performers).
+(i) Gini coefficient and Lorenz curve: measure of income inequality. Gini coefficient ranges from 0 (perfect equality) to 1 (perfect inequality). The Lorenz curve (Max Lorenz) shows the cumulative share of income against the cumulative share of population; the farther it is from the line of equality, the greater the inequality.
+(j) Other measures: literacy rate, infant mortality rate, maternal mortality ratio, life expectancy, access to safe drinking water and sanitation, electricity.
+
+3.3 POVERTY
+- Absolute poverty: inability to afford the minimum basic needs. Relative poverty: poverty relative to others in society.
+- Poverty line in India: based on the minimum consumption expenditure needed for calorie intake (2,400 calories per person per day in rural areas and 2,100 in urban areas, as per the earlier norms). 
+- Committees: Alagh Committee (1979), Lakdawala Committee (1993), Tendulkar Committee (2009; based on a 'consumption basket' not calories; estimated poverty at 37.2 percent in 2004-05 and 21.9 percent in 2011-12), Rangarajan Committee (2014; estimated 29.5 percent in 2011-12). The Planning Commission used the Tendulkar line (Rs 816 per month rural and Rs 1,000 per month urban in 2011-12). 
+- The World Bank's international poverty line (extreme poverty) is $2.15 per day (2017 PPP) and later revised to $3 (2021 PPP; verify). 
+- Poverty alleviation programmes (selected): Integrated Rural Development Programme (IRDP, 1978-80), Jawahar Rozgar Yojana (1989), MGNREGA (2005; guarantees 100 days of wage employment to rural households; the Mahatma Gandhi National Rural Employment Guarantee Act), National Rural Livelihood Mission (2011; Aajeevika), National Food Security Act (2013), PM Jan Dhan Yojana (2014), PM Awas Yojana (2015), PM Garib Kalyan Anna Yojana (free food grains).
+
+3.4 UNEMPLOYMENT
+- Types: disguised (underemployment in agriculture where marginal productivity is zero), seasonal, structural, frictional, cyclical, open, technological, educated unemployment.
+- Measurement: the National Statistical Office's Periodic Labour Force Survey (PLFS; since 2017-18) gives unemployment rates; the earlier measure was NSSO's Usual Status (UPSS), Current Weekly Status (CWS) and Current Daily Status (CDS).
+- Programmes: MGNREGA, PM Employment Generation Programme, Skill India (2015), Start-up India (2016), Pradhan Mantri Kaushal Vikas Yojana (PMKVY).
+
+3.5 INEQUALITY
+Inequality of income, wealth, gender, and region. Tools to reduce inequality: progressive taxation, welfare programmes, land reforms, minimum wages, public distribution, subsidy, reservation for backward classes, education and health.
+
+3.6 STRATEGIES (MODELS) OF DEVELOPMENT
+- Capitalist model: development through private enterprise (USA).
+- Socialist model: planning and state ownership (the former USSR).
+- Mixed model: India's model - public sector in basic industries and infrastructure; private sector in consumer goods; planning for growth.
+- The Gandhian model: village-centred, small and cottage industries, self-reliance ("Gram Swaraj"), trusteeship.
+- The Nehru-Mahalanobis model: heavy industry and import substitution through public sector leadership.
+- Import substitution (to reduce imports through domestic production) versus export-led growth (like East Asian economies).
+- Human development (capability) approach: Mahbub ul Haq, Sen.
+- Sustainable development: economic growth with ecological balance.
+- Inclusive development: "Sabka Saath, Sabka Vikas".
+
+3.7 OBSTACLES TO DEVELOPMENT
+Population pressure, poverty, low capital formation, low productivity in agriculture, lack of infrastructure, corruption, political instability, inequality, regressive social customs, lack of technology, unemployment, environmental degradation, and external debt.
+
+3.8 TAMIL NADU'S DEVELOPMENT EXPERIENCE
+- Tamil Nadu is one of the most industrialised and urbanised states; it is among the leading states in India's GSDP (it is generally ranked as the second largest state economy; verify the latest GSDP ranking) with the state government setting a target of a 1 trillion dollar economy by 2030.
+- Social sector achievements: high literacy rate (about 80 percent), low fertility, low infant and maternal mortality, well-developed public distribution system (universal PDS), noon meal scheme (introduced in 1982 by M. G. Ramachandran in the whole State; started on an experimental basis earlier by K. Kamaraj in 1956 as the midday meal scheme), and the Chief Minister's Breakfast Scheme (2022) for primary schoolchildren, free bus travel for women (2021), the Kalaignar Magalir Urimai Thogai scheme (monthly assistance to women heads of families, 2023), the Chief Minister's Comprehensive Health Insurance Scheme, Pudhumai Penn (education assistance to girl students). 
+- Tamil Nadu's reservation policy: 69 percent reservation (protected in the Ninth Schedule of the Constitution).
+- Key industries: automobiles (Chennai, Hosur; called the "Detroit of Asia"), textiles (Coimbatore, Tiruppur), leather (Vellore, Ambur), electronics (Sriperumbudur, Hosur), IT (Chennai, Coimbatore), fireworks and matches (Sivakasi), locks (Dindigul), pumps and motors (Coimbatore), and renewable energy (wind power, Muppandal). 
+- Tamil Nadu has the highest number of factories in India, and a very high share of workers in manufacturing.
+- The State Planning Commission (1971, later renamed State Development Policy Council in 2022) advises on planning in Tamil Nadu. 
+
+==================================================
+UNIT 4: SOME IMPORTANT TERMS FOR REVISION
+==================================================
+
+- GDP: total value of final goods and services produced within the geographical boundary in a year. GNP = GDP + net factor income from abroad.
+- Per capita income: national income / population.
+- Capital formation: addition to capital stock.
+- Savings: income not consumed. Investment: expenditure on capital goods.
+- Inflation: sustained rise in the general price level. Deflation: fall in the general price level. Stagflation: stagnation with inflation.
+- Demographic dividend: the economic benefit due to a large working-age share in the population.
+- Balance of payments: record of a country's economic transactions with the rest of the world.
+- Fiscal deficit: total expenditure minus total receipts excluding borrowing. Revenue deficit: revenue expenditure minus revenue receipts.
+- Subsidy: financial support from the government to reduce the cost of goods.
+- Disinvestment: sale of government equity in public sector units.
+- Black money: income not declared for tax.
+- Welfare economy: concerned with social welfare of people.
+- Poverty trap, vicious circle of poverty.
+- Green GDP: GDP adjusted for environmental damage.
+- Happiness index and others.
+
+==================================================
+UNIT 5: PRACTICE QUESTIONS (WITH ANSWERS)
+==================================================
+
+1. Who is regarded as the Father of Economics? - Adam Smith
+2. Who wrote "The General Theory of Employment, Interest and Money"? - J. M. Keynes
+3. Who gave the scarcity definition of economics? - Lionel Robbins
+4. Who gave the welfare definition of economics? - Alfred Marshall
+5. Who coined the terms micro and macroeconomics? - Ragnar Frisch
+6. The cost of the next best alternative given up is called: - Opportunity cost
+7. The reward for land is: - Rent
+8. The reward for capital is: - Interest
+9. The reward for labour is: - Wages
+10. The reward for entrepreneurship is: - Profit
+11. Which economic system does India follow? - Mixed economy
+12. The Planning Commission was set up in: - 1950 (15 March)
+13. NITI Aayog replaced the Planning Commission on: - 1 January 2015
+14. The First Five Year Plan (1951-56) was based on which model? - Harrod-Domar model
+15. The Second Five Year Plan (1956-61) was based on which model? - Mahalanobis model (heavy industry)
+16. Which Plan was called the "Plan Holiday" period? - 1966-69 (three Annual Plans)
+17. Bank nationalisation (14 banks) took place in: - 1969
+18. The theme of the Eleventh Plan: - Faster and more inclusive growth
+19. The last Five Year Plan of India: - The Twelfth Plan (2012-17)
+20. The Industrial Policy Resolution of 1956 is called: - The economic constitution of India
+21. The new economic policy was launched in: - 1991
+22. Who was the Finance Minister in 1991? - Dr Manmohan Singh
+23. Who was the Prime Minister in 1991? - P. V. Narasimha Rao
+24. LPG stands for: - Liberalisation, Privatisation and Globalisation
+25. "Hindu rate of growth" was coined by: - Raj Krishna
+26. The author of "Poverty and Un-British Rule in India": - Dadabhai Naoroji
+27. Who authored the "Planned Economy for India" (1934)? - M. Visvesvaraya
+28. Primary sector includes: - Agriculture, mining, fishing, forestry
+29. Which sector contributes most to India's GDP? - Services sector
+30. Which sector employs the most people in India? - Agriculture
+31. Colin Clark classified economic activities into: - Primary, secondary and tertiary
+32. Sustained increase in real GDP is: - Economic growth
+33. Economic development includes: - Growth plus improvement in quality of life
+34. Rostow's "take-off" is the: - Third stage of growth
+35. Who propounded the "vicious circle of poverty"? - Ragnar Nurkse
+36. The Big Push theory is by: - Paul Rosenstein-Rodan
+37. The Dual sector model of growth is by: - Arthur Lewis
+38. The Solow model is a: - Neo-classical growth model
+39. HDI is published by: - UNDP
+40. HDI was developed by: - Mahbub ul Haq (with Amartya Sen)
+41. HDI measures: - Health, education and income (standard of living)
+42. PQLI was developed by: - Morris D. Morris
+43. PQLI includes: - Life expectancy at age one, infant mortality and literacy
+44. The Multidimensional Poverty Index is published by: - UNDP and OPHI (NITI Aayog publishes India's national MPI)
+45. The Gini coefficient measures: - Income inequality
+46. The Lorenz curve was devised by: - Max Lorenz
+47. The Tendulkar Committee on poverty was set up in: - 2005 (reported in 2009)
+48. Rangarajan Committee reported in: - 2014
+49. MGNREGA was enacted in: - 2005
+50. The Noon Meal Scheme was extended to the whole of Tamil Nadu in: - 1982 (by M. G. Ramachandran; started in 1956 by K. Kamaraj in some form)
+
+TNPSC GROUP 2 - INDIAN ECONOMY (இந்தியப் பொருளாதாரம்)
+STUDY MATERIAL - PART 2
+National Income and Gross Domestic Product (GDP)
+(Original exam-oriented notes aligned to the Samacheer Kalvi Std 9-12 Economics syllabus. Figures marked "verify" change every year; check the latest Economic Survey, MoSPI and RBI releases before the exam.)
+
+==================================================
+UNIT 1: NATIONAL INCOME - MEANING AND CONCEPTS
+==================================================
+
+1.1 MEANING
+National income is the total money value of all final goods and services produced by the normal residents of a country in one year (including net income earned from abroad). It is a measure of the total flow of goods and services, and the total income earned by the factors of production (land, labour, capital and organisation) in an economy. National income is a flow concept (not a stock) measured over a period of time (one financial year, 1 April to 31 March in India).
+Definitions: 
+- Alfred Marshall: "The labour and capital of a country acting on its natural resources produce annually a certain net aggregate of commodities, material and immaterial including services of all kinds. This is the true net annual income or revenue of the country or the national dividend."
+- Simon Kuznets (Nobel 1971) developed the modern system of national income accounting.
+- A. C. Pigou: the part of the objective income of the community, including income derived from abroad, which can be measured in money.
+
+1.2 IMPORTANT TERMS
+1. Domestic territory: the geographical boundary of a country, including ships and aircraft owned by its residents, and embassies abroad.
+2. Normal resident: a person or institution that ordinarily lives and whose centre of economic interest is in the country (an Indian working abroad for a short period is a normal resident of India).
+3. Final goods and intermediate goods: final goods are used for consumption or investment and are not resold or further processed; intermediate goods are raw materials or parts used to produce other goods. Only final goods are counted in national income (to avoid double counting).
+4. Stock and flow: wealth is a stock; income is a flow.
+5. Depreciation (Consumption of Fixed Capital): the fall in the value of fixed capital due to normal wear and tear and expected obsolescence.
+6. Net factor income from abroad (NFIA): income earned by residents from abroad minus income earned by non-residents within the country.
+7. Indirect taxes (e.g., GST, excise, customs) and subsidies. Net indirect taxes = indirect taxes - subsidies.
+8. Factor cost, basic prices and market prices:
+   - Market price (MP) includes indirect taxes and excludes subsidies: the price at which goods are actually sold.
+   - Factor cost (FC) is the cost of the factors of production (wages, rent, interest, profit); FC = MP - net indirect taxes.
+   - Basic prices: the price received by producers before any product taxes and after product subsidies.
+
+1.3 CONCEPTS OF NATIONAL INCOME AND THEIR RELATIONSHIP
+- Gross Domestic Product at Market Price (GDP at MP): total value of final goods and services produced within the domestic territory of a country in a year, at market prices. 
+- GDP at Factor Cost = GDP at MP - Net Indirect Taxes (indirect taxes - subsidies).
+- Gross National Product at Market Price (GNP at MP) = GDP at MP + Net Factor Income from Abroad.
+- Net Domestic Product (NDP) = GDP - Depreciation.
+- Net National Product at Market Price (NNP at MP) = GNP at MP - Depreciation.
+- Net National Product at Factor Cost (NNP at FC) = NNP at MP - Net Indirect Taxes. 
+  NNP at FC is called National Income (NI).
+- Gross Value Added (GVA) at basic prices = GDP at MP - (Product taxes - Product subsidies). 
+  GVA is the supply-side measure of output. Since 2015 India publishes GVA at basic prices by sector and GDP at market prices.
+Summary of formulae:
+1. GNP = GDP + NFIA
+2. NDP = GDP - Depreciation
+3. NNP = GNP - Depreciation
+4. National Income (NNP at FC) = NNP at MP - Indirect taxes + Subsidies
+5. GDP at FC = GDP at MP - Indirect taxes + Subsidies
+6. Personal Income = National Income - Undistributed profits - Corporate taxes - Social security contributions + Transfer payments
+7. Disposable Personal Income = Personal Income - Direct personal taxes
+8. Per Capita Income = National Income / Population
+
+1.4 PERSONAL INCOME AND DISPOSABLE INCOME
+- Personal income: the total income received by individuals from all sources (wages, rent, interest, dividends, transfer payments) before paying personal taxes.
+- Disposable income: income left after paying direct taxes; it can be spent or saved: DI = C + S.
+- Transfer payments: payments for which no goods or services are given in return, e.g., pensions, scholarships, unemployment allowance. They are not included in national income (but are included in personal income).
+
+1.5 REAL AND NOMINAL (MONEY) NATIONAL INCOME
+- Nominal (current price) national income is measured at current year prices; it rises when prices rise.
+- Real (constant price) national income is measured at the prices of a base year; it shows the actual change in output. 
+- Real GDP = Nominal GDP / GDP Deflator x 100.
+- GDP deflator = (Nominal GDP / Real GDP) x 100.
+
+1.6 CIRCULAR FLOW OF INCOME
+In a simple two-sector economy (households and firms): households supply factors of production to firms and receive income (rent, wages, interest, profit); households spend income to buy goods and services produced by firms. Money flows in one direction and real flows in the opposite direction. Income = Output = Expenditure. 
+- Leakages (savings, taxes, imports) reduce the flow; injections (investment, government spending, exports) add to the flow. In equilibrium: Savings + Taxes + Imports = Investment + Government spending + Exports.
+- Three-sector: households, firms, government. Four-sector (open economy): adds the foreign sector.
+
+==================================================
+UNIT 2: METHODS OF MEASURING NATIONAL INCOME
+==================================================
+
+2.1 THREE METHODS
+1. Product (Output or Value Added) Method: Sum of the value added by all producing units in the economy.
+   - Value added = Value of output - Value of intermediate consumption.
+   - GDP at MP = Sum of gross value added by all sectors (primary, secondary, tertiary) + net product taxes.
+   - It avoids double counting by counting only the value added at each stage.
+   Example: A farmer sells wheat for Rs 100 to a miller. The miller grinds it into flour and sells to a baker for Rs 150. The baker makes bread and sells for Rs 250. The value added: farmer Rs 100 (assuming no inputs), miller Rs 50 (150 - 100), baker Rs 100 (250 - 150). Total value added = 100 + 50 + 100 = Rs 250 = the value of the final good (bread). Counting 100 + 150 + 250 = Rs 500 would be double counting.
+2. Income Method: Sum of all factor incomes earned within the country: Compensation of employees (wages and salaries) + Operating surplus (rent + interest + profit) + Mixed income of the self-employed. 
+   National Income (NNP at FC) = Wages + Rent + Interest + Profit + Mixed income + Net factor income from abroad.
+3. Expenditure Method: Sum of all expenditure on final goods and services:
+   GDP at MP = C + I + G + (X - M)
+   where C = Private Final Consumption Expenditure, I = Investment (Gross Capital Formation, including Gross Fixed Capital Formation and change in stocks), G = Government Final Consumption Expenditure, X = Exports and M = Imports (X - M = net exports).
+
+2.2 THE METHOD USED IN INDIA
+- India uses a combination: the production (output) method for agriculture, forestry, fishing, mining, manufacturing and construction, and the income method (or the expenditure method) for services such as trade, banking and real estate, where output estimates are difficult.
+- Today MoSPI publishes both: GVA by industry (production side) and GDP by expenditure components (expenditure side).
+- The expenditure approach in India's data shows approximately: Private Final Consumption Expenditure about 55-60 percent, Gross Fixed Capital Formation about 30 percent, Government Final Consumption Expenditure about 10 percent, and net exports (negative, as imports exceed exports) (verify).
+
+2.3 PRECAUTIONS WHILE CALCULATING NATIONAL INCOME
+Included: 
+- Final goods and services; production for self-consumption (agricultural output kept by the farmer for his own use; imputed value); rent of owner-occupied houses (imputed rent); services of the government; net factor income from abroad.
+Excluded:
+- Intermediate goods (double counting); second-hand goods (they were counted in the year of production) but the commission of the dealer is included; financial transfers (pensions, gifts, scholarships); sale of shares and bonds; illegal activities (smuggling, black market); household work of housewives (unpaid services); windfall gains like lotteries; the value of leisure; capital gains.
+
+2.4 DIFFICULTIES IN MEASURING NATIONAL INCOME IN INDIA
+1. Large non-monetised sector (subsistence agriculture, barter).
+2. Large unorganised sector and lack of reliable data.
+3. Illiteracy and poor records among farmers and small producers.
+4. Occupational specialisation is limited; multiple occupations (the same person works in more than one activity).
+5. Black money and the parallel economy.
+6. Non-market and unpaid household work.
+7. Difficulty in estimating depreciation.
+8. Frequent changes in the base year and methodology.
+
+==================================================
+UNIT 3: NATIONAL INCOME ESTIMATES IN INDIA - HISTORY
+==================================================
+
+3.1 EARLY ESTIMATES
+- Dadabhai Naoroji made the first estimate of India's national income in 1867-68: per capita income Rs 20 per year ("Poverty and Un-British Rule in India").
+- William Digby (1899), Findlay Shirras (1911, 1922), Lord Curzon (Rs 30 per head per year, 1901).
+- V. K. R. V. Rao: first scientific estimate for 1931-32 (published in 1940), using the income and output methods. 
+
+3.2 AFTER INDEPENDENCE
+- The National Income Committee was set up in 1949 under P. C. Mahalanobis (members: D. R. Gadgil and V. K. R. V. Rao). Its first report was in 1951.
+- The Central Statistical Organisation (CSO) was established in 1951 and began publishing national income estimates regularly. It later merged with the National Sample Survey Office (NSSO) to form the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) in 2019.
+- Base years of national accounts: 1948-49, 1960-61, 1970-71, 1980-81, 1993-94, 1999-2000, 2004-05, and 2011-12 (the current series was introduced in January 2015, with GVA at basic prices as the new headline measure and GDP at market prices as the measure of growth; a new base year revision is expected, so verify).
+- Release calendar: First Advance Estimates (early January), Second Advance Estimates (end of February), Provisional Estimates (31 May), and quarterly estimates (end of the quarter + 60 days). Quarters: Q1 (April-June), Q2 (July-September), Q3 (October-December), Q4 (January-March).
+
+3.3 PER CAPITA INCOME
+- Per capita income = National income / total population. India's per capita net national income (at current prices) is roughly Rs 1.8 to 2 lakh per year (verify the latest). 
+- Tamil Nadu's per capita state income is higher than the national average (verify the latest estimates). Goa, Sikkim, Delhi and Haryana (among the states) have high per capita incomes; Bihar, Uttar Pradesh and Jharkhand have low ones.
+
+3.4 SECTORAL COMPOSITION OF GVA (APPROXIMATE; VERIFY)
+- Agriculture and allied sectors: about 15-18 percent
+- Industry (mining, manufacturing, electricity, construction): about 25-28 percent
+- Services: about 53-57 percent 
+Services are the largest contributor to GDP. Agriculture has the largest share of employment (about 45 percent).
+
+==================================================
+UNIT 4: GROSS DOMESTIC PRODUCT (GDP)
+==================================================
+
+4.1 DEFINITION
+GDP is the total monetary value of all final goods and services produced within the geographical boundaries of a country in a given period, usually a year, irrespective of the nationality of the producer (it includes foreign firms in India but excludes Indian firms abroad).
+GDP vs GNP: GDP is a territory-based measure; GNP is a nationality-based measure (GNP = GDP + NFIA). For India, NFIA is usually negative (payments of interest, dividends and profits to foreigners exceed receipts), so GNP is smaller than GDP. Note: India's national accounts now report Gross National Income (GNI) in place of GNP (the term GNP was replaced by GNI, and NNP by NNI, in the national accounts statistics).
+
+4.2 TYPES OF GDP
+- Nominal GDP: at current market prices.
+- Real GDP: at constant prices (base year 2011-12).
+- GDP at factor cost (the earlier headline measure) vs GDP at market prices (the present headline measure) - the difference is net indirect taxes.
+- GDP per capita: GDP divided by population.
+- GDP (PPP): GDP adjusted for differences in price levels between countries (Purchasing Power Parity). India ranks third in the world in GDP (PPP) after China and the United States; in nominal GDP India is among the top five economies (verify whether India has moved to the fourth place).
+- Potential GDP: the maximum level of output an economy can produce at full employment of resources. The output gap = potential GDP - actual GDP.
+
+4.3 GDP GROWTH RATE
+Growth rate (%) = [(Real GDP this year - Real GDP last year) / Real GDP last year] x 100.
+- India's real GDP growth: about 6.5-8 percent in most recent years, after the pandemic contraction in 2020-21 (about -5.8 percent; verify). India has been described as one of the fastest growing major economies.
+- Base effect: when the previous year's base is low (e.g., 2020-21), the growth rate of the following year looks very high (2021-22 recorded a double-digit-like recovery).
+
+4.4 GDP DEFLATOR
+GDP deflator = (Nominal GDP / Real GDP) x 100. It measures the change in the prices of all goods and services produced in the economy. It is a broader price index than the Consumer Price Index (CPI) or the Wholesale Price Index (WPI), because it includes all domestically produced goods, including capital goods and services, and excludes imports.
+Example: Nominal GDP = Rs 330 lakh crore; Real GDP = Rs 300 lakh crore. GDP deflator = (330/300) x 100 = 110, meaning that prices have risen by 10 percent since the base year.
+
+4.5 LIMITATIONS OF GDP AS A MEASURE OF WELFARE
+1. It does not reflect the distribution of income (inequality). 
+2. It excludes non-market activities such as household work and voluntary service.
+3. It ignores the informal economy and illegal activities.
+4. It does not account for environmental damage and depletion of natural resources (Green GDP corrects this by deducting these costs). 
+5. It does not measure quality of life, health, education, leisure and happiness.
+6. Expenditure on harmful activities (defence spending, pollution clean-up) increases GDP.
+7. Price changes and different methods may distort comparisons.
+Alternatives and complements: HDI, Gross National Happiness (Bhutan), the Genuine Progress Indicator, the Inequality-adjusted HDI, the SDG index.
+
+4.6 GROSS DOMESTIC SAVINGS AND CAPITAL FORMATION
+- Gross Domestic Savings (GDS) as a percent of GDP is about 30 percent in India (household savings are the largest component; verify). Gross Fixed Capital Formation (GFCF) is about 30 percent of GDP.
+- The investment rate is the ratio of capital formation to GDP; the Incremental Capital Output Ratio (ICOR) is the capital required for each additional unit of output. India's ICOR is about 4 (higher ICOR means lower efficiency of investment).
+- Household sector, private corporate sector and public sector are the three sources of savings; households are the largest.
+
+4.7 MULTIPLIER (BRIEF)
+The investment multiplier (J. M. Keynes; R. F. Kahn introduced the concept) shows how an initial increase in investment raises national income by a multiple amount: K = 1 / (1 - MPC) = 1 / MPS, where MPC is the marginal propensity to consume and MPS the marginal propensity to save. If MPC = 0.8, then K = 1/0.2 = 5; an investment of Rs 100 crore increases income by Rs 500 crore.
+Consumption function: C = a + bY (b is the MPC). APC = C/Y; APS = S/Y; APC + APS = 1.
+
+==================================================
+UNIT 5: SOLVED NUMERICAL PROBLEMS
+==================================================
+
+Problem 1: GNP at MP = Rs 5,000 crore; depreciation = Rs 400 crore; net indirect taxes = Rs 300 crore. Find NNP at FC (National Income).
+Solution: NNP at MP = GNP - Depreciation = 5,000 - 400 = 4,600. NNP at FC = NNP at MP - Net indirect taxes = 4,600 - 300 = Rs 4,300 crore.
+
+Problem 2: GDP at MP = Rs 8,000 crore; net factor income from abroad = Rs -200 crore; depreciation = Rs 500 crore. Find NNP at MP.
+Solution: GNP = GDP + NFIA = 8,000 - 200 = 7,800. NNP at MP = 7,800 - 500 = Rs 7,300 crore.
+
+Problem 3: Nominal GDP = Rs 240 lakh crore; GDP deflator = 120. Find real GDP.
+Solution: Real GDP = (240 / 120) x 100 = Rs 200 lakh crore.
+
+Problem 4: National income of a country is Rs 6,00,000 crore and the population is 120 crore. Find per capita income.
+Solution: 6,00,000 / 120 = Rs 5,000 per person (in crore of rupees divided by crore of persons gives rupees: Rs 5,000).
+
+Problem 5: Real GDP was Rs 150 lakh crore last year and Rs 159 lakh crore this year. Find the growth rate.
+Solution: (159 - 150) / 150 x 100 = 6 percent.
+
+Problem 6: Consumption C = 4,000; Investment I = 1,200; Government spending G = 900; Exports X = 600; Imports M = 700. Find GDP at MP.
+Solution: GDP = C + I + G + (X - M) = 4,000 + 1,200 + 900 + (600 - 700) = 6,100 - 100 = Rs 6,000 crore.
+
+Problem 7: Compensation of employees = 3,000; rent = 400; interest = 500; profit = 700; mixed income = 600; NFIA = -100. Find national income.
+Solution: Domestic factor income = 3,000 + 400 + 500 + 700 + 600 = 5,200. National income = 5,200 + (-100) = Rs 5,100 crore.
+
+Problem 8: MPC = 0.75. Investment increases by Rs 200 crore. Find the increase in income.
+Solution: K = 1/(1-0.75) = 4. Increase = 4 x 200 = Rs 800 crore.
+
+Problem 9: GDP at MP = 10,000; indirect taxes = 800; subsidies = 200. Find GDP at FC.
+Solution: GDP at FC = 10,000 - 800 + 200 = Rs 9,400 crore.
+
+Problem 10: Personal income = 7,000; direct personal taxes = 900. Find disposable income. If consumption = 5,500, find saving.
+Solution: DI = 7,000 - 900 = 6,100; Saving = 6,100 - 5,500 = Rs 600 crore.
+
+Problem 11: If the value of output of a firm is Rs 600 and the value of intermediate consumption is Rs 350, find the value added.
+Solution: Value added = 600 - 350 = Rs 250.
+
+Problem 12: If nominal GDP rises from Rs 200 to Rs 240 (20 percent) and the GDP deflator rises from 100 to 110, find the real growth.
+Solution: Real GDP (new) = 240 / 110 x 100 = about 218.2; Real growth = (218.2 - 200) / 200 = about 9.1 percent.
+
+==================================================
+UNIT 6: TAMIL NADU - STATE INCOME
+==================================================
+
+- The Gross State Domestic Product (GSDP) is the state-level equivalent of GDP; state estimates are prepared by the Directorate of Economics and Statistics of the state, with the methodology guided by MoSPI. 
+- Tamil Nadu is among the largest state economies in India (generally the second largest by GSDP after Maharashtra; verify the latest ranking) and has a diversified economy: services (about half), industry (about a third) and agriculture (about 10-13 percent of GSDP).
+- The state has set a goal of a one trillion dollar economy by 2030. Tamil Nadu is the most urbanised major state (about half of its population lives in urban areas) and a leading manufacturing state (automobiles, textiles, electronics, leather). 
+- Per capita income of Tamil Nadu is higher than the national average (verify).
+- Tamil Nadu's GSDP growth is released by the State Planning Commission/State Development Policy Council in its Economic Appraisal and the Statistical Handbook.
+- Districts with major contributions: Chennai, Kancheepuram, Chengalpattu, Coimbatore, Tiruvallur, Tiruppur, Madurai, Salem, Krishnagiri, Erode.
+
+==================================================
+UNIT 7: SUPPORTING TOPICS FOR NATIONAL INCOME AND GDP
+==================================================
+
+7.1 TAXES AND GDP
+- Direct taxes (income tax, corporation tax) are levied on income and borne by the person on whom they are levied; indirect taxes (GST, customs) can be shifted to others.
+- GST (Goods and Services Tax) was introduced on 1 July 2017 by the 101st Constitutional Amendment Act, 2016; the GST Council (Article 279A) decides the rates. In 2025 the GST rate structure was simplified (mainly into 5 percent and 18 percent slabs with a higher rate for sin goods and luxury items; verify the latest).
+- The tax-GDP ratio of the Centre is about 11-12 percent (verify).
+
+7.2 FISCAL TERMS
+- Fiscal deficit = Total expenditure - (Revenue receipts + Non-debt capital receipts). It is stated as a percentage of GDP. The FRBM Act, 2003 sets a target for deficit reduction.
+- Revenue deficit and primary deficit (fiscal deficit - interest payments).
+- The Union Budget is presented on 1 February (since 2017).
+
+7.3 INSTITUTIONS RELATED TO NATIONAL ACCOUNTS
+- MoSPI releases GDP estimates; the National Statistical Office (NSO) prepares them. 
+- RBI publishes data on money supply, balance of payments, and the Handbook of Statistics on the Indian Economy.
+- The Economic Advisory Council to the PM, NITI Aayog, and the Chief Economic Adviser contribute to the analysis.
+
+7.4 INDIA IN THE WORLD ECONOMY (VERIFY)
+- India: among the top five economies by nominal GDP and third by PPP. The IMF and the World Bank release the World Economic Outlook and Global Economic Prospects periodically.
+- The G20 Presidency of India was held in 2023 (the New Delhi Summit). India's inclusion of the African Union as a permanent member of the G20 was announced there.
+- The World Bank classifies India as a lower middle-income country (based on GNI per capita); verify the latest classification.
+
+==================================================
+UNIT 8: PRACTICE QUESTIONS (WITH ANSWERS)
+==================================================
+
+1. National income is a: - Flow concept
+2. Wealth is a: - Stock concept
+3. Who made the first estimate of India's national income? - Dadabhai Naoroji (1867-68)
+4. Who made the first scientific estimate of India's national income (1931-32)? - V. K. R. V. Rao
+5. The National Income Committee (1949) was headed by: - P. C. Mahalanobis
+6. The CSO was established in: - 1951
+7. The present base year for national accounts (as per the series introduced in 2015): - 2011-12
+8. The national income data is released by: - MoSPI (NSO)
+9. GDP stands for: - Gross Domestic Product
+10. GDP + Net factor income from abroad = - GNP (GNI)
+11. GNP - Depreciation = - NNP
+12. NNP at factor cost is also called: - National Income
+13. GDP at factor cost = - GDP at market price - Net indirect taxes
+14. Indirect taxes less subsidies are called: - Net indirect taxes
+15. Per capita income = - National income / Population
+16. In which method is value added by each stage calculated? - Product (value added) method
+17. The expenditure method formula: - GDP = C + I + G + (X - M)
+18. Double counting is avoided by counting: - Only final goods or the value added
+19. Which of the following is not included in national income: (a) Rent of owner-occupied house (b) Pension (c) Services of government (d) Production for self-use? - Pension (a transfer payment)
+20. Sale of second-hand goods is: - Not included (only the dealer's commission)
+21. The method used for estimating the contribution of agriculture and industry in India: - Production (output) method
+22. GDP at constant prices is called: - Real GDP
+23. GDP at current prices is called: - Nominal GDP
+24. GDP deflator formula: - (Nominal GDP / Real GDP) x 100
+25. Real GDP = - Nominal GDP / GDP deflator x 100
+26. GDP is a measure of: - Goods and services produced within the domestic territory
+27. GNP is a measure of: - Goods and services produced by the normal residents of a country (nationality)
+28. NFIA for India has generally been: - Negative
+29. The sector with the largest share in GDP in India: - Services
+30. The sector with the largest share in employment: - Agriculture
+31. The fiscal year in India: - 1 April to 31 March
+32. The Economic Survey is released: - A day before the Union Budget (by the Ministry of Finance)
+33. GVA at basic prices = - GDP at market prices - Product taxes + Product subsidies
+34. The multiplier K = - 1 / (1 - MPC)
+35. If MPC is 0.5, the multiplier is: - 2
+36. Which concept shows the capital required to raise output by one unit? - ICOR (Incremental Capital Output Ratio)
+37. Who introduced the concept of the investment multiplier? - R. F. Kahn (developed by Keynes)
+38. Which is the most reliable measure of the contribution of each stage of production? - Value added
+39. Green GDP is GDP after: - Deducting environmental costs
+40. The country which uses Gross National Happiness: - Bhutan
+41. GDP (PPP) in which India ranks third: - After China and the USA
+42. The quarterly GDP estimates for April-June are called: - Q1
+43. The first advance estimates of GDP are released in: - January
+44. The provisional estimates are released on: - 31 May
+45. GST was introduced on: - 1 July 2017
+46. The GST Council is established under Article: - 279A
+47. Which constitutional amendment introduced GST? - 101st Amendment (2016)
+48. The Union Budget is presented on: - 1 February
+49. Which state is generally the largest state economy (by GSDP)? - Maharashtra
+50. Tamil Nadu's aim for its economy by 2030: - One trillion dollars
+51. Disposable income = - Personal income - Direct personal taxes
+52. Personal income includes: - Transfer payments
+53. If GNP is Rs 9,000 crore and depreciation is Rs 600 crore, NNP is: - Rs 8,400 crore
+54. If nominal GDP = 220 and deflator = 110, real GDP is: - 200
+55. If real GDP rises from 200 to 210, growth rate is: - 5 percent
+56. An example of a leakage from the circular flow of income: - Savings (also taxes and imports)
+57. An example of an injection: - Investment (also government spending and exports)
+58. The "National Dividend" is another name for: - National income (Marshall)
+59. The first systematic attempt to measure national income using the modern method was by: - Simon Kuznets
+60. National income is measured over a period of: - One year
+
+==================================================
+UNIT 1: ROLE OF AGRICULTURE IN THE INDIAN ECONOMY
+==================================================
+
+1.1 IMPORTANCE
+- Agriculture and allied sectors (crops, livestock, forestry, fisheries) contribute about 15-18 percent of India's GVA but employ about 45 percent of the workforce (verify the latest PLFS and national accounts figures). This shows low productivity per worker.
+- Agriculture provides food for the population, raw materials for industries (cotton, jute, sugar, oilseeds, tea), and exports (rice, spices, tea, marine products, sugar).
+- It is the main source of livelihood in rural India (about 65 percent of the population lives in villages).
+- Demand from the rural sector supports industrial growth (tractors, fertilisers, consumer goods).
+- Agriculture is linked to food security, inflation (food prices), and poverty reduction.
+- Changing share: the share of agriculture in GDP has fallen from about 50 percent in 1950-51 to under 20 percent now, while the share of services has risen.
+
+1.2 INDIA'S POSITION IN WORLD AGRICULTURE (APPROXIMATE; VERIFY)
+India is the largest producer of milk, pulses, jute and spices; the second largest producer of rice, wheat, sugarcane, cotton (among the top two), fruits and vegetables, and farm outputs; and has the largest area under cultivation of rice, pulses and cotton in the world. India is also among the largest exporters of rice (the largest exporter in recent years), spices, and marine products.
+
+1.3 LAND USE IN INDIA
+Land is classified into: forests; land not available for cultivation (barren and non-agricultural uses); other uncultivated land (permanent pastures, groves, cultivable waste); fallow land (current fallow and other fallow); and net sown area (about 140 million hectares). Gross cropped area = Net sown area + Area sown more than once (about 200 million hectares). Cropping intensity = (Gross cropped area / Net sown area) x 100 (about 140-155 percent).
+Net irrigated area is about half of the net sown area (verify). The rest of the agriculture depends on the monsoon.
+
+1.4 CROPPING SEASONS
+- Kharif (June-October; sown with the south-west monsoon): rice, jowar, bajra, maize, cotton, groundnut, soybean, sugarcane, jute, pulses like tur and moong.
+- Rabi (October-March; sown in winter and harvested in spring): wheat, barley, gram, mustard, peas, linseed.
+- Zaid (April-June, the summer season): watermelon, cucumber, vegetables, fodder.
+- Tamil Nadu: Kuruvai (June-September), Samba (August-January) and Thaladi (September-February) are the paddy seasons; Navarai (December-April) is the summer paddy season in some areas.
+
+1.5 MAJOR CROPS
+- Food grains: rice (the staple of the south and east; West Bengal, Uttar Pradesh, Punjab, Andhra Pradesh, Tamil Nadu are major producers), wheat (Uttar Pradesh, Punjab, Haryana, Madhya Pradesh), millets (jowar, bajra, ragi - "Shree Anna"; 2023 was the International Year of Millets), maize, pulses (Madhya Pradesh, Maharashtra, Rajasthan, Uttar Pradesh).
+- Oilseeds: groundnut (Gujarat, Tamil Nadu, Andhra Pradesh), mustard (Rajasthan), soybean (Madhya Pradesh), sunflower, sesame, coconut. India imports a large amount of edible oil.
+- Commercial/Cash crops: sugarcane (Uttar Pradesh, Maharashtra, Karnataka, Tamil Nadu), cotton (Gujarat, Maharashtra, Telangana), jute (West Bengal), tobacco, rubber (Kerala), tea (Assam, West Bengal, Tamil Nadu and Kerala), coffee (Karnataka, Kerala, Tamil Nadu), spices.
+- Horticulture: fruits (mango, banana, citrus) and vegetables; India is among the top producers. Horticulture output has exceeded food grain output in recent years.
+- Plantation crops: tea, coffee, rubber, coconut, cashew, spices; they are regulated by commodity boards (Tea Board, Coffee Board, Rubber Board, Spices Board, Coir Board). 
+
+==================================================
+UNIT 2: CHARACTERISTICS AND PROBLEMS OF INDIAN AGRICULTURE
+==================================================
+
+2.1 CHARACTERISTICS
+1. Dependence on monsoon.
+2. Small and fragmented land holdings. The 10th Agriculture Census (2015-16) reported about 14.6 crore operational holdings with an average size of about 1.08 hectares; about 86 percent of holdings are small and marginal (below 2 hectares) (verify with the 11th Census, 2021-22).
+3. Low productivity (yield per hectare) compared with many countries.
+4. Subsistence farming, disguised unemployment, and under-employment.
+5. Traditional methods of cultivation in many regions; limited mechanisation.
+6. Dual structure: advanced regions (Punjab, Haryana, Western Uttar Pradesh, coastal Andhra, Cauvery delta) and backward regions.
+7. Mixed farming (crops with animal husbandry).
+
+2.2 PROBLEMS
+- Fragmentation of land and small size of holdings: due to the laws of inheritance, land divides into smaller plots; irrigation and mechanisation become difficult. 
+- Lack of irrigation: the monsoon is uncertain.
+- Inadequate credit: farmers depend on moneylenders at high interest rates; indebtedness; farmers' distress.
+- Marketing problems: middlemen, lack of storage, poor transport, distress sale.
+- Low use of modern inputs in some regions (seeds, fertilisers).
+- Soil degradation: soil erosion, salinity, waterlogging, excessive use of chemical fertilisers and groundwater depletion (Punjab and Haryana).
+- Price fluctuations of farm produce, weak price support for many crops except rice and wheat.
+- Lack of crop insurance in the past; natural calamities.
+- Climate change impacts: erratic rainfall, heat waves.
+- Gender issues: women's role in agriculture is large but not recognised. 
+- Inadequate research and extension.
+
+2.3 MEASURES TAKEN (SUMMARY)
+Land reforms, irrigation development, Green Revolution, institutional credit, minimum support prices and procurement, cooperatives, crop insurance, regulated markets, e-NAM, agricultural research (ICAR), extension services (Krishi Vigyan Kendras), and income support (PM-KISAN).
+
+==================================================
+UNIT 3: LAND REFORMS
+==================================================
+
+3.1 MEANING AND OBJECTIVES
+Land reforms are changes in the ownership, tenancy and organisation of land to remove exploitation, increase productivity and bring social justice. Objectives: ending the exploitation of tenants by the intermediaries (zamindars), securing the tenants, giving land to the tiller, reducing inequality, increasing production.
+
+3.2 LAND TENURE SYSTEMS UNDER BRITISH RULE
+- Zamindari system (Permanent Settlement of 1793 by Lord Cornwallis in Bengal, Bihar and Odisha): zamindars were the landlords, paying a fixed land revenue to the British; the cultivators were tenants.
+- Ryotwari system (introduced by Thomas Munro and Alexander Read in Madras and Bombay): direct settlement between the government and the ryot (farmer). It was introduced in Tamil Nadu (the Madras Presidency).
+- Mahalwari system (introduced in Punjab, North-West provinces by Holt Mackenzie and R. M. Bird): the village (mahal) paid the land revenue collectively.
+
+3.3 LAND REFORM MEASURES AFTER INDEPENDENCE
+1. Abolition of intermediaries (Zamindari abolition): enacted in the early 1950s in all states; about 2 crore tenants were brought into direct contact with the state. In Tamil Nadu: the Madras Estates (Abolition and Conversion into Ryotwari) Act, 1948. Uttar Pradesh abolished the zamindari system through the UP Zamindari Abolition and Land Reforms Act, 1950. 
+2. Tenancy reforms: regulation of rent (fair rent, one-fourth to one-fifth of the produce), security of tenure for tenants, and conferment of ownership rights on tenants. West Bengal's Operation Barga (1978) recorded tenant farmers (bargadars). Kerala's reform (1969-70) gave ownership to tenants.
+3. Ceiling on landholdings: fixing a maximum limit of land that a person can own; the surplus land is taken by the government and distributed to the landless. The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Act was passed in 1961 and amended in 1970. 
+4. Consolidation of holdings: bringing scattered plots together into a compact holding (Punjab and Haryana were the most successful).
+5. Cooperative farming and Bhoodan and Gramdan movements: 
+   - The Bhoodan Movement (land gift movement) was started by Acharya Vinoba Bhave on 18 April 1951 at Pochampally in Telangana (then Hyderabad State). Landlords were asked to donate a part of their land. 
+   - Gramdan: donation of the whole village.
+   - The Land reforms laws were placed in the Ninth Schedule of the Constitution (by the First Amendment in 1951 and later amendments) to protect them from judicial review. Land is a State subject (List II).
+6. Tamil Nadu measures: the Tamil Nadu Cultivating Tenants Protection Act (1955), the Tamil Nadu Cultivating Tenants (Payment of Fair Rent) Act (1956), the Tamil Nadu Land Reforms Act (1961), and Land Grant schemes.
+7. Distribution of surplus land, Panchami lands in Tamil Nadu (land meant for Scheduled Castes), and the Forest Rights Act, 2006.
+
+3.4 EVALUATION
+Success: the abolition of the zamindari system was largely successful (ended the oppressive landlord system), tenancy reforms in Kerala and West Bengal were notable. Failure: poor implementation of the ceiling laws (loopholes, benami transfers), insufficient surplus land, tenants were evicted, slow land records updating. Digital India Land Records Modernisation Programme (DILRMP) aims at digitisation of records.
+
+==================================================
+UNIT 4: THE GREEN REVOLUTION AND OTHER REVOLUTIONS
+==================================================
+
+4.1 THE GREEN REVOLUTION
+- The term "Green Revolution" was first used by William Gaud (USAID) in 1968. Norman Borlaug (Nobel Peace Prize 1970) is the Father of the Green Revolution worldwide (he developed dwarf high-yielding wheat varieties in Mexico). M. S. Swaminathan is the Father of the Green Revolution in India. C. Subramaniam was the Agriculture Minister who introduced the new agricultural strategy in 1965-66.
+- The new strategy (the High Yielding Varieties Programme, HYVP, started in 1966-67) involved: HYV seeds (wheat: Lerma Rojo, Sonora 64; rice: IR-8 and later Jaya, Padma, IR-20, Ponni (TN)), chemical fertilisers, pesticides, irrigation, mechanisation, credit and assured prices. 
+- Wheat production rose spectacularly in Punjab, Haryana and western Uttar Pradesh. India's food grain production increased from about 50 million tonnes (1950-51) to over 300 million tonnes in recent years (verify).
+- Phase I (1966-67 to 1980): confined to wheat and rice in the northwest; Phase II (1980s onward): spread to rice in the east and south.
+- Positive effects: self-sufficiency in food grains, ended the dependence on food imports (PL-480 of the USA), buffer stocks, farmers' incomes, and rural employment. The Food Corporation of India (FCI, 1965) and the Agricultural Prices Commission (1965) were set up.
+- Negative effects: regional and crop imbalance (limited to wheat and rice and to irrigated areas), income inequality between large and small farmers, soil degradation, heavy use of fertilisers and pesticides, water depletion and pollution, loss of crop diversity, health problems and the growth of indebtedness; lack of benefits for dry-land crops (pulses, coarse cereals).
+- The "second green revolution" and the "evergreen revolution" (M. S. Swaminathan) emphasise sustainable agriculture, biotechnology, pulses and oilseeds, and eastern India.
+
+4.2 OTHER REVOLUTIONS
+- White Revolution (milk): Operation Flood (1970) by Dr Verghese Kurien ("Milkman of India"), under the National Dairy Development Board (NDDB, 1965, Anand). India is the world's largest milk producer (about one-fourth of the world's milk). Amul (1946; Kaira District Cooperative Milk Producers' Union, Tribhuvandas Patel) is the model. Aavin is the dairy cooperative of Tamil Nadu.
+- Blue Revolution: fisheries and aquaculture.
+- Yellow Revolution: oilseeds production (Technology Mission on Oilseeds 1986).
+- Golden Revolution: horticulture, honey.
+- Silver Revolution: eggs and poultry.
+- Pink Revolution: onion and prawn (or meat).
+- Red Revolution: tomato (or meat).
+- Round Revolution: potato. Grey: fertiliser.
+- Brown Revolution: leather, non-conventional. Evergreen Revolution: sustainable agriculture.
+
+==================================================
+UNIT 5: IRRIGATION
+==================================================
+
+5.1 SOURCES
+- Canals (the most important in north India, e.g. the Indira Gandhi Canal, the Sirhind Canal, the Sarda Canal, Upper Ganga canal); wells and tube wells (the largest source of irrigation in India now; Uttar Pradesh, Punjab, Gujarat); tanks (the major source in the south, especially Tamil Nadu, Andhra Pradesh and Karnataka); others (drip, sprinkler).
+- Classification: major (above 10,000 hectares), medium (2,000-10,000 hectares) and minor (below 2,000 hectares) irrigation projects.
+- Micro-irrigation (drip and sprinkler) saves water. "Per Drop More Crop" is part of PMKSY.
+
+5.2 MAJOR MULTIPURPOSE PROJECTS
+- Bhakra Nangal (Satluj, Punjab/Himachal; the highest gravity dam in India; Jawaharlal Nehru called these dams the temples of modern India), Hirakud (Mahanadi, Odisha; the longest earthen dam), Nagarjuna Sagar (Krishna; Telangana/Andhra), Tungabhadra, Damodar Valley Corporation (the first multipurpose project; modelled on the Tennessee Valley Authority, 1948), Rihand (Govind Ballabh Pant Sagar), Sardar Sarovar (Narmada; Gujarat), Indira Sagar (Narmada), Kosi, Tehri (Bhagirathi; the highest dam in India, 260 m), Mettur Dam (Cauvery, Tamil Nadu, 1934; Stanley Reservoir), Bhavanisagar, Vaigai, Amaravathi, Mullaperiyar. The Kallanai (Grand Anicut) built by the Chola king Karikalan on the Cauvery is one of the oldest functioning water-regulatory structures in the world.
+- Indira Gandhi Canal (Rajasthan Canal): one of the world's longest irrigation canals, taking water from the Harike barrage (Satluj-Beas) to the Thar desert.
+
+5.3 TAMIL NADU IRRIGATION
+- The main sources are tanks (about 40,000 tanks - eris; historically the most important), wells and tube wells, and canals. The Cauvery delta region is irrigated by canal systems fed by the Mettur dam (opened every year on 12 June for the Kuruvai crop when conditions permit).
+- The state is heavily dependent on the north-east monsoon (October-December) for tank filling.
+- Tamil Nadu's "Kudimaramathu" scheme (the traditional farmers' participation scheme in renovation of tanks) was revived by the government.
+
+5.4 PMKSY
+Pradhan Mantri Krishi Sinchayee Yojana (2015) aims to extend irrigation coverage ("Har Khet Ko Pani"), improve water-use efficiency ("More crop per drop"), and watershed development.
+
+==================================================
+UNIT 6: AGRICULTURAL CREDIT
+==================================================
+
+6.1 SOURCES OF CREDIT
+- Non-institutional: moneylenders, traders, landlords (high interest rate; exploitative). The All India Rural Credit Survey (1951-54) reported that the moneylenders were the major source.
+- Institutional: cooperative societies, commercial banks, Regional Rural Banks (RRBs; established in 1975 on the recommendations of the Narasimham Working Group; under the RRB Act 1976), NABARD, government loans.
+
+6.2 INSTITUTIONS
+- Cooperative credit societies (the Cooperative Credit Societies Act 1904; Primary Agricultural Credit Societies - PACS - at the village level; the District Central Cooperative Banks at the district level; the State Cooperative Bank at the state level). The three-tier structure.
+- Nationalisation of 14 major commercial banks in 1969 and 6 more in 1980 improved rural credit; the Lead Bank Scheme (1969) and priority sector lending (40 percent of lending to the priority sector, of which agriculture is allotted 18 percent) are important. 
+- NABARD (National Bank for Agriculture and Rural Development) was established on 12 July 1982 on the recommendation of the Shivaraman Committee, as the apex institution for agricultural and rural finance; its headquarters is in Mumbai. It replaced the Agricultural Refinance and Development Corporation (ARDC). It supports the cooperative banks, regional rural banks and promotes the Self-Help Group-Bank Linkage Programme (1992).
+- Kisan Credit Card (KCC) scheme: launched in 1998 (the NABARD model scheme) to provide short-term credit for cultivation at a low interest rate (with interest subvention; farmers prompt in repayment get a concessional rate).
+- Microfinance and Self-Help Groups: women's SHGs (Tamil Nadu's Mahalir Thittam, 1997, is a pioneering project and the TN Corporation for Development of Women).
+- Agricultural debt waiver: periodic government decisions to waive farm loans (e.g., the Agricultural Debt Waiver and Debt Relief Scheme, 2008).
+
+==================================================
+UNIT 7: AGRICULTURAL MARKETING AND PRICE POLICY
+==================================================
+
+7.1 AGRICULTURAL MARKETING
+- Marketing channels: village traders, regulated markets (mandis), cooperative marketing societies, and direct sale.
+- Problems: lack of storage, poor transport, many intermediaries, distress sales by small farmers, lack of market information, and unorganised grading and standardisation.
+- Regulated markets: the Agricultural Produce Market Committees (APMC) were created under state APMC Acts to regulate trade; the Model APMC Act 2003. 
+- Reforms: e-NAM (National Agriculture Market, launched on 14 April 2016), a pan-India electronic trading platform; the contract farming and the 2020 farm laws (the three Acts: the Farmers' Produce Trade and Commerce Act, the Farmers (Empowerment and Protection) Agreement on Price Assurance and Farm Services Act, and the Essential Commodities (Amendment) Act, 2020) were repealed in 2021 after protests.
+- Warehousing: Central Warehousing Corporation (1957), Food Corporation of India (1965), State Warehousing Corporations; Warehousing (Development and Regulation) Act 2007.
+- Grading and standardisation: AGMARK (the Directorate of Marketing and Inspection; Agricultural Produce (Grading and Marking) Act 1937). 
+- Tamil Nadu: Uzhavar Sandhai (the farmers' market; launched in 1999) allows farmers to sell directly to consumers without middlemen. The state's Agricultural Marketing and Agri-Business Department regulates markets. TN presents a separate agriculture budget (from 2021-22).
+
+7.2 AGRICULTURAL PRICE POLICY
+- The Commission for Agricultural Costs and Prices (CACP; originally the Agricultural Prices Commission, set up in 1965) recommends the Minimum Support Price (MSP) for 22 mandated crops (cereals, pulses, oilseeds and commercial crops). The Cabinet Committee on Economic Affairs decides.
+- Minimum Support Price: the price at which the government is ready to buy the crops from farmers. Procurement is mainly of wheat and rice by the FCI and state agencies. Sugarcane has the Fair and Remunerative Price (FRP), fixed by the Centre. State Advised Price (SAP) in some states (e.g., Uttar Pradesh).
+- Methods of cost: A2 (actual paid-out costs), A2+FL (A2 plus family labour), C2 (comprehensive cost including the imputed rent and interest on owned land and capital). The Swaminathan Commission (National Commission on Farmers, 2004-06) recommended an MSP at least 50 percent more than the weighted average cost of production (C2 + 50 percent). Since 2018-19, the government has fixed MSP at least 1.5 times the all-India weighted average cost of production (A2+FL).
+- Buffer stock: stock of food grains kept by the FCI to stabilise prices and ensure food security. The Public Distribution System (PDS) distributes food grains at subsidised prices through fair price shops (ration shops). The National Food Security Act (NFSA), 2013 covers up to 75 percent of the rural and 50 percent of the urban population at subsidised rates (Rs 3 per kg for rice, Rs 2 for wheat, Re 1 for coarse grains; the PM Garib Kalyan Anna Yojana later gave free grains; verify).
+- Tamil Nadu has a universal PDS (all families with ration cards) and is known as a model.
+- Open market sale, the Essential Commodities Act 1955, and export bans are used to control prices.
+
+7.3 INCOME AND RISK SUPPORT SCHEMES
+- PM-KISAN (Pradhan Mantri Kisan Samman Nidhi, 2019): income support of Rs 6,000 a year in three instalments to farmer families.
+- Pradhan Mantri Fasal Bima Yojana (PMFBY, 2016): crop insurance with low premiums (2 percent for Kharif crops, 1.5 percent for Rabi, 5 percent for commercial/horticulture).
+- Soil Health Card scheme (2015); the Paramparagat Krishi Vikas Yojana (organic farming); the National Mission on Sustainable Agriculture; the Agriculture Infrastructure Fund (2020); the Rashtriya Krishi Vikas Yojana (RKVY, 2007); Neem-coated urea (2015); the Nutrient Based Subsidy.
+- The government's goal of "Doubling Farmers' Income" by 2022 was recommended by the Dalwai Committee.
+- The Fertiliser subsidy and the Fertiliser Control Order are other aspects; urea is the most used fertiliser in India.
+
+==================================================
+UNIT 8: ANIMAL HUSBANDRY, FISHERIES AND ALLIED SECTORS
+==================================================
+
+- India has the largest livestock population. Milk production is the biggest single component of agricultural output.
+- National Dairy Development Board (NDDB; Anand, 1965); the Rashtriya Gokul Mission (2014) for the conservation of indigenous breeds.
+- Fisheries: India is the second largest fish producer in the world; Andhra Pradesh is the leading state in aquaculture (verify); Pradhan Mantri Matsya Sampada Yojana (2020). Marine Products Export Development Authority (MPEDA).
+- Poultry: Namakkal is a major egg centre in Tamil Nadu.
+- Sericulture (silk): India is the second largest producer of silk after China and the only producer of all four varieties of silk (mulberry, tasar, eri, muga). Karnataka is the largest silk producer; Tamil Nadu (Salem, Dharmapuri) also produces mulberry silk.
+- Apiculture and Forestry also add to rural income.
+
+==================================================
+UNIT 9: TAMIL NADU AGRICULTURE
+==================================================
+
+9.1 FEATURES
+- Net sown area is about 45 percent of the geographical area; irrigation: wells, tanks and canals; the Cauvery delta (Thanjavur, Tiruvarur, Nagapattinam) is called the "rice bowl of Tamil Nadu"; the Thanjavur region is also called "Granary of South India".
+- Major crops: paddy (the largest crop), millets (jowar, bajra, ragi), pulses, groundnut (the major oilseed), sugarcane, cotton, coconut, banana, mango, tapioca, turmeric (Erode), spices, tea, coffee, rubber, flowers (Madurai jasmine).
+- Soils: red soil (largest), black soil (cotton), alluvial (the Cauvery delta), laterite and coastal alluvium.
+- Important crop centres: Thanjavur, Tiruvarur, Nagapattinam, Villupuram (paddy); Erode, Karur (turmeric, banana, sugarcane); Coimbatore (cotton, coconut at Pollachi); Salem (mango); Dindigul; Nilgiris (tea, vegetables); Kanyakumari (rubber, banana, coconut); Krishnagiri (mango); Theni (banana, grapes, cardamom, Cumbum valley); Madurai (flowers); Tirunelveli and Thoothukudi (cotton, chillies).
+- Tamil Nadu Agricultural University (TNAU), Coimbatore, was established in 1971 and conducts agricultural research and teaching; the Sugarcane Breeding Institute is also in Coimbatore.
+- Tamil Nadu's agricultural policies: the separate Agriculture Budget (from 2021-22), Uzhavar Sandhai, the Chief Minister's Solar-Powered Pumpsets Scheme, free electricity for agricultural pumpsets, interest-free crop loans through cooperative societies, crop loan waiver (2021 for cooperative crop loans), the Uzhavan mobile app, the Kuruvai package, the "Kalaignar All Village Integrated Agricultural Development Programme" (KAVIADP). 
+- The Cauvery water dispute (Tamil Nadu, Karnataka, Kerala and Puducherry): the Cauvery Water Disputes Tribunal (1990) gave its final award in 2007; the Supreme Court modified it in 2018; the Cauvery Water Management Authority (CWMA) was formed in 2018.
+- The Mullaperiyar dam dispute (Tamil Nadu-Kerala) and the Palar river issue are other water issues.
+
+==================================================
+UNIT 10: PRACTICE QUESTIONS (WITH ANSWERS)
+==================================================
+
+1. What share of the workforce is engaged in agriculture in India (approximately)? - About 45 percent
+2. India is the world's largest producer of: - Milk (also pulses and jute)
+3. The Kharif season is: - June to October
+4. The Rabi season is: - October to March
+5. The Zaid season is: - April to June (summer)
+6. Kharif crops include: - Rice, jowar, bajra, maize, cotton, groundnut
+7. Rabi crops include: - Wheat, barley, gram, mustard
+8. The paddy seasons in Tamil Nadu: - Kuruvai, Samba, Thaladi
+9. Cropping intensity is: - (Gross cropped area / Net sown area) x 100
+10. The system of land revenue introduced in Bengal in 1793: - Permanent Settlement (Zamindari)
+11. Who introduced the Ryotwari system? - Thomas Munro and Alexander Read (introduced in the Madras Presidency)
+12. The Mahalwari system was introduced in: - North-West Provinces and Punjab
+13. The Madras Estates Abolition Act was passed in: - 1948
+14. The Bhoodan Movement was started by: - Vinoba Bhave (1951)
+15. The Bhoodan movement began at: - Pochampally
+16. The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Act was passed in: - 1961
+17. Land reform laws are placed in the: - Ninth Schedule
+18. Land is a subject in the: - State List
+19. Who is the Father of the Green Revolution in India? - M. S. Swaminathan
+20. Who is the Father of the Green Revolution in the world? - Norman Borlaug
+21. Who was the Union Agriculture Minister during the launch of the Green Revolution? - C. Subramaniam
+22. The new agricultural strategy (HYVP) began in: - 1966-67
+23. The Green Revolution mainly benefited: - Wheat and rice in Punjab, Haryana and western UP
+24. Who is the Father of the White Revolution? - Verghese Kurien
+25. Operation Flood was launched in: - 1970
+26. NDDB was set up in: - 1965 (Anand)
+27. The Yellow Revolution is related to: - Oilseeds
+28. The Blue Revolution is related to: - Fisheries
+29. The Golden Revolution is related to: - Horticulture
+30. The Silver Revolution is related to: - Eggs / poultry
+31. The Food Corporation of India was set up in: - 1965
+32. CACP recommends: - MSP of crops
+33. MSP stands for: - Minimum Support Price
+34. MSP is declared for how many crops? - 22 mandated crops (plus FRP for sugarcane)
+35. The Swaminathan Commission recommended MSP at: - C2 + 50 percent
+36. NABARD was set up in: - 1982 (12 July)
+37. NABARD was established on the recommendation of: - Shivaraman Committee
+38. Regional Rural Banks were established in: - 1975
+39. The Kisan Credit Card scheme was introduced in: - 1998
+40. PM-KISAN provides: - Rs 6,000 per year in three instalments
+41. PMFBY is a: - Crop insurance scheme (2016)
+42. The Soil Health Card scheme was launched in: - 2015
+43. e-NAM was launched in: - 2016 (14 April)
+44. PMKSY stands for: - Pradhan Mantri Krishi Sinchayee Yojana
+45. The slogan of PMKSY: - "Har Khet Ko Pani" and "More crop per drop"
+46. The most important source of irrigation in north India: - Canals and tube wells (tube wells are the largest overall)
+47. The most important source of irrigation in South India: - Tanks
+48. The Mettur Dam is built across: - The Cauvery river
+49. The Kallanai (Grand Anicut) was built by: - Karikala Chola
+50. The first multipurpose river valley project of India: - Damodar Valley Corporation
+51. The Bhakra Nangal dam is built across: - The Satluj river
+52. The Hirakud dam is built across: - The Mahanadi river
+53. The Tehri dam is built across: - The Bhagirathi river
+54. Uzhavar Sandhai was started in Tamil Nadu in: - 1999
+55. TNAU was established in: - 1971 (Coimbatore)
+56. The first separate agriculture budget in Tamil Nadu was presented in: - 2021
+57. The Cauvery Water Management Authority was formed in: - 2018
+58. The National Food Security Act was passed in: - 2013
+59. The "rice bowl of Tamil Nadu" is: - Thanjavur (the Cauvery delta)
+60. The Dalwai Committee relates to: - Doubling farmers' income
+

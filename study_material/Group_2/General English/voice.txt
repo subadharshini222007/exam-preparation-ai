@@ -1,0 +1,1867 @@
+
+==================================================
+PART A: ACTIVE AND PASSIVE VOICE
+==================================================
+
+==================================================
+UNIT 1: INTRODUCTION TO VOICE
+==================================================
+
+1.1 MEANING OF VOICE
+Voice is the form of a verb which shows whether the subject performs the action or receives the action.
+
+There are two voices in English:
+1. Active Voice
+2. Passive Voice
+
+1.2 ACTIVE VOICE
+In active voice, the subject does the action.
+
+Structure:
+Subject + Verb + Object
+
+Examples:
+- Ravi writes a letter.
+- The teacher teaches English.
+- The boy broke the window.
+- The chef cooked dinner.
+- The government launched a new scheme.
+
+In the sentence "Ravi writes a letter":
+- Ravi is the subject.
+- writes is the verb.
+- a letter is the object.
+- Ravi performs the action.
+
+1.3 PASSIVE VOICE
+In passive voice, the subject receives the action. The object of the active sentence becomes the subject of the passive sentence.
+
+Structure:
+Object + helping verb + past participle of the main verb + by + subject
+
+Examples:
+- A letter is written by Ravi.
+- English is taught by the teacher.
+- The window was broken by the boy.
+- Dinner was cooked by the chef.
+- A new scheme was launched by the government.
+
+In the sentence "A letter is written by Ravi":
+- A letter is the new subject.
+- is written is the passive verb.
+- by Ravi shows the doer of the action.
+
+1.4 BASIC RULE FOR CHANGING ACTIVE TO PASSIVE
+Step 1: Identify the subject, verb and object in the active sentence.
+Step 2: Make the object of the active sentence the subject of the passive sentence.
+Step 3: Use the correct form of the verb "be" according to the tense.
+Step 4: Use the past participle (third form) of the main verb.
+Step 5: Use "by" before the original subject.
+Step 6: Change pronouns according to their function.
+
+Pronoun change:
+- I becomes me.
+- We becomes us.
+- He becomes him.
+- She becomes her.
+- They becomes them.
+- You remains you.
+- It remains it.
+
+Examples:
+- Active: "He helps me."
+  Passive: "I am helped by him."
+- Active: "They invited us."
+  Passive: "We were invited by them."
+- Active: "She loves him."
+  Passive: "He is loved by her."
+
+1.5 FORMS OF "BE" USED IN PASSIVE VOICE
+The verb "be" is used according to the tense of the active sentence.
+
+Tense - Active verb form - Passive verb form:
+1. Simple Present - write / writes - am/is/are + written.
+2. Present Continuous - am/is/are writing - am/is/are + being + written.
+3. Present Perfect - has/have written - has/have + been + written.
+4. Simple Past - wrote - was/were + written.
+5. Past Continuous - was/were writing - was/were + being + written.
+6. Past Perfect - had written - had + been + written.
+7. Simple Future - will write - will + be + written.
+8. Future Perfect - will have written - will + have + been + written.
+9. Can/Could - can write - can + be + written.
+10. May/Might - may write - may + be + written.
+11. Must - must write - must + be + written.
+12. Should - should write - should + be + written.
+
+==================================================
+UNIT 2: TENSE-WISE ACTIVE TO PASSIVE CONVERSION
+==================================================
+
+2.1 SIMPLE PRESENT TENSE
+Active structure:
+Subject + verb (base form/s-form) + object.
+
+Passive structure:
+Object + am/is/are + past participle + by + subject.
+
+Examples:
+1. Active: "Ravi writes a letter."
+   Passive: "A letter is written by Ravi."
+
+2. Active: "The teacher teaches English."
+   Passive: "English is taught by the teacher."
+
+3. Active: "Farmers grow paddy."
+   Passive: "Paddy is grown by farmers."
+
+4. Active: "The company produces cars."
+   Passive: "Cars are produced by the company."
+
+5. Active: "She sings a song."
+   Passive: "A song is sung by her."
+
+6. Active: "The postman delivers letters."
+   Passive: "Letters are delivered by the postman."
+
+7. Active: "Children play cricket."
+   Passive: "Cricket is played by children."
+
+8. Active: "The gardener waters the plants."
+   Passive: "The plants are watered by the gardener."
+
+9. Active: "The chef prepares food."
+   Passive: "Food is prepared by the chef."
+
+10. Active: "The government implements schemes."
+    Passive: "Schemes are implemented by the government."
+
+2.2 PRESENT CONTINUOUS TENSE
+Active structure:
+Subject + am/is/are + verb-ing + object.
+
+Passive structure:
+Object + am/is/are + being + past participle + by + subject.
+
+Examples:
+1. Active: "Ravi is writing a letter."
+   Passive: "A letter is being written by Ravi."
+
+2. Active: "The teacher is teaching English."
+   Passive: "English is being taught by the teacher."
+
+3. Active: "They are building a bridge."
+   Passive: "A bridge is being built by them."
+
+4. Active: "The gardener is watering the plants."
+   Passive: "The plants are being watered by the gardener."
+
+5. Active: "The company is producing electric vehicles."
+   Passive: "Electric vehicles are being produced by the company."
+
+6. Active: "The students are preparing for the examination."
+   Passive: "The examination is being prepared for by the students."
+
+7. Active: "The chef is cooking dinner."
+   Passive: "Dinner is being cooked by the chef."
+
+8. Active: "The workers are repairing the road."
+   Passive: "The road is being repaired by the workers."
+
+9. Active: "The government is launching a new scheme."
+   Passive: "A new scheme is being launched by the government."
+
+10. Active: "She is reading a novel."
+    Passive: "A novel is being read by her."
+
+2.3 PRESENT PERFECT TENSE
+Active structure:
+Subject + has/have + past participle + object.
+
+Passive structure:
+Object + has/have + been + past participle + by + subject.
+
+Examples:
+1. Active: "Ravi has written a letter."
+   Passive: "A letter has been written by Ravi."
+
+2. Active: "The teacher has taught English."
+   Passive: "English has been taught by the teacher."
+
+3. Active: "They have completed the work."
+   Passive: "The work has been completed by them."
+
+4. Active: "The government has launched a scheme."
+   Passive: "A scheme has been launched by the government."
+
+5. Active: "The workers have repaired the road."
+   Passive: "The road has been repaired by the workers."
+
+6. Active: "She has cleaned the room."
+   Passive: "The room has been cleaned by her."
+
+7. Active: "The committee has selected the candidates."
+   Passive: "The candidates have been selected by the committee."
+
+8. Active: "The students have submitted the forms."
+   Passive: "The forms have been submitted by the students."
+
+9. Active: "The chef has prepared dinner."
+   Passive: "Dinner has been prepared by the chef."
+
+10. Active: "The company has produced a new car."
+    Passive: "A new car has been produced by the company."
+
+2.4 SIMPLE PAST TENSE
+Active structure:
+Subject + past tense verb + object.
+
+Passive structure:
+Object + was/were + past participle + by + subject.
+
+Examples:
+1. Active: "Ravi wrote a letter."
+   Passive: "A letter was written by Ravi."
+
+2. Active: "The teacher taught English."
+   Passive: "English was taught by the teacher."
+
+3. Active: "The boy broke the window."
+   Passive: "The window was broken by the boy."
+
+4. Active: "The government launched the scheme."
+   Passive: "The scheme was launched by the government."
+
+5. Active: "They built the bridge."
+   Passive: "The bridge was built by them."
+
+6. Active: "The chef cooked dinner."
+   Passive: "Dinner was cooked by the chef."
+
+7. Active: "The workers repaired the road."
+   Passive: "The road was repaired by the workers."
+
+8. Active: "She cleaned the room."
+   Passive: "The room was cleaned by her."
+
+9. Active: "The committee selected the candidates."
+   Passive: "The candidates were selected by the committee."
+
+10. Active: "The students submitted the forms."
+    Passive: "The forms were submitted by the students."
+
+2.5 PAST CONTINUOUS TENSE
+Active structure:
+Subject + was/were + verb-ing + object.
+
+Passive structure:
+Object + was/were + being + past participle + by + subject.
+
+Examples:
+1. Active: "Ravi was writing a letter."
+   Passive: "A letter was being written by Ravi."
+
+2. Active: "The teacher was teaching English."
+   Passive: "English was being taught by the teacher."
+
+3. Active: "They were building a bridge."
+   Passive: "A bridge was being built by them."
+
+4. Active: "The workers were repairing the road."
+   Passive: "The road was being repaired by the workers."
+
+5. Active: "The chef was cooking dinner."
+   Passive: "Dinner was being cooked by the chef."
+
+6. Active: "The government was implementing the scheme."
+   Passive: "The scheme was being implemented by the government."
+
+7. Active: "She was reading a novel."
+   Passive: "A novel was being read by her."
+
+8. Active: "The students were preparing for the examination."
+   Passive: "The examination was being prepared for by the students."
+
+9. Active: "The gardener was watering the plants."
+   Passive: "The plants were being watered by the gardener."
+
+10. Active: "The company was producing cars."
+    Passive: "Cars were being produced by the company."
+
+2.6 PAST PERFECT TENSE
+Active structure:
+Subject + had + past participle + object.
+
+Passive structure:
+Object + had + been + past participle + by + subject.
+
+Examples:
+1. Active: "Ravi had written a letter."
+   Passive: "A letter had been written by Ravi."
+
+2. Active: "The teacher had taught English."
+   Passive: "English had been taught by the teacher."
+
+3. Active: "They had completed the work."
+   Passive: "The work had been completed by them."
+
+4. Active: "The government had launched the scheme."
+   Passive: "The scheme had been launched by the government."
+
+5. Active: "The workers had repaired the road."
+   Passive: "The road had been repaired by the workers."
+
+6. Active: "She had cleaned the room."
+   Passive: "The room had been cleaned by her."
+
+7. Active: "The committee had selected the candidates."
+   Passive: "The candidates had been selected by the committee."
+
+8. Active: "The students had submitted the forms."
+   Passive: "The forms had been submitted by the students."
+
+9. Active: "The chef had prepared dinner."
+   Passive: "Dinner had been prepared by the chef."
+
+10. Active: "The company had produced a new car."
+    Passive: "A new car had been produced by the company."
+
+2.7 SIMPLE FUTURE TENSE
+Active structure:
+Subject + will/shall + base verb + object.
+
+Passive structure:
+Object + will/shall + be + past participle + by + subject.
+
+Examples:
+1. Active: "Ravi will write a letter."
+   Passive: "A letter will be written by Ravi."
+
+2. Active: "The teacher will teach English."
+   Passive: "English will be taught by the teacher."
+
+3. Active: "They will build a bridge."
+   Passive: "A bridge will be built by them."
+
+4. Active: "The government will launch a scheme."
+   Passive: "A scheme will be launched by the government."
+
+5. Active: "The workers will repair the road."
+   Passive: "The road will be repaired by the workers."
+
+6. Active: "She will clean the room."
+   Passive: "The room will be cleaned by her."
+
+7. Active: "The committee will select the candidates."
+   Passive: "The candidates will be selected by the committee."
+
+8. Active: "The students will submit the forms."
+   Passive: "The forms will be submitted by the students."
+
+9. Active: "The chef will prepare dinner."
+   Passive: "Dinner will be prepared by the chef."
+
+10. Active: "The company will produce a new car."
+    Passive: "A new car will be produced by the company."
+
+2.8 FUTURE PERFECT TENSE
+Active structure:
+Subject + will/shall + have + past participle + object.
+
+Passive structure:
+Object + will/shall + have + been + past participle + by + subject.
+
+Examples:
+1. Active: "Ravi will have written a letter."
+   Passive: "A letter will have been written by Ravi."
+
+2. Active: "The teacher will have taught English."
+   Passive: "English will have been taught by the teacher."
+
+3. Active: "They will have completed the work."
+   Passive: "The work will have been completed by them."
+
+4. Active: "The government will have launched the scheme."
+   Passive: "The scheme will have been launched by the government."
+
+5. Active: "The workers will have repaired the road."
+   Passive: "The road will have been repaired by the workers."
+
+6. Active: "She will have cleaned the room."
+   Passive: "The room will have been cleaned by her."
+
+7. Active: "The committee will have selected the candidates."
+   Passive: "The candidates will have been selected by the committee."
+
+8. Active: "The students will have submitted the forms."
+   Passive: "The forms will have been submitted by the students."
+
+9. Active: "The chef will have prepared dinner."
+   Passive: "Dinner will have been prepared by the chef."
+
+10. Active: "The company will have produced a new car."
+    Passive: "A new car will have been produced by the company."
+
+==================================================
+UNIT 3: PASSIVE VOICE WITH MODAL VERBS
+==================================================
+
+3.1 BASIC RULE
+Active structure:
+Subject + modal + base verb + object.
+
+Passive structure:
+Object + modal + be + past participle + by + subject.
+
+Common modals:
+can, could, may, might, must, should, will, would, ought to.
+
+Examples:
+1. Active: "You can solve this problem."
+   Passive: "This problem can be solved by you."
+
+2. Active: "The teacher may explain the lesson."
+   Passive: "The lesson may be explained by the teacher."
+
+3. Active: "We must obey the rules."
+   Passive: "The rules must be obeyed by us."
+
+4. Active: "You should complete the work."
+   Passive: "The work should be completed by you."
+
+5. Active: "They will announce the results."
+   Passive: "The results will be announced by them."
+
+6. Active: "The government must implement the scheme."
+   Passive: "The scheme must be implemented by the government."
+
+7. Active: "One should respect elders."
+   Passive: "Elders should be respected."
+
+8. Active: "The company can produce more vehicles."
+   Passive: "More vehicles can be produced by the company."
+
+9. Active: "Students should follow the instructions."
+   Passive: "The instructions should be followed by students."
+
+10. Active: "The committee might approve the proposal."
+    Passive: "The proposal might be approved by the committee."
+
+==================================================
+UNIT 4: PASSIVE VOICE OF INTERROGATIVE SENTENCES
+==================================================
+
+4.1 YES/NO TYPE QUESTIONS
+Active structure:
+Auxiliary verb + subject + main verb + object?
+
+Passive structure:
+Auxiliary verb + object + past participle + by + subject?
+
+Examples:
+1. Active: "Does Ravi write a letter?"
+   Passive: "Is a letter written by Ravi?"
+
+2. Active: "Is she cleaning the room?"
+   Passive: "Is the room being cleaned by her?"
+
+3. Active: "Have they completed the work?"
+   Passive: "Has the work been completed by them?"
+
+4. Active: "Did the boy break the window?"
+   Passive: "Was the window broken by the boy?"
+
+5. Active: "Will they announce the results?"
+   Passive: "Will the results be announced by them?"
+
+6. Active: "Can you solve this problem?"
+   Passive: "Can this problem be solved by you?"
+
+7. Active: "Must we obey the rules?"
+   Passive: "Must the rules be obeyed by us?"
+
+8. Active: "Should students respect teachers?"
+   Passive: "Should teachers be respected by students?"
+
+9. Active: "Did the chef cook dinner?"
+   Passive: "Was dinner cooked by the chef?"
+
+10. Active: "Has the government launched the scheme?"
+    Passive: "Has the scheme been launched by the government?"
+
+4.2 WH-TYPE QUESTIONS
+When the question word is the object, it remains at the beginning in the passive sentence.
+
+Examples:
+1. Active: "Who wrote this letter?"
+   Passive: "By whom was this letter written?"
+
+2. Active: "Who broke the window?"
+   Passive: "By whom was the window broken?"
+
+3. Active: "Whom did you invite?"
+   Passive: "Who was invited by you?"
+
+4. Active: "What did he buy?"
+   Passive: "What was bought by him?"
+
+5. Active: "Which book did she read?"
+   Passive: "Which book was read by her?"
+
+6. Active: "When will they announce the results?"
+   Passive: "When will the results be announced?"
+
+7. Active: "Where did they build the bridge?"
+   Passive: "Where was the bridge built?"
+
+8. Active: "Why did the government launch the scheme?"
+   Passive: "Why was the scheme launched by the government?"
+
+9. Active: "How did the workers repair the road?"
+   Passive: "How was the road repaired by the workers?"
+
+10. Active: "Who has stolen my pen?"
+    Passive: "By whom has my pen been stolen?"
+
+==================================================
+UNIT 5: IMPERATIVE SENTENCES IN PASSIVE VOICE
+==================================================
+
+5.1 ORDER OR COMMAND
+Active structure:
+Verb + object.
+
+Passive structure:
+Let + object + be + past participle.
+
+Examples:
+1. Active: "Close the door."
+   Passive: "Let the door be closed."
+
+2. Active: "Open the window."
+   Passive: "Let the window be opened."
+
+3. Active: "Switch off the light."
+   Passive: "Let the light be switched off."
+
+4. Active: "Complete the work."
+   Passive: "Let the work be completed."
+
+5. Active: "Clean the room."
+   Passive: "Let the room be cleaned."
+
+6. Active: "Shut the gate."
+   Passive: "Let the gate be shut."
+
+7. Active: "Post the letter."
+   Passive: "Let the letter be posted."
+
+8. Active: "Switch on the fan."
+   Passive: "Let the fan be switched on."
+
+9. Active: "Lock the cupboard."
+   Passive: "Let the cupboard be locked."
+
+10. Active: "Do not touch the wire."
+    Passive: "Let the wire not be touched."
+    Also: "You are warned not to touch the wire."
+
+5.2 REQUEST
+Active structure:
+Please + verb + object.
+
+Passive structure:
+You are requested to + verb + object.
+
+Examples:
+1. Active: "Please help the poor."
+   Passive: "You are requested to help the poor."
+
+2. Active: "Please switch off the mobile."
+   Passive: "You are requested to switch off the mobile."
+
+3. Active: "Please maintain silence."
+   Passive: "You are requested to maintain silence."
+
+4. Active: "Please do not smoke here."
+   Passive: "You are requested not to smoke here."
+
+5. Active: "Please give me a pen."
+   Passive: "You are requested to give me a pen."
+
+6. Active: "Please wait here."
+   Passive: "You are requested to wait here."
+
+7. Active: "Please keep the classroom clean."
+   Passive: "You are requested to keep the classroom clean."
+
+8. Active: "Please submit the form today."
+   Passive: "You are requested to submit the form today."
+
+9. Active: "Please do not make noise."
+   Passive: "You are requested not to make noise."
+
+10. Active: "Please follow the traffic rules."
+    Passive: "You are requested to follow the traffic rules."
+
+5.3 ADVICE
+Active structure:
+Verb + object.
+
+Passive structure:
+Object + should be + past participle.
+
+Examples:
+1. Active: "Obey your parents."
+   Passive: "Your parents should be obeyed."
+
+2. Active: "Respect your teachers."
+   Passive: "Your teachers should be respected."
+
+3. Active: "Follow the rules."
+   Passive: "The rules should be followed."
+
+4. Active: "Save water."
+   Passive: "Water should be saved."
+
+5. Active: "Avoid junk food."
+   Passive: "Junk food should be avoided."
+
+6. Active: "Plant more trees."
+   Passive: "More trees should be planted."
+
+7. Active: "Do not waste electricity."
+   Passive: "Electricity should not be wasted."
+
+8. Active: "Do not tell lies."
+   Passive: "Lies should not be told."
+
+9. Active: "Keep the environment clean."
+   Passive: "The environment should be kept clean."
+
+10. Active: "Use helmets while riding."
+    Passive: "Helmets should be used while riding."
+
+==================================================
+UNIT 6: SPECIAL CASES IN PASSIVE VOICE
+==================================================
+
+6.1 VERBS WITH TWO OBJECTS
+Some verbs take two objects: a direct object and an indirect object.
+Common verbs: give, send, offer, teach, tell, show, promise, award.
+
+Either object can become the subject in the passive sentence.
+
+Examples:
+1. Active: "The teacher gave the students a book."
+   Passive: "The students were given a book by the teacher."
+   Passive: "A book was given to the students by the teacher."
+
+2. Active: "He sent me a letter."
+   Passive: "I was sent a letter by him."
+   Passive: "A letter was sent to me by him."
+
+3. Active: "She offered him a job."
+   Passive: "He was offered a job by her."
+   Passive: "A job was offered to him by her."
+
+4. Active: "The principal awarded the student a prize."
+   Passive: "The student was awarded a prize by the principal."
+   Passive: "A prize was awarded to the student by the principal."
+
+5. Active: "They told us a story."
+   Passive: "We were told a story by them."
+   Passive: "A story was told to us by them."
+
+6. Active: "The manager showed the visitors the office."
+   Passive: "The visitors were shown the office by the manager."
+   Passive: "The office was shown to the visitors by the manager."
+
+7. Active: "The teacher taught us English."
+   Passive: "We were taught English by the teacher."
+   Passive: "English was taught to us by the teacher."
+
+8. Active: "He promised her a gift."
+   Passive: "She was promised a gift by him."
+   Passive: "A gift was promised to her by him."
+
+9. Active: "The company gave the employees bonuses."
+   Passive: "The employees were given bonuses by the company."
+   Passive: "Bonuses were given to the employees by the company."
+
+10. Active: "The government provided the farmers seeds."
+    Passive: "The farmers were provided seeds by the government."
+    Passive: "Seeds were provided to the farmers by the government."
+
+6.2 VERBS FOLLOWED BY PREPOSITIONS
+When a verb is followed by a preposition, the preposition is retained in the passive voice.
+
+Examples:
+1. Active: "They laughed at him."
+   Passive: "He was laughed at by them."
+
+2. Active: "The teacher praised her for her work."
+   Passive: "She was praised for her work by the teacher."
+
+3. Active: "People speak well of him."
+   Passive: "He is well spoken of by people."
+
+4. Active: "They looked into the matter."
+   Passive: "The matter was looked into by them."
+
+5. Active: "The committee called for an explanation."
+   Passive: "An explanation was called for by the committee."
+
+6. Active: "Everyone laughed at the clown."
+   Passive: "The clown was laughed at by everyone."
+
+7. Active: "They sent for the doctor."
+   Passive: "The doctor was sent for."
+
+8. Active: "The students complained about the noise."
+   Passive: "The noise was complained about by the students."
+
+9. Active: "The police looked for the thief."
+   Passive: "The thief was looked for by the police."
+
+10. Active: "We must abide by the law."
+    Passive: "The law must be abided by."
+
+6.3 VERBS OF PERCEPTION
+Verbs such as see, hear, watch, feel, help, make are used in passive voice with "to" before the bare infinitive.
+
+Examples:
+1. Active: "The teacher made the students write the answer."
+   Passive: "The students were made to write the answer by the teacher."
+
+2. Active: "They saw him cross the road."
+   Passive: "He was seen to cross the road."
+
+3. Active: "We heard her sing a song."
+   Passive: "She was heard to sing a song."
+
+4. Active: "The mother made the child drink milk."
+   Passive: "The child was made to drink milk by the mother."
+
+5. Active: "They helped him complete the work."
+   Passive: "He was helped to complete the work."
+
+6. Active: "The coach made the players practise daily."
+   Passive: "The players were made to practise daily by the coach."
+
+7. Active: "People saw the thief enter the house."
+   Passive: "The thief was seen to enter the house."
+
+8. Active: "We watched the birds fly."
+   Passive: "The birds were watched to fly."
+
+9. Active: "The officer made the clerk sign the register."
+   Passive: "The clerk was made to sign the register by the officer."
+
+10. Active: "They heard him shout for help."
+    Passive: "He was heard to shout for help."
+
+6.4 QUASI-PASSIVE VERBS
+Some verbs such as read, write, sell, wash, wear, open, shut, burn can be used in an active form with a passive meaning.
+
+Examples:
+1. "This book reads well." - means "This book is read well."
+2. "The pen writes smoothly." - means "The pen writes smoothly when used."
+3. "These clothes sell quickly." - means "These clothes are sold quickly."
+4. "The floor washes easily." - means "The floor can be washed easily."
+5. "The door opens easily." - means "The door can be opened easily."
+
+6.5 PASSIVE WITHOUT "BY"
+"By + agent" is omitted when the doer is unknown, unimportant or obvious.
+
+Examples:
+1. Active: "Someone has stolen my bicycle."
+   Passive: "My bicycle has been stolen."
+
+2. Active: "They speak Tamil in Tamil Nadu."
+   Passive: "Tamil is spoken in Tamil Nadu."
+
+3. Active: "People grow paddy in Thanjavur."
+   Passive: "Paddy is grown in Thanjavur."
+
+4. Active: "The authorities have cancelled the examination."
+   Passive: "The examination has been cancelled."
+
+5. Active: "Someone has broken the chair."
+   Passive: "The chair has been broken."
+
+==================================================
+UNIT 7: COMMON ERRORS IN PASSIVE VOICE
+==================================================
+
+1. Always use the past participle in passive voice.
+   Incorrect: "A letter is write by Ravi."
+   Correct: "A letter is written by Ravi."
+
+2. Use the correct form of "be" according to tense.
+   Incorrect: "The work is complete by them."
+   Correct: "The work is completed by them."
+
+3. Do not use passive voice when the verb has no object.
+   Incorrect: "The baby was slept by the mother."
+   Correct: "The baby slept."
+
+4. Intransitive verbs cannot normally be changed into passive voice.
+   Examples: go, come, sleep, laugh, die, arrive.
+   - "He laughed." cannot become "He was laughed."
+
+5. Use "by" only when the doer is mentioned.
+   Correct: "The road was repaired."
+   Correct: "The road was repaired by the workers."
+
+6. In imperative sentences, use "Let + object + be + past participle".
+   Correct: "Let the door be closed."
+
+7. After verbs of perception, use "to" in passive voice.
+   Correct: "He was made to write the answer."
+
+==================================================
+UNIT 8: PRACTICE QUESTIONS - ACTIVE AND PASSIVE VOICE
+==================================================
+
+1. Active: "The teacher explains the lesson."
+   Passive: "The lesson is explained by the teacher."
+
+2. Active: "The gardener is watering the plants."
+   Passive: "The plants are being watered by the gardener."
+
+3. Active: "They have completed the project."
+   Passive: "The project has been completed by them."
+
+4. Active: "The boy broke the glass."
+   Passive: "The glass was broken by the boy."
+
+5. Active: "The workers were painting the wall."
+   Passive: "The wall was being painted by the workers."
+
+6. Active: "She had finished the work."
+   Passive: "The work had been finished by her."
+
+7. Active: "They will publish the results."
+   Passive: "The results will be published by them."
+
+8. Active: "You must obey the law."
+   Passive: "The law must be obeyed by you."
+
+9. Active: "Open the gate."
+   Passive: "Let the gate be opened."
+
+10. Active: "Please do not make noise."
+    Passive: "You are requested not to make noise."
+
+==================================================
+PART B: DIRECT AND INDIRECT SPEECH
+==================================================
+
+==================================================
+UNIT 9: INTRODUCTION TO NARRATION
+==================================================
+
+9.1 MEANING
+Direct Speech reports the exact words spoken by a person. The words are placed within quotation marks.
+
+Example:
+- Direct: Ravi said, "I am busy."
+
+Indirect Speech reports the meaning of the words spoken, without using the exact words or quotation marks.
+
+Example:
+- Indirect: Ravi said that he was busy.
+
+9.2 PARTS OF DIRECT SPEECH
+A direct speech sentence has two parts:
+1. Reporting verb: said, told, asked, exclaimed, ordered, requested.
+2. Reported speech: the exact words within quotation marks.
+
+Example:
+- He said, "I am tired."
+- He said = reporting clause.
+- "I am tired." = reported speech.
+
+9.3 BASIC CHANGES FROM DIRECT TO INDIRECT
+1. Remove quotation marks.
+2. Use "that" after reporting verbs such as "said" and "told" in statements.
+3. Change pronouns according to the speaker and listener.
+4. Change tense of the reported speech when the reporting verb is in the past tense.
+5. Change words showing nearness in time and place.
+
+==================================================
+UNIT 10: CHANGES IN PRONOUNS
+==================================================
+
+10.1 FIRST PERSON PRONOUNS
+First person pronouns in reported speech change according to the subject of the reporting verb.
+
+Rule:
+First person changes according to the subject.
+
+Examples:
+1. Direct: He said, "I am ill."
+   Indirect: He said that he was ill.
+
+2. Direct: She said, "I have finished my work."
+   Indirect: She said that she had finished her work.
+
+3. Direct: They said, "We are happy."
+   Indirect: They said that they were happy.
+
+4. Direct: Ravi said, "I will come tomorrow."
+   Indirect: Ravi said that he would come the next day.
+
+5. Direct: The boy said, "I do not know the answer."
+   Indirect: The boy said that he did not know the answer.
+
+10.2 SECOND PERSON PRONOUNS
+Second person pronouns change according to the object of the reporting verb.
+
+Rule:
+Second person changes according to the object.
+
+Examples:
+1. Direct: He said to me, "You are intelligent."
+   Indirect: He told me that I was intelligent.
+
+2. Direct: She said to him, "You have done well."
+   Indirect: She told him that he had done well.
+
+3. Direct: The teacher said to the students, "You must work hard."
+   Indirect: The teacher told the students that they had to work hard.
+
+4. Direct: He said to her, "You can win the prize."
+   Indirect: He told her that she could win the prize.
+
+5. Direct: Mother said to me, "You should sleep early."
+   Indirect: Mother told me that I should sleep early.
+
+10.3 THIRD PERSON PRONOUNS
+Third person pronouns do not change.
+
+Examples:
+1. Direct: He said, "He is a doctor."
+   Indirect: He said that he was a doctor.
+
+2. Direct: She said, "They are playing."
+   Indirect: She said that they were playing.
+
+3. Direct: Ravi said, "She has gone to Chennai."
+   Indirect: Ravi said that she had gone to Chennai.
+
+4. Direct: The teacher said, "He is absent."
+   Indirect: The teacher said that he was absent.
+
+5. Direct: Kumar said, "It is raining."
+   Indirect: Kumar said that it was raining.
+
+==================================================
+UNIT 11: CHANGES IN TENSES
+==================================================
+
+11.1 GENERAL RULE
+If the reporting verb is in the present or future tense, the tense of the reported speech does not change.
+
+Examples:
+1. Direct: He says, "I am busy."
+   Indirect: He says that he is busy.
+
+2. Direct: She says, "I will come."
+   Indirect: She says that she will come.
+
+3. Direct: He will say, "I have finished the work."
+   Indirect: He will say that he has finished the work.
+
+If the reporting verb is in the past tense, the tense of the reported speech usually changes.
+
+11.2 TENSE CHANGE CHART
+Direct speech tense - Indirect speech tense:
+1. Simple Present - Simple Past.
+2. Present Continuous - Past Continuous.
+3. Present Perfect - Past Perfect.
+4. Simple Past - Past Perfect.
+5. Past Continuous - Past Perfect Continuous.
+6. Past Perfect - Past Perfect (no change).
+7. Simple Future - Conditional Future; will becomes would.
+8. Can - Could.
+9. May - Might.
+10. Must - Had to / Must.
+11. Shall - Should / Would.
+
+11.3 TENSE CHANGE EXAMPLES
+1. Direct: He said, "I write a letter."
+   Indirect: He said that he wrote a letter.
+
+2. Direct: She said, "I am reading a book."
+   Indirect: She said that she was reading a book.
+
+3. Direct: They said, "We have completed the work."
+   Indirect: They said that they had completed the work.
+
+4. Direct: He said, "I wrote a letter."
+   Indirect: He said that he had written a letter.
+
+5. Direct: She said, "I was waiting for you."
+   Indirect: She said that she had been waiting for me.
+
+6. Direct: He said, "I had finished the work."
+   Indirect: He said that he had finished the work.
+
+7. Direct: She said, "I will help you."
+   Indirect: She said that she would help me.
+
+8. Direct: He said, "I can swim."
+   Indirect: He said that he could swim.
+
+9. Direct: She said, "I may come tomorrow."
+   Indirect: She said that she might come the next day.
+
+10. Direct: The teacher said, "You must submit the form."
+    Indirect: The teacher said that I had to submit the form.
+
+11.4 EXCEPTIONS TO TENSE CHANGE
+The tense does not change in the following cases:
+
+1. Universal truth:
+   Direct: The teacher said, "The earth revolves round the sun."
+   Indirect: The teacher said that the earth revolves round the sun.
+
+2. Habitual fact:
+   Direct: He said, "The sun rises in the east."
+   Indirect: He said that the sun rises in the east.
+
+3. Historical fact:
+   Direct: The teacher said, "India became independent in 1947."
+   Indirect: The teacher said that India became independent in 1947.
+
+4. If the reporting verb is in present or future tense:
+   Direct: He says, "I am tired."
+   Indirect: He says that he is tired.
+
+==================================================
+UNIT 12: CHANGES IN TIME AND PLACE WORDS
+==================================================
+
+12.1 COMMON CHANGES
+Direct speech word - Indirect speech word:
+1. Now - then.
+2. Today - that day.
+3. Tonight - that night.
+4. Yesterday - the previous day / the day before.
+5. Tomorrow - the next day / the following day.
+6. Last night - the previous night.
+7. Last week - the previous week.
+8. Next week - the following week.
+9. Here - there.
+10. This - that.
+11. These - those.
+12. Come - go.
+13. Thus - so.
+14. Hence - thence.
+15. Ago - before.
+
+12.2 EXAMPLES
+1. Direct: He said, "I am busy now."
+   Indirect: He said that he was busy then.
+
+2. Direct: She said, "I will come tomorrow."
+   Indirect: She said that she would come the next day.
+
+3. Direct: He said, "I met her yesterday."
+   Indirect: He said that he had met her the previous day.
+
+4. Direct: She said, "I am living here."
+   Indirect: She said that she was living there.
+
+5. Direct: He said, "This is my book."
+   Indirect: He said that that was his book.
+
+6. Direct: She said, "These mangoes are sweet."
+   Indirect: She said that those mangoes were sweet.
+
+7. Direct: He said, "I came here yesterday."
+   Indirect: He said that he had gone there the previous day.
+
+8. Direct: She said, "I will do it today."
+   Indirect: She said that she would do it that day.
+
+9. Direct: He said, "I saw him last night."
+   Indirect: He said that he had seen him the previous night.
+
+10. Direct: She said, "I will visit you next week."
+    Indirect: She said that she would visit me the following week.
+
+==================================================
+UNIT 13: STATEMENTS - DIRECT TO INDIRECT
+==================================================
+
+13.1 RULES
+1. Reporting verb "said to" changes to "told".
+2. Use "that" after the reporting verb.
+3. Change pronouns, tense and time/place words as required.
+4. Remove quotation marks and change the full stop at the end.
+
+Examples:
+1. Direct: He said, "I am tired."
+   Indirect: He said that he was tired.
+
+2. Direct: She said to me, "I have finished my work."
+   Indirect: She told me that she had finished her work.
+
+3. Direct: Ravi said, "I will visit Chennai tomorrow."
+   Indirect: Ravi said that he would visit Chennai the next day.
+
+4. Direct: The teacher said, "The earth moves round the sun."
+   Indirect: The teacher said that the earth moves round the sun.
+
+5. Direct: Kumar said to me, "You are my best friend."
+   Indirect: Kumar told me that I was his best friend.
+
+6. Direct: She said, "I do not like coffee."
+   Indirect: She said that she did not like coffee.
+
+7. Direct: He said, "I can speak three languages."
+   Indirect: He said that he could speak three languages.
+
+8. Direct: They said, "We are going to the temple."
+   Indirect: They said that they were going to the temple.
+
+9. Direct: The doctor said, "You must take rest."
+   Indirect: The doctor told me that I had to take rest.
+
+10. Direct: She said, "I bought this dress yesterday."
+    Indirect: She said that she had bought that dress the previous day.
+
+==================================================
+UNIT 14: INTERROGATIVE SENTENCES - DIRECT TO INDIRECT
+==================================================
+
+14.1 YES/NO QUESTIONS
+Rules:
+1. Reporting verb "said to" changes to "asked".
+2. Use "if" or "whether" after the reporting verb.
+3. Change the question form into statement form.
+4. Change pronouns and tense as required.
+5. Remove the question mark.
+
+Examples:
+1. Direct: He said to me, "Are you ill?"
+   Indirect: He asked me if I was ill.
+
+2. Direct: She said to him, "Do you like tea?"
+   Indirect: She asked him whether he liked tea.
+
+3. Direct: The teacher said, "Have you finished the work?"
+   Indirect: The teacher asked whether I had finished the work.
+
+4. Direct: He said to her, "Will you come tomorrow?"
+   Indirect: He asked her whether she would come the next day.
+
+5. Direct: Mother said to me, "Did you eat your food?"
+   Indirect: Mother asked me if I had eaten my food.
+
+6. Direct: He said, "Can you swim?"
+   Indirect: He asked if I could swim.
+
+7. Direct: She said to me, "Are you coming with us?"
+   Indirect: She asked me whether I was going with them.
+
+8. Direct: The officer said, "Have you brought the documents?"
+   Indirect: The officer asked whether I had brought the documents.
+
+9. Direct: He said to her, "Do you know Tamil?"
+   Indirect: He asked her if she knew Tamil.
+
+10. Direct: The doctor said, "Are you taking medicines regularly?"
+    Indirect: The doctor asked whether I was taking medicines regularly.
+
+14.2 WH-QUESTIONS
+Rules:
+1. Reporting verb "said to" changes to "asked".
+2. Keep the question word such as who, what, when, where, why, how.
+3. Change the question into statement order.
+4. Do not use "if" or "whether".
+5. Change tense and pronouns as required.
+
+Examples:
+1. Direct: He said to me, "What is your name?"
+   Indirect: He asked me what my name was.
+
+2. Direct: She said to him, "Where do you live?"
+   Indirect: She asked him where he lived.
+
+3. Direct: The teacher said, "Why are you late?"
+   Indirect: The teacher asked why I was late.
+
+4. Direct: He said to her, "When will you come?"
+   Indirect: He asked her when she would come.
+
+5. Direct: She said, "How do you solve this problem?"
+   Indirect: She asked how I solved that problem.
+
+6. Direct: He said to me, "Who is your class teacher?"
+   Indirect: He asked me who my class teacher was.
+
+7. Direct: The officer said, "What have you done?"
+   Indirect: The officer asked what I had done.
+
+8. Direct: She said, "Why did you leave early?"
+   Indirect: She asked why I had left early.
+
+9. Direct: He said to them, "Where are you going?"
+   Indirect: He asked them where they were going.
+
+10. Direct: The teacher said, "How did you solve the sum?"
+    Indirect: The teacher asked how I had solved the sum.
+
+==================================================
+UNIT 15: IMPERATIVE SENTENCES - DIRECT TO INDIRECT
+==================================================
+
+15.1 RULES
+1. Reporting verb changes according to the sense:
+   - Order: ordered, commanded.
+   - Request: requested.
+   - Advice: advised.
+   - Suggestion: suggested.
+   - Forbade: forbade.
+2. Use "to + base verb" after the reporting verb.
+3. For negative commands, use "not to + base verb".
+4. Remove quotation marks.
+
+Examples:
+1. Direct: The teacher said to the students, "Sit down."
+   Indirect: The teacher ordered the students to sit down.
+
+2. Direct: He said to me, "Please help me."
+   Indirect: He requested me to help him.
+
+3. Direct: Mother said to me, "Do not go out in the rain."
+   Indirect: Mother advised me not to go out in the rain.
+
+4. Direct: The doctor said to the patient, "Take rest."
+   Indirect: The doctor advised the patient to take rest.
+
+5. Direct: The officer said to the clerk, "Submit the report today."
+   Indirect: The officer ordered the clerk to submit the report that day.
+
+6. Direct: She said to him, "Please open the window."
+   Indirect: She requested him to open the window.
+
+7. Direct: The teacher said, "Do not make noise."
+   Indirect: The teacher ordered the students not to make noise.
+
+8. Direct: Father said to me, "Work hard."
+   Indirect: Father advised me to work hard.
+
+9. Direct: The coach said to the players, "Practise regularly."
+   Indirect: The coach advised the players to practise regularly.
+
+10. Direct: He said to his friend, "Do not tell lies."
+    Indirect: He advised his friend not to tell lies.
+
+==================================================
+UNIT 16: EXCLAMATORY SENTENCES - DIRECT TO INDIRECT
+==================================================
+
+16.1 RULES
+1. Reporting verb changes to "exclaimed with joy", "exclaimed with sorrow", "exclaimed with surprise", etc.
+2. Use "that" after the reporting verb.
+3. Change exclamatory words and punctuation.
+4. Change tense and pronouns as required.
+
+Common changes:
+- Hurrah - exclaimed with joy.
+- Alas - exclaimed with sorrow.
+- Bravo - applauded.
+- What/How - exclaimed with surprise.
+
+Examples:
+1. Direct: He said, "Hurrah! We have won the match."
+   Indirect: He exclaimed with joy that they had won the match.
+
+2. Direct: She said, "Alas! I have lost my purse."
+   Indirect: She exclaimed with sorrow that she had lost her purse.
+
+3. Direct: The teacher said, "Bravo! You have done well."
+   Indirect: The teacher applauded him, saying that he had done well.
+
+4. Direct: He said, "What a beautiful sight it is!"
+   Indirect: He exclaimed with surprise that it was a very beautiful sight.
+
+5. Direct: She said, "How intelligent the boy is!"
+   Indirect: She exclaimed that the boy was very intelligent.
+
+6. Direct: He said, "What a difficult question this is!"
+   Indirect: He exclaimed that it was a very difficult question.
+
+7. Direct: She said, "Alas! He is no more."
+   Indirect: She exclaimed with sorrow that he was no more.
+
+8. Direct: They said, "Hurrah! Our team has won."
+   Indirect: They exclaimed with joy that their team had won.
+
+9. Direct: He said, "How fast the train is!"
+   Indirect: He exclaimed that the train was very fast.
+
+10. Direct: She said, "What a lovely flower!"
+    Indirect: She exclaimed that it was a very lovely flower.
+
+==================================================
+UNIT 17: OPTATIVE SENTENCES - DIRECT TO INDIRECT
+==================================================
+
+17.1 RULES
+1. Reporting verb changes to "wished" or "prayed".
+2. Use "that" after the reporting verb.
+3. Change pronouns and tense as required.
+
+Examples:
+1. Direct: He said, "May you succeed!"
+   Indirect: He wished that I might succeed.
+
+2. Direct: She said, "May God bless you!"
+   Indirect: She prayed that God might bless me.
+
+3. Direct: The teacher said, "May you live long!"
+   Indirect: The teacher wished that I might live long.
+
+4. Direct: He said, "Good morning, friend."
+   Indirect: He wished his friend good morning.
+
+5. Direct: She said, "Good night, mother."
+   Indirect: She wished her mother good night.
+
+6. Direct: He said, "May you get first rank!"
+   Indirect: He wished that I might get first rank.
+
+7. Direct: The priest said, "May God protect you!"
+   Indirect: The priest prayed that God might protect me.
+
+8. Direct: She said, "May you recover soon!"
+   Indirect: She wished that I might recover soon.
+
+9. Direct: He said, "Goodbye, friends."
+   Indirect: He bade his friends goodbye.
+
+10. Direct: The elder said, "May you be happy!"
+    Indirect: The elder wished that I might be happy.
+
+==================================================
+UNIT 18: INDIRECT TO DIRECT SPEECH
+==================================================
+
+18.1 BASIC RULES
+1. Add quotation marks.
+2. Change "told" to "said to" in statements.
+3. Change "asked" to "said to" in questions.
+4. Change "if/whether" questions into yes/no question form.
+5. Change tense back according to the rules.
+6. Change time and place words back to direct form.
+
+Examples:
+1. Indirect: He said that he was busy.
+   Direct: He said, "I am busy."
+
+2. Indirect: She told me that she had finished her work.
+   Direct: She said to me, "I have finished my work."
+
+3. Indirect: He asked me if I was ill.
+   Direct: He said to me, "Are you ill?"
+
+4. Indirect: She asked him where he lived.
+   Direct: She said to him, "Where do you live?"
+
+5. Indirect: The teacher ordered the students to sit down.
+   Direct: The teacher said to the students, "Sit down."
+
+6. Indirect: He requested me to help him.
+   Direct: He said to me, "Please help me."
+
+7. Indirect: She exclaimed with joy that they had won the match.
+   Direct: She said, "Hurrah! We have won the match."
+
+8. Indirect: He wished that I might succeed.
+   Direct: He said, "May you succeed!"
+
+9. Indirect: The doctor advised the patient to take rest.
+   Direct: The doctor said to the patient, "Take rest."
+
+10. Indirect: He said that he would come the next day.
+    Direct: He said, "I will come tomorrow."
+
+==================================================
+UNIT 19: COMMON ERRORS IN NARRATION
+==================================================
+
+1. Do not retain quotation marks in indirect speech.
+   Incorrect: He said that "he was tired."
+   Correct: He said that he was tired.
+
+2. Use "that" in indirect statements.
+   Correct: He said that he was tired.
+
+3. Use "if" or "whether" for yes/no questions.
+   Correct: He asked whether I was ready.
+
+4. Do not use "if" or "whether" for wh-questions.
+   Correct: He asked where I lived.
+   Incorrect: He asked if where I lived.
+
+5. Change the tense when the reporting verb is in the past tense.
+   Incorrect: He said that he is tired.
+   Correct: He said that he was tired.
+
+6. Do not change the tense of universal truths.
+   Correct: The teacher said that the earth revolves round the sun.
+
+7. Use "not to" for negative commands.
+   Correct: He advised me not to go out.
+
+8. Change "said to" into "told" in indirect statements.
+   Correct: He told me that he was busy.
+
+9. Change question order into statement order in indirect speech.
+   Correct: He asked me what my name was.
+   Incorrect: He asked me what was my name.
+
+10. Change near words into distant words.
+   Correct: She said that she would come the next day.
+
+==================================================
+UNIT 20: PRACTICE QUESTIONS - NARRATION
+==================================================
+
+1. Direct: He said, "I am reading a book."
+   Indirect: He said that he was reading a book.
+
+2. Direct: She said to me, "You have helped me."
+   Indirect: She told me that I had helped her.
+
+3. Direct: They said, "We will come tomorrow."
+   Indirect: They said that they would come the next day.
+
+4. Direct: The teacher said, "The sun rises in the east."
+   Indirect: The teacher said that the sun rises in the east.
+
+5. Direct: He said to her, "Are you ready?"
+   Indirect: He asked her whether she was ready.
+
+6. Direct: She said to him, "Where are you going?"
+   Indirect: She asked him where he was going.
+
+7. Direct: The officer said, "Submit the report immediately."
+   Indirect: The officer ordered me to submit the report immediately.
+
+8. Direct: Mother said, "Do not watch television now."
+   Indirect: Mother advised me not to watch television then.
+
+9. Direct: He said, "Hurrah! We have won."
+   Indirect: He exclaimed with joy that they had won.
+
+10. Direct: She said, "May you live long!"
+    Indirect: She wished that I might live long.
+
+==================================================
+PART C: TYPES OF SENTENCES
+==================================================
+
+==================================================
+UNIT 21: INTRODUCTION TO SENTENCES
+==================================================
+
+21.1 MEANING OF A SENTENCE
+A sentence is a group of words that makes complete sense. It begins with a capital letter and ends with a full stop, question mark or exclamation mark.
+
+Examples:
+- The sun rises in the east.
+- Where are you going?
+- What a beautiful flower!
+- Please close the door.
+
+21.2 CLASSIFICATION OF SENTENCES
+Sentences are classified in two ways:
+1. According to function or meaning.
+2. According to structure or clause pattern.
+
+According to function, there are five types:
+1. Assertive or Declarative sentence.
+2. Interrogative sentence.
+3. Imperative sentence.
+4. Exclamatory sentence.
+5. Optative sentence.
+
+According to structure, there are three types:
+1. Simple sentence.
+2. Compound sentence.
+3. Complex sentence.
+
+==================================================
+UNIT 22: ASSERTIVE OR DECLARATIVE SENTENCES
+==================================================
+
+22.1 DEFINITION
+An assertive or declarative sentence makes a statement or expresses an opinion. It ends with a full stop.
+
+Examples:
+- Chennai is the capital of Tamil Nadu.
+- The earth revolves round the sun.
+- She is a doctor.
+- They have completed the work.
+- India is a democratic country.
+
+22.2 TYPES OF ASSERTIVE SENTENCES
+1. Affirmative sentence - agrees or states something positively.
+   Examples:
+   - He is honest.
+   - She has come.
+   - They are playing.
+
+2. Negative sentence - denies or states something negatively.
+   Examples:
+   - He is not honest.
+   - She has not come.
+   - They are not playing.
+
+22.3 AFFIRMATIVE TO NEGATIVE WITHOUT CHANGING MEANING
+1. Use "not" with the opposite adjective.
+   - Affirmative: "He is brave."
+   - Negative: "He is not cowardly."
+
+2. Use "not" with the opposite word.
+   - Affirmative: "She is always punctual."
+   - Negative: "She is never late."
+
+3. Use "not" with a negative word.
+   - Affirmative: "Everyone was present."
+   - Negative: "No one was absent."
+
+4. Use "not less than" for "more than".
+   - Affirmative: "He is more than sixty years old."
+   - Negative: "He is not less than sixty years old."
+
+5. Use "not unsuccessful" for "successful".
+   - Affirmative: "The attempt was successful."
+   - Negative: "The attempt was not unsuccessful."
+
+==================================================
+UNIT 23: INTERROGATIVE SENTENCES
+==================================================
+
+23.1 DEFINITION
+An interrogative sentence asks a question. It ends with a question mark.
+
+Examples:
+- Where do you live?
+- Have you finished the work?
+- Who is your class teacher?
+- Why are you late?
+- Can you swim?
+
+23.2 TYPES OF INTERROGATIVE SENTENCES
+1. Yes/No type questions - answered by yes or no.
+   Examples:
+   - Are you ready?
+   - Do you know him?
+   - Has she come?
+
+2. Wh-type questions - begin with question words.
+   Examples:
+   - What is your name?
+   - Where do you live?
+   - When will you come?
+   - Why did he leave?
+   - How did you solve it?
+
+3. Alternative questions - offer a choice.
+   Examples:
+   - Do you like tea or coffee?
+   - Will you come today or tomorrow?
+
+4. Tag questions - a short question added to a statement.
+   Examples:
+   - You are coming, aren't you?
+   - She has finished, hasn't she?
+   - He can swim, can't he?
+
+23.3 ASSERTIVE TO INTERROGATIVE WITHOUT CHANGING MEANING
+1. Affirmative assertive becomes negative interrogative.
+   - Assertive: "He is honest."
+   - Interrogative: "Is he not honest?"
+
+2. Negative assertive becomes affirmative interrogative.
+   - Assertive: "He is not honest."
+   - Interrogative: "Is he honest?"
+
+3. Use "who" for "nobody".
+   - Assertive: "Nobody can do this."
+   - Interrogative: "Who can do this?"
+
+4. Use "what" for "nothing".
+   - Assertive: "Nothing was done."
+   - Interrogative: "What was done?"
+
+5. Use "why" for "no reason".
+   - Assertive: "There is no reason to doubt him."
+   - Interrogative: "Why should we doubt him?"
+
+==================================================
+UNIT 24: IMPERATIVE SENTENCES
+==================================================
+
+24.1 DEFINITION
+An imperative sentence expresses an order, command, request, advice, suggestion or prohibition. The subject "you" is usually understood but not written.
+
+Examples:
+- Close the door.
+- Please help me.
+- Do not make noise.
+- Take rest.
+- Let us go now.
+
+24.2 TYPES OF IMPERATIVE SENTENCES
+1. Command or order:
+   - Stand up.
+   - Leave the room.
+   - Submit the report.
+
+2. Request:
+   - Please help me.
+   - Please give me a pen.
+   - Kindly wait here.
+
+3. Advice:
+   - Work hard.
+   - Take exercise daily.
+   - Do not waste time.
+
+4. Prohibition:
+   - Do not smoke here.
+   - Do not touch the wire.
+   - Do not tell lies.
+
+5. Suggestion:
+   - Let us go for a walk.
+   - Let us start early.
+   - Let us discuss the matter.
+
+24.3 ASSERTIVE TO IMPERATIVE
+An order can be expressed as an imperative sentence.
+
+Examples:
+1. Assertive: "You should obey your parents."
+   Imperative: "Obey your parents."
+
+2. Assertive: "You must not waste water."
+   Imperative: "Do not waste water."
+
+3. Assertive: "You should respect elders."
+   Imperative: "Respect elders."
+
+4. Assertive: "You should keep the room clean."
+   Imperative: "Keep the room clean."
+
+5. Assertive: "You should not tell lies."
+   Imperative: "Do not tell lies."
+
+==================================================
+UNIT 25: EXCLAMATORY SENTENCES
+==================================================
+
+25.1 DEFINITION
+An exclamatory sentence expresses strong emotion such as joy, sorrow, surprise, anger, wonder or approval. It ends with an exclamation mark.
+
+Examples:
+- What a beautiful flower!
+- How clever she is!
+- Hurrah! We have won.
+- Alas! He has failed.
+- Bravo! Well done.
+
+25.2 STRUCTURE
+1. What + a/an + adjective + noun + subject + verb!
+   - What a beautiful sight it is!
+   - What an intelligent boy he is!
+
+2. How + adjective/adverb + subject + verb!
+   - How beautiful the flower is!
+   - How quickly he runs!
+
+25.3 ASSERTIVE TO EXCLAMATORY
+1. Use "What a" or "How" according to the sentence.
+2. Retain the meaning.
+3. Use an exclamation mark.
+
+Examples:
+1. Assertive: "It is a very beautiful flower."
+   Exclamatory: "What a beautiful flower it is!"
+
+2. Assertive: "She is very intelligent."
+   Exclamatory: "How intelligent she is!"
+
+3. Assertive: "The boy is very brave."
+   Exclamatory: "How brave the boy is!"
+
+4. Assertive: "It is a very difficult question."
+   Exclamatory: "What a difficult question it is!"
+
+5. Assertive: "The scenery is very beautiful."
+   Exclamatory: "How beautiful the scenery is!"
+
+6. Assertive: "He runs very fast."
+   Exclamatory: "How fast he runs!"
+
+7. Assertive: "It is a very good idea."
+   Exclamatory: "What a good idea it is!"
+
+8. Assertive: "The child is very cute."
+   Exclamatory: "How cute the child is!"
+
+9. Assertive: "It was a very pleasant surprise."
+   Exclamatory: "What a pleasant surprise it was!"
+
+10. Assertive: "The mountain is very high."
+    Exclamatory: "How high the mountain is!"
+
+==================================================
+UNIT 26: OPTATIVE SENTENCES
+==================================================
+
+26.1 DEFINITION
+An optative sentence expresses a wish, prayer, blessing or curse. It usually begins with "may" and ends with an exclamation mark.
+
+Examples:
+- May you succeed!
+- May God bless you!
+- May you live long!
+- May you recover soon!
+- Long live our nation!
+
+26.2 ASSERTIVE TO OPTATIVE
+Examples:
+1. Assertive: "I wish you success."
+   Optative: "May you succeed!"
+
+2. Assertive: "I wish you a long life."
+   Optative: "May you live long!"
+
+3. Assertive: "I pray that God may bless you."
+   Optative: "May God bless you!"
+
+4. Assertive: "I wish you a speedy recovery."
+   Optative: "May you recover soon!"
+
+5. Assertive: "I wish you happiness."
+   Optative: "May you be happy!"
+
+6. Assertive: "I wish you good luck."
+   Optative: "Good luck to you!"
+
+7. Assertive: "I wish our country progress."
+   Optative: "May our country progress!"
+
+8. Assertive: "I wish you a safe journey."
+   Optative: "May you have a safe journey!"
+
+9. Assertive: "I wish you peace."
+   Optative: "May you have peace!"
+
+10. Assertive: "I wish you prosperity."
+    Optative: "May you prosper!"
+
+==================================================
+UNIT 27: SIMPLE, COMPOUND AND COMPLEX SENTENCES
+==================================================
+
+27.1 SIMPLE SENTENCE
+A simple sentence has only one subject-verb combination and expresses one complete idea. It has one main clause and no subordinate clause.
+
+Examples:
+- The boy is reading a book.
+- She went to Chennai.
+- They play cricket every evening.
+- The sun rises in the east.
+- He works in a bank.
+
+27.2 COMPOUND SENTENCE
+A compound sentence has two or more main clauses joined by a coordinating conjunction such as and, but, or, so, yet, for, nor.
+
+Examples:
+- The boy is reading a book, and his sister is writing a letter.
+- He was ill, but he attended the class.
+- You can take tea or coffee.
+- He worked hard, so he passed.
+- She was tired, yet she continued working.
+
+27.3 COMPLEX SENTENCE
+A complex sentence has one main clause and one or more subordinate clauses. Subordinate clauses are introduced by words such as because, although, when, while, if, since, unless, who, which, that.
+
+Examples:
+- When he came, I was reading.
+- Because he was ill, he did not attend the class.
+- The book that you gave me is interesting.
+- If you work hard, you will pass.
+- Although he is poor, he is honest.
+
+27.4 SIMPLE TO COMPOUND SENTENCE
+Use a coordinating conjunction to join two main clauses.
+
+Examples:
+1. Simple: "Being ill, he did not come."
+   Compound: "He was ill, so he did not come."
+
+2. Simple: "Besides being intelligent, he is hardworking."
+   Compound: "He is intelligent, and he is hardworking."
+
+3. Simple: "In spite of poverty, he is honest."
+   Compound: "He is poor, but he is honest."
+
+4. Simple: "On seeing the police, the thief ran away."
+   Compound: "The thief saw the police, and he ran away."
+
+5. Simple: "He must work hard to succeed."
+   Compound: "He must work hard, or he will not succeed."
+
+6. Simple: "The sun having risen, we started our journey."
+   Compound: "The sun rose, and we started our journey."
+
+7. Simple: "Notwithstanding his illness, he attended the meeting."
+   Compound: "He was ill, yet he attended the meeting."
+
+8. Simple: "He is too weak to walk."
+   Compound: "He is very weak, so he cannot walk."
+
+9. Simple: "Owing to rain, the match was cancelled."
+   Compound: "It rained, so the match was cancelled."
+
+10. Simple: "Besides teaching, she writes books."
+    Compound: "She teaches, and she also writes books."
+
+27.5 SIMPLE TO COMPLEX SENTENCE
+Use a subordinate clause with words such as when, because, if, although, who, which, that.
+
+Examples:
+1. Simple: "Being ill, he did not come."
+   Complex: "As he was ill, he did not come."
+
+2. Simple: "He worked hard to pass."
+   Complex: "He worked hard so that he could pass."
+
+3. Simple: "The boy standing there is my brother."
+   Complex: "The boy who is standing there is my brother."
+
+4. Simple: "I saw a wounded bird."
+   Complex: "I saw a bird which was wounded."
+
+5. Simple: "On reaching Chennai, he called me."
+   Complex: "When he reached Chennai, he called me."
+
+6. Simple: "In spite of poverty, he is honest."
+   Complex: "Though he is poor, he is honest."
+
+7. Simple: "He is too weak to walk."
+   Complex: "He is so weak that he cannot walk."
+
+8. Simple: "The man with a white shirt is my uncle."
+   Complex: "The man who is wearing

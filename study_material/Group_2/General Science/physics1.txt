@@ -1,0 +1,2453 @@
+====================== STUDY PAGE 001 ======================
+
+TNPSC GROUP 2 / 2A — GENERAL SCIENCE
+
+PHYSICS
+
+READ THIS FIRST
+
+This is an original study guide written to support TNPSC Group 2 / 2A revision. It follows broad physics themes commonly covered across Tamil Nadu Samacheer Kalvi school Science and Physics textbooks, but it is not a verbatim textbook copy and is not an official TNPSC publication. The official TNPSC General Science syllabus and your prescribed Samacheer Kalvi editions should be used as the final checklist.
+
+TOPIC: MEASUREMENT, PHYSICAL QUANTITIES AND UNITS
+
+=================================================
+
+SUBHEADING: PHYSICS AND SCIENTIFIC METHOD
+
+Physics studies matter, energy, motion, forces and the interactions that govern natural phenomena. A
+scientific explanation is built from observation, measurement, hypothesis, controlled testing and
+analysis. A hypothesis is testable; a theory is a broad explanation supported by substantial
+evidence; a law describes a consistent relationship under specified conditions. A scientific law
+does not necessarily explain why a relationship occurs, and a theory does not simply become a law
+after enough time.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: PHYSICAL QUANTITIES
+
+A physical quantity is a measurable property expressed as a numerical value and a unit. Fundamental
+quantities are defined independently within a system of units, while derived quantities are formed
+from combinations of fundamental quantities. Length, mass, time, electric current, thermodynamic
+temperature, amount of substance and luminous intensity are the seven SI base quantities. Area,
+volume, speed, acceleration, force and density are derived quantities.
+
+
+
+
+====================== STUDY PAGE 002 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: SI UNITS AND SYMBOLS
+
+The SI base units are metre (m), kilogram (kg), second (s), ampere (A), kelvin (K), mole (mol) and
+candela (cd). Unit symbols are case-sensitive: m means metre, while M is not the same symbol; kg is
+written without a full stop. Symbols do not normally take plural endings. A space is generally
+placed between the numerical value and unit symbol, as in 5 m or 20 s.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: PREFIXES AND POWERS OF TEN
+
+Common prefixes include kilo (10^3), centi (10^-2), milli (10^-3), micro (10^-6), nano (10^-9), mega
+(10^6) and giga (10^9). Prefixes simplify very large and very small values. Conversion should
+preserve the physical quantity: 1 km = 1000 m, 1 cm = 0.01 m, and 1 ms = 0.001 s. Squared and cubed
+units must also be converted with the factor squared or cubed.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: DIMENSIONS AND DIMENSIONAL FORMULAE
+
+Dimensions express a derived quantity in terms of fundamental dimensions such as mass [M], length
+[L] and time [T]. Speed has dimension [LT^-1], acceleration [LT^-2], force [MLT^-2], work
+[ML^2T^-2], pressure [ML^-1T^-2] and density [ML^-3]. Dimensional analysis can check whether terms
+in an equation are compatible, but it cannot determine dimensionless numerical constants or prove
+that a formula is physically correct in every situation.
+
+
+
+
+====================== STUDY PAGE 003 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: ACCURACY, PRECISION AND ERRORS
+
+Accuracy describes closeness to the accepted value; precision describes agreement among repeated
+measurements. Random errors vary unpredictably and may be reduced by repeated observations.
+Systematic errors shift results in a consistent direction and may arise from calibration or method.
+Significant figures communicate measurement precision. When multiplying or dividing measured values,
+the reported precision should reflect the least precise input according to the relevant convention.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: SCIENTIFIC NOTATION AND ESTIMATION
+
+Scientific notation writes a number as a × 10^n, where 1 ≤ |a| < 10. It helps compare scales and
+perform calculations without excessive zeros. Estimation is useful for checking whether an answer is
+plausible. A unit conversion or formula calculation should be checked for magnitude, unit
+consistency and the physical meaning of the result.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: MOTION, SPEED, VELOCITY AND ACCELERATION
+
+===============================================
+
+
+
+SUBHEADING: REST AND MOTION ARE RELATIVE
+
+An object is at rest or in motion relative to a chosen reference frame. A passenger sitting in a
+moving bus is at rest relative to the seat but moving relative to the road. Motion descriptions
+require a reference point and time interval. This idea is important in conceptual questions that try
+to treat rest as an absolute condition.
+
+
+
+
+====================== STUDY PAGE 004 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: DISTANCE AND DISPLACEMENT
+
+Distance is the total length of the actual path travelled and is a scalar. Displacement is the
+directed change from initial to final position and is a vector. Distance is never negative and is at
+least as large as the magnitude of displacement. After a complete round trip, displacement can be
+zero even though distance is positive.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: SPEED AND AVERAGE SPEED
+
+Average speed equals total distance divided by total time. Instantaneous speed describes the rate of
+motion at a particular instant. If a journey has several parts, average speed must be calculated
+using the total distance and total time, not by taking a simple arithmetic average of the separate
+speeds unless the time intervals make that valid.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: VELOCITY
+
+Velocity is the rate of change of displacement and includes direction. Average velocity is total
+displacement divided by total time. An object moving around a circular track can have a changing
+velocity even when its speed is constant, because direction changes continuously. Velocity may be
+positive, negative or zero depending on the chosen axis and motion.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 005 ======================
+
+SUBHEADING: ACCELERATION
+
+Acceleration is the rate of change of velocity with time. It can arise from a change in speed,
+direction or both. Uniform acceleration means equal changes in velocity in equal time intervals.
+Deceleration is acceleration opposite to the direction of velocity in common one-dimensional
+situations; the sign of acceleration itself depends on the coordinate convention.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: EQUATIONS OF UNIFORMLY ACCELERATED MOTION
+
+For straight-line motion with constant acceleration, v = u + at; s = ut + ½at²; and v² = u² + 2as.
+Here u is initial velocity, v final velocity, a acceleration, t time and s displacement. These
+equations should not be applied unchanged when acceleration varies significantly with time. Use SI
+units consistently: metres, seconds and metres per second squared.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: DISTANCE-TIME AND VELOCITY-TIME GRAPHS
+
+The slope of a distance-time graph gives speed when the graph represents distance travelled. The
+slope of a displacement-time graph gives velocity. The slope of a velocity-time graph gives
+acceleration, and the signed area under a velocity-time graph gives displacement. The area under a
+speed-time graph gives distance travelled. Graph interpretation is often more important than
+memorising the formula alone.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: CIRCULAR MOTION
+
+In circular motion, the direction of velocity changes continually. Centripetal acceleration points
+toward the centre and has magnitude v²/r for speed v and radius r. A centripetal force is not a new
+type of force; it is the net inward force supplied by tension, friction, gravity or another
+interaction. If the inward net force disappears, an object continues along its instantaneous tangent
+rather than flying outward because of a separate outward force.
+
+
+
+
+====================== STUDY PAGE 006 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: FORCE, NEWTON'S LAWS AND MOMENTUM
+
+========================================
+
+
+
+SUBHEADING: FORCE AND ITS EFFECTS
+
+A force is an interaction that can change an object's state of motion, direction or shape. Force is
+a vector and its SI unit is the newton (N). The net force is the vector sum of all forces acting on
+an object. Balanced forces produce zero net force and no acceleration, though they may still deform
+an object or maintain motion at constant velocity.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: NEWTON'S FIRST LAW AND INERTIA
+
+Newton's first law states that an object remains at rest or continues in uniform straight-line
+motion unless acted on by a net external force. Inertia is the tendency to resist changes in motion.
+Mass is a measure of inertia. Passengers lurch forward when a moving vehicle stops because their
+bodies tend to maintain their previous motion; seat belts provide the force needed to change that
+motion safely.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: NEWTON'S SECOND LAW
+
+The net force equals the rate of change of momentum. For constant mass, F = ma. One newton is the
+force that gives a one-kilogram mass an acceleration of one metre per second squared. For the same
+net force, a larger mass experiences a smaller acceleration. For the same mass, a larger net force
+produces a larger acceleration.
+
+
+
+
+====================== STUDY PAGE 007 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: NEWTON'S THIRD LAW
+
+For every action there is an equal and opposite reaction. The two forces act on different bodies, so
+they do not cancel each other on a single free-body diagram. A swimmer pushes water backward and the
+water pushes the swimmer forward. A rocket accelerates by expelling gases backward. Walking relies
+on the interaction between the foot and the ground.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: MOMENTUM AND IMPULSE
+
+Momentum is mass multiplied by velocity, p = mv, and is a vector. Impulse equals the change in
+momentum and also equals force multiplied by the time interval when force is constant. Increasing
+the time over which momentum changes reduces the average force for the same momentum change. Airbags
+and cushioning materials increase stopping time and reduce injury risk in collisions.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: CONSERVATION OF MOMENTUM
+
+In an isolated system with negligible net external force, total momentum remains constant. During a
+collision, the momenta of interacting objects may change individually while their total remains
+constant. The principle applies to recoil, explosions and many collision problems. Kinetic energy,
+unlike momentum, is not conserved in every collision; in an inelastic collision some kinetic energy
+becomes internal energy, sound or deformation.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 008 ======================
+
+SUBHEADING: FRICTION
+
+Friction opposes relative motion or the tendency for relative motion between contacting surfaces.
+Static friction adjusts up to a maximum value; kinetic friction acts when surfaces slide. Friction
+provides grip for walking and braking, but it also causes wear and heat. Lubrication, ball bearings
+and streamlining reduce different kinds of resistance. Friction is not always undesirable.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: MOMENTUM AND SAFETY APPLICATIONS
+
+A short stopping time creates a large average force for a given momentum change. Safety design
+therefore attempts to lengthen the time or distance over which a person or vehicle slows down.
+Crumple zones deform to absorb energy; helmets spread and cushion impact; seat belts restrain
+occupants. These applications follow mechanics principles rather than eliminating the underlying
+momentum change.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: WORK, ENERGY AND POWER
+
+=============================
+
+
+
+SUBHEADING: WORK IN PHYSICS
+
+In mechanics, work is done when a force produces displacement. For a constant force, W = Fs cos θ,
+where θ is the angle between force and displacement. Work is positive when the force has a component
+along displacement, negative when it opposes displacement, and zero when force is perpendicular to
+displacement or when there is no displacement. Holding a heavy bag stationary involves effort
+biologically but zero mechanical work on the bag in the simple physics definition.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 009 ======================
+
+SUBHEADING: KINETIC ENERGY
+
+Kinetic energy is the energy of motion and is given by KE = ½mv². It depends linearly on mass and on
+the square of speed. Doubling speed makes kinetic energy four times as large for the same mass. This
+square dependence explains why high-speed collisions can be much more damaging than low-speed
+collisions.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: POTENTIAL ENERGY
+
+Gravitational potential energy near Earth's surface can be expressed as PE = mgh relative to a
+chosen reference level. It depends on mass, gravitational acceleration and height. The reference
+level may be chosen for convenience; changes in potential energy are physically meaningful. Elastic
+potential energy can be stored in stretched or compressed elastic objects.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: CONSERVATION AND TRANSFORMATION OF ENERGY
+
+Energy can transfer between objects and change form. In an ideal isolated system, total energy is
+conserved. A falling object converts gravitational potential energy into kinetic energy; a generator
+converts mechanical energy into electrical energy; a motor converts electrical energy into
+mechanical energy. In real processes, some energy is transferred to the surroundings as thermal
+energy or sound, making useful energy less available even though total energy remains conserved.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: POWER AND EFFICIENCY
+
+Power is the rate of doing work or transferring energy: P = W/t. The SI unit is the watt, equal to
+one joule per second. Efficiency is useful output energy divided by input energy, multiplied by 100%
+when expressed as a percentage. Real machines have efficiency below 100% because of friction,
+heating, sound and other losses.
+
+
+
+
+====================== STUDY PAGE 010 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: SIMPLE MACHINES
+
+Levers, pulleys, inclined planes, wheels and axles, screws and wedges can change the magnitude or
+direction of a force. Mechanical advantage is output force divided by input force. In an ideal
+machine, work input equals work output; real machines require more input work than useful output
+work. A machine does not create energy, but it can make a task more convenient.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: GRAVITATION AND SATELLITES
+
+=================================
+
+
+
+SUBHEADING: UNIVERSAL LAW OF GRAVITATION
+
+Every pair of masses attracts one another. The magnitude of the force is F = Gm₁m₂/r², where G is
+the universal gravitational constant and r is the separation between the centres of the masses. The
+force increases with either mass and decreases with the square of separation. Gravity governs
+falling objects, planetary orbits, tides and satellite motion.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: MASS AND WEIGHT
+
+Mass measures inertia and is expressed in kilograms; weight is the gravitational force on a body, W
+= mg, and is expressed in newtons. Mass does not ordinarily change with location, while weight
+varies with gravitational field strength. An astronaut in orbit experiences apparent weightlessness
+because the astronaut and spacecraft are in continuous free fall together, not because Earth's
+gravity has vanished.
+
+
+
+
+====================== STUDY PAGE 011 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: VARIATION OF G
+
+The acceleration due to gravity varies with altitude, depth, latitude and local geology. In a
+simplified spherical model, gravity decreases with altitude as distance from Earth's centre
+increases. Inside an ideal uniform-density sphere, gravitational acceleration decreases toward zero
+at the centre. Earth's rotation and non-spherical shape also contribute to differences in effective
+gravity.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: FREE FALL
+
+Free fall is motion under gravity alone, neglecting air resistance. In a vacuum, objects released
+from the same point have the same gravitational acceleration regardless of mass. In air, shape and
+drag can make their observed motion different. A feather and a coin fall together in a vacuum but
+not necessarily in ordinary air.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: ESCAPE SPEED AND ORBITAL MOTION
+
+Escape speed is the minimum launch speed needed to escape a body's gravitational field without
+further propulsion, under an idealised model. An orbiting satellite is continuously falling toward
+Earth while moving sideways fast enough that the curved surface falls away beneath it. Orbital speed
+depends on the central mass and orbital radius, not simply on the satellite's own mass.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 012 ======================
+
+SUBHEADING: GEOSTATIONARY SATELLITES
+
+A geostationary satellite orbits above the equator in the same direction as Earth's rotation and has
+an orbital period equal to one sidereal day. It appears nearly fixed above one longitude and is
+useful for communications and continuous weather observation. A satellite with a 24-hour period in a
+tilted or non-circular orbit is not necessarily geostationary.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: TIDES
+
+Tides result primarily from the differential gravitational effects of the Moon and Sun across Earth,
+together with Earth's rotation and basin geometry. Spring tides occur when the Sun, Moon and Earth
+are aligned near new or full moon; neap tides occur near the first and third quarter phases. Local
+coast shape and ocean depth influence the actual tidal range.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: PROPERTIES OF MATTER: DENSITY, PRESSURE AND ELASTICITY
+
+=============================================================
+
+
+
+SUBHEADING: STATES OF MATTER AND PARTICLE MODEL
+
+Solids generally maintain shape and volume, liquids maintain volume but take the shape of their
+container, and gases expand to fill available space. These macroscopic properties arise from
+particle spacing, motion and intermolecular interactions. Heating usually increases average particle
+kinetic energy, though phase changes can absorb energy without a temperature rise while the change
+is occurring.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 013 ======================
+
+SUBHEADING: DENSITY AND RELATIVE DENSITY
+
+Density is mass per unit volume, ρ = m/V. SI density is measured in kg/m³. Relative density is the
+ratio of a material's density to a reference density and has no unit. Density can help identify
+materials and explain floating, but the behaviour of an object in a fluid depends on the object's
+average density, shape, trapped air and the fluid's density.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: PRESSURE IN SOLIDS AND FLUIDS
+
+Pressure is normal force per unit area, P = F/A, measured in pascals (Pa). For the same force, a
+smaller contact area creates greater pressure. Fluid pressure increases with depth according to P =
+ρgh for a stationary fluid of uniform density, relative to the surface pressure. At the same depth
+in a connected stationary fluid, pressure is equal when the fluid and conditions are the same.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: PASCAL'S PRINCIPLE
+
+A pressure change applied to an enclosed fluid is transmitted throughout the fluid. Hydraulic lifts
+and hydraulic brakes use this principle. A small input force applied to a small piston can produce a
+larger output force on a larger piston, but the output piston moves a smaller distance in an ideal
+system. The system does not multiply work or create energy.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 014 ======================
+
+SUBHEADING: ARCHIMEDES' PRINCIPLE AND BUOYANCY
+
+An immersed object experiences an upward buoyant force equal to the weight of the fluid displaced.
+An object floats when buoyancy balances its weight. If its average density is lower than that of the
+fluid, it can float with only part of its volume submerged. A steel ship can float because its
+hollow shape makes the average density of the whole ship less than that of water.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: SURFACE TENSION AND CAPILLARITY
+
+Surface tension arises from intermolecular forces at a liquid surface and makes the surface behave
+as if it were stretched. Small droplets tend toward shapes with lower surface area. Capillary rise
+or depression occurs because adhesive forces between liquid and surface interact with cohesive
+forces within the liquid. Thin tubes, porous materials and plant xylem can show capillary effects.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: VISCOSITY
+
+Viscosity describes a fluid's resistance to flow. Honey has greater viscosity than water under
+ordinary conditions. Viscosity generally decreases with temperature for many liquids but increases
+with temperature for gases. Flow depends on viscosity, pressure differences, tube dimensions and
+whether flow is laminar or turbulent.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: ELASTICITY AND STRESS-STRAIN
+
+Elasticity is the tendency of a material to return to its original shape after the deforming force
+is removed, within its elastic limit. Stress is force per unit area; strain is fractional
+deformation and has no unit. Hooke's law states that stress is proportional to strain within the
+proportional limit for suitable materials. Beyond the elastic limit, permanent deformation may
+occur.
+
+
+
+
+====================== STUDY PAGE 015 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: HEAT, TEMPERATURE AND THERMODYNAMICS
+
+===========================================
+
+
+
+SUBHEADING: TEMPERATURE AND HEAT
+
+Temperature indicates the thermal state of a system and determines the direction of net heat
+transfer between bodies in thermal contact. Heat is energy transferred because of a temperature
+difference. A hot object does not contain 'heat' as a stored substance; it has internal energy and
+may transfer energy as heat. Thermal equilibrium is reached when there is no net heat transfer due
+to temperature difference.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: THERMOMETERS AND SCALES
+
+Common temperature scales include Celsius, Fahrenheit and kelvin. Kelvin is the SI base unit of
+thermodynamic temperature and begins at absolute zero. Temperature conversions include K = °C +
+273.15 and °F = (9/5)°C + 32. Absolute zero is the lower limit of thermodynamic temperature;
+ordinary cooling cannot reduce a system below it.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: THERMAL EXPANSION
+
+Most materials expand when heated and contract when cooled, though unusual behaviours occur in some
+materials and temperature ranges. Linear expansion is described approximately by ΔL = αL₀ΔT.
+Expansion gaps are left in bridges and railway structures to accommodate temperature changes.
+Bimetallic strips bend because their two materials expand by different amounts, enabling thermostats
+and thermal switches.
+
+
+
+
+====================== STUDY PAGE 016 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: SPECIFIC HEAT CAPACITY
+
+Specific heat capacity is the energy needed to raise the temperature of one kilogram of a substance
+by one kelvin. The relation Q = mcΔT applies when the specific heat capacity is approximately
+constant and no phase change occurs. Water's high specific heat capacity moderates coastal
+temperatures and helps living organisms maintain stable temperatures.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: LATENT HEAT AND PHASE CHANGES
+
+Latent heat is energy absorbed or released during a phase change without a temperature change at
+constant pressure. Specific latent heat is energy per unit mass. Melting and boiling require energy
+to overcome intermolecular interactions; freezing and condensation release energy. Evaporation can
+occur below the boiling point and causes cooling because higher-energy particles escape from a
+liquid surface.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: CONDUCTION, CONVECTION AND RADIATION
+
+Conduction transfers energy through microscopic interactions without bulk motion of the material; it
+is especially effective in metals. Convection transfers energy through the bulk movement of fluids.
+Radiation transfers energy by electromagnetic waves and does not require a material medium. In many
+everyday situations, more than one mechanism operates simultaneously.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 017 ======================
+
+SUBHEADING: GAS LAWS
+
+For a fixed amount of ideal gas, Boyle's law states that pressure is inversely proportional to
+volume at constant temperature. Charles's law states that volume is proportional to absolute
+temperature at constant pressure. The pressure law states that pressure is proportional to absolute
+temperature at constant volume. Kelvin must be used in gas-law calculations because the
+proportionalities refer to absolute temperature.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: FIRST LAW OF THERMODYNAMICS
+
+The first law expresses energy conservation for thermodynamic systems. With a common sign
+convention, heat supplied to a system changes its internal energy and may be used to do work.
+Different textbooks may write the equation using different signs depending on whether work done by
+or on the system is positive. Always state the convention before applying the formula.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: ENGINES AND REFRIGERATORS
+
+A heat engine absorbs energy from a hot reservoir, converts part into useful work and rejects the
+remainder to a colder reservoir. No cyclic heat engine can convert all input heat into work. A
+refrigerator uses work to transfer energy from a colder region to a warmer environment. Efficiency
+and coefficient of performance describe different devices and should not be confused.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+
+====================== STUDY PAGE 018 ======================
+
+TOPIC: KINETIC THEORY OF GASES
+
+==============================
+
+
+
+SUBHEADING: MOLECULAR INTERPRETATION
+
+The kinetic theory models a gas as a large number of tiny particles in continuous random motion.
+Particle collisions with container walls produce pressure. In the ideal-gas approximation, particle
+volume is negligible compared with container volume and intermolecular forces are neglected except
+during collisions. Real gases deviate more from ideal behaviour at high pressure and low
+temperature.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: TEMPERATURE AND AVERAGE KINETIC ENERGY
+
+For an ideal gas, absolute temperature is proportional to the average translational kinetic energy
+of its particles. Raising temperature increases average molecular speed, though individual particles
+have a distribution of speeds. At the same temperature, lighter gas molecules have a higher typical
+speed than heavier molecules.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: DIFFUSION AND BROWNIAN MOTION
+
+Diffusion is the net spreading of particles from regions of higher concentration toward lower
+concentration due to random motion. Brownian motion is the irregular motion of small particles
+suspended in a fluid, caused by uneven collisions with surrounding molecules. These phenomena
+provide evidence for the motion of microscopic particles.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: GAS PRESSURE AND VOLUME
+
+Pressure results from momentum transfer when molecules collide with the walls of a container.
+Compressing a gas increases collision frequency per unit area when other conditions are held
+appropriately. Heating a gas in a fixed volume raises pressure because molecular motion becomes more
+energetic. These explanations connect macroscopic gas laws with microscopic motion.
+
+
+
+
+====================== STUDY PAGE 019 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: OSCILLATIONS AND WAVES
+
+=============================
+
+
+
+SUBHEADING: PERIODIC MOTION AND OSCILLATION
+
+Periodic motion repeats after equal time intervals. An oscillation is a to-and-fro motion about an
+equilibrium position. Time period is the time for one complete cycle; frequency is the number of
+cycles per second and is measured in hertz. Frequency f and period T are related by f = 1/T.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: SIMPLE HARMONIC MOTION
+
+Simple harmonic motion occurs when restoring acceleration is proportional to displacement from
+equilibrium and directed toward equilibrium. A mass on an ideal spring approximates SHM for small
+extensions. In SHM, displacement, velocity and acceleration vary periodically; speed is greatest at
+equilibrium and zero at the turning points, while the magnitude of acceleration is greatest at the
+turning points.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: PENDULUM
+
+For a simple pendulum with small oscillations, the period is approximately T = 2π√(L/g), where L is
+length and g gravitational acceleration. The period is largely independent of bob mass and, for
+small angles, amplitude. This approximation becomes less accurate for large angular displacements. A
+pendulum's period changes with local gravitational acceleration.
+
+
+
+
+====================== STUDY PAGE 020 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: WAVE TERMS
+
+A wave transfers energy and information without requiring the bulk transport of matter from source
+to destination. Wavelength is the distance between corresponding points in successive cycles;
+frequency is cycles per second; amplitude measures maximum displacement; wave speed v = fλ.
+Transverse waves oscillate perpendicular to propagation, while longitudinal waves oscillate parallel
+to it.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: MECHANICAL AND ELECTROMAGNETIC WAVES
+
+Mechanical waves require a material medium, as sound does; electromagnetic waves can propagate
+through vacuum. Sound is longitudinal in air under ordinary conditions, while light is an
+electromagnetic transverse wave. Water-surface waves may combine motions and are more complex than a
+simple pure transverse wave. These classifications depend on the type of wave and medium.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: REFLECTION, REFRACTION AND DIFFRACTION
+
+Reflection is the return of a wave from a boundary. Refraction is a change in direction associated
+with a change in wave speed as it enters another medium. Diffraction is spreading around obstacles
+or through openings, most noticeable when their dimensions are comparable to wavelength. Waves can
+also interfere constructively or destructively when they overlap.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 021 ======================
+
+SUBHEADING: RESONANCE
+
+Resonance occurs when a system is driven near one of its natural frequencies, producing a relatively
+large response when damping is limited. Resonance is useful in musical instruments and selected
+sensors, but it can also cause unwanted vibration in structures or machines. The response depends on
+driving frequency, damping and coupling.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: SOUND AND ITS APPLICATIONS
+
+=================================
+
+
+
+SUBHEADING: PRODUCTION AND PROPAGATION
+
+Sound is produced by vibrating sources and travels through a medium by pressure variations. In air,
+sound waves are longitudinal compressions and rarefactions. Sound cannot travel through a perfect
+vacuum because there are no particles to transmit the mechanical disturbance. The speed of sound
+depends on the medium and its physical conditions.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: PITCH, LOUDNESS AND QUALITY
+
+Pitch is primarily related to frequency; higher frequency is generally heard as higher pitch.
+Loudness depends on sound intensity and the sensitivity of the ear, while quality or timbre helps
+distinguish sources with similar pitch and loudness. Amplitude, frequency and waveform therefore
+describe different features of sound and should not be treated as interchangeable.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 022 ======================
+
+SUBHEADING: AUDIBLE RANGE AND ULTRASOUND
+
+The commonly quoted human audible range is approximately 20 Hz to 20,000 Hz, though hearing varies
+by age and individual. Infrasound lies below this range; ultrasound lies above it. Ultrasound is
+used in medical imaging, industrial testing and distance measurement. High frequency alone does not
+guarantee that a wave can be used safely or effectively in every application.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: ECHO AND REVERBERATION
+
+An echo is a distinct reflected sound heard after the original sound when the delay is sufficient.
+Reverberation is the persistence of sound caused by many reflections in an enclosed space. Large
+halls use acoustic design, absorbent materials and surface geometry to improve speech clarity. The
+speed of sound and the distance to reflecting surfaces determine the time delay.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: SONAR AND ECHOLOCATION
+
+SONAR uses sound pulses and their echoes to detect objects or measure depth underwater. Distance can
+be estimated from the round-trip travel time, accounting for the speed of sound in water. Bats and
+dolphins use biological echolocation in different ways. The key idea is that a reflected wave
+carries information about distance and surrounding objects.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+
+====================== STUDY PAGE 023 ======================
+
+TOPIC: LIGHT, REFLECTION AND REFRACTION
+
+=======================================
+
+
+
+SUBHEADING: NATURE OF LIGHT
+
+Light is electromagnetic radiation visible to the human eye. It can be described using wave and
+photon models depending on the phenomenon. In a uniform medium, light travels approximately in
+straight lines. The speed of light in vacuum is about 3 × 10^8 m/s and is lower in transparent
+material media.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: LAWS OF REFLECTION
+
+The incident ray, reflected ray and normal lie in the same plane, and the angle of incidence equals
+the angle of reflection. Angles are measured from the normal, not from the mirror surface. Regular
+reflection from a smooth surface forms a clear image; diffuse reflection from a rough surface
+scatters light in many directions while still obeying the local law of reflection.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: PLANE MIRRORS
+
+A plane mirror forms a virtual, upright image of the same size as the object. The image appears as
+far behind the mirror as the object is in front, in the ideal geometry. Lateral inversion is the
+apparent left-right reversal. A virtual image cannot be projected onto a screen directly because the
+reflected rays do not actually converge at the image location.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: SPHERICAL MIRRORS
+
+Concave mirrors converge parallel rays near a focus and can form real or virtual images depending on
+object position. Convex mirrors diverge reflected rays and generally produce virtual, upright and
+diminished images, giving a wide field of view in vehicle mirrors. The mirror formula and sign
+convention must be used consistently in numerical problems.
+
+
+
+
+====================== STUDY PAGE 024 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: REFRACTION AND REFRACTIVE INDEX
+
+Refraction occurs because light changes speed when crossing a boundary between media. Snell's law
+relates refractive indices and angles: n₁ sin i = n₂ sin r. Refractive index n is the ratio of light
+speed in vacuum to its speed in the medium. A ray bends toward the normal when it enters a medium
+with a higher refractive index at a suitable boundary crossing.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: TOTAL INTERNAL REFLECTION
+
+Total internal reflection occurs when light travels from a higher-index medium toward a lower-index
+medium and the angle of incidence exceeds the critical angle. It is used in optical fibres and
+prisms. The conditions are both necessary: the direction of travel must be from optically denser to
+rarer medium, and the incident angle must exceed the critical angle.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: LENSES
+
+A convex lens is converging for parallel rays in air and can form real or virtual images depending
+on object position. A concave lens is diverging and usually forms a virtual, upright and diminished
+image for a real object. Lens power is measured in dioptres and is the reciprocal of focal length in
+metres, with sign according to the lens type and convention.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 025 ======================
+
+SUBHEADING: DISPERSION AND SPECTRUM
+
+Dispersion is the separation of white light into colours because refractive index depends on
+wavelength. A prism produces a spectrum; violet light generally deviates more than red light in
+ordinary glass. A rainbow involves refraction, internal reflection and dispersion in water droplets.
+Atmospheric scattering is a different process and helps explain why the sky appears blue under
+typical conditions.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: HUMAN EYE AND VISION CORRECTION
+
+The eye focuses light on the retina using the cornea and lens. Accommodation changes lens curvature
+to focus objects at different distances. Myopia is commonly corrected with a diverging lens;
+hyperopia with a converging lens; presbyopia is associated with age-related loss of accommodation.
+These are optical explanations, not diagnoses for an individual person's vision.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: ELECTRICITY AND ELECTRIC CIRCUITS
+
+========================================
+
+
+
+SUBHEADING: ELECTRIC CHARGE
+
+Electric charge is a property of matter that produces electrical interactions. Like charges repel
+and unlike charges attract. Charge is measured in coulombs and is conserved in an isolated system.
+Electrons carry negative charge, protons positive charge and neutrons no net electric charge.
+Charging by friction, conduction and induction involve different ways of transferring or
+redistributing charge.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 026 ======================
+
+SUBHEADING: ELECTRIC CURRENT
+
+Electric current is the rate of flow of charge, I = Q/t for a steady flow. Its SI unit is the
+ampere. Conventional current is defined as the direction positive charge would move, so in a metal
+it is opposite to the electron drift direction. Current requires a complete circuit and an energy
+source that maintains a potential difference.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: POTENTIAL DIFFERENCE AND VOLTAGE
+
+Potential difference is work done per unit charge in moving charge between two points, V = W/Q. It
+is measured in volts. A battery converts chemical energy into electrical energy and maintains a
+potential difference across its terminals. Voltage describes energy per charge, while current
+describes charge flow per time; they are related but not identical quantities.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: RESISTANCE AND OHM'S LAW
+
+Resistance is the opposition to current and is measured in ohms. For an ohmic conductor under
+constant physical conditions, V = IR. Resistance depends on material, length, cross-sectional area
+and temperature. For a uniform wire, R = ρL/A, where ρ is resistivity. A longer wire has greater
+resistance, while a thicker wire of the same material and length has lower resistance.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: SERIES CIRCUITS
+
+In a series circuit, the same current passes through each component. The total resistance of ideal
+resistors is the sum of their resistances. The supply voltage is shared across components. If one
+component opens the circuit, current stops throughout the series path. Series connections are used
+where the same current must pass through all components, but they are not the usual arrangement for
+household appliances.
+
+
+
+
+====================== STUDY PAGE 027 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: PARALLEL CIRCUITS
+
+In a parallel circuit, components share the same potential difference while the total current
+divides among branches. The equivalent resistance of parallel resistors is lower than the smallest
+individual resistance. A break in one branch need not stop current in the other branches. Household
+wiring uses parallel arrangements so appliances can operate independently at the supply voltage.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: ELECTRICAL POWER AND ENERGY
+
+Electric power can be calculated using P = VI; for an ohmic resistor, P = I²R and P = V²/R.
+Electrical energy is power multiplied by time. The commercial unit kilowatt-hour is a unit of
+energy, not power: 1 kWh = 3.6 × 10^6 J. Electricity bills commonly express energy use in
+kilowatt-hours.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: HEATING EFFECT AND SAFETY
+
+Current through resistance transfers electrical energy into thermal energy. Fuses and circuit
+breakers protect circuits against excessive current; earthing provides a low-resistance path for
+fault current in appropriate systems. Wet conditions can increase shock risk. Electrical safety
+requires properly rated equipment, insulation and qualified handling rather than improvised repairs.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 028 ======================
+
+SUBHEADING: CELLS, BATTERIES AND HOUSEHOLD ELECTRICITY
+
+Cells convert chemical energy into electrical energy. Cells can be connected in series to increase
+total electromotive force or in parallel to increase available capacity under suitable conditions.
+Household AC periodically reverses direction; DC has a fixed direction under the usual circuit
+definition. The exact mains voltage and frequency are national standards and should be checked from
+current local official information when needed.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: MAGNETISM AND ELECTROMAGNETISM
+
+=====================================
+
+
+
+SUBHEADING: MAGNETS AND MAGNETIC FIELDS
+
+A magnet produces a magnetic field and has north and south poles. Like poles repel and unlike poles
+attract. Magnetic field lines form closed loops and do not cross. The field is stronger where lines
+are more closely spaced in a diagram. Cutting a bar magnet creates smaller magnets rather than
+isolated north or south poles in ordinary magnetism.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: MAGNETIC MATERIALS
+
+Iron, cobalt and nickel are common ferromagnetic materials. Magnetic domains can align to produce
+strong magnetisation. Some materials are easily magnetised and demagnetised; others retain
+magnetisation. Heating, hammering or alternating magnetic fields can disturb domain alignment and
+reduce magnetisation under suitable conditions.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 029 ======================
+
+SUBHEADING: MAGNETIC EFFECT OF CURRENT
+
+An electric current produces a magnetic field around a conductor. The direction can be found with a
+right-hand grip rule for a straight wire. A coil produces a field similar to a bar magnet, and
+inserting a soft iron core can strengthen an electromagnet. Electromagnets are used in relays,
+lifting devices, bells and many electric machines.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: FORCE ON A CURRENT-CARRYING CONDUCTOR
+
+A conductor carrying current in a magnetic field can experience a force. The direction depends on
+current and magnetic-field direction. Fleming's left-hand rule is commonly used to relate field,
+current and force in a motor context. The effect is the basis of electric motors and loudspeaker
+operation, though the detailed device design varies.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: ELECTROMAGNETIC INDUCTION
+
+A changing magnetic flux through a circuit induces an electromotive force. The change may be caused
+by relative motion, a changing field or a changing loop area. Faraday's law relates induced emf to
+the rate of change of magnetic flux; Lenz's law gives the direction, opposing the change that
+produces it. Induction is the principle behind generators and transformers.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: ELECTRIC MOTORS AND GENERATORS
+
+An electric motor converts electrical energy into mechanical energy using forces on current-carrying
+conductors. A generator converts mechanical energy into electrical energy by electromagnetic
+induction. A transformer changes AC voltage using mutual induction between coils and a changing
+magnetic field. A conventional transformer does not operate on steady DC in the same way because the
+magnetic flux must change.
+
+
+
+
+====================== STUDY PAGE 030 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: AC AND DC
+
+Direct current maintains one direction; alternating current changes direction periodically. AC is
+convenient for voltage transformation and long-distance power transmission. A rectifier converts AC
+to pulsating DC, and filtering can reduce ripple. The distinction between current direction, voltage
+polarity and waveform is important in electronics questions.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: ELECTRONICS, SEMICONDUCTORS AND COMMUNICATION
+
+====================================================
+
+
+
+SUBHEADING: CONDUCTORS, INSULATORS AND SEMICONDUCTORS
+
+Conductors have many mobile charge carriers; insulators have very few under ordinary conditions;
+semiconductors have electrical properties between these broad categories and can be controlled by
+doping, temperature or light. Silicon and germanium are common semiconductor materials. Their
+behaviour cannot be understood by assuming all solids conduct electricity equally well.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: DOPING AND P-N JUNCTIONS
+
+Doping introduces small quantities of selected impurities to control charge-carrier concentration.
+N-type material has electrons as majority carriers; p-type material has holes as majority carriers.
+A p-n junction diode conducts strongly in forward bias and resists current in reverse bias within
+normal operating limits. A diode is not an ideal one-way valve under every voltage and temperature
+condition.
+
+
+
+
+====================== STUDY PAGE 031 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: TRANSISTORS
+
+A transistor can act as an amplifier or electronic switch. Bipolar junction transistors involve
+emitter, base and collector regions; field-effect transistors control current through an electric
+field. Transistors enabled compact electronic circuits and digital systems. The precise operation
+depends on device type and circuit configuration.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: LOGIC GATES
+
+Logic gates implement Boolean operations. AND gives a high output only when all inputs are high; OR
+gives a high output when at least one input is high; NOT reverses the input. NAND and NOR are
+universal gates because combinations of either can implement any Boolean function. Truth tables
+provide a systematic way to analyse digital circuits.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: COMMUNICATION SYSTEMS
+
+A communication system typically includes a source, transmitter, channel and receiver. Signals may
+be analog or digital. Modulation changes a carrier wave according to information; demodulation
+recovers the message. Noise, attenuation, bandwidth and interference affect communication quality.
+Optical fibre carries information using light and can provide high capacity with low signal loss
+over suitable distances.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 032 ======================
+
+SUBHEADING: ELECTROMAGNETIC SPECTRUM
+
+The electromagnetic spectrum includes radio waves, microwaves, infrared, visible light, ultraviolet,
+X-rays and gamma rays. In vacuum they all travel at the same speed, but differ in frequency and
+wavelength. Higher frequency corresponds to higher photon energy. Uses depend on interaction with
+matter: radio for communication, infrared for thermal sensing, X-rays for imaging and gamma rays for
+selected medical and scientific applications.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: LASERS
+
+Laser light is produced through stimulated emission and optical amplification. Laser beams can be
+highly directional, coherent and narrow in wavelength compared with many ordinary light sources.
+Applications include fibre-optic communication, precision measurement, scanning, industrial
+processing and medical procedures. Laser safety depends on wavelength, power and exposure
+conditions.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: ATOMIC STRUCTURE, RADIOACTIVITY AND NUCLEAR PHYSICS
+
+==========================================================
+
+
+
+SUBHEADING: STRUCTURE OF THE ATOM
+
+An atom contains a small, dense nucleus surrounded by electrons. The nucleus contains protons and
+neutrons, collectively called nucleons. Atomic number is the number of protons; mass number is the
+total number of protons and neutrons. Neutral atoms have equal numbers of protons and electrons.
+Isotopes have the same atomic number but different numbers of neutrons.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 033 ======================
+
+SUBHEADING: NUCLEAR FORCES AND STABILITY
+
+The strong nuclear interaction binds nucleons over very short distances and helps overcome
+electrostatic repulsion between protons. Nuclear stability depends on the balance of nuclear forces,
+proton-neutron ratio and binding energy. Some nuclei are unstable and transform spontaneously,
+emitting radiation. Radioactive decay is statistical for a large collection of nuclei and cannot be
+predicted exactly for one nucleus at one moment.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: ALPHA, BETA AND GAMMA RADIATION
+
+Alpha radiation consists of helium nuclei and has relatively low penetration but strong ionising
+ability. Beta radiation consists of energetic electrons or positrons and has intermediate
+penetration depending on energy and material. Gamma radiation is high-energy electromagnetic
+radiation and is highly penetrating. Shielding choice depends on radiation type and energy; safety
+requires time, distance, shielding and controlled procedures.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: HALF-LIFE
+
+Half-life is the time required for half the radioactive nuclei in a sample to decay. After each
+half-life, the remaining amount is halved: one half remains after one half-life, one quarter after
+two, one eighth after three. Half-life is characteristic of a particular radionuclide and is not
+generally changed by ordinary temperature or pressure conditions.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: NUCLEAR FISSION
+
+Fission is the splitting of a heavy nucleus into lighter nuclei, often releasing neutrons and
+energy. A chain reaction occurs when emitted neutrons trigger further fissions. Reactor designs
+control the chain reaction and remove heat; shielding and safety systems are essential. Energy
+released comes from a change in nuclear binding energy and mass-energy equivalence.
+
+
+
+
+====================== STUDY PAGE 034 ======================
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: NUCLEAR FUSION
+
+Fusion combines light nuclei to form a heavier nucleus and can release energy when the products are
+more tightly bound per nucleon. Fusion powers stars, where high temperature and pressure support
+reactions. Controlled fusion on Earth faces major challenges in maintaining the required conditions
+and containing hot plasma. Fusion and fission are different nuclear processes, though both involve
+changes in binding energy.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: MASS-ENERGY EQUIVALENCE
+
+Einstein's relation E = mc² expresses the equivalence of mass and energy. A small mass difference
+can correspond to a large energy because c² is very large. In nuclear reactions, the mass of
+products can differ from the mass of reactants; the difference corresponds to released or absorbed
+energy. The relation does not mean ordinary mass disappears without conservation accounting.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: RADIATION IN MEDICINE AND INDUSTRY
+
+Radiation has beneficial uses in diagnosis, cancer treatment, sterilisation and industrial
+inspection, but ionising radiation can damage tissue. Medical use balances benefit and risk and
+follows dose-control procedures. Radioactive sources require trained handling, appropriate
+shielding, secure storage and monitoring. Never treat all radiation as equally penetrating or
+equally harmful.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 035 ======================
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: EVERYDAY PHYSICS, INSTRUMENTS AND SCIENTIFIC APPLICATIONS
+
+================================================================
+
+
+
+SUBHEADING: PRESSURE INSTRUMENTS
+
+A barometer measures atmospheric pressure; a manometer measures pressure relative to another
+pressure or reference; a sphygmomanometer measures blood pressure. A thermometer measures
+temperature and a hygrometer measures humidity. Instrument names are often tested through matching
+questions, so associate each instrument with the quantity it measures rather than relying only on
+the word's appearance.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: OPTICAL AND MEASURING INSTRUMENTS
+
+A microscope uses lenses to magnify small objects; a telescope collects light from distant objects;
+a periscope uses mirrors or prisms to redirect light. A vernier caliper measures small lengths and
+diameters; a micrometer screw gauge measures very small thicknesses or diameters. The least count is
+the smallest measurement increment an instrument can resolve under its design and reading method.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: APPLICATIONS OF FRICTION AND PRESSURE
+
+Tyres and shoe soles use friction for grip; brakes convert kinetic energy into thermal energy
+through friction. Sharp tools concentrate force over a small area to increase pressure. Snowshoes
+distribute weight over a larger area to reduce pressure on snow. These are examples of the same
+pressure relationship applied in opposite ways.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+
+====================== STUDY PAGE 036 ======================
+
+SUBHEADING: OPTICAL FIBRES AND TOTAL INTERNAL REFLECTION
+
+Optical fibres guide light through a core surrounded by lower-index cladding. Under suitable
+conditions, total internal reflection confines light within the core. Fibre systems are used in
+telecommunications, medical endoscopy and sensors. Bending losses, absorption, scattering and
+connector quality affect signal transmission.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: RENEWABLE ENERGY AND PHYSICS
+
+Solar panels convert light into electrical energy through photovoltaic effects; solar thermal
+systems use sunlight as heat. Wind turbines convert kinetic energy of moving air into mechanical
+rotation and electricity. Hydroelectric plants use gravitational potential energy of stored water.
+Each technology has conversion losses and environmental or location-specific constraints.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+SUBHEADING: UNITS, LAWS AND INVENTORS: CAREFUL EXAM METHOD
+
+TNPSC questions may ask which principle explains a device, which quantity an instrument measures, or
+which unit belongs to a physical quantity. Learn the principle and application together. Historical
+attribution can vary in simplified sources, so prioritise standard textbook descriptions and avoid
+memorising unsupported claims. Units and laws should be stated with the conditions under which they
+apply.
+
+
+
+TNPSC EXAM ANGLE:
+
+Be prepared to define the term, identify the correct SI unit, apply the formula with consistent
+units, distinguish it from a similar concept, and recognise an everyday application. In statement
+questions, assess each statement independently and watch for words such as always, only, never and
+directly proportional.
+
+
+
+REVISION CHECK:
+
+Summarise the key definition, one governing law or formula, one unit, one practical application and
+one common misconception before moving to the next topic.
+
+
+
+TOPIC: FORMULA SHEET AND UNIT CHECKLIST
+
+
+====================== STUDY PAGE 037 ======================
+
+Motion: average speed = total distance / total time; average velocity = displacement / time; a = (v-u)/t; v = u + at; s = ut + 1/2 at^2; v^2 = u^2 + 2as.
+
+Force and momentum: F = ma for constant mass; p = mv; impulse = change in momentum; W = Fs cos(theta).
+
+Energy and power: KE = 1/2 mv^2; gravitational PE = mgh near Earth's surface; P = W/t; efficiency = useful output / input × 100%.
+
+Gravitation: F = Gm1m2/r^2; weight = mg; circular-orbit speed for an ideal circular orbit depends on central mass and orbital radius.
+
+Density and fluids: density = mass / volume; pressure = force / area; hydrostatic pressure difference = rho gh; buoyant force = weight of displaced fluid.
+
+Heat: Q = mc delta-T when specific heat is approximately constant and no phase change occurs; latent heat Q = mL.
+
+Waves: v = f lambda; frequency f = 1/T; echo distance = sound speed × round-trip time / 2.
+
+Optics: refractive index n = c/v; lens power P = 1/f when f is measured in metres; use the textbook's stated sign convention.
+
+Electricity: I = Q/t; V = W/Q; V = IR for ohmic conductors under fixed conditions; R = rho L/A; P = VI = I^2R = V^2/R; E = Pt; 1 kWh = 3.6 × 10^6 J.
+
+NOTE: Formulae are valid under the conditions described in their topic. Symbols can be reused for different quantities in different chapters, so define them before calculation.
+

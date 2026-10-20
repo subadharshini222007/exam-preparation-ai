@@ -1,0 +1,452 @@
+---
+
+# 🏛️ STATE GOVERNMENT OF INDIA
+
+## (DETAILED STUDY MATERIAL – TNPSC GROUP 1)
+
+---
+
+# 🟢 INTRODUCTION TO STATE GOVERNMENT
+
+The State Government in India is an important part of the federal structure. India follows a quasi-federal system where power is divided between the Union Government and State Governments. The State Government handles matters listed in the State List such as police, public health, agriculture, irrigation, and local governance. Each state has its own executive, legislature, and judiciary system functioning under the Constitution of India.
+
+---
+
+# 🟡 ARTICLE 153 – GOVERNOR OF STATE
+
+The Governor is the constitutional head of a state. According to Article 153, every state shall have a Governor. The Governor acts as the representative of the President at the state level. Though the Governor is the nominal executive, real power lies with the Chief Minister and Council of Ministers.
+
+The Governor is appointed by the President of India and holds office for a term of five years. However, the Governor serves during the pleasure of the President, meaning he/she can be removed before completion of term.
+
+---
+
+## 🟢 ROLE OF GOVERNOR
+
+The Governor acts as a link between the State and Union Government. In normal situations, the Governor acts on the advice of the Council of Ministers. But in special situations, the Governor may act independently using discretionary powers.
+
+---
+
+## 🔵 POWERS OF GOVERNOR
+
+### 1. EXECUTIVE POWERS
+
+The Governor appoints the Chief Minister and other ministers. The Governor also appoints Advocate General, State Election Commissioner, and other officials. All executive actions of the state are taken in the name of the Governor.
+
+---
+
+### 2. LEGISLATIVE POWERS
+
+The Governor summons and prorogues the State Legislative Assembly. He/she can dissolve the Assembly. No bill becomes law without the Governor’s assent. The Governor can reserve certain bills for the consideration of the President.
+
+---
+
+### 3. JUDICIAL POWERS
+
+The Governor has the power to grant pardons, reprieves, and remissions for offenses under state laws.
+
+---
+
+### 4. DISCRETIONARY POWERS
+
+The Governor can act without the advice of the Council of Ministers in certain situations such as:
+
+* Hung Assembly
+* Constitutional breakdown
+* Recommendation of President’s Rule
+
+---
+
+# 🟣 ARTICLE 164 – CHIEF MINISTER
+
+The Chief Minister is the real executive head of the state government. The Chief Minister is appointed by the Governor, but must have majority support in the State Legislative Assembly.
+
+The Chief Minister leads the Council of Ministers and is responsible for policy-making and administration of the state.
+
+---
+
+## 🟢 POWERS OF CHIEF MINISTER
+
+### 1. FORMATION OF CABINET
+
+The Chief Minister selects ministers and allocates portfolios.
+
+### 2. POLICY MAKING
+
+The Chief Minister plays a key role in formulating state policies.
+
+### 3. COORDINATION
+
+Ensures coordination between different departments.
+
+### 4. ADVICE TO GOVERNOR
+
+All major decisions are communicated through the Chief Minister.
+
+---
+
+# 🟠 STATE COUNCIL OF MINISTERS
+
+The Council of Ministers consists of:
+
+* Cabinet Ministers
+* Ministers of State
+* Deputy Ministers
+
+They are collectively responsible to the State Legislative Assembly.
+
+---
+
+## ⚖️ COLLECTIVE RESPONSIBILITY
+
+If the Legislative Assembly passes a no-confidence motion, the entire Council of Ministers must resign. This ensures accountability in the state government.
+
+---
+
+# 🏛️ STATE LEGISLATURE (ARTICLES 168–212)
+
+The State Legislature consists of:
+
+* Governor
+* Legislative Assembly (Vidhan Sabha)
+* Legislative Council (Vidhan Parishad – only in some states)
+
+Most states have unicameral legislatures (only Assembly).
+
+---
+
+## 🟡 LEGISLATIVE ASSEMBLY (VIDHAN SABHA)
+
+The Vidhan Sabha is the lower house of the state legislature. Members are directly elected by the people. The term is 5 years unless dissolved earlier.
+
+### FUNCTIONS:
+
+* Law making
+* Budget approval
+* Control over executive
+* Public representation
+
+---
+
+## 🟣 LEGISLATIVE COUNCIL (VIDHAN PARISHAD)
+
+It is the upper house in some states like Uttar Pradesh and Karnataka. It is a permanent body and members are elected indirectly.
+
+### ROLE:
+
+* Revising chamber
+* Reviews bills passed by Assembly
+* Cannot reject money bills
+
+---
+
+# ⚖️ STATE GOVERNMENT FUNCTIONS
+
+State Government handles:
+
+* Police and law & order
+* Health and sanitation
+* Agriculture
+* Local government
+* Education (partly)
+* State transport
+
+---
+
+# 🔴 PRESIDENT’S RULE (ARTICLE 356)
+
+President’s Rule is imposed when a state government cannot function according to constitutional provisions. In this case:
+
+* State government is dissolved or suspended
+* Governor takes control
+* Parliament administers the state
+
+This is also called **State Emergency**.
+
+---
+
+# 🟤 STATE GOVERNMENT & FEDERALISM
+
+India follows:
+
+* Quasi-federal system
+* Strong Centre with states
+* Division of powers:
+
+  * Union List
+  * State List
+  * Concurrent List
+
+---
+
+# 🔥 QUICK REVISION POINTS
+
+* Article 153 → Governor
+* Article 164 → Chief Minister
+* State Legislature → Assembly + Council
+* President’s Rule → Article 356
+* Governor = Nominal head
+* CM = Real executive
+
+---
+
+# ⚖️ JUDICIARY IN INDIA 
+
+---
+
+# 🟢 INTRODUCTION TO JUDICIARY
+
+The Judiciary of India is an independent organ of the government responsible for interpreting the Constitution, resolving disputes, and protecting Fundamental Rights. It acts as the guardian of the Constitution and ensures that all organs of government function within constitutional limits. India follows a **single integrated judicial system** with the Supreme Court at the top, High Courts at the state level, and subordinate courts below.
+
+---
+
+# 🟡 SUPREME COURT OF INDIA (ARTICLE 124–147)
+
+The Supreme Court is the highest judicial authority in India and was established on 26 January 1950. It is located in New Delhi and acts as the final interpreter of the Constitution.
+
+---
+
+## 🟢 COMPOSITION OF SUPREME COURT
+
+The Supreme Court consists of:
+
+* Chief Justice of India (CJI)
+* Other Judges appointed by the President
+
+The number of judges is determined by Parliament.
+
+---
+
+## 🔵 JURISDICTION OF SUPREME COURT
+
+### 1. ORIGINAL JURISDICTION
+
+Disputes between:
+
+* Union and States
+* States vs States
+
+---
+
+### 2. APPELLATE JURISDICTION
+
+Appeals from:
+
+* High Courts
+* Lower courts
+
+---
+
+### 3. ADVISORY JURISDICTION
+
+President can seek advice from Supreme Court under Article 143.
+
+---
+
+### 4. WRIT JURISDICTION (ARTICLE 32)
+
+Supreme Court can issue 5 writs:
+
+* Habeas Corpus
+* Mandamus
+* Prohibition
+* Certiorari
+* Quo Warranto
+
+---
+
+## 🔴 JUDICIAL REVIEW
+
+Supreme Court has the power to cancel any law or action that violates the Constitution. This ensures constitutional supremacy.
+
+---
+
+## ⚖️ IMPORTANT CASE LAW
+
+* Kesavananda Bharati Case → Basic Structure Doctrine
+* Maneka Gandhi Case → Expanded Article 21
+* Golaknath Case → Fundamental Rights supremacy
+
+---
+
+# 🟣 HIGH COURT (ARTICLE 214–231)
+
+High Courts are the highest judicial authority at the state level. Every state or group of states has a High Court.
+
+---
+
+## 🟢 POWERS OF HIGH COURT
+
+### 1. ORIGINAL JURISDICTION
+
+* Civil and criminal cases
+* Constitutional matters
+
+### 2. APPELLATE JURISDICTION
+
+* Appeals from district courts
+
+### 3. WRIT JURISDICTION (ARTICLE 226)
+
+High Courts can issue writs for enforcement of Fundamental Rights and other legal rights.
+
+---
+
+## 🔵 IMPORTANCE
+
+* Protects Fundamental Rights
+* Supervises lower courts
+* Ensures rule of law at state level
+
+---
+
+# ⚖️ SUBORDINATE COURTS
+
+Below High Courts:
+
+* District Courts
+* Sessions Courts
+* Civil Courts
+* Criminal Courts
+
+They handle local-level disputes.
+
+---
+
+# 🏛️ CONSTITUTIONAL BODIES OF INDIA
+
+---
+
+# 🟢 ELECTION COMMISSION OF INDIA (ARTICLE 324)
+
+The Election Commission is an independent constitutional body responsible for conducting free and fair elections in India.
+
+---
+
+## 🟡 FUNCTIONS
+
+* Conduct elections for Parliament and State Assemblies
+* Prepare electoral rolls
+* Ensure model code of conduct
+* Recognize political parties
+
+---
+
+## 🔵 IMPORTANCE
+
+Ensures democracy and fair representation.
+
+---
+
+# 🟣 UPSC (UNION PUBLIC SERVICE COMMISSION – ARTICLE 315)
+
+UPSC is responsible for recruiting civil servants for central government services like IAS, IPS, IFS.
+
+---
+
+## 🟢 FUNCTIONS
+
+* Civil service exams
+* Recruitment for government posts
+* Advising government on personnel matters
+
+---
+
+# 🔵 CAG (COMPTROLLER AND AUDITOR GENERAL – ARTICLE 148)
+
+CAG audits government accounts and ensures financial accountability.
+
+---
+
+## 🟡 FUNCTIONS
+
+* Audit Union and State accounts
+* Report to Parliament
+* Ensure transparency in public spending
+
+---
+
+# ⚖️ FEDERAL SYSTEM OF INDIA
+
+---
+
+# 🟢 INTRODUCTION
+
+India follows a **quasi-federal system**, meaning:
+
+* Strong Centre
+* States have autonomy
+* Power sharing system
+
+---
+
+## 🔵 THREE LISTS OF POWER
+
+### 1. UNION LIST
+
+Only Central Government can make laws
+(e.g., Defense, Foreign Affairs)
+
+### 2. STATE LIST
+
+Only State Governments
+(e.g., Police, Health)
+
+### 3. CONCURRENT LIST
+
+Both Centre and State
+(e.g., Education, Marriage laws)
+
+---
+
+# 🔴 EMERGENCY PROVISIONS
+
+---
+
+## 🟡 NATIONAL EMERGENCY (ARTICLE 352)
+
+Declared during:
+
+* War
+* External aggression
+* Armed rebellion
+
+👉 Effects:
+
+* Fundamental Rights suspended
+* Central government becomes powerful
+
+---
+
+## 🟣 STATE EMERGENCY (ARTICLE 356)
+
+President’s Rule imposed when state government fails.
+
+👉 Effects:
+
+* State government dissolved
+* Governor takes control
+
+---
+
+## 🔵 FINANCIAL EMERGENCY (ARTICLE 360)
+
+Declared when financial stability is threatened.
+
+👉 Effects:
+
+* Salary reduction
+* Financial control by Centre
+
+---
+
+# 🔥 QUICK REVISION POINTS
+
+* Supreme Court → Highest judiciary
+* High Court → State judiciary
+* Article 324 → Election Commission
+* Article 315 → UPSC
+* Article 148 → CAG
+* 3 lists → Union, State, Concurrent
+* Emergency → 352, 356, 360
+
+---

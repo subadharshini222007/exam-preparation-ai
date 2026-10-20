@@ -1,0 +1,852 @@
+TNPSC GROUP 2 / 2A – CHEMISTRY STUDY MATERIAL
+
+===========================================================
+1. MATTER AND ITS CLASSIFICATION
+============================================================
+
+1.1 What is matter?
+Matter is anything that has mass and occupies space. Matter is made of particles such as atoms, molecules or ions. The arrangement, movement and attraction of particles explain many physical properties.
+
+1.2 States of matter
+SOLIDS
+- Have a definite shape and definite volume.
+- Particles are closely packed and usually vibrate about fixed positions.
+- Generally difficult to compress.
+- Examples: iron, salt crystals, ice.
+
+LIQUIDS
+- Have a definite volume but take the shape of their container.
+- Particles can move past one another.
+- Almost incompressible compared with gases.
+- Examples: water, oil, mercury.
+
+GASES
+- Have neither a fixed shape nor a fixed volume.
+- Particles move freely and are widely separated.
+- Easily compressed and expand to fill a container.
+- Examples: oxygen, carbon dioxide, nitrogen.
+
+PLASMA
+- An ionised state containing charged particles.
+- Found in stars and lightning; used in some lamps and specialised technologies.
+
+1.3 Physical and chemical properties
+Physical properties can be observed without changing a substance’s chemical identity: colour, density, melting point, boiling point and conductivity.
+Chemical properties describe how a substance reacts: flammability, reaction with acids, oxidation and corrosion.
+
+1.4 Physical and chemical changes
+Physical change: identity of the substance remains the same; often involves change of state, shape or size. Examples: melting ice, dissolving sugar in water (the sugar can be recovered).
+Chemical change: new substances form. Examples: rusting iron, burning magnesium, cooking an egg.
+Clues to a chemical reaction may include gas formation, precipitate formation, colour change, heat/light change or odour change, but no single clue alone proves a chemical reaction.
+
+1.5 Change of state
+- Melting: solid → liquid.
+- Freezing: liquid → solid.
+- Vaporisation: liquid → gas.
+- Condensation: gas → liquid.
+- Sublimation: solid → gas directly.
+- Deposition: gas → solid directly.
+During a pure substance’s phase change at constant pressure, temperature remains constant while latent heat is absorbed or released.
+
+============================================================
+2. ELEMENTS, COMPOUNDS AND MIXTURES
+============================================================
+
+2.1 Elements
+An element is a pure substance made of one kind of atom and cannot be decomposed into simpler substances by ordinary chemical methods.
+Examples: hydrogen (H), oxygen (O), iron (Fe), copper (Cu), sulphur (S), carbon (C), sodium (Na), chlorine (Cl).
+
+2.2 Compounds
+A compound forms when two or more elements chemically combine in a fixed proportion by mass. Its properties are usually different from those of its constituent elements.
+Examples:
+- Water: H₂O
+- Carbon dioxide: CO₂
+- Sodium chloride: NaCl
+- Calcium carbonate: CaCO₃
+- Ammonia: NH₃
+
+2.3 Mixtures
+A mixture contains substances physically combined in variable proportions. Its components generally retain their characteristic properties and can often be separated by physical methods.
+Homogeneous mixture: uniform composition throughout, e.g. salt solution, air.
+Heterogeneous mixture: non-uniform composition, e.g. sand in water, oil and water.
+
+2.4 Separation methods
+- Filtration: separates an insoluble solid from a liquid.
+- Evaporation: recovers a dissolved solid from a solution when solvent is removed.
+- Crystallisation: obtains purer crystals from a solution.
+- Simple distillation: separates a solvent from dissolved non-volatile solute, or liquids with sufficiently different boiling points in suitable cases.
+- Fractional distillation: separates miscible liquids with closer boiling points or petroleum fractions using repeated vaporisation and condensation.
+- Separating funnel: separates immiscible liquids of different densities.
+- Sublimation: separates a sublimable solid from a non-sublimable component.
+- Chromatography: separates components by different movement/affinity between stationary and mobile phases.
+- Centrifugation: accelerates separation based on density differences.
+- Magnetic separation: separates magnetic components from non-magnetic material.
+
+2.5 Laws of chemical combination
+LAW OF CONSERVATION OF MASS
+In a chemical reaction, total mass of reactants equals total mass of products in a closed system.
+Antoine Lavoisier is associated with establishing this law.
+
+LAW OF DEFINITE PROPORTIONS
+A pure chemical compound contains its constituent elements in a fixed ratio by mass.
+Joseph Proust is associated with this law.
+
+LAW OF MULTIPLE PROPORTIONS
+When two elements form more than one compound, the masses of one element combining with a fixed mass of the other are in small whole-number ratios.
+John Dalton is associated with this law.
+
+============================================================
+3. ATOMS, MOLECULES, IONS AND FORMULA WRITING
+============================================================
+
+3.1 Atom and molecule
+An atom is the smallest unit of an element that participates in ordinary chemical changes. A molecule is a group of atoms bonded together and capable of independent existence in common molecular substances.
+Examples: H₂, O₂, N₂, H₂O, CO₂.
+
+3.2 Subatomic particles
+- Proton: charge +1; located in nucleus; relative mass about 1.
+- Neutron: no charge; located in nucleus; relative mass about 1.
+- Electron: charge −1; found in electron cloud; relative mass about 1/1836 of a proton.
+Atomic number Z = number of protons.
+Mass number A = protons + neutrons.
+For a neutral atom, number of electrons = number of protons.
+Number of neutrons = A − Z.
+
+3.3 Isotopes and isobars
+Isotopes: atoms of the same element with the same atomic number but different mass numbers; same proton count, different neutron count.
+Isobars: atoms of different elements with the same mass number but different atomic numbers.
+Isotopes often have similar chemical behaviour because they have the same electron arrangement in neutral atoms.
+
+3.4 Ions
+Cation: positively charged ion formed by loss of electrons, e.g. Na⁺, Ca²⁺.
+Anion: negatively charged ion formed by gain of electrons, e.g. Cl⁻, O²⁻.
+Polyatomic ions:
+- Ammonium: NH₄⁺
+- Hydroxide: OH⁻
+- Nitrate: NO₃⁻
+- Sulphate: SO₄²⁻
+- Carbonate: CO₃²⁻
+- Hydrogen carbonate: HCO₃⁻
+- Phosphate: PO₄³⁻
+- Acetate/ethanoate: CH₃COO⁻
+
+3.5 Common valencies and formulae
+Hydrogen H: 1; oxygen O: 2; nitrogen N: commonly 3; carbon C: 4; sodium Na: 1; magnesium Mg: 2; aluminium Al: 3; chlorine Cl: commonly 1; calcium Ca: 2; iron Fe: 2 or 3; copper Cu: 1 or 2; zinc Zn: 2.
+Examples:
+- Sodium chloride: NaCl
+- Magnesium chloride: MgCl₂
+- Aluminium oxide: Al₂O₃
+- Calcium hydroxide: Ca(OH)₂
+- Sodium carbonate: Na₂CO₃
+- Calcium carbonate: CaCO₃
+- Ammonium sulphate: (NH₄)₂SO₄
+- Aluminium sulphate: Al₂(SO₄)₃
+Use ion charges/valencies and balance total positive and negative charge to form a neutral ionic formula. Parentheses are used when more than one polyatomic ion is present.
+
+3.6 Mole concept
+- One mole contains approximately 6.022 × 10²³ specified entities (Avogadro constant).
+- Molar mass is mass of one mole, in g/mol.
+- Number of moles: n = mass (g) / molar mass (g mol⁻¹).
+- Number of particles: N = n × N_A.
+- For a gas at a specified temperature and pressure, molar volume depends on those conditions. Do not assume one fixed molar volume unless the conditions are given.
+
+============================================================
+4. VALENCY AND CHEMICAL EQUATIONS
+============================================================
+
+4.1 Writing a chemical equation
+A chemical equation represents reactants and products using symbols and formulae. It must be balanced to satisfy conservation of atoms and mass.
+Example:
+2H₂ + O₂ → 2H₂O
+Atom count: four H atoms and two O atoms on both sides.
+
+4.2 State symbols
+(s) solid; (l) liquid; (g) gas; (aq) dissolved in water.
+A precipitate can be marked with ↓ and a gas with ↑ in some school-level equations.
+
+4.3 Balancing method
+1. Write correct formulae for all reactants and products.
+2. Count atoms of each element on both sides.
+3. Adjust coefficients in front of formulae; do not change subscripts to balance an equation.
+4. Recount atoms and reduce coefficients to the smallest whole-number ratio.
+5. Check charge balance for ionic equations.
+
+4.4 Examples of balanced equations
+- 2Mg + O₂ → 2MgO
+- 4Fe + 3O₂ → 2Fe₂O₃
+- Zn + 2HCl → ZnCl₂ + H₂
+- HCl + NaOH → NaCl + H₂O
+- CaCO₃ → CaO + CO₂ (on heating)
+- CH₄ + 2O₂ → CO₂ + 2H₂O (complete combustion)
+- 2H₂O₂ → 2H₂O + O₂ (decomposition)
+- AgNO₃ + NaCl → AgCl↓ + NaNO₃
+
+============================================================
+5. CHEMICAL REACTIONS AND THEIR TYPES
+============================================================
+
+5.1 Combination reaction
+Two or more reactants combine to form one main product.
+A + B → AB
+Example: 2Mg + O₂ → 2MgO.
+
+5.2 Decomposition reaction
+One compound breaks into simpler substances.
+AB → A + B
+Thermal decomposition: caused by heat.
+Electrolytic decomposition: caused by electricity.
+Photochemical decomposition: caused by light.
+Example: CaCO₃ → CaO + CO₂ on heating.
+
+5.3 Displacement reaction
+A more reactive element displaces a less reactive element from its compound.
+Example: Zn + CuSO₄ → ZnSO₄ + Cu.
+A metal cannot ordinarily displace a more reactive metal from its salt solution.
+
+5.4 Double displacement reaction
+Ions exchange partners between compounds.
+Example: AgNO₃ + NaCl → AgCl↓ + NaNO₃.
+Precipitation reactions produce an insoluble solid. Neutralisation is also commonly represented as a double-displacement reaction.
+
+5.5 Combustion
+A substance reacts with oxygen and releases energy, often as heat and light.
+Complete combustion of a hydrocarbon generally produces CO₂ and H₂O when oxygen is sufficient.
+Incomplete combustion may produce carbon monoxide and/or soot when oxygen is limited.
+
+5.6 Exothermic and endothermic reactions
+Exothermic: releases heat to surroundings; reaction enthalpy change ΔH is negative at constant pressure.
+Endothermic: absorbs heat from surroundings; ΔH is positive at constant pressure.
+Examples of exothermic processes include many combustion reactions and acid-base neutralisation. Thermal decomposition of calcium carbonate requires heat.
+
+5.7 Reversible reactions and equilibrium
+A reversible reaction can proceed in both forward and reverse directions. At dynamic equilibrium in a closed system, forward and reverse reaction rates are equal; concentrations remain constant, though reactions continue microscopically.
+
+============================================================
+6. ACIDS, BASES AND SALTS
+============================================================
+
+6.1 Acids
+In water, many acids increase hydrogen ion concentration (more precisely, hydronium ions H₃O⁺).
+Common acids:
+- Hydrochloric acid: HCl
+- Sulphuric acid: H₂SO₄
+- Nitric acid: HNO₃
+- Ethanoic/acetic acid: CH₃COOH
+- Carbonic acid: H₂CO₃
+- Phosphoric acid: H₃PO₄
+Common properties: acidic solutions turn blue litmus red; many acids react with active metals to release hydrogen; acids react with carbonates to release carbon dioxide.
+These are general patterns, not universal for every acid-metal combination.
+
+6.2 Bases and alkalis
+A base neutralises an acid. An alkali is a base that dissolves in water to produce hydroxide ions.
+Examples:
+- Sodium hydroxide: NaOH
+- Potassium hydroxide: KOH
+- Calcium hydroxide: Ca(OH)₂ (sparingly soluble)
+- Magnesium hydroxide: Mg(OH)₂ (sparingly soluble)
+- Ammonia solution: NH₃(aq), a weak base.
+Many bases turn red litmus blue. Strong bases can be corrosive.
+
+6.3 Neutralisation
+Acid + base → salt + water (common aqueous neutralisation pattern).
+Example: HCl + NaOH → NaCl + H₂O.
+Net ionic form for strong acid and strong base:
+H⁺(aq) + OH⁻(aq) → H₂O(l)
+Neutralisation may release heat.
+
+6.4 Acid reactions
+Acid + active metal → salt + hydrogen (when the metal is above hydrogen in the activity series and conditions permit).
+Zn + 2HCl → ZnCl₂ + H₂↑
+Acid + metal carbonate → salt + water + carbon dioxide.
+CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑
+Acid + metal hydrogen carbonate → salt + water + carbon dioxide.
+NaHCO₃ + HCl → NaCl + H₂O + CO₂↑
+Acids react with metal oxides in many cases to form salt and water.
+
+6.5 Important salts
+- Sodium chloride NaCl: common salt; food and chemical industry feedstock.
+- Sodium hydrogen carbonate NaHCO₃: baking soda; used in baking and some antacid products.
+- Sodium carbonate decahydrate Na₂CO₃·10H₂O: washing soda; cleaning and water-softening applications.
+- Calcium oxychloride (often represented as CaOCl₂ in school texts): bleaching powder; disinfection/bleaching; commercial composition can vary.
+- Calcium sulphate hemihydrate CaSO₄·½H₂O: plaster of Paris.
+- Calcium sulphate dihydrate CaSO₄·2H₂O: gypsum.
+- Calcium carbonate CaCO₃: limestone, chalk, marble; used in cement manufacture and neutralising acidic soils.
+- Ammonium chloride NH₄Cl: used in dry cells and laboratory applications.
+- Copper sulphate pentahydrate CuSO₄·5H₂O: blue crystals; laboratory and agricultural uses under appropriate safety guidance.
+
+6.6 Water of crystallisation
+Some salts contain a fixed number of water molecules in their crystal structure.
+Examples: CuSO₄·5H₂O; Na₂CO₃·10H₂O; CaSO₄·2H₂O.
+Heating may remove some or all crystallisation water, changing colour or crystal form.
+
+============================================================
+7. pH, INDICATORS AND NEUTRALISATION
+============================================================
+
+7.1 pH scale
+For dilute aqueous solutions at about 25°C:
+pH = −log₁₀[H⁺] (more precisely, based on hydrogen-ion activity).
+- pH below 7: acidic.
+- pH about 7: neutral under standard classroom conditions.
+- pH above 7: basic/alkaline.
+A change of one pH unit represents a tenfold change in hydrogen-ion activity.
+
+7.2 Indicators
+- Litmus: acid turns blue litmus red; base turns red litmus blue.
+- Phenolphthalein: colourless in acidic solution; pink in alkaline solution over its transition range.
+- Methyl orange: red in acidic solution; yellow in alkaline solution, with an orange transition range.
+- Turmeric: yellow normally; turns reddish-brown in many alkaline conditions.
+- Universal indicator/pH paper: gives an approximate pH using colour comparison.
+
+7.3 Everyday pH examples
+- Stomach fluid is strongly acidic due partly to hydrochloric acid.
+- Tooth enamel can be attacked when mouth pH remains low; saliva helps buffer acids.
+- Acidic soil may be treated with agricultural lime when recommended by soil testing.
+- Many plants grow best within a particular soil pH range; the best range depends on the crop.
+- A neutral pH is not always the ideal pH for every chemical or biological process.
+
+============================================================
+8. OXIDATION AND REDUCTION
+============================================================
+
+8.1 Classical definitions
+Oxidation:
+- Addition of oxygen, or
+- Removal of hydrogen.
+Reduction:
+- Removal of oxygen, or
+- Addition of hydrogen.
+
+8.2 Electron-transfer definitions
+- Oxidation = loss of electrons.
+- Reduction = gain of electrons.
+Mnemonic: OIL RIG — Oxidation Is Loss; Reduction Is Gain (of electrons).
+
+Example:
+Zn → Zn²⁺ + 2e⁻ (oxidation)
+Cu²⁺ + 2e⁻ → Cu (reduction)
+Overall: Zn + CuSO₄ → ZnSO₄ + Cu.
+
+8.3 Oxidising and reducing agents
+- Oxidising agent causes oxidation of another substance and is itself reduced.
+- Reducing agent causes reduction of another substance and is itself oxidised.
+Identify the electron transfer or oxidation-number change instead of memorising only the name.
+
+8.4 Oxidation number rules
+1. An element in its free, uncombined form has oxidation number 0 (Na, O₂, Cl₂).
+2. A monatomic ion’s oxidation number equals its charge (Na⁺ = +1; Cl⁻ = −1).
+3. Group 1 metals are usually +1 in compounds; Group 2 metals usually +2.
+4. Fluorine is −1 in its compounds.
+5. Oxygen is usually −2, but exceptions include peroxides (−1) and compounds with fluorine.
+6. Hydrogen is usually +1 with non-metals and −1 in metal hydrides.
+7. The sum of oxidation numbers is zero for a neutral compound and equals the net charge for a polyatomic ion.
+Examples:
+- H₂O: H = +1, O = −2.
+- CO₂: C = +4, O = −2.
+- H₂SO₄: H = +1, O = −2, S = +6.
+- KMnO₄: K = +1, O = −2, Mn = +7.
+
+8.5 Corrosion and rancidity
+Corrosion is gradual deterioration of a metal through chemical/electrochemical reactions with its environment. Rusting of iron requires oxygen and moisture; salts can accelerate it.
+Prevention: painting, oiling, greasing, galvanising, electroplating, alloying and suitable cathodic protection.
+Rancidity is spoilage of fats/oils due to oxidation or related processes. It can be slowed by suitable storage, reduced exposure to oxygen/light, and approved antioxidants.
+
+============================================================
+9. METALS, NON-METALS AND METALLOIDS
+============================================================
+
+9.1 Physical properties of metals
+Typical properties: lustre, malleability, ductility, good electrical and thermal conductivity, and generally high density and melting point. Exceptions exist: mercury is liquid at room temperature; sodium and potassium are soft; some metals have relatively low melting points.
+
+9.2 Chemical properties of metals
+- Metals may react with oxygen to form metal oxides.
+- Some react with water to form hydroxides/oxides and hydrogen; reactivity varies.
+- Many react with dilute acids to form salts and hydrogen, depending on position in the activity series.
+- More reactive metals can displace less reactive metals from suitable salt solutions.
+
+9.3 Non-metals
+Many non-metals are poor conductors and are not malleable or ductile. Exceptions include graphite, which conducts electricity, and iodine, which has a lustrous appearance.
+Non-metal oxides are often acidic, but there are exceptions; some oxides are neutral.
+
+9.4 Metalloids
+Metalloids show a mixture of metallic and non-metallic properties. Silicon and germanium are important semiconductor materials.
+
+9.5 Reactivity series (common school-level order)
+K > Na > Ca > Mg > Al > Zn > Fe > Pb > (H) > Cu > Hg > Ag > Au
+The exact presentation may vary slightly by textbook. A metal higher in the series is generally more reactive and can displace a lower metal from its salt solution under suitable conditions. Hydrogen is included as a comparison reference, not as a metal in the series.
+
+9.6 Ionic and covalent compounds
+Ionic compounds form by electrostatic attraction between oppositely charged ions. They often have high melting points and conduct electricity when molten or dissolved, if ions are mobile.
+Covalent compounds form when atoms share electron pairs. Many simple molecular covalent substances have lower melting/boiling points and do not conduct electricity, but network covalent solids such as diamond are exceptions.
+
+============================================================
+10. ORES, MINERALS AND EXTRACTION OF METALS
+============================================================
+
+10.1 Minerals and ores
+A mineral is a naturally occurring substance with characteristic composition/structure. An ore is a mineral or material from which a metal can be extracted economically using available methods. Every ore is a mineral-bearing material, but not every mineral is an economically useful ore.
+
+10.2 Common ores
+- Aluminium: bauxite (hydrated aluminium oxides).
+- Iron: haematite Fe₂O₃; magnetite Fe₃O₄.
+- Zinc: zinc blende/sphalerite ZnS; calamine is a historical/common name associated with zinc carbonate ore.
+- Lead: galena PbS.
+- Mercury: cinnabar HgS.
+- Copper: copper pyrites/chalcopyrite CuFeS₂; also copper glance Cu₂S.
+- Tin: cassiterite SnO₂.
+- Silver and gold: occur in native form and/or ores.
+Names and formulae are useful for objective-type revision.
+
+10.3 Main steps in metallurgy
+1. Concentration/beneficiation: remove much of the unwanted gangue.
+2. Conversion of ore to a suitable compound, often oxide: roasting or calcination, depending on ore.
+3. Reduction to metal, or electrolytic extraction for highly reactive metals.
+4. Refining/purification.
+The exact process depends on the metal and ore.
+
+10.4 Roasting and calcination
+Roasting: heating an ore, commonly a sulphide, strongly in excess air/oxygen.
+Example: 2ZnS + 3O₂ → 2ZnO + 2SO₂.
+Calcination: heating an ore, commonly a carbonate or hydrated ore, in limited or no air.
+Example: ZnCO₃ → ZnO + CO₂.
+These are typical examples; actual industrial conditions are controlled carefully.
+
+10.5 Reduction and extraction
+Metal oxides of moderately reactive metals can often be reduced using carbon or carbon monoxide.
+Example: Fe₂O₃ + 3CO → 2Fe + 3CO₂.
+Highly reactive metals such as sodium and aluminium are generally extracted by electrolysis of suitable molten compounds rather than reduction with carbon.
+Thermite-type reactions are exothermic and have specialised industrial uses; they should be understood conceptually rather than attempted.
+
+10.6 Alloying
+An alloy is a mixture containing a metal and one or more other elements, designed to improve properties.
+- Brass: copper + zinc.
+- Bronze: mainly copper + tin.
+- Steel: iron + carbon, often with other alloying elements.
+- Stainless steel: iron-based alloy containing chromium and usually other elements; chromium helps form a protective oxide layer.
+- Solder composition varies; traditional solder often contains tin and lead, while lead-free types are also used.
+
+============================================================
+11. PERIODIC CLASSIFICATION OF ELEMENTS
+============================================================
+
+11.1 Modern periodic law
+The physical and chemical properties of elements are periodic functions of their atomic numbers. The modern periodic table arranges elements in increasing atomic number.
+
+11.2 Groups and periods
+- Groups: vertical columns; elements often share valence-electron patterns and related chemical properties.
+- Periods: horizontal rows; a new principal electron shell begins across a period in the basic model.
+- Metals are mainly on the left and centre; non-metals mainly on the right; metalloids lie along a rough boundary.
+
+11.3 Important families
+- Group 1: alkali metals (hydrogen is placed in Group 1 but is distinct from alkali metals).
+- Group 2: alkaline earth metals.
+- Group 17: halogens.
+- Group 18: noble gases.
+- Transition elements: central d-block elements; many show variable oxidation states and form coloured compounds.
+
+11.4 Periodic trends (general patterns)
+Across a period, effective nuclear attraction generally increases; atomic radius generally decreases; metallic character generally decreases.
+Down a group, number of occupied shells increases; atomic radius generally increases; metallic character generally increases.
+Ionisation energy and electronegativity show broad trends with exceptions.
+For exam questions, note whether the question asks for a general trend or a specific element.
+
+============================================================
+12. CHEMICAL BONDING
+============================================================
+
+12.1 Ionic bonding
+Electron transfer produces cations and anions, which attract electrostatically.
+Example: Na → Na⁺ + e⁻; Cl + e⁻ → Cl⁻; Na⁺ and Cl⁻ form ionic sodium chloride.
+Ionic compounds are electrically neutral overall.
+
+12.2 Covalent bonding
+Atoms share electron pairs.
+- Single bond: one shared pair, e.g. H–H.
+- Double bond: two shared pairs, e.g. O=O.
+- Triple bond: three shared pairs, e.g. N≡N.
+Covalent bonds can be polar or non-polar depending on electron sharing and molecular structure.
+
+12.3 Metallic bonding
+Metal atoms contribute delocalised electrons, allowing electrical conductivity, malleability and ductility in the metallic structure model.
+
+============================================================
+13. CARBON AND ITS COMPOUNDS
+============================================================
+
+13.1 Special properties of carbon
+- Tetravalency: carbon commonly forms four covalent bonds.
+- Catenation: carbon atoms bond to one another to form chains, branches and rings.
+These properties allow a very large number of organic compounds.
+
+13.2 Allotropes of carbon
+Diamond: each carbon bonded to four neighbours in a strong three-dimensional network; very hard and does not conduct electricity under ordinary conditions.
+Graphite: layered structure; electrons are delocalised within layers, so it conducts electricity; layers slide easily.
+Fullerenes and graphene are other carbon forms studied in modern materials science.
+Charcoal, coke and soot are carbon-rich materials, but they are not all pure crystalline allotropes.
+
+13.3 Hydrocarbons
+Hydrocarbons contain only carbon and hydrogen.
+- Alkanes: saturated; general formula CₙH₂ₙ₊₂ for open-chain alkanes.
+- Alkenes: contain a carbon-carbon double bond; one double bond in an open chain has formula CₙH₂ₙ.
+- Alkynes: contain a carbon-carbon triple bond; one triple bond in an open chain has formula CₙH₂ₙ₋₂.
+These general formulae assume the stated open-chain family and do not apply to all cyclic or multi-unsaturated structures.
+
+13.4 Homologous series
+A homologous series is a family of compounds with the same functional group and general formula, where successive members differ by a –CH₂– unit. Members show similar chemical properties and gradual changes in physical properties.
+
+13.5 Functional groups
+- Alcohol: –OH (e.g. ethanol C₂H₅OH).
+- Aldehyde: –CHO (e.g. ethanal CH₃CHO).
+- Ketone: >C=O within carbon chain (e.g. propanone CH₃COCH₃).
+- Carboxylic acid: –COOH (e.g. ethanoic acid CH₃COOH).
+- Ester: –COO– (e.g. ethyl ethanoate CH₃COOC₂H₅).
+- Halo compound: carbon bonded to F, Cl, Br or I.
+- Amine: –NH₂ is a common primary-amine group.
+Functional groups strongly influence chemical reactions and properties.
+
+13.6 Common reactions of carbon compounds
+Combustion:
+CH₄ + 2O₂ → CO₂ + 2H₂O (complete combustion).
+Oxidation:
+Ethanol can be oxidised to ethanoic acid under suitable conditions.
+Addition:
+Unsaturated hydrocarbons can add hydrogen in the presence of a suitable catalyst.
+Substitution:
+Alkanes can undergo substitution reactions with halogens under appropriate conditions.
+Esterification:
+Carboxylic acid + alcohol ⇌ ester + water, often with an acid catalyst.
+Saponification:
+Alkaline hydrolysis of fats/oils or esters can form soap (salts of fatty acids) and alcohol/glycerol depending on reactants.
+
+13.7 Soaps and detergents
+Soap molecules have a hydrophilic ionic head and a hydrophobic hydrocarbon tail. They form micelles that help disperse grease in water.
+Soap forms scum with Ca²⁺ and Mg²⁺ in hard water and cleans less effectively.
+Many synthetic detergents work better in hard water, though environmental behaviour depends on detergent chemistry and formulation.
+
+============================================================
+14. HYDROCARBONS AND PETROLEUM PRODUCTS
+============================================================
+
+14.1 Petroleum
+Petroleum is a naturally occurring mixture of hydrocarbons. Crude oil is separated into fractions by fractional distillation based on boiling ranges. Fractions are mixtures, not usually single pure compounds.
+
+14.2 Common petroleum fractions and uses
+- Refinery gases/LPG: domestic and industrial fuel.
+- Petrol/gasoline: spark-ignition engines.
+- Naphtha: petrochemical feedstock and other uses.
+- Kerosene: aviation turbine fuel and heating/lighting uses depending on grade.
+- Diesel/gas oil: compression-ignition engines and industrial uses.
+- Lubricating oils: reduce friction and wear.
+- Paraffin wax: candles, coatings and other products.
+- Bitumen: road surfacing and waterproofing.
+Exact fraction names and boiling ranges vary by refinery and source.
+
+14.3 LPG and CNG
+LPG mainly contains propane and butane in varying proportions; it is stored as a liquefied gas under pressure.
+CNG is compressed natural gas, mainly methane.
+Both are combustible fuels. Leakage and combustion hazards require appropriate safety measures.
+
+14.4 Cracking and reforming
+Cracking breaks large hydrocarbon molecules into smaller molecules, often producing useful fuels and alkenes.
+Reforming changes hydrocarbon structure to improve fuel properties and produce petrochemical feedstocks.
+These processes are central to petroleum refining.
+
+14.5 Combustion and pollution
+Complete combustion requires sufficient oxygen and generally produces carbon dioxide and water from hydrocarbons.
+Incomplete combustion can produce carbon monoxide and soot. Carbon monoxide is toxic because it interferes with oxygen transport in blood.
+Sulphur-containing fuels can form sulphur oxides; high-temperature combustion can produce nitrogen oxides. Emissions control and cleaner energy reduce pollution.
+
+============================================================
+15. NITROGEN AND ITS COMPOUNDS
+============================================================
+
+15.1 Nitrogen in air
+Nitrogen makes up about 78% of dry air by volume. N₂ has a strong triple bond, making it relatively unreactive under ordinary conditions. Nitrogen is essential for proteins, nucleic acids and many biological molecules.
+
+15.2 Ammonia
+Formula: NH₃.
+- Colourless gas with a sharp smell; highly soluble in water.
+- Aqueous ammonia acts as a weak base.
+- Industrial synthesis: Haber process.
+N₂ + 3H₂ ⇌ 2NH₃
+The reaction is exothermic and is carried out industrially using controlled pressure, temperature and a catalyst. Do not treat the equation as a practical home experiment.
+
+15.3 Nitric acid
+Formula: HNO₃.
+A strong acid and oxidising agent; used in fertiliser and chemical manufacture. Its reactions with metals can differ from ordinary non-oxidising acids, so hydrogen gas is not always the product.
+
+15.4 Nitrogen cycle
+- Nitrogen fixation: conversion of atmospheric nitrogen to usable nitrogen compounds by certain microbes, lightning or industrial processes.
+- Nitrification: microbes convert ammonium to nitrite and then nitrate.
+- Assimilation: plants take up nitrogen compounds and build organic molecules.
+- Ammonification: decomposers convert organic nitrogen to ammonium compounds.
+- Denitrification: microbes convert nitrate back to nitrogen gases.
+The nitrogen cycle links soil fertility, ecosystems and atmospheric chemistry.
+
+============================================================
+16. FERTILISERS, MANURES AND PESTICIDES
+============================================================
+
+16.1 Plant nutrients
+Primary macronutrients: nitrogen (N), phosphorus (P) and potassium (K), commonly shown as NPK.
+- Nitrogen supports vegetative growth and is part of amino acids and nucleic acids.
+- Phosphorus is important in ATP, nucleic acids and root development.
+- Potassium supports enzyme activity, water regulation and many physiological processes.
+Plants also need secondary nutrients such as calcium, magnesium and sulphur, and micronutrients such as iron, zinc, boron, copper, manganese, molybdenum, chlorine and nickel in small amounts.
+
+16.2 Manure and fertiliser
+Manure is organic material added to soil; it can improve soil structure and contribute nutrients.
+Fertilisers are materials supplied to provide plant nutrients in available forms.
+- Organic amendments can add organic matter and support soil structure.
+- Mineral fertilisers provide specified nutrients, often at higher concentration.
+- Balanced nutrient management depends on crop, soil test, climate and local recommendations.
+
+16.3 Important fertiliser examples
+- Urea: CO(NH₂)₂; high-nitrogen fertiliser.
+- Ammonium sulphate: (NH₄)₂SO₄; supplies nitrogen and sulphur.
+- Ammonium nitrate: NH₄NO₃; nitrogen fertiliser, subject to strict safety and regulatory controls.
+- Superphosphate fertilisers: supply phosphorus in plant-available forms.
+- Potassium chloride (muriate of potash): KCl; supplies potassium.
+- NPK mixtures: contain selected proportions of nitrogen, phosphorus and potassium.
+Nutrient labels commonly state N, P₂O₅-equivalent and K₂O-equivalent conventions, which are reporting conventions rather than necessarily the exact chemical forms in the bag.
+
+16.4 Excess fertiliser
+Excess or poorly timed fertiliser use can cause nutrient runoff, eutrophication, groundwater contamination, soil acidification or salinity issues depending on nutrient and conditions. Soil testing and recommended rates reduce waste and environmental harm.
+
+16.5 Pesticides
+Pesticides are substances used to prevent, control or manage pests. Categories include insecticides, herbicides, fungicides, rodenticides and acaricides.
+Use is regulated because some pesticides can harm people, pollinators, wildlife and aquatic organisms. Integrated pest management combines monitoring, crop practices, biological control and carefully selected approved products. Always follow the product label and local agricultural guidance; do not mix or apply chemicals casually.
+
+============================================================
+17. AIR, WATER, SOIL AND POLLUTION CHEMISTRY
+============================================================
+
+17.1 Composition of dry air (approximate by volume)
+- Nitrogen: 78%
+- Oxygen: 21%
+- Argon and other noble gases: about 0.93%
+- Carbon dioxide: a small variable fraction, roughly 0.04% in recent typical atmospheric values; concentration changes over time.
+Water vapour varies by place and weather.
+
+17.2 Water
+Water formula H₂O. It is polar and is a good solvent for many ionic and polar substances.
+- Hard water contains dissolved calcium and/or magnesium ions.
+- Temporary hardness is commonly associated with bicarbonates and can be reduced by boiling.
+- Permanent hardness is associated with other soluble salts such as sulphates and chlorides and is not removed simply by boiling.
+- Water softening methods include ion exchange and suitable precipitation processes.
+- Potable water is water suitable for drinking according to health standards; clear appearance alone does not prove safety.
+
+17.3 Water treatment
+Common municipal steps may include screening, coagulation/flocculation, sedimentation, filtration and disinfection. The exact process varies with source water. Boiling can kill many disease-causing organisms but does not remove all chemical contaminants.
+
+17.4 Acid rain
+Acid rain forms when sulphur dioxide and nitrogen oxides are converted into acids in the atmosphere and deposited with rain or other precipitation. It can acidify lakes and soils and damage buildings, particularly carbonate stone. Emission control reduces the problem.
+
+17.5 Greenhouse effect and air pollution
+Greenhouse gases such as carbon dioxide, methane, nitrous oxide and water vapour absorb and re-emit infrared radiation. The natural greenhouse effect keeps Earth warmer; increased concentrations of long-lived greenhouse gases from human activity intensify warming.
+Particulate matter, ground-level ozone, sulphur dioxide, nitrogen dioxide and carbon monoxide are important air pollutants. Their sources and health effects differ.
+
+17.6 Soil pollution
+Sources include poorly managed waste, excess agrochemicals, industrial effluents, heavy metals and plastics. Prevention includes source reduction, safe waste handling, treatment of effluents, soil testing and responsible agricultural practices.
+
+============================================================
+18. SOLUTIONS AND CONCENTRATION
+============================================================
+
+18.1 Solution vocabulary
+Solute: substance dissolved.
+Solvent: medium that dissolves the solute.
+Solution: homogeneous mixture of solute and solvent.
+A saturated solution contains the maximum equilibrium amount of solute at a specified temperature and pressure. An unsaturated solution can dissolve more solute under those conditions.
+
+18.2 Concentration expressions
+- Mass percentage = (mass of solute / mass of solution) × 100%.
+- Volume percentage = (volume of solute / volume of solution) × 100%, for suitable liquid mixtures.
+- Mass/volume percentage commonly means grams of solute per 100 mL of solution.
+- Molarity M = moles of solute / volume of solution in litres.
+- Molality m = moles of solute / mass of solvent in kilograms.
+- Dilution relation: C₁V₁ = C₂V₂ when the same solute is diluted and concentration units are consistent.
+Molarity depends on solution volume and therefore can change with temperature; molality is based on solvent mass.
+
+18.3 Solubility
+Solubility depends on the solute, solvent, temperature and, for gases, pressure.
+For many solids in liquids, solubility increases with temperature, but there are exceptions.
+Gas solubility in a liquid commonly decreases as temperature rises and increases with gas pressure above the liquid (Henry’s law conditions).
+
+============================================================
+19. CHEMISTRY IN EVERYDAY LIFE
+============================================================
+
+19.1 Baking soda and baking powder
+Sodium hydrogen carbonate (NaHCO₃) releases carbon dioxide when it reacts with an acid or decomposes on heating. Carbon dioxide helps dough rise.
+Baking powder typically contains a bicarbonate and one or more dry acid salts plus a starch or other drying agent.
+
+19.2 Cleaning agents
+Soaps and detergents help remove grease by forming aggregates that disperse oily material in water. Water hardness affects soap performance.
+Bleaching agents may remove colour through oxidation; products must be used only according to labels and must not be mixed indiscriminately.
+
+19.3 Cement, plaster and glass
+- Cement is produced from carefully processed mineral raw materials; hydration reactions make it harden.
+- Plaster of Paris is calcium sulphate hemihydrate; with water it sets to gypsum.
+  2(CaSO₄·½H₂O) + 3H₂O → 2(CaSO₄·2H₂O)
+- Ordinary soda-lime glass is mainly based on silica with sodium and calcium compounds; composition varies by type.
+
+19.4 Alloys and useful materials
+- Brass: copper + zinc.
+- Bronze: copper + tin (traditional description).
+- Steel: iron + carbon.
+- Stainless steel: iron alloy with chromium and usually other elements.
+- Duralumin is an aluminium-based alloy with copper and other additions; formulations vary.
+- Nichrome is a nickel-chromium-based resistance alloy used in heating elements.
+
+19.5 Fertiliser and household safety concepts
+Never mix household cleaning products unless the label specifically permits it; some combinations can release dangerous gases. Keep chemicals in original labelled containers and away from children and food. This is a safety reminder, not an experiment procedure.
+
+============================================================
+20. IMPORTANT FORMULAE, REACTIONS AND QUICK REVISION
+============================================================
+
+20.1 Formulae to memorise
+- Number of moles: n = mass / molar mass.
+- Number of particles: N = nN_A.
+- Avogadro constant: N_A ≈ 6.022 × 10²³ mol⁻¹.
+- Molarity: M = moles of solute / litres of solution.
+- Molality: m = moles of solute / kilograms of solvent.
+- Mass percentage = mass of solute / mass of solution × 100%.
+- Dilution: C₁V₁ = C₂V₂ (consistent concentration and volume units).
+- pH = −log₁₀[H⁺] in the simplified dilute-solution model.
+- Density: ρ = mass / volume.
+- Mass number: A = Z + number of neutrons.
+- Number of neutrons = A − Z.
+- Ideal gas equation (where relevant): PV = nRT.
+
+20.2 Common balanced equations
+Formation of water:
+2H₂ + O₂ → 2H₂O
+
+Magnesium combustion:
+2Mg + O₂ → 2MgO
+
+Iron rusting is a multi-step process; a simplified overall representation for hydrated iron(III) oxide is:
+4Fe + 3O₂ + 2xH₂O → 2Fe₂O₃·xH₂O
+
+Acid-base neutralisation:
+HCl + NaOH → NaCl + H₂O
+
+Acid with carbonate:
+CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂
+
+Metal displacement:
+Zn + CuSO₄ → ZnSO₄ + Cu
+
+Thermal decomposition:
+CaCO₃ → CaO + CO₂
+
+Zinc sulphide roasting:
+2ZnS + 3O₂ → 2ZnO + 2SO₂
+
+Haber process:
+N₂ + 3H₂ ⇌ 2NH₃
+
+Methane complete combustion:
+CH₄ + 2O₂ → CO₂ + 2H₂O
+
+Ethanoic acid + sodium hydrogen carbonate:
+CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂
+
+20.3 Common laboratory observations
+- Acid + carbonate: effervescence due to CO₂.
+- Some metal + dilute acid: bubbles of H₂ if the metal and acid conditions permit.
+- AgNO₃ + NaCl solution: white AgCl precipitate.
+- CuSO₄·5H₂O crystals are blue; loss of water of crystallisation changes the appearance.
+- Phenolphthalein is pink in alkaline solution and colourless in acidic solution.
+- A solution’s colour or appearance alone is not enough to identify it conclusively.
+
+============================================================
+21. COMMON TNPSC EXAM TRAPS
+============================================================
+
+1. An element contains one kind of atom; a compound has elements chemically combined in a fixed ratio.
+2. A mixture has variable composition; components can often be separated physically.
+3. Do not change chemical formula subscripts to balance equations; change coefficients.
+4. A cation is positive; an anion is negative.
+5. Atomic number = proton number; mass number = proton number + neutron number.
+6. Isotopes have the same atomic number but different mass numbers.
+7. Oxidation is electron loss; reduction is electron gain.
+8. The oxidising agent is itself reduced; the reducing agent is itself oxidised.
+9. Acid + carbonate produces salt, water and carbon dioxide.
+10. Acid + base commonly produces salt and water.
+11. All bases are not soluble in water; only soluble bases are called alkalis.
+12. pH is logarithmic; a one-unit change corresponds to a tenfold change in hydrogen-ion activity.
+13. Rusting needs oxygen and moisture under ordinary conditions; salt can speed it up.
+14. Roasting is commonly used for sulphide ores; calcination is commonly used for carbonate/hydrated ores.
+15. Highly reactive metals are often extracted by electrolysis.
+16. Graphite conducts electricity; diamond ordinarily does not.
+17. LPG mainly contains propane/butane; CNG mainly contains methane.
+18. Fertilisers supply nutrients; pesticides control pests. They are not interchangeable.
+19. Excess fertiliser can contribute to eutrophication and water pollution.
+20. Temporary hardness is associated with bicarbonates; permanent hardness is not removed simply by boiling.
+21. Water that looks clear is not automatically potable.
+22. Nitrogen gas is abundant in air but relatively unreactive because of its strong triple bond.
+23. N₂ + 3H₂ ⇌ 2NH₃ is the Haber process.
+24. A mole is a counting unit; it is not a unit of mass.
+25. Molarity uses litres of solution; molality uses kilograms of solvent.
+26. Petroleum fractions are mixtures separated by boiling ranges.
+27. Metal reactivity affects whether hydrogen is released when reacting with dilute acids.
+28. Do not assume every metal oxide is basic or every non-metal oxide is acidic; exceptions exist.
+29. The modern periodic table is arranged by atomic number, not atomic mass.
+30. Check the latest official syllabus and the prescribed Samacheer edition before the exam.
+
+============================================================
+22. PRACTICE MCQs (10)
+============================================================
+
+1. Which law states that total mass is conserved in a chemical reaction in a closed system?
+A) Law of definite proportions
+B) Law of conservation of mass
+C) Boyle’s law
+D) Periodic law
+Answer: B. Total mass of reactants equals total mass of products in a closed system.
+
+2. The number of neutrons in an atom with mass number 23 and atomic number 11 is:
+A) 11  B) 12  C) 23  D) 34
+Answer: B. Neutrons = 23 − 11 = 12.
+
+3. Which of the following is a polyatomic ion?
+A) Na⁺  B) Cl⁻  C) NH₄⁺  D) Mg²⁺
+Answer: C. Ammonium contains more than one atom and carries a +1 charge.
+
+4. Which gas is commonly produced when an acid reacts with a metal carbonate?
+A) Oxygen  B) Hydrogen  C) Carbon dioxide  D) Nitrogen
+Answer: C. Acid + carbonate → salt + water + carbon dioxide.
+
+5. Oxidation, in terms of electron transfer, is:
+A) Gain of electrons  B) Loss of electrons  C) Gain of neutrons  D) Loss of protons
+Answer: B. Oxidation is loss of electrons; reduction is gain of electrons.
+
+6. Which ore is commonly associated with aluminium extraction?
+A) Bauxite  B) Galena  C) Cinnabar  D) Cassiterite
+Answer: A. Bauxite is the principal ore associated with aluminium production.
+
+7. Which carbon allotrope ordinarily conducts electricity because of delocalised electrons?
+A) Diamond  B) Graphite  C) Pure sulphur  D) Sodium chloride
+Answer: B. Graphite has delocalised electrons within its layers.
+
+8. The main gas in CNG is:
+A) Oxygen  B) Nitrogen  C) Methane  D) Carbon dioxide
+Answer: C. CNG is compressed natural gas, mainly methane.
+
+9. Which expression represents molarity?
+A) Moles of solute / litres of solution
+B) Mass of solvent / moles of solute
+C) Volume of solvent / mass of solution
+D) Moles of solvent / kilograms of solution
+Answer: A. Molarity is moles of solute per litre of solution.
+
+10. Which statement about permanent hardness of water is generally correct?
+A) It is always removed by boiling
+B) It is caused only by suspended sand
+C) It is not removed simply by boiling
+D) It means water has no dissolved ions
+Answer: C. Permanent hardness is commonly associated with soluble salts such as calcium and magnesium sulphates/chlorides.
+

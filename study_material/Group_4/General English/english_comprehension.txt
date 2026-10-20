@@ -1,0 +1,216 @@
+---
+
+# 📘  READING COMPREHENSION 
+
+---
+
+# 🌟 1. INTRODUCTION TO COMPREHENSION
+
+Reading comprehension என்பது ஒரு passage-ஐ புரிந்து கொண்டு அதற்கான கேள்விகளுக்கு சரியான பதில்களை கண்டுபிடிக்கும் திறன் ஆகும். TNPSC Group 1 exam-ல் இது முக்கியமான பகுதி. இதில் candidate-ன் reading ability, understanding skill, vocabulary knowledge மற்றும் inference ability test செய்யப்படுகிறது.
+
+ஒரு comprehension passage நேரடியாக answer சொல்லாது. அதனால் candidate meaning-ஐ புரிந்து கொண்டு answer செய்ய வேண்டும்.
+
+---
+
+# 🧠 2. OBJECTIVE OF COMPREHENSION
+
+Comprehension questions are designed to test:
+
+* Understanding of written text
+* Ability to identify main idea
+* Ability to find supporting details
+* Vocabulary understanding in context
+* Logical inference skills
+
+TNPSC exam-ல் questions direct-ஆ இல்லாமல் indirect-ஆ இருக்கும்.
+
+---
+
+# 📖 3. TYPES OF COMPREHENSION QUESTIONS
+
+### 1. Direct Questions
+
+Passage-ல் directly உள்ள answer கேட்கப்படும்.
+
+### 2. Inference Questions
+
+Passage-ல் directly இல்லாமல் hint வைத்து answer கண்டுபிடிக்க வேண்டும்.
+
+### 3. Vocabulary-Based Questions
+
+Meaning of a word in context.
+
+### 4. Main Idea Questions
+
+Passage முழுக்க என்ன பேசுகிறது என்பதைக் கண்டுபிடிக்க வேண்டும்.
+
+### 5. True/False Questions
+
+Given statement correct அல்லது wrong என்பதை கண்டுபிடிக்க வேண்டும்.
+
+---
+
+# 🌿 4. HOW TO APPROACH A PASSAGE
+
+A good candidate follows a strategy:
+
+First, read the passage quickly without stopping for difficult words. Try to understand overall meaning. Then read the questions. After that, go back to passage and locate answers. Do not read word by word in the first reading.
+
+This method saves time in exam.
+
+---
+
+# 📌 5. EXAMPLE PASSAGE (DETAILED)
+
+Water is one of the most important natural resources on Earth. All living beings depend on water for survival. Humans use water for drinking, agriculture, industries, and daily activities. Without water, life is impossible on Earth. Due to increasing population and pollution, water scarcity is becoming a serious problem. Therefore, it is important to conserve water and use it wisely.
+
+---
+
+## 📌 QUESTIONS:
+
+### 1. What is essential for life?
+
+Answer: Water
+
+### 2. Why is water important for humans?
+
+Answer: For drinking, agriculture, industries and daily use
+
+### 3. What is the main problem mentioned?
+
+Answer: Water scarcity
+
+### 4. What is the solution suggested?
+
+Answer: Water conservation
+
+---
+
+# 🧠 6. INFERENCE SKILLS
+
+Inference means reading between the lines. Answer is not directly given but can be understood logically.
+
+Example:
+
+He was sitting alone in the room with tears in his eyes.
+
+👉 Inference: He is sad or emotionally disturbed
+
+---
+
+# 📖 7. MAIN IDEA IDENTIFICATION
+
+Main idea is the central theme of the passage.
+
+Example:
+If passage talks about pollution, main idea = environmental pollution and its effects.
+
+Always focus on repeated ideas and key sentences.
+
+---
+
+# 📚 8. VOCABULARY IN CONTEXT
+
+Words meaning depends on context.
+
+Example:
+“The boy was very bright in class.”
+
+👉 Bright means intelligent (not light)
+
+So vocabulary questions depend on sentence meaning.
+
+---
+
+# 🔥 9. COMMON PASSAGE TOPICS IN TNPSC
+
+* Environment
+* Education
+* Technology
+* Health
+* Social issues
+* Water conservation
+* Agriculture
+* Science and development
+
+---
+
+# 🧠 10. TRICKS TO SOLVE FASTER
+
+✔ Read first and last paragraph carefully
+✔ Identify keywords
+✔ Don’t translate word by word
+✔ Eliminate wrong options
+✔ Focus on meaning, not grammar
+
+---
+
+# 📖 11. DIFFICULT PASSAGES (ADVANCED LEVEL)
+
+In Group 1 exam, passages are not simple. They include:
+
+* Analytical content
+* Social issues
+* Scientific explanation
+* Economic development topics
+
+Candidate must understand tone and intention of passage.
+
+---
+
+# 🌿 12. SAMPLE ADVANCED PASSAGE
+
+Industrial development has brought significant changes in modern society. While it has improved economic growth and employment opportunities, it has also led to environmental degradation. Pollution of air, water, and soil has increased due to uncontrolled industrial activities. Therefore, sustainable development is necessary to balance growth and environmental protection.
+
+---
+
+## QUESTIONS:
+
+1. What has industrial development improved?
+   👉 Economic growth and employment
+
+2. What is the negative effect?
+   👉 Environmental pollution
+
+3. What is the solution suggested?
+   👉 Sustainable development
+
+---
+
+# 🧠 13. COMMON MISTAKES STUDENTS MAKE
+
+* Reading without understanding
+* Choosing option based on keywords only
+* Ignoring context
+* Not reading full question
+
+---
+
+# 📖 14. TIME MANAGEMENT STRATEGY
+
+In exam:
+
+* 1 passage → 5–7 minutes
+* First read → understanding
+* Second read → answer questions
+
+Do not spend too much time on one question.
+
+---
+
+# 🔥 15. EXAM PATTERN INSIGHT
+
+TNPSC Group 1 comprehension questions:
+
+* 5–10 questions per passage
+* Mix of direct + inference
+* Vocabulary-based questions included
+* Moderate to difficult level
+
+---
+
+# 🧠 16. FINAL UNDERSTANDING
+
+Reading comprehension is not memorization. It is understanding skill. A candidate must develop reading habit daily. Newspapers like The Hindu help improve comprehension skills.
+
+---

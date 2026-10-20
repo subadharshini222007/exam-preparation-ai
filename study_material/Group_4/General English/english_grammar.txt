@@ -1,0 +1,781 @@
+---
+
+# 📄  INTRODUCTION
+
+Grammar என்பது ஒரு மொழியின் கட்டமைப்பு. English grammar helps us to speak, write and understand English correctly. It is essential for competitive exams like TNPSC.
+
+Grammar is divided into parts such as Parts of Speech, Tenses, Voice, Direct & Indirect speech, Articles, Prepositions and Vocabulary.
+
+---
+
+# 📄 PARTS OF SPEECH 
+
+Words in English are divided into 8 parts of speech:
+
+1. Noun
+2. Pronoun
+3. Verb
+4. Adjective
+5. Adverb
+6. Preposition
+7. Conjunction
+8. Interjection
+
+Each word in a sentence belongs to one of these categories.
+
+Example:
+Ram is a good boy
+Ram = Noun, is = Verb, good = Adjective
+
+---
+
+# 📄  NOUN
+
+A noun is a naming word. It refers to a person, place, animal or thing.
+
+Types of nouns:
+
+* Proper noun: Chennai, Ram
+* Common noun: city, boy
+* Collective noun: team, army
+* Abstract noun: honesty, beauty
+
+Example:
+Honesty is the best policy.
+
+---
+
+# 📄  PRONOUN
+
+A pronoun is used instead of a noun.
+
+Types:
+
+* Personal: he, she, they
+* Reflexive: himself, herself
+* Possessive: his, her
+
+Example:
+Ram is a good boy. He is honest.
+
+---
+
+# 📄  VERB
+
+A verb is an action word.
+
+Examples:
+
+* go, come, write, eat
+
+Forms:
+
+* go – went – gone
+* write – wrote – written
+
+Example:
+She writes a letter.
+
+---
+
+# 📄 ADJECTIVE
+
+An adjective describes a noun.
+
+Examples:
+
+* beautiful girl
+* big house
+* good boy
+
+Example:
+She is a beautiful girl.
+
+---
+
+# 📄 ADVERB
+
+An adverb describes a verb.
+
+Examples:
+
+* quickly
+* slowly
+* carefully
+
+Example:
+He runs quickly.
+
+---
+
+# 📄 PREPOSITION
+
+A preposition shows relation between words.
+
+Examples:
+
+* in
+* on
+* at
+* under
+
+Example:
+The book is on the table.
+
+---
+
+# 📄 CONJUNCTION
+
+A conjunction joins words or sentences.
+
+Examples:
+
+* and
+* but
+* or
+
+Example:
+I like tea and coffee.
+
+---
+
+# 📄 INTERJECTION
+
+Interjection shows sudden emotion.
+
+Examples:
+
+* Oh!
+* Wow!
+* Alas!
+
+Example:
+Wow! That is beautiful.
+
+---
+
+# 📄  TENSE INTRO
+
+Tense shows time of action.
+
+Types:
+
+* Present
+* Past
+* Future
+
+Example:
+I eat (present)
+I ate (past)
+I will eat (future)
+
+---
+
+# 📄  SIMPLE PRESENT
+
+Used for habitual actions.
+
+Examples:
+
+* He goes to school daily
+* She reads books
+
+---
+
+# 📄 PRESENT CONTINUOUS
+
+Action happening now.
+
+Examples:
+
+* He is reading
+* She is writing
+
+---
+
+# 📄  PRESENT PERFECT
+
+Completed action with result.
+
+Examples:
+
+* He has finished his work
+* She has eaten food
+
+---
+
+# 📄 PAST TENSE
+
+Completed actions.
+
+Examples:
+
+* He went to school
+* She wrote a letter
+
+---
+
+# 📄 FUTURE TENSE
+
+Future actions.
+
+Examples:
+
+* He will go
+* She will come
+
+---
+
+# 📄  ACTIVE VOICE
+
+Subject performs action.
+
+Example:
+Ram eats apple.
+
+---
+
+# 📄  PASSIVE VOICE
+
+Object becomes subject.
+
+Example:
+Apple is eaten by Ram.
+
+---
+
+# 📄  DIRECT SPEECH
+
+Exact words.
+
+Example:
+He said, “I am happy.”
+
+---
+
+# 📄  INDIRECT SPEECH
+
+Reported speech.
+
+Example:
+He said that he was happy.
+
+---
+
+# 📄 PAGE 70–73: ARTICLES
+
+* a → consonant sound
+* an → vowel sound
+* the → specific
+
+Example:
+a book, an apple, the sun
+
+---
+
+# 📄  PREPOSITIONS ADVANCED
+
+Examples:
+
+* in the room
+* on the table
+* at 5 o’clock
+
+---
+
+# 📄  SYNONYMS
+
+Words with same meaning:
+
+happy = joyful
+big = large
+small = tiny
+
+---
+
+# 📄 ANTONYMS
+
+Opposite meaning:
+
+hot ≠ cold
+fast ≠ slow
+
+---
+
+# 📄  IDIOMS
+
+Break the ice = start conversation
+Hit the books = study hard
+
+---
+
+# 📄  PHRASES
+
+* take care of
+* look after
+* give up
+
+---
+
+#  ONE WORD SUBSTITUTION
+
+* One who writes books = Author
+* One who treats patients = Doctor
+
+---
+
+# 📄 SENTENCE STRUCTURE
+
+Subject + Verb + Object
+
+Example:
+Ram eats rice.
+
+---
+
+# 📄 DEGREE COMPARISON
+
+* big
+* bigger
+* biggest
+
+---
+
+# 📄 COMMON ERRORS
+
+He go ❌ → He goes ✔
+She are ❌ → She is ✔
+
+---
+
+# 📄  QUESTION TAGS
+
+You are a student, aren’t you?
+She is happy, isn’t she?
+
+---
+
+# 📄  PREFIX & SUFFIX
+
+un + happy = unhappy
+happy + ness = happiness
+
+---
+
+# 📄  COMPREHENSION INTRO
+
+Read passage and answer questions based on it.
+
+---
+
+# 📄 SAMPLE COMPREHENSION
+
+Passage:
+Trees give oxygen. They are important for life. We must protect trees.
+
+Questions:
+
+1. What do trees give?
+2. Why are trees important?
+
+---
+
+# 📄  MOCK MCQ PRACTICE
+
+1. Identify noun: Chennai
+2. Past tense of go: went
+3. Synonym of happy: joyful
+4. Article for apple: an
+5. Passive voice of “He writes”: Letter is written by him
+
+---
+PRACTICE Questions
+
+**TNPSC Exam Style - Parts of Speech - 25 Questions with Answers**
+
+**1.** Identify the part of speech of the underlined word: "The **dog** barked loudly."
+Answer: Noun
+
+**2.** "**She** went to the market." - Underlined word is a:
+Answer: Pronoun
+
+**3.** "He **runs** every morning." - Underlined word is a:
+Answer: Verb
+
+**4.** "This is a **beautiful** flower." - Underlined word is a:
+Answer: Adjective
+
+**5.** "He walks **slowly**." - Underlined word is a:
+Answer: Adverb
+
+**6.** "The book is **on** the table." - Underlined word is a:
+Answer: Preposition
+
+**7.** "I like tea **and** coffee." - Underlined word is a:
+Answer: Conjunction
+
+**8.** "**Wow!** What a beautiful scenery." - Underlined word is a:
+Answer: Interjection
+
+**9.** "Ramesh is a good **student**." - Underlined word is a:
+Answer: Noun
+
+**10.** "**They** are playing cricket." - Underlined word is a:
+Answer: Pronoun
+
+**11.** "The children **sang** a song." - Underlined word is a:
+Answer: Verb
+
+**12.** "It was a **cold** night." - Underlined word is a:
+Answer: Adjective
+
+**13.** "She sings **beautifully**." - Underlined word is a:
+Answer: Adverb
+
+**14.** "The cat is **under** the chair." - Underlined word is a:
+Answer: Preposition
+
+**15.** "I stayed home **because** it rained." - Underlined word is a:
+Answer: Conjunction
+
+**16.** "**Alas!** He failed the exam." - Underlined word is a:
+Answer: Interjection
+
+**17.** Fill in the blank: "________ is capital city of Tamil Nadu." (Chennai) - Chennai belongs to which part of speech?
+Answer: Noun (Proper Noun)
+
+**18.** "**Himself**, he completed the work." - Underlined word is a:
+Answer: Pronoun
+
+**19.** "The train **arrived** late." - Underlined word is a:
+Answer: Verb
+
+**20.** "She is the **tallest** girl in class." - Underlined word is a:
+Answer: Adjective (Superlative degree)
+
+**21.** "He **never** lies." - Underlined word is a:
+Answer: Adverb
+
+**22.** "The keys are **between** the books." - Underlined word is a:
+Answer: Preposition
+
+**23.** "Study hard **so that** you pass." - Underlined word is a:
+Answer: Conjunction
+
+**24.** "**Hurray!** We won the match." - Underlined word is a:
+Answer: Interjection
+
+**25.** Choose the correct part of speech for "Honesty" in: "**Honesty** is the best policy."
+Answer: Noun (Abstract Noun)
+
+DEGREES OF COMPARISON
+
+**Degrees of Comparison - 50 Examples (Positive, Comparative, Superlative)**
+
+| Positive | Comparative | Superlative |
+|---|---|---|
+| Good | Better | Best |
+| Bad | Worse | Worst |
+| Little | Less | Least |
+| Much/Many | More | Most |
+| Far | Farther | Farthest |
+| Far | Further | Furthest |
+| Old | Older | Oldest |
+| Old | Elder | Eldest |
+| Late | Later | Latest |
+| Late | Latter | Last |
+| Tall | Taller | Tallest |
+| Short | Shorter | Shortest |
+| Big | Bigger | Biggest |
+| Small | Smaller | Smallest |
+| Long | Longer | Longest |
+| Fast | Faster | Fastest |
+| Slow | Slower | Slowest |
+| Strong | Stronger | Strongest |
+| Weak | Weaker | Weakest |
+| Happy | Happier | Happiest |
+| Sad | Sadder | Saddest |
+| Easy | Easier | Easiest |
+| Hard | Harder | Hardest |
+| High | Higher | Highest |
+| Low | Lower | Lowest |
+| Rich | Richer | Richest |
+| Poor | Poorer | Poorest |
+| Wise | Wiser | Wisest |
+| Brave | Braver | Bravest |
+| Clean | Cleaner | Cleanest |
+| Sweet | Sweeter | Sweetest |
+| Sour | Sourer | Sourest |
+| Cold | Colder | Coldest |
+| Hot | Hotter | Hottest |
+| Thin | Thinner | Thinnest |
+| Fat | Fatter | Fattest |
+| Heavy | Heavier | Heaviest |
+| Light | Lighter | Lightest |
+| Deep | Deeper | Deepest |
+| Wide | Wider | Widest |
+| Narrow | Narrower | Narrowest |
+| Beautiful | More beautiful | Most beautiful |
+| Intelligent | More intelligent | Most intelligent |
+| Careful | More careful | Most careful |
+| Important | More important | Most important |
+| Difficult | More difficult | Most difficult |
+| Dangerous | More dangerous | Most dangerous |
+| Comfortable | More comfortable | Most comfortable |
+| Honest | More honest | Most honest |
+| Famous | More famous | Most famous |
+| Interesting | More interesting | Most interesting |
+
+EXAM Questions
+
+Degrees of Comparison - 30 Questions with Answers
+
+**1.** Choose the correct comparative: "Raju is ______ than Kumar." (tall)
+Answer: taller
+
+**2.** "This is the ______ building in the city." (tall - superlative)
+Answer: tallest
+
+**3.** "He is ______ than his brother." (good)
+Answer: better
+
+**4.** "She is the ______ student in the class." (good - superlative)
+Answer: best
+
+**5.** Fill in: "This mango is ______ than that one." (sweet)
+Answer: sweeter
+
+**6.** "Delhi is ______ than Chennai in winter." (cold)
+Answer: colder
+
+**7.** "He has ______ money than me." (little)
+Answer: less
+
+**8.** "She has the ______ knowledge on this subject." (little - superlative)
+Answer: least
+
+**9.** Identify the degree: "Iron is more useful than gold." 
+Answer: Comparative degree
+
+**10.** Identify the degree: "Gold is the most precious of all metals."
+Answer: Superlative degree
+
+**11.** Identify the degree: "He is a wise man."
+Answer: Positive degree
+
+**12.** "My elder ______ is a doctor." (choose: older/elder)
+Answer: elder
+
+**13.** "This is the ______ news I received today." (late - superlative)
+Answer: latest
+
+**14.** "The ______ chapter of the book was interesting." (late - "final/last" meaning)
+Answer: last
+
+**15.** Convert to Comparative: "No other boy in the class is as intelligent as Ravi."
+Answer: Ravi is more intelligent than any other boy in the class.
+
+**16.** Convert to Superlative: "Ravi is more intelligent than any other boy in the class."
+Answer: Ravi is the most intelligent boy in the class.
+
+**17.** Convert to Positive: "Ravi is the most intelligent boy in the class."
+Answer: No other boy in the class is as intelligent as Ravi.
+
+**18.** "This road is ______ than that one." (wide)
+Answer: wider
+
+**19.** "She sings ______ than her sister." (well - comparative form is 'better')
+Answer: better
+
+**20.** "He is the ______ boy in the school." (bad - superlative)
+Answer: worst
+
+**21.** "Which is the ______ river in India?" (long - superlative)
+Answer: longest
+
+**22.** "This exercise is ______ than the previous one." (difficult)
+Answer: more difficult
+
+**23.** "He is ______ honest than his friend." (choose correct: more/most)
+Answer: more
+
+**24.** "Mumbai is one of the ______ cities in India." (big - superlative)
+Answer: biggest
+
+**25.** Identify error: "This is the most best solution." 
+Answer: Error - should be "This is the best solution" (double superlative not allowed)
+
+**26.** "He ran ______ than everyone else." (fast)
+Answer: faster
+
+**27.** "That is the ______ joke I have ever heard." (funny - superlative)
+Answer: funniest
+
+**28.** "This problem is ______ to solve than I thought." (easy - comparative, note spelling change)
+Answer: easier
+
+**29.** "Among the three brothers, Ram is the ______." (young - superlative)
+Answer: youngest
+
+**30.** "She is ______ beautiful than her cousin." (choose more/-er)
+Answer: more
+
+
+**Punctuation Marks - Rules & Examples 
+
+**1. Full Stop / Period ( . )**
+- Used at the end of a statement.
+- Example: I am going to school.
+- Example: Chennai is the capital of Tamil Nadu.
+
+**2. Comma ( , )**
+- Used to separate items in a list, clauses, or add pause.
+- Example: I bought apples, oranges, and bananas.
+- Example: After finishing his work, he went home.
+
+**3. Question Mark ( ? )**
+- Used at the end of a direct question.
+- Example: What is your name?
+- Example: Where do you live?
+
+**4. Exclamation Mark ( ! )**
+- Used to express strong emotion.
+- Example: What a beautiful sunset!
+- Example: Wow! You won the prize!
+
+**5. Apostrophe ( ' )**
+- Used for possession or contraction.
+- Example: This is Ravi's book. (possession)
+- Example: I don't know. (contraction of "do not")
+
+**6. Quotation Marks ( " " )**
+- Used to indicate direct speech or a quote.
+- Example: She said, "I will come tomorrow."
+- Example: The teacher said, "Study well for the exam."
+
+**7. Colon ( : )**
+- Used before a list, explanation, or example.
+- Example: There are three primary colours: red, blue, and yellow.
+- Example: He had one goal: to win.
+
+**8. Semicolon ( ; )**
+- Used to join two related independent clauses.
+- Example: I have a test tomorrow; I need to study.
+- Example: She likes tea; he prefers coffee.
+
+**9. Hyphen ( - )**
+- Used to join compound words or split words at a line break.
+- Example: mother-in-law
+- Example: well-known author
+
+**10. Dash ( — )**
+- Used to show a break in thought or add emphasis.
+- Example: I was going to call you — but I forgot.
+- Example: Everyone was there — except Ravi.
+
+**11. Brackets/Parentheses ( )**
+- Used to add extra information.
+- Example: Mahatma Gandhi (1869–1948) was born in Gujarat.
+- Example: He finally answered (after a long pause).
+
+**12. Capital Letters**
+- Used for the first word of a sentence, proper nouns, and "I".
+- Example: Ravi lives in Chennai.
+- Example: I am learning English.
+
+**TNPSC Exam Tips:**
+- "Punctuate the following sentence" type questions frequently appear
+- Direct/Indirect speech questions test quotation marks and comma usage heavily
+- Apostrophe (possession vs contraction) is a common confusion point tested
+
+**Punctuation - Exam Format Questions (Punctuate the Sentence)**
+
+**1.** ravi said i am going to chennai tomorrow
+Answer: Ravi said, "I am going to Chennai tomorrow."
+
+**2.** what is your name asked the teacher
+Answer: "What is your name?" asked the teacher.
+
+**3.** i have a pen a pencil and a book
+Answer: I have a pen, a pencil, and a book.
+
+**4.** wow what a wonderful performance
+Answer: Wow! What a wonderful performance!
+
+**5.** my brothers name is ravi
+Answer: My brother's name is Ravi.
+
+**6.** she said i wont come today
+Answer: She said, "I won't come today."
+
+**7.** there are four seasons summer winter spring and autumn
+Answer: There are four seasons: summer, winter, spring, and autumn.
+
+**8.** i went to madurai delhi and mumbai last year
+Answer: I went to Madurai, Delhi, and Mumbai last year.
+
+**9.** dont you know the answer
+Answer: Don't you know the answer?
+
+**10.** the teacher said students must complete the homework
+Answer: The teacher said, "Students must complete the homework."
+
+**11.** ramas book is on the table
+Answer: Rama's book is on the table.
+
+**12.** alas he has lost the match
+Answer: Alas! He has lost the match.
+
+**13.** he asked where are you going
+Answer: He asked, "Where are you going?"
+
+**14.** i like reading writing and painting
+Answer: I like reading, writing, and painting.
+
+**15.** after finishing his homework he went to play
+Answer: After finishing his homework, he went to play.
+
+**16.** mahatma gandhi 1869 1948 was a great leader
+Answer: Mahatma Gandhi (1869–1948) was a great leader.
+
+**17.** it is raining heavily i will still go out
+Answer: It is raining heavily; I will still go out.
+
+**18.** she asked can you help me
+Answer: She asked, "Can you help me?"
+
+**19.** my sisters husband is a doctor
+Answer: My sister's husband is a doctor.
+
+**20.** hurray we have won the championship
+Answer: Hurray! We have won the championship.
+
+**21.** he bought rice wheat sugar and salt from the shop
+Answer: He bought rice, wheat, sugar, and salt from the shop.
+
+**22.** the boy said i am hungry
+Answer: The boy said, "I am hungry."
+
+**23.** although it was late he continued working
+Answer: Although it was late, he continued working.
+
+**24.** whose bag is this asked the teacher
+Answer: "Whose bag is this?" asked the teacher.
+
+**25.** he has one aim to become a doctor
+Answer: He has one aim: to become a doctor.
+
+**26.** the childrens toys are scattered on the floor
+Answer: The children's toys are scattered on the floor.
+
+**27.** stop shouted the policeman
+Answer: "Stop!" shouted the policeman.
+
+**28.** i met mr kumar my old teacher yesterday
+Answer: I met Mr. Kumar, my old teacher, yesterday.
+
+**29.** she said i have finished my work
+Answer: She said, "I have finished my work."
+
+**30.** everyone was happy except ravi who was sad
+Answer: Everyone was happy — except Ravi, who was sad.

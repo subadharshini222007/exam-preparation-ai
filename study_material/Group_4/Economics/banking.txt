@@ -1,0 +1,542 @@
+---
+
+# 🏦 BANKING & FINANCIAL SYSTEM IN INDIA
+
+---
+
+# 🟢 INTRODUCTION
+
+The banking and financial system is the backbone of an economy. It mobilizes savings, provides credit, facilitates investment, and supports economic growth.
+
+---
+
+# 🟡 STRUCTURE OF INDIAN FINANCIAL SYSTEM
+
+## 🔵 COMPONENTS
+
+* Financial Institutions
+* Financial Markets
+* Financial Instruments
+* Financial Services
+
+---
+
+## 🔵 TYPES OF FINANCIAL INSTITUTIONS
+
+* Banking institutions
+* Non-banking institutions (NBFCs)
+
+---
+
+# 🏦 1. RESERVE BANK OF INDIA (RBI)
+
+## 🔵 ESTABLISHMENT
+
+* 1935
+
+---
+
+## 🔵 FUNCTIONS
+
+### 🟢 Issue of Currency
+
+* Sole authority to print currency
+
+### 🟢 Banker to Government
+
+* Maintains govt accounts
+
+### 🟢 Banker’s Bank
+
+* Lends to commercial banks
+
+### 🟢 Controller of Credit
+
+* Uses monetary policy
+
+---
+
+## 🧠 ANALYSIS
+
+👉 RBI = “Monetary authority + financial stability”
+
+---
+
+# 🏦 2. COMMERCIAL BANKS
+
+---
+
+## 🔵 TYPES
+
+* Public sector banks
+* Private banks
+* Foreign banks
+
+---
+
+## 🔵 FUNCTIONS
+
+* Accept deposits
+* Provide loans
+* Credit creation
+
+---
+
+## 🧠 CREDIT CREATION (IMPORTANT 🔥)
+
+👉 Banks create money through lending process
+
+---
+
+# 🏦 3. COOPERATIVE BANKS
+
+---
+
+## 🔵 FEATURES
+
+* Serve rural areas
+* Provide agricultural credit
+
+---
+
+# 🏦 4. DEVELOPMENT BANKS
+
+## 🔵 EXAMPLES
+
+* NABARD
+* SIDBI
+
+---
+
+## 🔵 FUNCTIONS
+
+* Long-term finance
+* Support agriculture & industry
+
+---
+
+# 🏦 5. NON-BANKING FINANCIAL COMPANIES (NBFCs)
+
+---
+
+## 🔵 FEATURES
+
+* Provide loans
+* Cannot accept demand deposits
+
+---
+
+## 🧠 ANALYSIS
+
+👉 NBFC = fills gap where banks cannot reach
+
+---
+
+# 📊 FINANCIAL MARKETS
+
+---
+
+## 🔵 MONEY MARKET
+
+* Short-term funds
+* Instruments:
+
+  * Treasury Bills
+  * Commercial Paper
+
+---
+
+## 🔵 CAPITAL MARKET
+
+* Long-term funds
+* Shares, bonds
+
+---
+
+# 💳 MONEY & CREDIT
+
+---
+
+## 🔵 FUNCTIONS OF MONEY
+
+* Medium of exchange
+* Store of value
+* Unit of account
+
+---
+
+## 🔵 TYPES
+
+* Paper money
+* Digital money
+
+---
+
+# 📉 MONETARY POLICY (VERY IMPORTANT 🔥)
+
+---
+
+## 🔵 OBJECTIVES
+
+* Control inflation
+* Promote growth
+* Ensure stability
+
+---
+
+## 🔵 TOOLS
+
+* Repo rate
+* Reverse repo rate
+* CRR
+* SLR
+
+---
+
+# 📱 DIGITAL BANKING
+
+---
+
+## 🔵 FEATURES
+
+* Online transactions
+* UPI system
+* Mobile banking
+
+---
+
+## 🧠 ANALYSIS
+
+👉 Digital banking → financial inclusion
+
+---
+
+# 🏛️ FINANCIAL INCLUSION
+
+---
+
+## 🔵 MEANING
+
+Access to banking services for all
+
+---
+
+## 🔵 INITIATIVES
+
+* Jan Dhan Yojana
+* Microfinance
+* SHGs
+
+---
+
+# ⚠️ BANKING PROBLEMS
+
+---
+
+## 🔴 NPAs (IMPORTANT 🔥)
+
+* Loans not repaid
+
+---
+
+## 🔴 ISSUES
+
+* Fraud
+* Cyber risk
+* Poor governance
+
+---
+
+# 🌍 GLOBAL FINANCIAL SYSTEM
+
+---
+
+## 🔵 INSTITUTIONS
+
+* IMF
+* World Bank
+
+---
+
+# 🧠 HIGH-VALUE ANALYTICAL POINTS
+
+### 🔵 Banking vs NBFC
+
+### 🔵 Monetary policy vs fiscal policy
+
+### 🔵 Financial inclusion importance
+
+### 🔵 Digital economy impact
+
+### 🔵 NPA crisis
+
+---
+
+# 💱 MONEY & INFLATION
+
+---
+
+# 🟢 INTRODUCTION TO MONEY
+
+Money is anything that is **generally accepted as a medium of exchange** for goods and services. It plays a crucial role in modern economies.
+
+---
+
+# 🟡 EVOLUTION OF MONEY
+
+## 🔵 BARTER SYSTEM
+
+* Exchange of goods without money
+
+### ❌ Problems
+
+* Double coincidence of wants
+* Lack of common measure
+
+---
+
+## 🔵 COMMODITY MONEY
+
+* Gold, silver
+
+---
+
+## 🔵 PAPER MONEY
+
+* Issued by government
+
+---
+
+## 🔵 DIGITAL MONEY (MODERN)
+
+* UPI, cards
+
+---
+
+# 🔵 FUNCTIONS OF MONEY
+
+---
+
+## 🟢 PRIMARY FUNCTIONS
+
+* Medium of exchange
+* Unit of account
+
+---
+
+## 🟡 SECONDARY FUNCTIONS
+
+* Store of value
+* Standard of deferred payment
+
+---
+
+## 🧠 ANALYSIS
+
+👉 Money simplifies trade and boosts economic growth
+
+---
+
+# 🟣 TYPES OF MONEY
+
+---
+
+## 🔵 FIAT MONEY
+
+* Legal tender issued by govt
+
+## 🔵 FIDUCIARY MONEY
+
+* Based on trust (cheques)
+
+## 🔵 NEAR MONEY
+
+* Bonds, treasury bills
+
+---
+
+# 🏦 MONEY SUPPLY
+
+---
+
+## 🔵 MEASURES
+
+* M1 (narrow money)
+* M3 (broad money)
+
+---
+
+## 🧠 ANALYSIS
+
+👉 More money supply → more demand → inflation
+
+---
+
+# 💸 INFLATION (VERY IMPORTANT 🔥)
+
+---
+
+## 🔵 DEFINITION
+
+Inflation is a **continuous rise in general price level**
+
+---
+
+# 🟡 TYPES OF INFLATION
+
+---
+
+## 🔵 DEMAND-PULL
+
+* Demand > Supply
+
+---
+
+## 🔵 COST-PUSH
+
+* Increase in cost of production
+
+---
+
+## 🔵 STRUCTURAL INFLATION
+
+* Supply bottlenecks
+
+---
+
+## 🔵 HYPERINFLATION
+
+* Extremely high inflation
+
+---
+
+# 📊 MEASUREMENT OF INFLATION
+
+---
+
+## 🔵 CPI (Consumer Price Index)
+
+* Measures retail prices
+
+---
+
+## 🔵 WPI (Wholesale Price Index)
+
+* Measures wholesale prices
+
+---
+
+## 🧠 ANALYSIS
+
+👉 CPI reflects real cost of living
+
+---
+
+# ⚖️ EFFECTS OF INFLATION
+
+---
+
+## 🔴 NEGATIVE EFFECTS
+
+* Reduces purchasing power
+* Affects poor people
+* Uncertainty in economy
+
+---
+
+## 🟢 POSITIVE EFFECTS
+
+* Encourages investment
+* Reduces real debt burden
+
+---
+
+# 🏦 CONTROL OF INFLATION
+
+---
+
+## 🔵 MONETARY POLICY (RBI)
+
+* Increase repo rate
+* Reduce money supply
+
+---
+
+## 🔵 FISCAL POLICY
+
+* Reduce govt spending
+* Increase taxes
+
+---
+
+## 🔵 SUPPLY-SIDE MEASURES
+
+* Increase production
+* Improve distribution
+
+---
+
+# 🔄 DEFLATION & DISINFLATION
+
+---
+
+## 🔵 DEFLATION
+
+* Fall in price level
+
+## 🔵 DISINFLATION
+
+* Slowdown in inflation rate
+
+---
+
+# 📉 PHILLIPS CURVE (ADVANCED 🔥)
+
+---
+
+## 🔵 CONCEPT
+
+* Trade-off between inflation & unemployment
+
+---
+
+## 🧠 ANALYSIS
+
+👉 Low unemployment → high inflation
+
+---
+
+# 🌍 INFLATION IN INDIA
+
+---
+
+## 🔵 CAUSES
+
+* Food price rise
+* Supply issues
+* Global oil prices
+
+---
+
+## 🔵 CONTROL MEASURES
+
+* RBI policies
+* Govt subsidies
+
+---
+
+# 🧠 HIGH-VALUE ANALYTICAL POINTS
+
+### 🔵 Inflation vs growth
+
+### 🔵 Demand vs supply factors
+
+### 🔵 Monetary vs fiscal control
+
+### 🔵 Inflation impact on poor
+
+### 🔵 Core inflation importance
+
+---
+
+

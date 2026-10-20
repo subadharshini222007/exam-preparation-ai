@@ -1,0 +1,475 @@
+TNPSC GROUP 2 – MENTAL ABILITY
+LOGICAL REASONING & ANALYTICAL REASONING
+50 HARD-LEVEL PRACTICE QUESTIONS
+
+==================================================
+PART A – LOGICAL REASONING
+==========================
+
+Q1. Statements: All administrators are graduates. All graduates are educated. Which conclusion follows?
+
+A) All administrators are educated
+B) All educated people are administrators
+C) No administrators are educated
+D) Some graduates are not educated
+
+Answer: A
+
+Q2. Statements: Some teachers are writers. All writers are readers. Which conclusion necessarily follows?
+
+A) All teachers are readers
+B) Some teachers are readers
+C) No teachers are readers
+D) All readers are teachers
+
+Answer: B
+
+Q3. Statements: No reptiles are warm-blooded. All snakes are reptiles. Which conclusion follows?
+
+A) All snakes are warm-blooded
+B) Some snakes are warm-blooded
+C) No snakes are warm-blooded
+D) All reptiles are snakes
+
+Answer: C
+
+Q4. Statements: All engineers are problem-solvers. Some problem-solvers are artists. Which conclusion is definitely valid?
+
+A) Some engineers are artists
+B) All artists are engineers
+C) All engineers are problem-solvers
+D) No artists are problem-solvers
+
+Answer: C
+
+Q5. Statements: Some rivers are polluted. No polluted river is safe for drinking without treatment. Which conclusion follows?
+
+A) Some rivers are not safe for drinking without treatment
+B) All rivers are polluted
+C) No river can be treated
+D) All safe rivers are polluted
+
+Answer: A
+
+Q6. Statement: The municipal corporation plans to increase public dustbins. Which assumption is most reasonable?
+
+A) More dustbins may make proper waste disposal easier
+B) Dustbins eliminate all pollution
+C) People never use dustbins
+D) All waste is recyclable
+
+Answer: A
+
+Q7. Statement: A school introduces extra practice sessions before examinations. Which assumption is most reasonable?
+
+A) Extra practice may help students prepare better
+B) All students have already passed
+C) Practice cannot improve performance
+D) Examinations will be cancelled
+
+Answer: A
+
+Q8. Statement: A city introduces additional buses during peak hours. Which assumption is most reasonable?
+
+A) Passenger demand may be high during peak hours
+B) All passengers travel only at night
+C) Additional buses reduce road length
+D) Every bus will be empty
+
+Answer: A
+
+Q9. Assertion (A): Metals generally conduct electricity.
+Reason (R): Metals contain mobile electrons that can carry electric charge.
+
+Choose the correct answer.
+
+A) Both A and R are true, and R explains A
+B) Both A and R are true, but R does not explain A
+C) A is true, but R is false
+D) A is false, but R is true
+
+Answer: A
+
+Q10. Assertion (A): The Earth revolves around the Sun.
+Reason (R): The Earth rotates on its axis approximately once every 24 hours.
+
+Choose the correct answer.
+
+A) Both A and R are true, and R explains A
+B) Both A and R are true, but R does not explain A
+C) A is true, but R is false
+D) A is false, but R is true
+
+Answer: B
+
+Q11. Argument: Should schools teach road safety?
+
+Argument I: It can help students learn safer road practices.
+Argument II: It guarantees that road accidents will never occur.
+
+A) Only I is strong
+B) Only II is strong
+C) Both I and II are strong
+D) Neither I nor II is strong
+
+Answer: A
+
+Q12. Situation: Several residents report that drinking water may be contaminated.
+
+Course of action I: Test the water and investigate the source.
+Course of action II: Ignore the complaints.
+
+A) Only I is appropriate
+B) Only II is appropriate
+C) Both are appropriate
+D) Neither is appropriate
+
+Answer: A
+
+Q13. If all registered candidates received admit cards, which statement is definitely true?
+
+A) Every person with an admit card was registered
+B) Every registered candidate received an admit card
+C) No unregistered person received an admit card
+D) Every registered candidate attended the examination
+
+Answer: B
+
+Q14. Statements: All A are B. No B are C. Which conclusion follows?
+
+A) Some A are C
+B) No A are C
+C) All C are A
+D) Some B are C
+
+Answer: B
+
+Q15. Statements: Some cars are electric vehicles. All electric vehicles use electric motors. Which conclusion follows?
+
+A) Some cars use electric motors
+B) All cars use electric motors
+C) No cars use electric motors
+D) All electric motors are cars
+
+Answer: A
+
+==================================================
+PART B – ANALYTICAL REASONING
+=============================
+
+Q16. In a class of 52 students, Priya ranks 16th from the top. What is her rank from the bottom?
+
+A) 35th
+B) 36th
+C) 37th
+D) 38th
+
+Answer: C
+
+Q17. In a row of 45 students, Arun is 12th from the left and Bala is 18th from the right. If Arun is to the left of Bala, how many students are between them?
+
+A) 14
+B) 15
+C) 16
+D) 17
+
+Answer: B
+
+Q18. Kumar ranks 9th from the top and 28th from the bottom. How many students are in the class?
+
+A) 35
+B) 36
+C) 37
+D) 38
+
+Answer: B
+
+Q19. In a row of 35 people, Ravi is 11th from the left. What is his position from the right?
+
+A) 23rd
+B) 24th
+C) 25th
+D) 26th
+
+Answer: B
+
+Q20. Five people A, B, C, D and E sit in a row facing north. D sits to the left of A. B sits immediately to the right of A. C sits immediately to the right of B. E sits to the right of C. Who sits in the middle?
+
+A) A
+B) B
+C) C
+D) D
+
+Answer: B
+
+Q21. Six people P, Q, R, S, T and U stand in a row. P is to the left of Q, Q is to the left of R, S is to the right of R, T is to the right of S, and U is to the right of T. Who is at the extreme right?
+
+A) P
+B) R
+C) T
+D) U
+
+Answer: D
+
+Q22. Six people A, B, C, D, E and F sit in a row facing north. A is at the extreme left, B sits immediately right of A, C sits immediately right of B, F is at the extreme right, and E sits immediately left of F. Who sits third from the left?
+
+A) A
+B) B
+C) C
+D) D
+
+Answer: C
+
+Q23. A is taller than B. B is taller than C. D is taller than A. Who is the tallest?
+
+A) A
+B) B
+C) C
+D) D
+
+Answer: D
+
+Q24. A is older than B. C is older than A. D is younger than B. E is older than C. Who is the oldest?
+
+A) A
+B) C
+C) D
+D) E
+
+Answer: D
+
+Q25. Arun is the brother of Bala. Bala is the mother of Charan. Divya is the sister of Charan. How is Arun related to Divya?
+
+A) Father
+B) Maternal uncle
+C) Brother
+D) Grandfather
+
+Answer: B
+
+Q26. Pointing to a boy, Lakshmi says, "He is the son of my mother's only daughter." If Lakshmi has no sisters, how is the boy related to Lakshmi?
+
+A) Brother
+B) Nephew
+C) Son
+D) Cousin
+
+Answer: C
+
+Q27. A is the father of B. B is the sister of C. C is the father of D. How is A related to D?
+
+A) Father
+B) Uncle
+C) Grandfather
+D) Brother
+
+Answer: C
+
+Q28. P is the brother of Q. Q is the mother of R. R is the sister of S. How is P related to S?
+
+A) Father
+B) Maternal uncle
+C) Brother
+D) Grandfather
+
+Answer: B
+
+Q29. A person walks 8 km north, then 6 km east, and finally 8 km south. Where is the person relative to the starting point?
+
+A) 6 km east
+B) 6 km west
+C) 8 km north
+D) 14 km east
+
+Answer: A
+
+Q30. A person walks 5 km east, turns left and walks 4 km, then turns left and walks 5 km. How far and in which direction is the person from the starting point?
+
+A) 4 km north
+B) 4 km south
+C) 5 km east
+D) 9 km north
+
+Answer: A
+
+Q31. Meena faces west. She turns 90 degrees clockwise and then 180 degrees anticlockwise. Which direction is she facing?
+
+A) North
+B) South
+C) East
+D) West
+
+Answer: B
+
+Q32. A person walks 10 km south, turns left and walks 7 km, then turns left and walks 10 km. Where is the person relative to the starting point?
+
+A) 7 km east
+B) 7 km west
+C) 10 km north
+D) 17 km south
+
+Answer: A
+
+Q33. Find the odd number out: 16, 25, 36, 48.
+
+A) 16
+B) 25
+C) 36
+D) 48
+
+Answer: D
+
+Q34. Find the next number: 3, 8, 15, 24, 35, __.
+
+A) 44
+B) 46
+C) 48
+D) 50
+
+Answer: C
+
+Q35. Find the odd one out: January, March, May, June.
+
+A) January
+B) March
+C) May
+D) June
+
+Answer: D
+
+Q36. Find the next number: 2, 6, 12, 20, 30, __.
+
+A) 36
+B) 40
+C) 42
+D) 44
+
+Answer: C
+
+Q37. Book is related to Author in the same way as Painting is related to ______.
+
+A) Singer
+B) Painter
+C) Reader
+D) Actor
+
+Answer: B
+
+Q38. Island is related to Ocean in the same way as Oasis is related to ______.
+
+A) Mountain
+B) Forest
+C) Desert
+D) River
+
+Answer: C
+
+Q39. Four meetings P, Q, R and S are scheduled. P must occur before Q. R must occur after Q. S must occur before P. Which meeting must occur first?
+
+A) P
+B) Q
+C) R
+D) S
+
+Answer: D
+
+Q40. Five tasks A, B, C, D and E must be completed. A must be before C, C before E, and B before D. Which sequence satisfies all conditions?
+
+A) C, A, B, D, E
+B) A, C, E, B, D
+C) B, D, E, C, A
+D) E, C, A, B, D
+
+Answer: B
+
+Q41. Six people are arranged by height. F is taller than D, D is taller than A, A is taller than B, B is taller than C, and C is taller than E. Who is the tallest?
+
+A) D
+B) A
+C) F
+D) B
+
+Answer: C
+
+Q42. Find the next letter in the series: A, C, F, J, O, __.
+
+A) S
+B) T
+C) U
+D) V
+
+Answer: C
+
+Q43. If CAT is coded as DBU by shifting each letter one step forward, how is DOG coded?
+
+A) EPH
+B) EOG
+C) FPH
+D) DPH
+
+Answer: A
+
+Q44. If SOUTH is written as HTUOS, how will NORTH be written using the same rule?
+
+A) HTRON
+B) NHTRO
+C) HTNOR
+D) NROTH
+
+Answer: A
+
+Q45. If yesterday was Monday, what day will it be three days after tomorrow?
+
+A) Thursday
+B) Friday
+C) Saturday
+D) Sunday
+
+Answer: C
+
+Q46. In a row of 60 students, Kiran is 18th from the top. What is his rank from the bottom?
+
+A) 41st
+B) 42nd
+C) 43rd
+D) 44th
+
+Answer: B
+
+Q47. A person walks 12 km north, turns right and walks 9 km, then turns right and walks 12 km. Where is the person relative to the starting point?
+
+A) 9 km east
+B) 9 km west
+C) 12 km north
+D) 21 km east
+
+Answer: A
+
+Q48. Statements: Some employees are managers. No manager is a trainee. Which conclusion follows?
+
+A) Some employees are not trainees
+B) All employees are managers
+C) No employees are trainees
+D) All trainees are managers
+
+Answer: A
+
+Q49. Statement: A college provides free counselling for students facing academic difficulties. Which conclusion is most reasonable?
+
+A) The college aims to support students
+B) Every student has failed all subjects
+C) Counselling guarantees perfect marks
+D) Academic difficulties cannot be addressed
+
+Answer: A
+
+Q50. Statements: All planets orbit stars. Earth is a planet. Which conclusion follows?
+
+A) Earth orbits a star
+B) All stars are planets
+C) Earth is not a planet
+D) No planets orbit stars
+
+Answer: A
+
+

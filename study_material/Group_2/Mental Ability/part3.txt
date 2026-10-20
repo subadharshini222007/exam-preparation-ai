@@ -1,0 +1,361 @@
+# TNPSC GROUP 2 – MENTAL ABILITY
+
+# LOGICAL REASONING AND ANALYTICAL REASONING
+
+## PART A: LOGICAL REASONING
+
+### 1. Logical Reasoning
+
+Logical Reasoning is the ability to think logically, identify relationships, analyze statements, and arrive at correct conclusions.
+
+### 2. Statements and Conclusions
+
+A statement gives some information. A conclusion is an inference drawn from the given statement.
+
+**Example:**
+
+Statement: All doctors are educated.
+
+Conclusion I: All educated people are doctors.
+Conclusion II: All doctors are educated.
+
+Answer: Only Conclusion II follows.
+
+### 3. Syllogism
+
+Syllogism questions involve two or more statements and conclusions. We must determine whether the conclusions logically follow from the statements.
+
+**Example:**
+
+Statements:
+
+* All roses are flowers.
+* All flowers are plants.
+
+Conclusion: All roses are plants.
+
+Answer: The conclusion follows.
+
+### 4. Statement and Assumption
+
+An assumption is an unstated idea that is accepted as true when a statement is made.
+
+**Example:**
+
+Statement: The government advises people to save water.
+
+Assumption: Water conservation is important.
+
+Answer: The assumption is valid.
+
+### 5. Assertion and Reason
+
+These questions contain an assertion and a reason. The student must determine whether both are true and whether the reason correctly explains the assertion.
+
+**Example:**
+
+Assertion: Plants need sunlight for photosynthesis.
+Reason: Sunlight provides energy for photosynthesis.
+
+Answer: Both are true, and the reason correctly explains the assertion.
+
+### 6. Strong and Weak Arguments
+
+A strong argument is relevant, logical, and supported by facts. A weak argument is irrelevant, illogical, or unsupported.
+
+**Example:**
+
+Question: Should plastic bags be restricted?
+
+Argument I: Plastic pollution harms the environment.
+Argument II: Some people like colourful plastic bags.
+
+Answer: Argument I is strong because it provides a relevant reason.
+
+### 7. Cause and Effect
+
+Cause and effect questions identify the relationship between an event and the result produced by it.
+
+**Example:**
+
+Event I: Heavy rainfall occurred.
+Event II: Several streets were flooded.
+
+Answer: Heavy rainfall may be the cause, and flooding may be the effect.
+
+### 8. Course of Action
+
+These questions ask us to choose a practical and appropriate action to solve a given problem.
+
+**Example:**
+
+Problem: Road accidents are increasing near a school.
+
+Possible action: Install speed-limit signs and provide traffic monitoring near the school.
+
+Answer: This is an appropriate course of action.
+
+### 9. Logical Deduction
+
+Logical deduction involves reaching a conclusion based on the information provided.
+
+**Example:**
+
+Statements:
+
+* All engineers are graduates.
+* Ravi is an engineer.
+
+Conclusion: Ravi is a graduate.
+
+Answer: The conclusion follows logically.
+
+---
+
+## PART B: ANALYTICAL REASONING
+
+### 1. Analytical Reasoning
+
+Analytical Reasoning involves examining information, identifying patterns, comparing facts, and solving problems systematically.
+
+### 2. Ranking and Order
+
+Ranking questions determine the position of a person or object in a sequence.
+
+**Example:**
+
+Ravi ranks 8th from the top and 12th from the bottom.
+
+Total number of students = 8 + 12 − 1 = 19.
+
+**Formula:**
+
+Total = Rank from top + Rank from bottom − 1
+
+### 3. Seating Arrangement
+
+Seating arrangement questions involve arranging people according to given conditions.
+
+Common types:
+
+* Linear arrangement
+* Circular arrangement
+* Facing north or south
+* Facing inside or outside
+
+**Example:**
+
+A, B, and C sit in a row. A sits to the left of B, and C sits to the right of B.
+
+Arrangement: A – B – C
+
+Tip: Write down the conditions and draw a simple diagram before answering.
+
+### 4. Blood Relations
+
+Blood relation questions identify family relationships using the information provided.
+
+Common relationships:
+
+* Father's son: Brother or self
+* Mother's daughter: Sister or self
+* Father's brother: Uncle
+* Mother's sister: Aunt
+* Brother's daughter: Niece
+* Sister's son: Nephew
+
+**Example:**
+
+Ravi is the brother of Kumar. Kumar is the father of Priya.
+
+Question: How is Ravi related to Priya?
+
+Answer: Uncle.
+
+### 5. Direction Sense
+
+Direction questions involve determining the direction or distance travelled by a person.
+
+Main directions:
+
+* North
+* South
+* East
+* West
+
+Opposite directions:
+
+* North ↔ South
+* East ↔ West
+
+**Example:**
+
+A person walks 5 km north and then 3 km east.
+
+The person is now in the north-east direction relative to the starting point.
+
+Tip: Draw the directions on paper to avoid confusion.
+
+### 6. Number Series
+
+Number series questions require identifying the pattern between numbers.
+
+**Example 1:**
+
+2, 4, 6, 8, 10, ?
+
+Pattern: Add 2.
+
+Answer: 12.
+
+**Example 2:**
+
+3, 6, 12, 24, ?
+
+Pattern: Multiply by 2.
+
+Answer: 48.
+
+Common patterns:
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Squares
+* Cubes
+* Alternating patterns
+
+### 7. Letter Series
+
+Letter series questions involve finding patterns in alphabetical sequences.
+
+Alphabet positions:
+A = 1, B = 2, C = 3, ..., Z = 26.
+
+**Example:**
+
+A, C, E, G, ?
+
+Pattern: Skip one letter each time.
+
+Answer: I.
+
+### 8. Coding and Decoding
+
+Coding and decoding questions involve converting words or letters according to a particular rule.
+
+**Example:**
+
+If CAT is coded as DBU, how is DOG coded?
+
+Rule: Each letter is moved one position forward.
+
+D → E
+O → P
+G → H
+
+Answer: EPH.
+
+### 9. Analogy
+
+Analogy questions identify a relationship between two words, numbers, or objects.
+
+**Example:**
+
+Doctor : Hospital :: Teacher : ?
+
+Answer: School.
+
+Explanation: A doctor commonly works in a hospital, while a teacher commonly works in a school.
+
+### 10. Classification and Odd One Out
+
+These questions require identifying the item that does not belong to the same group.
+
+**Example:**
+
+Apple, Mango, Banana, Carrot
+
+Answer: Carrot.
+
+Explanation: Carrot is commonly classified as a vegetable, while the others are fruits.
+
+### 11. Scheduling and Ordering
+
+These questions require arranging events or people according to given conditions.
+
+**Example:**
+
+Three students A, B, and C attend a test.
+
+* A attends before B.
+* B attends before C.
+
+Correct order: A → B → C.
+
+Tip: Identify the fixed conditions first, then arrange the remaining items.
+
+### 12. Analytical Puzzles
+
+Analytical puzzles combine multiple conditions involving people, places, objects, or activities.
+
+Common puzzle types:
+
+* Person and profession
+* Person and location
+* Days and schedules
+* Objects and colours
+* Ordering and grouping
+
+**Example:**
+
+Three people—A, B, and C—choose different fruits: apple, mango, and orange.
+
+Conditions:
+
+* A chooses apple.
+* B does not choose mango.
+
+Based on these conditions, eliminate impossible combinations to find the correct arrangement.
+
+Tip: Use a table to record the conditions and possible combinations.
+
+---
+
+## QUICK REVISION
+
+### Logical Reasoning
+
+1. Statements and Conclusions
+2. Syllogism
+3. Statement and Assumption
+4. Assertion and Reason
+5. Strong and Weak Arguments
+6. Cause and Effect
+7. Course of Action
+8. Logical Deduction
+
+### Analytical Reasoning
+
+1. Ranking and Order
+2. Seating Arrangement
+3. Blood Relations
+4. Direction Sense
+5. Number Series
+6. Letter Series
+7. Coding and Decoding
+8. Analogy
+9. Classification and Odd One Out
+10. Scheduling and Ordering
+11. Analytical Puzzles
+
+## PREPARATION TIPS
+
+1. Understand the question before selecting an answer.
+2. Practise different question patterns.
+3. Use diagrams for seating arrangements, directions, and blood relations.
+4. Identify the rule before solving series questions.
+5. Eliminate incorrect options carefully.
+6. Practise under a time limit to improve speed and accuracy.
+

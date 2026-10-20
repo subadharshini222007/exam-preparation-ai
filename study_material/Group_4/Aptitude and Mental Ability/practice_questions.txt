@@ -1,0 +1,430 @@
+
+---
+
+# 📘 TNPSC GROUP 1 – APTITUDE
+
+---
+
+Q1: A student scored 40% marks and failed by 20 marks. If passing is 35%, total marks?
+A) 400 B) 500 C) 600 D) 700
+
+Q2: In a class, boys are 60% and girls are 40%. If girls increase by 20%, new ratio?
+A) 3:2 B) 2:3 C) 4:3 D) 5:4
+
+Q3: A sells goods at 20% profit. If cost increases by 10%, selling price remains same. New profit?
+A) 5% B) 8% C) 10% loss D) 15% loss
+
+Q4: A and B together complete work in 12 days. A alone takes 20 days. B alone?
+A) 30 B) 35 C) 40 D) 45
+
+Q5: A number is increased by 25% and decreased by 20%. Net change?
+A) 0% B) 1% loss C) 5% gain D) 10% loss
+
+Q6: Population increases by 10% annually. Initial 10000. After 2 years?
+A) 12100 B) 12000 C) 13000 D) 11000
+
+Q7: Ratio of boys to girls is 3:2. If 10 boys added, ratio becomes 2:1. Total students?
+A) 50 B) 60 C) 70 D) 80
+
+Q8: A spends 40% of salary and saves 6000. Salary?
+A) 9000 B) 10000 C) 12000 D) 15000
+
+Q9: A shopkeeper marks price 50% above cost and gives 20% discount. Profit?
+A) 20% B) 25% C) 30% D) 15%
+
+Q10: A number becomes 144 when increased by 20%. Original?
+A) 110 B) 115 C) 120 D) 125
+
+Q11: Ratio A:B = 4:5, B:C = 3:4. Find A:C?
+A) 12:20 B) 12:15 C) 16:20 D) 10:12
+
+Q12: A earns 30% more than B. B earns 20000. A earns?
+A) 24000 B) 25000 C) 26000 D) 27000
+
+Q13: A mixture contains milk and water 5:3. If 8L water added, ratio becomes 5:5. Initial milk?
+A) 10 B) 15 C) 20 D) 25
+
+Q14: A can do work in 15 days, B in 25 days. After 5 days A leaves. Total time?
+A) 18 B) 20 C) 22 D) 25
+
+Q15: Price increased by 25%, consumption reduced by 20%. Expenditure?
+A) increases B) decreases C) same D) double
+
+Q16: A is 3 times efficient than B. Together work in 12 days. A alone?
+A) 18 B) 20 C) 24 D) 30
+
+Q17: A class has 40% boys. If 20 boys added, becomes 50%. Total students?
+A) 100 B) 120 C) 150 D) 160
+
+Q18: A gains 20% then loses 20%. Net?
+A) loss B) gain C) zero D) 4% loss
+
+Q19: Ratio of ages A:B = 5:7. After 6 years ratio becomes 1:1. Present ages?
+A) 20,28 B) 25,35 C) 30,42 D) 35,49
+
+Q20: A buys item for 800 and sells at 10% loss. SP?
+A) 700 B) 720 C) 750 D) 760
+
+Q21: A and B share profit in ratio 2:3. Total profit 2500. A gets?
+A) 1000 B) 1200 C) 1500 D) 1600
+
+Q22: A number increased by 10% becomes 110. Original?
+A) 90 B) 95 C) 100 D) 105
+
+Q23: A can complete 50% work in 10 days. Full work time?
+A) 15 B) 18 C) 20 D) 25
+
+Q24: A shopkeeper gives 2 successive discounts 10% and 20%. Total discount?
+A) 28% B) 30% C) 32% D) 25%
+
+Q25: A is 25% more than B. B is 40. A is?
+A) 45 B) 50 C) 55 D) 60
+
+Q26: A travels 60 km in 2 hours. Speed?
+A) 20 B) 25 C) 30 D) 35
+
+Q27: A number decreases 20% then increases 25%. Net?
+A) gain B) loss C) zero D) 5% gain
+
+Q28: A:B = 7:9. If A increases by 6, ratio becomes 1:1. B?
+A) 18 B) 21 C) 24 D) 27
+
+Q29: A invests 10000 at 10% compound interest. 2 years amount?
+A) 12000 B) 12100 C) 12200 D) 12300
+
+Q30: A completes work in 18 days, B in 27 days. Together?
+A) 10 B) 11 C) 12 D) 13
+
+Q31: A number is increased by 40% and becomes 210. Original number?
+A) 140 B) 150 C) 160 D) 170
+
+Q32: A and B invest in ratio 3:5. Profit is 3200. B gets?
+A) 1200 B) 1800 C) 2000 D) 2400
+
+Q33: A train covers 180 km in 3 hours. Speed increases by 20%. New time?
+A) 2 h 30 m B) 2 h 15 m C) 2 h 40 m D) 3 h
+
+Q34: A reduces price by 10% and sales increase by 20%. Revenue change?
+A) increase B) decrease C) no change D) double
+
+Q35: A can complete work in 16 days, B in 24 days. Together for 6 days, then A leaves. Total time?
+A) 10 B) 12 C) 14 D) 16
+
+Q36: Population is 20000, increases 15% yearly. After 2 years?
+A) 26000 B) 26450 C) 26500 D) 27000
+
+Q37: A number becomes 180 when decreased by 10%. Original?
+A) 190 B) 200 C) 210 D) 220
+
+Q38: Ratio A:B = 2:3. If A increases by 5, ratio becomes 1:1. B?
+A) 10 B) 15 C) 20 D) 25
+
+Q39: A shopkeeper marks 80% above cost and gives 25% discount. Profit?
+A) 30% B) 35% C) 40% D) 45%
+
+Q40: A takes 12 days to complete work, B takes 18 days. A works 4 days alone then both together. Total time?
+A) 8 B) 9 C) 10 D) 12
+
+Q41: A mixture has milk and water 7:5. If 6L water added ratio becomes 7:7. Initial milk?
+A) 14 B) 21 C) 28 D) 35
+
+Q42: A number increased by 25% then decreased by 20%. Net change?
+A) 0 B) 2% gain C) 5% loss D) 10% gain
+
+Q43: A and B earn ratio 4:7. If A increases by 20%, new ratio becomes?
+A) 1:2 B) 5:7 C) 2:3 D) 3:4
+
+Q44: A travels 90 km in 3 hours. Speed increased by 50%. New distance in 2 hours?
+A) 80 B) 90 C) 100 D) 120
+
+Q45: A invests 5000 at 20% simple interest for 2 years. Amount?
+A) 6000 B) 7000 C) 8000 D) 9000
+
+Q46: A is 30% more efficient than B. Together finish work in 12 days. A alone?
+A) 15 B) 18 C) 20 D) 24
+
+Q47: A number is reduced by 25% and becomes 150. Original?
+A) 180 B) 200 C) 220 D) 240
+
+Q48: A:B = 5:6. If B decreases by 2, ratio becomes 5:4. B?
+A) 10 B) 12 C) 15 D) 18
+
+Q49: A shopkeeper gives 2 successive discounts 20% and 10%. Total discount?
+A) 28% B) 30% C) 32% D) 25%
+
+Q50: A completes 60% work in 12 days. Full work time?
+A) 18 B) 20 C) 22 D) 24
+
+Q51: A number is increased by 15% and becomes 230. Original?
+A) 190 B) 200 C) 210 D) 220
+
+Q52: A and B share profit 5:7. Total profit 3600. A gets?
+A) 1400 B) 1500 C) 1600 D) 1800
+
+Q53: A train speed is 60 km/h. Increased by 25%. Time to cover 150 km?
+A) 2 h B) 2 h 10 m C) 2 h 30 m D) 3 h
+
+Q54: A reduces cost by 20%, sales increase 25%. Profit?
+A) increase B) decrease C) same D) double
+
+Q55: A completes work in 10 days, B in 15 days. A works 5 days then B joins. Total time?
+A) 8 B) 9 C) 10 D) 12
+
+Q56: Population 5000 increases 10% yearly. After 3 years?
+A) 6500 B) 6655 C) 6700 D) 7000
+
+Q57: A number becomes 360 after 20% increase. Original?
+A) 280 B) 300 C) 320 D) 340
+
+Q58: A:B = 3:4. If both increase by 6, ratio becomes 1:1. B?
+A) 18 B) 24 C) 30 D) 36
+
+Q59: A invests 8000 at 10% compound interest for 2 years. Amount?
+A) 9400 B) 9600 C) 9680 D) 9800
+
+Q60: A completes 1/3 work in 6 days. Full work?
+A) 15 B) 18 C) 20 D) 24
+
+Q61: A number increased by 12% becomes 224. Original?
+A) 190 B) 200 C) 210 D) 220
+
+Q62: A:B = 6:5. If A increases by 4, ratio becomes 1:1. B?
+A) 20 B) 24 C) 28 D) 30
+
+Q63: A sells at 15% loss. CP 800. SP?
+A) 650 B) 680 C) 700 D) 720
+
+Q64: A works 3x faster than B. Together 12 days. A alone?
+A) 15 B) 18 C) 20 D) 24
+
+Q65: A number decreased by 30% becomes 140. Original?
+A) 180 B) 190 C) 200 D) 210
+
+Q66: A increases price by 20% then gives 10% discount. Net?
+A) gain B) loss C) zero D) 2% gain
+
+Q67: A:B = 8:9. If A increases by 4, ratio becomes 1:1. B?
+A) 28 B) 32 C) 36 D) 40
+
+Q68: A travels 120 km in 4 hours. Speed increased 25%. Time for 150 km?
+A) 4 B) 4.5 C) 5 D) 6
+
+Q69: A completes work in 9 days, B in 12 days. Together?
+A) 5 B) 6 C) 7 D) 8
+
+Q70: A number is increased by 50% then decreased by 20%. Net change?
+A) 20% gain B) 10% gain C) 5% loss D) 0%
+
+NUMBER SERIES:
+
+
+Q1: 3, 7, 13, 21, ?
+A) 27 B) 29 C) 31 D) 33
+
+Q2: 2, 6, 18, 54, ?
+A) 108 B) 162 C) 144 D) 120
+
+Q3: 1, 4, 9, 16, ?
+A) 20 B) 25 C) 30 D) 36
+
+Q4: 5, 10, 20, 40, ?
+A) 60 B) 70 C) 80 D) 90
+
+Q5: 10, 17, 26, 37, ?
+A) 46 B) 48 C) 50 D) 52
+
+Q6: 100, 90, 78, 64, ?
+A) 48 B) 50 C) 52 D) 54
+
+Q7: 2, 5, 11, 23, ?
+A) 45 B) 47 C) 49 D) 51
+
+Q8: 4, 16, 64, 256, ?
+A) 512 B) 768 C) 1024 D) 2048
+
+Q9: 7, 14, 28, 56, ?
+A) 100 B) 110 C) 112 D) 114
+
+Q10: 1, 3, 7, 15, ?
+A) 29 B) 31 C) 33 D) 35
+
+Q11: 6, 13, 27, 55, ?
+A) 109 B) 111 C) 113 D) 115
+
+Q12: 9, 19, 31, 45, ?
+A) 57 B) 59 C) 61 D) 63
+
+Q13: 2, 8, 18, 32, 50, ?
+A) 64 B) 68 C) 72 D) 76
+
+Q14: 5, 9, 19, 39, ?
+A) 79 B) 81 C) 83 D) 85
+
+Q15: 1, 2, 6, 24, 120, ?
+A) 500 B) 600 C) 720 D) 840
+
+Q16: 3, 6, 12, 24, ?
+A) 36 B) 42 C) 48 D) 54
+
+Q17: 8, 15, 24, 35, ?
+A) 44 B) 46 C) 48 D) 50
+
+Q18: 11, 22, 44, 88, ?
+A) 132 B) 144 C) 160 D) 176
+
+Q19: 4, 7, 13, 25, ?
+A) 45 B) 47 C) 49 D) 51
+
+Q20: 1, 9, 25, 49, ?
+A) 64 B) 81 C) 100 D) 121
+
+Q21: 2, 7, 22, 67, ?
+A) 190 B) 201 C) 202 D) 203
+
+Q22: 3, 10, 31, 94, ?
+A) 283 B) 284 C) 285 D) 286
+
+Q23: 6, 11, 18, 27, ?
+A) 36 B) 38 C) 40 D) 42
+
+Q24: 50, 47, 43, 38, ?
+A) 32 B) 33 C) 34 D) 35
+
+Q25: 1, 4, 10, 20, 35, ?
+A) 50 B) 52 C) 54 D) 56
+
+Q26: 12, 24, 48, 96, ?
+A) 180 B) 190 C) 192 D) 200
+
+Q27: 7, 12, 21, 34, ?
+A) 45 B) 49 C) 51 D) 55
+
+Q28: 5, 12, 23, 38, ?
+A) 55 B) 57 C) 59 D) 61
+
+Q29: 2, 3, 5, 8, 13, ?
+A) 18 B) 20 C) 21 D) 22
+
+Q30: 3, 8, 15, 24, ?
+A) 33 B) 34 C) 35 D) 36
+
+Q31: 1, 8, 27, 64, ?
+A) 100 B) 125 C) 150 D) 200
+
+Q32: 2, 16, 54, 128, ?
+A) 250 B) 256 C) 270 D) 300
+
+Q33: 6, 24, 60, 120, ?
+A) 180 B) 200 C) 210 D) 240
+
+Q34: 9, 16, 25, 36, ?
+A) 40 B) 42 C) 49 D) 64
+
+Q35: 1, 5, 14, 30, 55, ?
+A) 80 B) 84 C) 90 D) 95
+
+Q36: 4, 9, 19, 39, ?
+A) 69 B) 71 C) 73 D) 75
+
+Q37: 3, 12, 27, 48, ?
+A) 75 B) 80 C) 85 D) 90
+
+Q38: 10, 21, 43, 87, ?
+A) 170 B) 175 C) 180 D) 185
+
+Q39: 5, 11, 23, 47, ?
+A) 95 B) 97 C) 99 D) 101
+
+Q40: 2, 6, 12, 20, ?
+A) 30 B) 32 C) 34 D) 36
+
+Q41: 7, 15, 31, 63, ?
+A) 120 B) 125 C) 127 D) 130
+
+Q42: 3, 6, 18, 54, ?
+A) 108 B) 162 C) 144 D) 180
+
+Q43: 8, 27, 64, 125, ?
+A) 150 B) 180 C) 216 D) 250
+
+Q44: 1, 3, 6, 10, 15, ?
+A) 20 B) 21 C) 22 D) 23
+
+Q45: 2, 5, 10, 17, ?
+A) 24 B) 26 C) 27 D) 29
+
+Q46: 6, 14, 30, 62, ?
+A) 120 B) 124 C) 126 D) 128
+
+Q47: 4, 13, 40, 121, ?
+A) 360 B) 364 C) 365 D) 366
+
+Q48: 9, 20, 43, 88, ?
+A) 175 B) 176 C) 177 D) 178
+
+Q49: 11, 24, 51, 108, ?
+A) 215 B) 216 C) 217 D) 218
+
+Q50: 2, 9, 28, 65, ?
+A) 124 B) 125 C) 126 D) 127
+
+Q51: 1, 2, 6, 24, 120, ?
+A) 600 B) 720 C) 840 D) 960
+
+Q52: 4, 13, 40, 121, ?
+A) 360 B) 364 C) 365 D) 366
+
+Q53: 2, 9, 28, 65, ?
+A) 124 B) 125 C) 126 D) 127
+
+Q54: 3, 12, 27, 48, ?
+A) 72 B) 75 C) 80 D) 84
+
+Q55: 7, 15, 31, 63, ?
+A) 120 B) 125 C) 127 D) 130
+
+Q56: 6, 14, 30, 62, ?
+A) 120 B) 124 C) 126 D) 128
+
+Q57: 5, 11, 23, 47, ?
+A) 93 B) 95 C) 97 D) 99
+
+Q58: 9, 20, 43, 88, ?
+A) 175 B) 176 C) 177 D) 178
+
+Q59: 1, 5, 14, 30, 55, ?
+A) 80 B) 84 C) 90 D) 95
+
+Q60: 2, 6, 12, 20, 30, ?
+A) 40 B) 42 C) 44 D) 46
+
+Q61: 8, 27, 64, 125, ?
+A) 150 B) 180 C) 216 D) 243
+
+Q62: 3, 8, 15, 24, 35, ?
+A) 46 B) 48 C) 50 D) 52
+
+Q63: 10, 21, 43, 87, ?
+A) 170 B) 175 C) 180 D) 185
+
+Q64: 1, 4, 10, 20, 35, ?
+A) 50 B) 52 C) 54 D) 56
+
+Q65: 4, 9, 19, 39, ?
+A) 69 B) 71 C) 73 D) 75
+
+Q66: 2, 7, 22, 67, ?
+A) 190 B) 201 C) 202 D) 203
+
+Q67: 6, 13, 27, 55, ?
+A) 108 B) 109 C) 111 D) 113
+
+Q68: 11, 24, 51, 108, ?
+A) 215 B) 216 C) 217 D) 218
+
+Q69: 1, 3, 7, 15, 31, ?
+A) 61 B) 62 C) 63 D) 64
+
+Q70: 2, 5, 10, 17, 26, ?
+A) 35 B) 36 C) 37 D) 38
+

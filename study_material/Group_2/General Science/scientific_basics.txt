@@ -1,0 +1,1115 @@
+
+==================================================
+UNIT 1: NATURE OF SCIENCE AND MEASUREMENT
+==================================================
+
+1.1 SCIENCE AND SCIENTIFIC METHOD
+Science is the systematic study of nature through observation and experiment. The steps of the scientific method are: observation, identifying the problem, forming a hypothesis, experimenting, recording data, analysing results and drawing a conclusion. Main branches: Physics (matter and energy), Chemistry (composition and reactions of matter), Biology (living things), Astronomy, Geology and Environmental science.
+
+1.2 PHYSICAL QUANTITIES AND UNITS
+A physical quantity is anything that can be measured. Fundamental (base) quantities and their SI units:
+- Length - metre (m)
+- Mass - kilogram (kg)
+- Time - second (s)
+- Electric current - ampere (A)
+- Temperature - kelvin (K)
+- Amount of substance - mole (mol)
+- Luminous intensity - candela (cd)
+The SI system has seven base units. Derived quantities are obtained from base quantities, e.g. area (m2), volume (m3), speed (m/s), density (kg/m3), force (newton), pressure (pascal), energy (joule), power (watt), frequency (hertz), charge (coulomb), potential difference (volt), resistance (ohm).
+Scalar quantities have only magnitude (distance, speed, mass, time, energy, temperature). Vector quantities have magnitude and direction (displacement, velocity, acceleration, force, momentum).
+
+1.3 MEASURING INSTRUMENTS
+Vernier calipers and screw gauge measure small lengths. Physical balance measures mass. Stopwatch measures time. Thermometer measures temperature. Barometer measures atmospheric pressure. Hygrometer measures humidity. Anemometer measures wind speed. Lactometer measures purity of milk. Hydrometer measures density of liquids. Ammeter measures current and voltmeter measures potential difference. Seismograph records earthquakes. Odometer records distance travelled by a vehicle. Speedometer shows speed.
+
+==================================================
+UNIT 2: MOTION
+==================================================
+
+2.1 BASIC TERMS
+Distance is the total path length travelled (scalar). Displacement is the shortest straight-line distance between the initial and final positions with direction (vector). Speed = distance / time. Velocity = displacement / time. Acceleration = change in velocity / time taken; its unit is m/s2. Retardation (deceleration) is negative acceleration.
+Uniform motion: equal distances in equal intervals of time. Non-uniform motion: unequal distances in equal intervals.
+Circular motion: motion along a circle. In uniform circular motion the speed is constant but velocity changes because direction changes continuously.
+
+2.2 EQUATIONS OF MOTION (uniform acceleration)
+v = u + at
+s = ut + (1/2)at2
+v2 = u2 + 2as
+where u is initial velocity, v is final velocity, a is acceleration, t is time and s is displacement.
+Free fall: acceleration due to gravity g = 9.8 m/s2 near the earth's surface (about 10 for quick calculations).
+
+==================================================
+UNIT 3: FORCE AND NEWTON'S LAWS
+==================================================
+
+3.1 FORCE
+Force is a push or pull that changes or tends to change the state of rest or motion of a body, or its shape. SI unit: newton (N). 1 N = 1 kg m/s2. Types: contact forces (friction, tension, normal force) and non-contact forces (gravitational, magnetic, electrostatic).
+
+3.2 NEWTON'S LAWS OF MOTION
+First law (law of inertia): A body continues in its state of rest or of uniform motion in a straight line unless an external force acts on it. Inertia is the tendency of a body to resist change in its state. Inertia depends on mass. Examples: passengers jerk forward when a moving bus stops suddenly; dust falls off a carpet when beaten.
+Second law: The rate of change of momentum is proportional to the applied force and takes place in the direction of the force. F = ma. Momentum p = mv; its unit is kg m/s.
+Third law: For every action there is an equal and opposite reaction. Examples: recoil of a gun, rocket propulsion, swimming (pushing water backward), walking.
+
+3.3 CONSERVATION OF MOMENTUM
+In the absence of external forces, the total momentum of a system remains constant. This is used to explain the working of rockets and the recoil of guns.
+
+3.4 FRICTION
+Friction is the force opposing relative motion between surfaces in contact. Types: static, sliding and rolling friction. Rolling friction is the smallest, which is why wheels and ball bearings are used. Friction is a necessary evil: it helps us walk and brakes work due to it, but it causes wear and heat. It is reduced by lubricants, polishing and streamlining.
+
+==================================================
+UNIT 4: GRAVITATION
+==================================================
+
+4.1 UNIVERSAL LAW OF GRAVITATION
+Newton's law states that every object attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. F = G m1 m2 / r2, where G is the universal gravitational constant = 6.67 x 10^-11 N m2/kg2 (value found by Henry Cavendish).
+
+4.2 MASS, WEIGHT AND g
+Mass is the quantity of matter in a body; it is constant everywhere (unit kg). Weight is the force with which the earth attracts a body, W = mg (unit newton), and it changes from place to place. The value of g is greater at the poles than at the equator and decreases with height and depth. On the moon, g is about one-sixth of the earth's value, so a body weighs one-sixth of its earth weight, but its mass is unchanged. In a satellite or in free fall, a body experiences weightlessness.
+
+4.3 ESCAPE VELOCITY AND SATELLITES
+Escape velocity from the earth is about 11.2 km/s. Orbital velocity of a satellite near the earth is about 7.9 km/s. Geostationary satellites orbit at about 36,000 km above the equator with a period of 24 hours and appear fixed over one place; they are used for communication. India's INSAT series are geostationary satellites. 
+
+==================================================
+UNIT 5: WORK, ENERGY AND POWER
+==================================================
+
+5.1 WORK
+Work = Force x displacement in the direction of the force (W = Fs). SI unit: joule (J). One joule is the work done when a force of 1 newton moves a body through 1 metre. No work is done if there is no displacement.
+
+5.2 ENERGY
+Energy is the capacity to do work, measured in joules. 
+Kinetic energy (KE) = (1/2) m v2, the energy of motion. Potential energy (PE) = m g h, the energy due to position or state. 
+Law of conservation of energy: energy can neither be created nor destroyed; it can only change from one form to another. Examples: a hydroelectric dam converts potential energy to kinetic and then electrical energy; a solar cell converts light to electricity; a microphone converts sound to electrical energy; a loudspeaker converts electrical to sound; a dynamo converts mechanical to electrical energy; a motor converts electrical to mechanical energy.
+Einstein's mass-energy relation: E = mc2.
+
+5.3 POWER
+Power is the rate of doing work. P = W/t. SI unit: watt (W). 1 horsepower = 746 watts. 1 kilowatt-hour (kWh) = 3.6 x 10^6 joules, the commercial unit of electrical energy called one "unit".
+
+5.4 SIMPLE MACHINES
+Lever (first, second and third class), pulley, inclined plane, wheel and axle, screw and wedge. Mechanical advantage = load / effort. A machine makes work easier by changing the magnitude or direction of force, but it can never give more work than the work put in. Examples: scissors (first class lever), nutcracker and wheelbarrow (second class), tongs and forearm (third class).
+
+==================================================
+UNIT 6: PROPERTIES OF MATTER AND FLUIDS
+==================================================
+
+6.1 STATES OF MATTER
+Solid, liquid, gas and plasma. A solid has definite shape and volume; a liquid has definite volume but no definite shape; a gas has neither. Plasma is an ionised gas found in stars and in neon lights. Bose-Einstein condensate is the fifth state.
+
+6.2 DENSITY AND PRESSURE
+Density = mass / volume (kg/m3). Relative density has no unit. Pressure = force / area; the SI unit is pascal (Pa). Atmospheric pressure at sea level is about 101,325 Pa (1 atmosphere), measured by a barometer, which was invented by Torricelli. Pressure decreases with altitude, so water boils at a lower temperature on a mountain.
+Pascal's law: pressure applied to an enclosed fluid is transmitted equally in all directions. It is used in the hydraulic lift and hydraulic brakes.
+
+6.3 BUOYANCY AND ARCHIMEDES' PRINCIPLE
+When a body is immersed in a fluid, the upward force exerted by the fluid is called buoyant force, and it is equal to the weight of the fluid displaced (Archimedes' principle). A body floats if its density is less than the fluid's density. Applications: ships, submarines, hot-air balloons, hydrometers and lactometers. The Dead Sea has very salty water, so people float easily.
+
+6.4 SURFACE TENSION, CAPILLARITY AND VISCOSITY
+Surface tension is the property of a liquid surface to behave like a stretched elastic membrane, which makes water drops spherical and allows insects to walk on water. Capillarity is the rise or fall of a liquid in a narrow tube, and explains the rise of water in plants and the rise of oil in a wick. Viscosity is the internal friction of fluids; honey is more viscous than water.
+
+==================================================
+UNIT 7: HEAT AND TEMPERATURE
+==================================================
+
+7.1 HEAT AND TEMPERATURE
+Heat is a form of energy that flows from a hot body to a cold body. Its SI unit is joule (calorie is also used; 1 calorie = 4.18 J). Temperature is the degree of hotness; its SI unit is kelvin. Scales: Celsius, Fahrenheit and Kelvin. Conversions: F = (9/5)C + 32; K = C + 273.
+Freezing point of water = 0 C = 32 F = 273 K; boiling point = 100 C = 212 F = 373 K. The Celsius and Fahrenheit scales give the same reading at -40 degrees. Human body temperature = 37 C = 98.6 F. A clinical thermometer has a range of 35 to 42 C (94 to 108 F) and uses mercury. 
+
+7.2 MODES OF HEAT TRANSFER
+Conduction: transfer through solids by particle vibration without movement of the particles (metals are good conductors). Convection: transfer in fluids by movement of heated particles (sea breeze, boiling water). Radiation: transfer by electromagnetic waves without any medium (heat from the sun). Dark and rough surfaces absorb and emit more radiation; white and shiny surfaces reflect more. A thermos flask reduces all three modes of transfer.
+
+7.3 SPECIFIC HEAT AND LATENT HEAT
+Specific heat capacity is the heat required to raise the temperature of 1 kg of a substance by 1 K. Water has a high specific heat capacity, so it is used as a coolant and keeps coastal areas moderate. Latent heat is the heat absorbed or released during a change of state without change in temperature. Latent heat of fusion of ice = 334 kJ/kg (about 80 cal/g); latent heat of vaporisation of water = 2260 kJ/kg (about 540 cal/g). Steam burns are more severe than boiling-water burns because of latent heat.
+
+7.4 THERMAL EXPANSION
+Solids, liquids and gases expand on heating. Water shows anomalous expansion: it contracts from 0 to 4 C, has maximum density at 4 C, then expands. This helps aquatic life to survive in frozen lakes because the bottom water stays at about 4 C. Gaps are left in railway tracks and bridges for expansion.
+
+==================================================
+UNIT 8: LIGHT
+==================================================
+
+8.1 NATURE OF LIGHT
+Light is an electromagnetic wave that travels in a straight line. Speed of light in vacuum = 3 x 10^8 m/s (about 300,000 km/s). Light takes about 8 minutes 20 seconds to reach the earth from the sun and about 1.3 seconds from the moon. A light year is the distance light travels in one year (about 9.46 x 10^12 km) and is a unit of distance, not time.
+
+8.2 REFLECTION
+Laws of reflection: the angle of incidence equals the angle of reflection; the incident ray, reflected ray and normal lie in the same plane. A plane mirror forms a virtual, erect image of the same size, laterally inverted, at the same distance behind the mirror. 
+Concave mirror: converging mirror, used in torches, headlights, shaving mirrors, dentists' mirrors and solar furnaces. Convex mirror: diverging mirror, gives a wider field of view and a virtual, smaller image; used as rear-view mirrors in vehicles and in street-light reflectors. Mirror formula: 1/f = 1/v + 1/u. For a spherical mirror f = R/2.
+
+8.3 REFRACTION
+Refraction is the bending of light when it passes from one medium to another because the speed changes. Snell's law: sin i / sin r = constant (refractive index). Refractive index n = speed of light in vacuum / speed of light in the medium. Examples: a pencil appears bent in water, a swimming pool appears shallower, stars twinkle, and a rainbow forms.
+Total internal reflection occurs when light travels from a denser to a rarer medium at an angle greater than the critical angle. It is used in optical fibres (communication and endoscopy), diamond's sparkle and mirages.
+
+8.4 LENSES
+Convex lens: converging; used in magnifying glass, camera, projector, microscope and for correcting hypermetropia. Concave lens: diverging; used to correct myopia. Lens formula: 1/f = 1/v - 1/u. Power of a lens P = 1/f (f in metres); unit dioptre (D). Convex lenses have positive power and concave lenses have negative power.
+
+8.5 THE HUMAN EYE AND DEFECTS OF VISION
+The eye forms a real, inverted image on the retina; the cornea and lens focus light; the iris controls the pupil size. Rods are for dim light and cones for colour. Defects:
+- Myopia (short-sightedness): can see near objects but not distant ones; corrected by a concave lens.
+- Hypermetropia (long-sightedness): can see distant objects but not near ones; corrected by a convex lens.
+- Presbyopia: weakening of eye muscles with age; corrected by bifocal lenses.
+- Astigmatism: blurred vision due to uneven cornea; corrected by cylindrical lenses.
+- Cataract: clouding of the lens, treated by surgery. 
+- Night blindness: due to deficiency of vitamin A. Colour blindness: inability to distinguish certain colours, a genetic condition.
+
+8.6 DISPERSION AND COLOUR
+Newton showed that white light splits into seven colours (VIBGYOR) when passed through a prism: violet, indigo, blue, green, yellow, orange and red. Red has the longest wavelength and the least bending; violet has the shortest wavelength and the most bending. The sky appears blue due to scattering of light (Rayleigh scattering). The sun appears red at sunrise and sunset because blue light is scattered away. Danger signals are red because red is scattered the least. A rainbow is due to refraction, dispersion and total internal reflection of sunlight in water droplets.
+Primary colours of light: red, green and blue. Primary pigments: cyan, magenta and yellow.
+
+==================================================
+UNIT 9: SOUND
+==================================================
+
+9.1 NATURE OF SOUND
+Sound is a mechanical, longitudinal wave that needs a medium and cannot travel in a vacuum. Speed of sound: about 330-343 m/s in air at room temperature, about 1500 m/s in water and about 5000 m/s in steel. Sound travels fastest in solids, slower in liquids and slowest in gases. Speed increases with temperature.
+Characteristics: amplitude (loudness), frequency (pitch) and quality or timbre. Loudness is measured in decibels (dB). Frequency is measured in hertz (Hz). Wavelength = speed / frequency.
+
+9.2 AUDIBLE RANGE
+The human ear hears 20 Hz to 20,000 Hz. Sound below 20 Hz is infrasound (used by elephants and whales; produced during earthquakes). Sound above 20,000 Hz is ultrasound (bats, dolphins, dogs hear it). Applications of ultrasound: SONAR, ultrasonography (scanning), cleaning of delicate parts, and detecting cracks in metals.
+
+9.3 ECHO AND REVERBERATION
+An echo is the reflection of sound heard distinctly after the original sound; the minimum distance between the source and the reflector for an echo in air is about 17 metres, because the ear retains a sound for 0.1 second. Reverberation is the persistence of sound due to repeated reflections, which is reduced in auditoriums using curtains and sound-absorbing panels. Applications of echo: SONAR, bats, and depth finding in the sea.
+
+9.4 DOPPLER EFFECT
+The apparent change in the frequency of sound due to the relative motion between source and listener; used in radar, speed guns and medical flow measurement.
+
+==================================================
+UNIT 10: ELECTRICITY AND MAGNETISM
+==================================================
+
+10.1 ELECTRIC CHARGE AND CURRENT
+Charge is measured in coulombs. Like charges repel and unlike charges attract. Electric current is the rate of flow of charge: I = Q/t, unit ampere. Conventional current flows from the positive to the negative terminal while electrons flow from negative to positive. Potential difference (voltage) is the work done per unit charge; unit volt. 
+Ohm's law: V = IR, where R is resistance in ohms, which depends on the length, area of cross-section, material and temperature of the conductor. R = rho L / A. 
+Resistances in series: R = R1 + R2 + ...; in parallel: 1/R = 1/R1 + 1/R2 + .... Household appliances are connected in parallel.
+
+10.2 CONDUCTORS, INSULATORS AND SEMICONDUCTORS
+Conductors: metals, graphite, salt solutions. Insulators: rubber, glass, plastic, dry wood. Semiconductors: silicon and germanium, used in transistors, diodes and chips. Superconductors have zero resistance at very low temperatures. Nichrome is used in heating elements because of its high resistance and high melting point. Tungsten is used in bulb filaments. Fuse wire has a low melting point and protects circuits from overload.
+
+10.3 ELECTRICAL POWER AND HEATING EFFECT
+Power P = VI = I2R = V2/R. Heating effect (Joule's law): H = I2Rt. Used in electric heaters, irons, toasters and bulbs. India's household supply is 230 volts at 50 hertz AC. India follows AC (alternating current) for domestic supply. Earthing (the green or yellow-green wire) protects against electric shock. In the live-neutral-earth system, the live wire is usually red or brown, neutral is black or blue.
+
+10.4 CELLS AND BATTERIES
+A cell converts chemical energy into electrical energy. Primary cells cannot be recharged (dry cell); secondary cells can be recharged (lead-acid battery in vehicles, lithium-ion battery in mobile phones). Alessandro Volta invented the voltaic cell. Lead-acid battery uses lead plates and dilute sulphuric acid.
+
+10.5 MAGNETISM
+A magnet has two poles; like poles repel and unlike poles attract. The earth acts as a huge magnet; a freely suspended magnet aligns itself in the north-south direction. Magnetic field lines go from the north pole to the south pole outside the magnet. Oersted showed that current produces a magnetic field. Fleming's left-hand rule gives the direction of force on a current-carrying conductor in a magnetic field (electric motor). Fleming's right-hand rule gives the direction of induced current (generator). Faraday discovered electromagnetic induction in 1831. A transformer works by mutual induction and changes AC voltages; a step-up transformer increases voltage and a step-down decreases it. A generator (dynamo) converts mechanical energy into electrical energy. An electric motor converts electrical energy into mechanical energy.
+Electromagnets use soft iron cores and are used in electric bells, cranes and MRI machines. Permanent magnets are made of steel and alloys such as Alnico.
+
+==================================================
+UNIT 11: ATOMIC AND NUCLEAR PHYSICS
+==================================================
+
+11.1 STRUCTURE OF ATOM (PHYSICS VIEW)
+The atom has a nucleus (protons and neutrons) and electrons orbiting it. J. J. Thomson discovered the electron, Rutherford discovered the nucleus (gold-foil experiment), Chadwick discovered the neutron, and Bohr proposed the orbit model.
+
+11.2 RADIOACTIVITY
+Henri Becquerel discovered radioactivity (1896), and Marie Curie and Pierre Curie discovered polonium and radium. The three kinds of radiation: alpha (helium nuclei, least penetrating), beta (electrons) and gamma (electromagnetic waves, most penetrating). Half-life is the time taken for half of the radioactive atoms to decay. Radioactivity is measured by a Geiger-Muller counter. Uses: carbon dating (C-14) for age of fossils, cancer treatment (cobalt-60), sterilisation, and tracers in medicine. 
+
+11.3 NUCLEAR FISSION AND FUSION
+Fission is the splitting of a heavy nucleus (uranium-235) into lighter nuclei with release of energy; it is used in nuclear reactors and atom bombs. Fusion is the joining of light nuclei (hydrogen isotopes) to form a heavier nucleus with a huge release of energy; it is the source of energy of the sun and stars and the principle of the hydrogen bomb. Controlled fission in a reactor uses moderators (heavy water, graphite) and control rods (cadmium, boron).
+
+==================================================
+UNIT 12: ELECTROMAGNETIC SPECTRUM AND MODERN DEVICES
+==================================================
+
+12.1 ELECTROMAGNETIC SPECTRUM (from long to short wavelength)
+Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays. All travel at the speed of light in vacuum. Uses: radio waves in broadcasting; microwaves in ovens, radar and mobile communication; infrared in remote controls, night-vision and physiotherapy; ultraviolet in sterilisation and detecting forged notes; X-rays (discovered by Roentgen in 1895) in medical imaging and security checks; gamma rays in cancer treatment.
+
+12.2 MODERN DEVICES AND TECHNOLOGY
+- Laser: coherent, monochromatic, intense light (Light Amplification by Stimulated Emission of Radiation); used in eye surgery, cutting, barcode scanners, CD/DVD players and communication.
+- Radar: uses microwaves to detect aircraft and ships. SONAR uses ultrasound underwater.
+- Optical fibre: uses total internal reflection for high-speed data.
+- GPS: satellite-based navigation system. India's regional system is NavIC.
+- MRI: uses strong magnets and radio waves for body imaging. CT scan: uses X-rays. ECG records heart signals. EEG records brain waves.
+- Semiconductor devices: diode (allows current in one direction), transistor (amplifier or switch), integrated circuit (chip).
+- Pressure cooker works because boiling point rises with increased pressure.
+
+==================================================
+END OF PART 1: PHYSICS
+==================================================
+
+==================================================
+UNIT 1: MATTER AND ITS NATURE
+==================================================
+
+1.1 MATTER
+Matter is anything that has mass and occupies space. It is made of tiny particles that are in constant motion and have spaces between them. The three common states are solid, liquid and gas. Change of state: melting (solid to liquid), freezing (liquid to solid), vaporisation (liquid to gas), condensation (gas to liquid), sublimation (solid directly to gas, e.g. camphor, naphthalene, dry ice, ammonium chloride) and deposition. Evaporation occurs at all temperatures at the surface and causes cooling, while boiling occurs at a fixed temperature throughout the liquid.
+
+1.2 CLASSIFICATION OF MATTER
+Pure substances are elements and compounds. An element contains one kind of atom (hydrogen, oxygen, iron). A compound contains two or more elements chemically combined in a fixed ratio (water, carbon dioxide, sodium chloride). Mixtures contain two or more substances physically mixed; they can be homogeneous (solutions such as salt in water, air, brass) or heterogeneous (sand in water, oil in water).
+Colloids: particles of intermediate size that scatter light (Tyndall effect) and do not settle, e.g. milk, fog, smoke, blood, ink and gelatin. Suspensions: particles that settle on standing, e.g. muddy water, chalk in water.
+
+1.3 SEPARATION OF MIXTURES
+Filtration (insoluble solid from liquid), evaporation (dissolved solid from a solution), distillation (liquids with different boiling points; also making distilled water), fractional distillation (liquids with close boiling points, e.g. crude oil and air), sublimation (separating ammonium chloride from salt), chromatography (separating dyes and pigments), magnetic separation (iron from sulphur), centrifugation (cream from milk), separating funnel (oil and water), sedimentation and decantation, and crystallisation (pure crystals of copper sulphate).
+
+1.4 PHYSICAL AND CHEMICAL CHANGES
+A physical change does not form a new substance and is usually reversible (melting of ice, dissolving of sugar). A chemical change forms a new substance and is generally irreversible (rusting of iron, burning of paper, cooking food, souring of milk, ripening of fruit, digestion of food, photosynthesis).
+
+==================================================
+UNIT 2: STRUCTURE OF ATOM
+==================================================
+
+2.1 ATOMIC MODELS
+- Dalton (1808): matter is made of indivisible atoms.
+- J. J. Thomson (1897): discovered the electron; plum pudding model.
+- Rutherford (1911): discovered the nucleus using the alpha-particle scattering (gold foil) experiment.
+- Niels Bohr (1913): electrons revolve in fixed energy levels (shells) without radiating energy.
+- James Chadwick (1932): discovered the neutron.
+- Goldstein discovered the proton (anode rays).
+
+2.2 SUBATOMIC PARTICLES
+Proton: positive charge, mass about 1 atomic mass unit, in the nucleus. Neutron: no charge, mass about 1 amu, in the nucleus. Electron: negative charge, mass about 1/1836 of a proton, orbits the nucleus. Atomic number (Z) = number of protons. Mass number (A) = protons + neutrons. Number of neutrons = A - Z. In a neutral atom, protons equal electrons.
+Electrons are filled in shells K, L, M, N with a maximum of 2n2 electrons (2, 8, 18, 32). The outermost shell can hold a maximum of 8 electrons (octet rule); the K shell can hold 2 (duplet). Valency is the combining capacity of an atom, related to the number of outer-shell electrons.
+
+2.3 ISOTOPES, ISOBARS AND ISOTONES
+Isotopes: atoms of the same element with the same atomic number but different mass numbers, e.g. hydrogen has protium, deuterium and tritium; carbon-12, carbon-14. Isotope uses: carbon-14 in dating, iodine-131 for thyroid treatment, cobalt-60 for cancer treatment, uranium-235 as nuclear fuel. Isobars have the same mass number but different atomic numbers (argon-40 and calcium-40). Isotones have the same number of neutrons.
+
+2.4 MOLE CONCEPT AND BASIC LAWS
+Law of conservation of mass (Lavoisier): mass is neither created nor destroyed in a chemical reaction. Law of constant proportions (Proust): a compound always contains the same elements in the same proportion by mass. Avogadro's number = 6.022 x 10^23. One mole of any substance contains this number of particles. Atomic mass unit is one-twelfth the mass of a carbon-12 atom. At standard temperature and pressure, one mole of any gas occupies 22.4 litres.
+
+==================================================
+UNIT 3: PERIODIC TABLE
+==================================================
+
+3.1 DEVELOPMENT
+Dobereiner proposed triads. Newlands proposed the law of octaves. Dmitri Mendeleev (1869) arranged elements by increasing atomic mass and predicted undiscovered elements (eka-aluminium, eka-silicon). Henry Moseley showed that atomic number is the fundamental property, giving the Modern Periodic Law: the properties of elements are a periodic function of their atomic numbers.
+
+3.2 MODERN PERIODIC TABLE
+It has 18 vertical columns called groups and 7 horizontal rows called periods. Elements in a group have the same number of valence electrons and similar properties. 
+- Group 1: alkali metals (Li, Na, K, Rb, Cs, Fr), highly reactive; stored in kerosene.
+- Group 2: alkaline earth metals (Be, Mg, Ca, Sr, Ba, Ra).
+- Groups 3 to 12: transition metals.
+- Group 17: halogens (F, Cl, Br, I, At), very reactive non-metals.
+- Group 18: noble (inert) gases (He, Ne, Ar, Kr, Xe, Rn), with complete outer shells and very low reactivity.
+Trends: Across a period from left to right, atomic size decreases, and metallic character decreases; non-metallic character and electronegativity increase. Down a group, atomic size increases and metallic character increases.
+
+3.3 IMPORTANT ELEMENT FACTS
+Hydrogen is the lightest element and the most abundant element in the universe. Oxygen is the most abundant element in the earth's crust (about 46 percent), followed by silicon, aluminium and iron. Aluminium is the most abundant metal in the earth's crust, and iron is the most abundant metal in the earth as a whole. Nitrogen forms about 78 percent of air and oxygen about 21 percent. Lithium is the lightest metal. Mercury is the only metal that is liquid at room temperature (bromine is the only liquid non-metal). Gallium and caesium have very low melting points. Silver is the best conductor of heat and electricity, followed by copper. Diamond is the hardest natural substance. Tungsten has the highest melting point among metals. Iodine is a solid non-metal that sublimes. Graphite is a non-metal that conducts electricity.
+Names of symbols from Latin: Na - sodium (natrium), K - potassium (kalium), Fe - iron (ferrum), Cu - copper (cuprum), Ag - silver (argentum), Au - gold (aurum), Pb - lead (plumbum), Sn - tin (stannum), Hg - mercury (hydrargyrum), Sb - antimony (stibium), W - tungsten (wolfram).
+
+==================================================
+UNIT 4: CHEMICAL BONDING
+==================================================
+
+4.1 TYPES OF BONDS
+Atoms combine to achieve a stable noble gas electron configuration.
+- Ionic (electrovalent) bond: transfer of electrons from a metal to a non-metal, forming ions, e.g. NaCl, MgO. Ionic compounds have high melting and boiling points, are soluble in water and conduct electricity in molten or dissolved state.
+- Covalent bond: sharing of electrons between non-metal atoms, e.g. H2, O2, N2, CH4, H2O, CO2. Covalent compounds usually have low melting points and are poor conductors of electricity. Single, double and triple bonds are possible: O2 has a double bond and N2 has a triple bond.
+- Metallic bond: attraction between metal ions and a sea of free electrons, which explains conductivity, malleability and ductility of metals.
+- Hydrogen bond: weak attraction between H and highly electronegative atoms (F, O, N), responsible for the high boiling point of water.
+
+==================================================
+UNIT 5: CHEMICAL REACTIONS
+==================================================
+
+5.1 CHEMICAL EQUATIONS
+A chemical equation shows reactants and products using symbols and formulae. It must be balanced to obey the law of conservation of mass. For example: 2H2 + O2 -> 2H2O.
+
+5.2 TYPES OF REACTIONS
+- Combination: two or more substances form one product, e.g. CaO + H2O -> Ca(OH)2 (slaking of lime); burning of coal.
+- Decomposition: one substance splits into simpler ones, e.g. CaCO3 -> CaO + CO2 on heating (thermal), electrolysis of water (electrolytic), decomposition of silver chloride in sunlight (photolytic, used in photography).
+- Displacement: a more reactive element displaces a less reactive one, e.g. Fe + CuSO4 -> FeSO4 + Cu.
+- Double displacement: exchange of ions, e.g. precipitation reactions such as BaCl2 + Na2SO4 -> BaSO4 + 2NaCl.
+- Oxidation and reduction (redox): oxidation is gain of oxygen or loss of electrons; reduction is loss of oxygen or gain of electrons. Both occur together. Examples: rusting, burning, respiration, corrosion.
+- Exothermic reactions release heat (combustion, respiration, neutralisation); endothermic reactions absorb heat (photosynthesis, thermal decomposition).
+Catalysts speed up a reaction without being consumed, e.g. iron in the Haber process, vanadium pentoxide in the contact process, enzymes in the body. Rancidity is the oxidation of fats and oils, prevented by antioxidants, nitrogen flushing in chips packets and refrigeration. Corrosion is the slow eating away of metals; rusting of iron needs both oxygen and water. Prevention: painting, oiling, galvanisation (zinc coating), electroplating, alloying and cathodic protection.
+
+==================================================
+UNIT 6: ACIDS, BASES AND SALTS
+==================================================
+
+6.1 ACIDS
+Acids taste sour, turn blue litmus red, and release H+ ions in water. Strong acids: hydrochloric (HCl), sulphuric (H2SO4), nitric (HNO3). Weak acids: acetic acid, citric acid, carbonic acid.
+Natural acids: citric acid (lemon, orange), tartaric acid (tamarind, grapes), malic acid (apple), lactic acid (curd, sour milk), oxalic acid (spinach, tomato), formic acid (ant and nettle sting), acetic acid (vinegar), ascorbic acid (vitamin C, amla), amino acids (proteins), carbonic acid (soda water), tannic acid (tea).
+Sulphuric acid is the "king of chemicals." Aqua regia is a mixture of concentrated hydrochloric acid and nitric acid (3:1) that can dissolve gold and platinum.
+
+6.2 BASES
+Bases taste bitter, feel soapy, turn red litmus blue and release OH- ions in water. A water-soluble base is called an alkali. Examples: sodium hydroxide (caustic soda), potassium hydroxide, calcium hydroxide (lime water), magnesium hydroxide (milk of magnesia, an antacid), ammonium hydroxide.
+
+6.3 INDICATORS
+Litmus (from lichens), phenolphthalein (colourless in acid, pink in base), methyl orange (red in acid, yellow in base), turmeric (turns red in base), and natural indicators like red cabbage and hibiscus.
+
+6.4 pH SCALE
+pH measures hydrogen ion concentration on a scale of 0 to 14 (introduced by Sorensen). pH 7 is neutral (pure water), below 7 acidic and above 7 basic. Lower pH means stronger acidity. Some values: gastric juice about 1.5-2, lemon juice about 2.2, vinegar about 3, tomato about 4.5, black coffee about 5, milk about 6.5, saliva about 6.5-7.5, human blood about 7.4, sea water about 8, baking soda about 8.3, milk of magnesia about 10, and sodium hydroxide about 14. Tooth decay begins when the mouth pH falls below 5.5. Acid rain has pH below 5.6. Plants need soil of suitable pH (about 6-7.5). Indigestion due to excess acid is treated using antacids. Bee sting (acid) is treated with baking soda and nettle sting with dock leaves.
+Neutralisation: acid + base -> salt + water.
+
+6.5 IMPORTANT SALTS AND COMMON CHEMICALS
+- Common salt (sodium chloride, NaCl): for food, and as the raw material for caustic soda, chlorine, baking soda and washing soda (chlor-alkali process).
+- Caustic soda (NaOH): used in soap making and paper industry.
+- Baking soda (sodium hydrogen carbonate, NaHCO3): used in cooking, antacids and fire extinguishers. On heating it releases CO2, making cakes soft and spongy. Baking powder is baking soda plus tartaric acid.
+- Washing soda (Na2CO3.10H2O): used to remove permanent hardness of water and in cleaning.
+- Bleaching powder (calcium oxychloride, CaOCl2): used to disinfect drinking water and to bleach cotton and paper.
+- Plaster of Paris (CaSO4.1/2H2O): used for setting fractured bones, statues and toys. It sets to gypsum (CaSO4.2H2O) when mixed with water.
+- Quicklime (CaO), slaked lime (Ca(OH)2), limestone, chalk and marble (CaCO3).
+- Blue vitriol (copper sulphate pentahydrate), green vitriol (ferrous sulphate), white vitriol (zinc sulphate), Epsom salt (magnesium sulphate), Glauber's salt (sodium sulphate), saltpetre (potassium nitrate), Chile saltpetre (sodium nitrate), borax (sodium tetraborate), potash alum (used to purify water).
+- Vinegar: dilute acetic acid. Dry ice: solid carbon dioxide. Laughing gas: nitrous oxide (anaesthetic). Marsh gas: methane. Rust: hydrated iron oxide. Lime water turns milky when carbon dioxide passes through it.
+
+==================================================
+UNIT 7: METALS AND NON-METALS
+==================================================
+
+7.1 PHYSICAL PROPERTIES
+Metals are lustrous, malleable, ductile, hard and good conductors of heat and electricity, and they are sonorous. They are generally solids with high melting points, except sodium and potassium (soft) and mercury (liquid). Non-metals are generally dull, brittle and poor conductors, except graphite.
+
+7.2 CHEMICAL PROPERTIES AND REACTIVITY SERIES
+Metals react with oxygen to give basic oxides, with water or steam to give hydroxide or oxide and hydrogen, and with dilute acids to give salt and hydrogen. Reactivity series (high to low): K, Na, Ca, Mg, Al, Zn, Fe, Pb, H, Cu, Hg, Ag, Au. Gold and platinum are the least reactive. Potassium and sodium react violently with water and are stored in kerosene; phosphorus is stored under water.
+
+7.3 EXTRACTION OF METALS (METALLURGY)
+Ores are minerals from which metals can be profitably extracted. Steps: concentration of ore, extraction of metal (roasting, calcination or smelting, reduction), and refining. Iron is extracted from haematite in a blast furnace using coke and limestone. Aluminium is extracted from bauxite by electrolytic reduction (Hall-Heroult process). Highly reactive metals like sodium and potassium are extracted by electrolysis of their molten chlorides. Copper ore: copper pyrites. Zinc ore: zinc blende. Lead ore: galena. Mercury ore: cinnabar. Tin ore: cassiterite. Common ores of calcium: limestone, gypsum.
+
+7.4 ALLOYS
+An alloy is a homogeneous mixture of a metal with other metals or non-metals. Alloys are generally stronger and more resistant to corrosion.
+- Brass: copper and zinc (utensils).
+- Bronze: copper and tin (medals, statues, bells).
+- Steel: iron and carbon. Stainless steel: iron, chromium, nickel and carbon.
+- Solder: lead and tin (low melting point, used for joining wires).
+- Duralumin: aluminium, copper, magnesium and manganese (aircraft).
+- German silver: copper, zinc and nickel (no silver).
+- Amalgam: mercury with another metal (dental fillings).
+- Gold purity: 24 carat is pure gold; 22 carat contains 91.6 percent gold.
+- Pig iron and wrought iron are forms of iron with different carbon content; wrought iron is the purest.
+
+==================================================
+UNIT 8: CARBON AND ITS COMPOUNDS
+==================================================
+
+8.1 CARBON
+Carbon has atomic number 6 and valency 4. It shows catenation (the ability to form long chains) and forms single, double and triple bonds, hence it forms a huge number of compounds. Allotropes of carbon: diamond (hard, transparent, non-conductor), graphite (soft, slippery, conducts electricity, used in pencils and as a lubricant and electrodes), fullerenes (C-60, buckminsterfullerene), graphene (a single layer of graphite, a very strong and conductive material), and amorphous forms like coal, coke, charcoal and lamp black.
+
+8.2 HYDROCARBONS
+Saturated hydrocarbons (alkanes) have single bonds: methane CH4, ethane C2H6, propane C3H8, butane C4H10. Unsaturated hydrocarbons: alkenes have a double bond (ethene C2H4, used for artificial ripening of fruits) and alkynes have a triple bond (ethyne C2H2, acetylene, used in welding). Methane is the main component of natural gas and gobar gas.
+
+8.3 FUNCTIONAL GROUPS AND IMPORTANT COMPOUNDS
+Alcohols (-OH): ethanol (spirit; found in alcoholic drinks; used as a solvent and fuel mixed with petrol); methanol is poisonous and can cause blindness. Carboxylic acids (-COOH): ethanoic (acetic) acid. Pure acetic acid freezes at about 17 C and is called glacial acetic acid. Esters have pleasant smells and are used in perfumes and flavours. 
+Soap and detergents: Soap is the sodium or potassium salt of fatty acids, made by saponification (heating fats or oils with sodium hydroxide). Soap does not work well in hard water because it forms scum with calcium and magnesium salts. Synthetic detergents work in both hard and soft water.
+
+8.4 POLYMERS AND PLASTICS
+Polymers are large molecules made from many small units (monomers).
+Natural polymers: cellulose, starch, proteins, natural rubber, wool, silk, DNA.
+Synthetic polymers: polythene (polyethylene), PVC (pipes), polystyrene (thermocol), nylon (the first fully synthetic fibre, by Wallace Carothers), polyester (terylene), Teflon (non-stick coating), Bakelite (thermosetting plastic used in switches and electrical goods), acrylic and PET (bottles). 
+Thermoplastics soften on heating and can be remoulded (polythene, PVC). Thermosetting plastics harden permanently once moulded (Bakelite, melamine). Vulcanisation of rubber with sulphur, discovered by Charles Goodyear, makes rubber stronger and elastic.
+
+==================================================
+UNIT 9: WATER, AIR AND GASES
+==================================================
+
+9.1 WATER
+Water is a compound of hydrogen and oxygen (H2O). It is a universal solvent. Pure water has pH 7, a boiling point of 100 C, and has maximum density at 4 C. Heavy water (D2O, deuterium oxide) is used as a moderator in nuclear reactors. Hardness of water is caused by dissolved calcium and magnesium salts. Temporary hardness is due to bicarbonates and is removed by boiling or adding lime (Clark's method). Permanent hardness is due to chlorides and sulphates and is removed by washing soda or an ion-exchange resin (permutit method). Water purification: sedimentation, filtration, chlorination and boiling. Safe fluoride level in drinking water is about 1 mg per litre.
+
+9.2 AIR
+Air is a mixture: nitrogen (78 percent), oxygen (21 percent), argon (about 0.9 percent), carbon dioxide (about 0.04 percent), plus traces of other gases and water vapour.
+
+9.3 IMPORTANT GASES AND THEIR USES
+- Hydrogen: lightest gas, discovered by Henry Cavendish; used in making ammonia, hydrogenation of oils (vanaspati), and as a rocket fuel.
+- Oxygen: discovered by Priestley and Scheele; named by Lavoisier. Supports combustion; used in hospitals, welding and rocket fuels.
+- Nitrogen: inert gas; used in making ammonia and fertilisers, as a coolant (liquid nitrogen), and in packing food.
+- Carbon dioxide: used in fire extinguishers, soft drinks (carbonated water), photosynthesis, and as dry ice.
+- Carbon monoxide: poisonous gas from incomplete combustion.
+- Chlorine: used for water disinfection and bleaching.
+- Ammonia: used in fertilisers and refrigeration; made by the Haber process (N2 + 3H2 -> 2NH3 with iron catalyst).
+- Helium: second lightest gas; non-inflammable and used in balloons, airships and deep-sea diving mixtures; liquid helium is used to cool superconducting magnets.
+- Neon: glows red in advertising signs. Argon: used inside electric bulbs. Krypton and xenon: used in special lamps. Radon: radioactive.
+- Methane: main component of natural gas and biogas; sulphur dioxide: bleaching agent and a pollutant; hydrogen sulphide: smell of rotten eggs.
+
+==================================================
+UNIT 10: CHEMISTRY IN EVERYDAY LIFE AND INDUSTRY
+==================================================
+
+10.1 FERTILISERS AND PESTICIDES
+Fertilisers supply nutrients to plants. Urea (about 46 percent nitrogen) has the highest nitrogen content among nitrogenous fertilisers. Other fertilisers: ammonium sulphate, superphosphate, potassium chloride (potash) and NPK mixtures. Overuse of fertilisers harms soil and water bodies. Pesticides include insecticides (DDT, malathion), fungicides (Bordeaux mixture: copper sulphate and lime) and herbicides (2,4-D). DDT is banned in many countries because of biomagnification. Organic and biofertilisers (Rhizobium, Azolla, blue-green algae) are eco-friendly alternatives.
+
+10.2 CEMENT, GLASS AND CERAMICS
+Cement is made from limestone and clay with a little gypsum, and was patented by Joseph Aspdin as Portland cement. Gypsum controls the setting time. Concrete is cement, sand, gravel and water; reinforced concrete uses steel rods. Glass is made by fusing sand (silica), sodium carbonate and limestone. Coloured glass: cobalt gives blue, copper gives green or red, and iron gives brown or green. Pyrex (borosilicate) glass withstands heat. Ceramics and pottery are made from clay by heating in kilns.
+
+10.3 FUELS
+Fuels are substances burnt to release heat. Calorific value is the heat produced by burning 1 kg of fuel. Hydrogen has the highest calorific value, followed by methane and LPG. Good fuel: high calorific value, low ignition temperature, easy to transport, and low pollution. Octane number measures the quality of petrol (anti-knocking); cetane number measures the quality of diesel. Producer gas and water gas are industrial fuels. LPG has ethyl mercaptan added to give it a smell for detecting leaks.
+
+10.4 EXPLOSIVES, MATCHES AND OTHERS
+Gunpowder: potassium nitrate, charcoal and sulphur. TNT (trinitrotoluene) and dynamite (invented by Alfred Nobel) are explosives. Safety matches have red phosphorus on the side of the box and potassium chlorate on the match head. White phosphorus is poisonous and ignites in air. Fire extinguishers use carbon dioxide, foam or dry powder; water should not be used on electrical or oil fires. Fireworks give colours: strontium gives red, barium gives green, sodium gives yellow, and copper gives blue.
+
+10.5 FOOD CHEMISTRY AND MEDICINES
+Food preservatives: salt, sugar, vinegar, sodium benzoate and citric acid. Artificial sweeteners: saccharin and aspartame. Medicines: analgesics (paracetamol, aspirin) reduce pain; antipyretics reduce fever; antibiotics (penicillin, discovered by Alexander Fleming in 1928) kill bacteria; antiseptics (dettol, tincture of iodine) are applied on living tissue; disinfectants (phenol) are used on inanimate objects; antacids (milk of magnesia) reduce stomach acid; tranquillisers calm the mind; anaesthetics make a patient unconscious or numb. Alcohol-based sanitisers contain ethanol or isopropyl alcohol.
+
+10.6 CHEMICAL INDUSTRIES - KEY PROCESSES
+- Haber process: ammonia from nitrogen and hydrogen (iron catalyst).
+- Contact process: sulphuric acid (vanadium pentoxide catalyst).
+- Ostwald process: nitric acid from ammonia.
+- Solvay process: sodium carbonate.
+- Chlor-alkali process: electrolysis of brine gives chlorine, hydrogen and sodium hydroxide.
+- Bosch process and Fischer-Tropsch process: hydrogen and synthetic fuel.
+- Hall-Heroult process: aluminium.
+- Cracking: breaking large hydrocarbon molecules in petroleum into smaller useful ones.
+
+==================================================
+UNIT 11: IMPORTANT SCIENTISTS IN CHEMISTRY AND QUICK FACTS
+==================================================
+
+Robert Boyle: father of modern chemistry in some sources, gas law. Antoine Lavoisier: father of modern chemistry; conservation of mass, named oxygen. John Dalton: atomic theory. Mendeleev: periodic table. Moseley: atomic number. Marie Curie: radium and polonium, two Nobel prizes in physics and chemistry. Linus Pauling: chemical bond. Rutherford: nucleus. Niels Bohr: atomic structure. Alfred Nobel: dynamite. Alexander Fleming: penicillin. Joseph Priestley: oxygen. Henry Cavendish: hydrogen. C. V. Raman: Raman effect in physics, Nobel prize in 1930. Venkatraman Ramakrishnan, born in Chidambaram, Tamil Nadu, won the 2009 Nobel Prize in Chemistry for studies of the ribosome. S. Chandrasekhar (Chandrasekhar limit) won the 1983 Nobel Prize in Physics. National Science Day is celebrated on 28 February to commemorate the Raman Effect. The Periodic Table has 118 known elements. The International Year of the Periodic Table was 2019.
+
+==================================================
+END OF PART 2: CHEMISTRY
+==================================================
+
+TNPSC GROUP 2 - GENERAL SCIENCE
+SCIENTIFIC BASICS - STUDY MATERIAL (PART 3: BOTANY - PLANT SCIENCE)
+(Original exam-oriented notes aligned to the Samacheer Kalvi Std 6-12 Biology/Botany syllabus)
+
+==================================================
+UNIT 1: THE LIVING WORLD AND CELL BIOLOGY
+==================================================
+
+1.1 CHARACTERISTICS OF LIVING THINGS
+Living organisms show cellular organisation, growth, metabolism, reproduction, response to stimuli, adaptation, movement and respiration. Growth in plants is mostly indeterminate and continues throughout life, while in animals it is generally limited.
+
+1.2 CLASSIFICATION
+Carolus Linnaeus is the Father of Taxonomy and gave the system of binomial nomenclature in which each organism has a genus name and a species name (e.g. Mangifera indica). The genus name begins with a capital letter and the species name with a small letter; both are written in italics or underlined. The hierarchy of categories is: Kingdom, Phylum (Division in plants), Class, Order, Family, Genus, Species. 
+R. H. Whittaker proposed the five kingdom classification in 1969: Monera (bacteria, cyanobacteria), Protista (amoeba, Euglena, Paramecium), Fungi (yeast, mushroom), Plantae and Animalia. Carl Woese later proposed three domains: Archaea, Bacteria and Eukarya.
+
+1.3 THE CELL
+The cell is the structural and functional unit of life. Robert Hooke observed dead cork cells in 1665 and coined the term "cell." Anton van Leeuwenhoek first observed living cells. M. J. Schleiden (botanist) and Theodor Schwann (zoologist) proposed the cell theory (1838-39), and Rudolf Virchow added that new cells arise from pre-existing cells. Robert Brown discovered the nucleus in 1831.
+Prokaryotic cells (bacteria, cyanobacteria) have no true nucleus or membrane-bound organelles; their DNA lies in the nucleoid. Eukaryotic cells (plants, animals, fungi) have a true nucleus and membrane-bound organelles.
+
+1.4 CELL ORGANELLES AND THEIR FUNCTIONS
+- Cell wall: present in plants (cellulose), fungi (chitin) and bacteria (peptidoglycan); gives shape and protection. Absent in animal cells.
+- Plasma membrane: selectively permeable membrane (fluid mosaic model by Singer and Nicolson).
+- Nucleus: control centre containing chromosomes and DNA; has a nuclear envelope and a nucleolus (which makes ribosomal RNA).
+- Mitochondria: "powerhouse of the cell," site of aerobic respiration and ATP production; contain their own DNA.
+- Endoplasmic reticulum (ER): rough ER (with ribosomes) makes proteins; smooth ER makes lipids and detoxifies.
+- Golgi apparatus: packaging, modification and secretion of substances (discovered by Camillo Golgi); called the "post office" of the cell.
+- Ribosomes: protein synthesis (site of translation), discovered by George Palade; called protein factories.
+- Lysosomes: contain digestive enzymes; "suicide bags" of the cell (discovered by Christian de Duve); mostly found in animal cells.
+- Plastids: chloroplast (green, photosynthesis), chromoplast (coloured pigments in flowers and fruits), leucoplast (colourless; stores starch, oil and protein). Chloroplast contains grana and stroma and its own DNA.
+- Vacuole: large central vacuole in plants stores water, salts and wastes and maintains turgidity.
+- Centrioles: present in animal cells, help in cell division.
+- Cytoskeleton: microtubules and microfilaments give support and help in movement.
+
+1.5 CELL DIVISION
+Mitosis: division of a somatic cell into two identical daughter cells with the same chromosome number (growth and repair). Stages: prophase, metaphase, anaphase, telophase. Meiosis: occurs in reproductive cells and produces four cells with half the chromosome number (gametes); it causes genetic variation through crossing over. The human diploid chromosome number is 46 (23 pairs). The cell cycle phases: G1, S (DNA replication), G2 and M.
+
+1.6 DNA AND GENETICS BASICS
+DNA is the genetic material (Watson and Crick proposed the double helix in 1953; Rosalind Franklin's X-ray work helped). Nitrogen bases in DNA: adenine, guanine, cytosine and thymine; in RNA thymine is replaced by uracil. Gregor Mendel, the Father of Genetics, studied pea plants (Pisum sativum) in 1866 and proposed the laws of dominance, segregation and independent assortment. A gene is a unit of heredity. Tall and dwarf, round and wrinkled seeds are examples of Mendel's traits. 
+
+==================================================
+UNIT 2: PLANT KINGDOM - DIVERSITY
+==================================================
+
+2.1 VIRUSES AND BACTERIA
+Viruses are non-cellular and show characters of both living and non-living things; they live only inside a host cell. W. M. Stanley crystallised the tobacco mosaic virus (TMV). Plant virus diseases: tobacco mosaic, bunchy top of banana and yellow vein mosaic of bhendi. Bacteria are prokaryotic microorganisms; they are useful in making curd (Lactobacillus), in nitrogen fixation (Rhizobium) and in sewage treatment, and harmful as pathogens (citrus canker, blight of rice).
+Cyanobacteria (blue-green algae) such as Nostoc and Anabaena fix atmospheric nitrogen and are used as biofertilisers in paddy fields.
+
+2.2 ALGAE (THALLOPHYTA)
+Algae are simple thalloid chlorophyll-containing plants. Green algae (Spirogyra, Chlamydomonas, Chlorella), brown algae (Sargassum, Laminaria or kelp; source of algin) and red algae (Gelidium and Gracilaria; source of agar for culture media). Chlorella is rich in protein and is studied as single-cell protein and for use in space travel. Algae produce a large part of the world's oxygen. Diatoms form diatomaceous earth.
+
+2.3 FUNGI
+Fungi lack chlorophyll and are heterotrophic. Their cell wall is of chitin. Examples: yeast (used in baking and brewing; Saccharomyces), mushrooms (edible, some poisonous), Penicillium (source of penicillin), Aspergillus, Rhizopus (bread mould). Fungal diseases of plants: rust and smut of wheat, blast of rice, red rot of sugarcane, late blight of potato (cause of the Irish famine), Panama wilt of banana. Fungal diseases of humans: ringworm and athlete's foot.
+Lichens are a mutualistic association between an alga and a fungus and are pioneers in primary succession. They are bioindicators of air pollution (they do not grow in sulphur dioxide polluted air). Mycorrhiza is the association of fungi with plant roots, which helps absorb phosphorus.
+
+2.4 BRYOPHYTES
+Bryophytes include mosses (Funaria) and liverworts (Marchantia). They are the "amphibians of the plant kingdom" because they live on land but need water for fertilisation. They lack true roots, stems and leaves, and have no vascular tissue. Sphagnum moss is used as peat and for packing plants.
+
+2.5 PTERIDOPHYTES
+Ferns (Nephrolepis, Adiantum), Selaginella and Equisetum. They are the first vascular plants, having xylem and phloem, but they have no seeds and reproduce by spores. They also need water for fertilisation.
+
+2.6 GYMNOSPERMS
+Seeds are naked (not enclosed in fruits). Examples: Cycas, Pinus (pine), Ginkgo biloba (a living fossil), Cedrus (deodar), and Sequoia (coast redwood is the tallest tree). Pine forests are coniferous. They have cones.
+
+2.7 ANGIOSPERMS
+Flowering plants with seeds enclosed in fruits. They are divided into monocotyledons (one cotyledon; parallel venation; fibrous roots; trimerous flowers; e.g. rice, wheat, maize, banana, coconut, grass, onion) and dicotyledons (two cotyledons; reticulate venation; tap root; tetramerous or pentamerous flowers; e.g. mango, bean, gram, pea, sunflower, neem).
+
+2.8 PLANT RECORDS
+Largest flower: Rafflesia arnoldii. Smallest flowering plant: Wolffia (duckweed). Tallest tree: Sequoia sempervirens (coast redwood); tallest flowering tree: Eucalyptus. Largest seed: double coconut (Lodoicea or coco-de-mer). Fastest growing plant: bamboo (a grass). The banyan (Ficus benghalensis) is the national tree of India. Neem, peepal and banyan are important Indian trees.
+
+==================================================
+UNIT 3: PLANT MORPHOLOGY
+==================================================
+
+3.1 ROOT
+Functions: anchorage, absorption of water and minerals, and sometimes storage. Tap root system is found in dicots, fibrous root system in monocots. Adventitious roots arise from parts other than the radicle.
+Modifications: Storage - carrot and radish (tap root), sweet potato (tuberous root); Support - prop roots of the banyan, stilt roots of maize and sugarcane; Respiration - pneumatophores (breathing roots) of mangroves like Avicennia; Parasitic roots (haustoria) of Cuscuta; epiphytic roots of orchids, which absorb moisture from the air.
+
+3.2 STEM
+Functions: support, conduction, and storage. Underground stem modifications: potato (stem tuber), ginger and turmeric (rhizome), onion (bulb), Colocasia and Amorphophallus (corm). Sub-aerial: runner (grass), sucker (mint), stolon (strawberry). Aerial: tendrils (grapevine, cucumber), thorns (Bougainvillea, citrus), phylloclade (cactus, a flattened green stem that does photosynthesis).
+
+3.3 LEAF
+Parts: leaf base, petiole and lamina. Functions: photosynthesis, transpiration and gas exchange. Venation: parallel (monocots) and reticulate (dicots). Leaves may be simple or compound. Modifications: spines (cactus) to reduce water loss; tendrils (pea); pitcher (Nepenthes) and trap leaves (Venus flytrap, Drosera, Utricularia) in insectivorous plants that grow in nitrogen-poor soil; storage leaves (onion, aloe).
+Phyllotaxy is the arrangement of leaves on the stem: alternate, opposite and whorled.
+
+3.4 FLOWER
+A flower is the reproductive organ of angiosperms. Parts: calyx (sepals), corolla (petals), androecium (stamens; male part made of anther and filament) and gynoecium or pistil (female part made of stigma, style and ovary). A flower with all four whorls is complete; a flower with both stamens and pistil is bisexual. Unisexual flowers: maize, papaya, cucumber. Inflorescence is the arrangement of flowers on an axis. Sunflower and daisy are composite flowers of the family Asteraceae. Cloves are dried flower buds. Saffron comes from the stigma of Crocus sativus flowers. 
+
+3.5 FRUIT AND SEED
+The ovary develops into a fruit and the ovule develops into a seed. Fruits formed from the ovary alone are true fruits (mango, tomato); fruits in which other floral parts develop (apple, pear, cashew) are false fruits. Types: simple, aggregate (strawberry), and composite (pineapple, jackfruit). A seed has a seed coat and an embryo with radicle, plumule and cotyledons. Monocot seeds are endospermic (rice, maize, wheat) and dicot seeds like gram and bean are non-endospermic. Germination may be epigeal (cotyledons above ground, as in bean, castor) or hypogeal (cotyledons below ground, as in pea, gram, maize). Seed germination needs water, oxygen and suitable temperature. 
+Seed dispersal agents: wind (dandelion, maple, drumstick), water (coconut, lotus), animals (burr, xanthium, Ixora), explosive mechanism (balsam, castor, pea, bhendi).
+
+==================================================
+UNIT 4: PLANT ANATOMY AND TISSUES
+==================================================
+
+4.1 PLANT TISSUES
+Meristematic tissue: cells that divide actively; found at apical meristems (tip of root and shoot; increase length), lateral meristems (cambium; increase girth) and intercalary meristems (base of leaf or internode, as in grass).
+Permanent tissues: 
+- Simple: parenchyma (storage, photosynthesis; thin-walled; chlorenchyma and aerenchyma are types), collenchyma (mechanical support; thickened corners; seen in young stems), sclerenchyma (dead, thick-walled lignified cells; fibres and sclereids give strength; coconut husk fibres, and gritty cells of pear).
+- Complex: xylem conducts water and minerals upward (tracheids, vessels, xylem fibres and xylem parenchyma); phloem conducts food from leaves to all parts (sieve tubes, companion cells, phloem fibres and phloem parenchyma). Flow in xylem is unidirectional (upward) and in phloem is bidirectional (translocation).
+Epidermis is the outer protective layer and has stomata (pores surrounded by guard cells) for gas exchange and transpiration. The cuticle is a waxy layer that reduces water loss.
+
+4.2 SECONDARY GROWTH
+Increase in girth of dicot stems and roots by the vascular cambium and cork cambium, forming secondary xylem (wood) and bark. Annual rings in trees help in finding the age of a tree (dendrochronology). Heartwood is the dead, dark central part of old trees, and sapwood is the lighter, outer, functional part. Monocots show no secondary growth.
+
+4.3 DICOT VS MONOCOT ANATOMY
+In a dicot stem, vascular bundles are arranged in a ring and are open (cambium present). In a monocot stem, vascular bundles are scattered and closed (no cambium).
+
+==================================================
+UNIT 5: PLANT PHYSIOLOGY
+==================================================
+
+5.1 TRANSPORT IN PLANTS
+- Diffusion: movement of particles from high to low concentration.
+- Osmosis: movement of water through a semipermeable membrane from low solute concentration to high solute concentration.
+- Imbibition: absorption of water by solids like seeds and dry wood.
+- Plasmolysis: shrinking of the protoplasm when a cell is placed in a hypertonic solution; deplasmolysis occurs in a hypotonic solution.
+- Turgor pressure keeps plant cells firm.
+- Active transport: movement against a concentration gradient using energy (ATP).
+Ascent of sap: water moves up through xylem by root pressure, capillarity and, mainly, transpiration pull (cohesion-tension theory). A tall tree like the redwood draws water up to over 100 metres through this mechanism.
+
+5.2 TRANSPIRATION
+Loss of water as vapour from the aerial parts of the plant, mainly through stomata (stomatal), also through lenticels and cuticle. Importance: cooling, upward movement of water, absorption of minerals. A potometer measures the rate of transpiration. Cobalt chloride paper turns from blue to pink with moisture. Stomata open in the day when guard cells become turgid and close at night. Water loss is reduced by closure of stomata, sunken stomata, hairy leaves and thick cuticle in xerophytes. Guttation is the loss of liquid water through hydathodes at the leaf margins, and bleeding is the exudation of sap from cut stems.
+
+5.3 PHOTOSYNTHESIS
+Plants make food from carbon dioxide and water using light energy and chlorophyll: 6CO2 + 6H2O + light -> C6H12O6 + 6O2. It occurs in chloroplasts of green plants, algae and cyanobacteria, and the oxygen released comes from the splitting (photolysis) of water. Jan Ingenhousz showed that light is needed and that only the green parts release oxygen; Joseph Priestley showed that plants restore the air; Julius von Sachs showed that starch is formed in leaves; Melvin Calvin worked out the path of carbon (Calvin cycle).
+Two stages: Light reaction (in grana; light-dependent; produces ATP and NADPH and releases oxygen) and Dark reaction or Calvin cycle (in stroma; light-independent; uses CO2 to make glucose). 
+Pigments: chlorophyll a and b (green), carotenoids (yellow-orange) and xanthophylls. Chlorophyll contains magnesium. Photosynthesis is most efficient in red and blue light and least in green light. Factors affecting photosynthesis: light intensity, carbon dioxide concentration, temperature, water and chlorophyll content. C4 plants (sugarcane, maize) are more efficient in hot conditions than C3 plants (wheat, rice). CAM plants (cactus, pineapple) open stomata at night. Bacteria such as purple sulphur bacteria carry out photosynthesis without releasing oxygen. 
+
+5.4 RESPIRATION
+The process of releasing energy from food. Aerobic respiration: C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy (about 36-38 ATP per glucose). It starts with glycolysis in the cytoplasm and continues in the mitochondria through the Krebs cycle (named after Hans Krebs) and electron transport chain. Anaerobic respiration (fermentation): occurs without oxygen, e.g. yeast converts glucose to ethanol and CO2 (about 2 ATP), and in muscle cells lactic acid is formed. ATP is the energy currency of the cell. Respiration occurs in all living cells all the time, whereas photosynthesis occurs only in green cells in the presence of light. Photosynthesis is an anabolic process while respiration is catabolic. Respiratory quotient (RQ) is the ratio of CO2 released to O2 consumed.
+
+5.5 MINERAL NUTRITION
+Macronutrients (needed in large amounts): nitrogen, phosphorus, potassium, calcium, magnesium, sulphur, carbon, hydrogen and oxygen. Micronutrients (trace elements): iron, manganese, zinc, copper, boron, molybdenum, chlorine and nickel.
+Deficiency symptoms: Nitrogen or magnesium deficiency causes chlorosis (yellowing of leaves); iron deficiency causes yellowing of young leaves; potassium deficiency causes marginal scorching; phosphorus deficiency causes dark green or purple leaves and stunted growth; zinc deficiency causes "little leaf" and khaira disease of rice; boron deficiency causes heart rot of beet; calcium deficiency causes blossom end rot in tomato; molybdenum deficiency causes whiptail of cauliflower. 
+Hydroponics is growing plants in a nutrient solution without soil. Aeroponics is growing plants in air or mist. Nitrogen-fixing organisms: Rhizobium (symbiotic with legumes), Azotobacter, Azospirillum, Anabaena, Nostoc and the water fern Azolla.
+Modes of nutrition in unusual plants: Parasites (Cuscuta, mistletoe, Rafflesia, Orobanche), Saprophytes (mushrooms, Monotropa), Insectivorous (Nepenthes, Drosera, Venus flytrap, Utricularia), Epiphytes (orchids, ferns) and symbiotic (lichens, Rhizobium).
+
+5.6 PLANT GROWTH REGULATORS (HORMONES)
+- Auxins: promote cell elongation, root initiation in cuttings, apical dominance and prevent fruit drop; produced at shoot tips. Indole acetic acid (IAA) is the natural auxin. 2,4-D is a weedicide. Went discovered auxin in oat coleoptiles; Darwin's experiments on canary grass showed phototropism.
+- Gibberellins: promote stem elongation and breaking of dormancy and seed germination; discovered from the "bakanae" (foolish seedling) disease of rice caused by the fungus Gibberella fujikuroi. Used to increase grape size.
+- Cytokinins: promote cell division and delay senescence (ageing) of leaves; discovered by Skoog and Miller using coconut milk; kinetin is an example.
+- Ethylene: gaseous hormone that ripens fruits, causes leaf fall and flower fading.
+- Abscisic acid (ABA): "stress hormone" or growth inhibitor; closes stomata in drought and promotes seed dormancy.
+
+5.7 PLANT MOVEMENTS
+Tropism is a growth movement towards or away from a stimulus: phototropism (light; shoot positive, root negative), geotropism (gravity; root positive, shoot negative), hydrotropism (water; roots positive), thigmotropism (touch; tendrils), chemotropism (chemical; pollen tube growth towards the ovule). Nastic movements are non-directional: the sensitive plant "touch-me-not" (Mimosa pudica) folds its leaves on touch (seismonasty). Photoperiodism is the response to day length: short-day plants (rice, soybean, chrysanthemum) and long-day plants (wheat, spinach, radish). Vernalisation is the cold treatment that promotes flowering (winter wheat). 
+Sir Jagadish Chandra Bose invented the crescograph to measure plant growth and showed that plants respond to stimuli; he founded the Bose Institute in Kolkata in 1917.
+
+==================================================
+UNIT 6: PLANT REPRODUCTION
+==================================================
+
+6.1 ASEXUAL REPRODUCTION
+New plants are formed without gametes. Methods: spore formation (fungi, ferns, mosses), budding (yeast), fragmentation (Spirogyra), binary fission (bacteria, Amoeba), and vegetative propagation.
+Vegetative propagation: natural methods use roots (sweet potato, dahlia), stems (potato tuber, ginger rhizome, runner of grass, onion bulb) and leaves (Bryophyllum buds on the leaf margin, Begonia). Artificial methods: cutting (rose, sugarcane, tapioca), layering (jasmine, strawberry), grafting (mango, rose, citrus, apple) and budding. Advantages: faster, retains parent characters, and gives seedless plants like banana. 
+Tissue culture (micropropagation) grows plants from a small piece of tissue in a nutrient medium (Haberlandt's idea of totipotency). It is used for orchids, banana and disease-free plants.
+
+6.2 SEXUAL REPRODUCTION IN FLOWERING PLANTS
+The male part, the stamen, produces pollen grains (male gametophytes) in the anther. The female part, the pistil, has an ovule containing the embryo sac (female gametophyte) with an egg cell. 
+Pollination is the transfer of pollen from the anther to the stigma. Self-pollination occurs within the same flower (pea, wheat, rice, tomato) and cross-pollination between different flowers (maize, papaya, sunflower). Agents: wind (anemophily; grasses, maize), water (hydrophily; Vallisneria, Hydrilla), insects (entomophily; bright, scented flowers such as jasmine), birds (ornithophily), bats (chiropterophily), and snails (malacophily).
+Fertilisation: the pollen tube carries two male gametes into the embryo sac. One male gamete fuses with the egg to form a diploid zygote, and the other fuses with two polar nuclei to form the triploid primary endosperm nucleus. This is called double fertilisation and it is unique to angiosperms (discovered by Nawaschin). After fertilisation: ovule -> seed, ovary -> fruit, zygote -> embryo, and endosperm nourishes the embryo. 
+Parthenocarpy is fruit formation without fertilisation, giving seedless fruits (banana, grapes, watermelon). Apomixis is seed formation without fertilisation.
+
+==================================================
+UNIT 7: ECONOMIC BOTANY
+==================================================
+
+7.1 FOOD CROPS
+- Cereals: rice (Oryza sativa), wheat (Triticum aestivum), maize (Zea mays), millets such as ragi (finger millet), kambu (pearl millet), cholam (sorghum), thinai (foxtail millet), varagu and samai. India is a leading producer of rice and wheat; rice is the staple food of Tamil Nadu. Wheat is the chief rabi crop.
+- Pulses: gram, red gram (toor), green gram, black gram, lentil and peas. They are rich in protein, and their root nodules fix nitrogen, so they enrich the soil.
+- Oilseeds: groundnut (Arachis hypogaea), sesame (gingelly), coconut, sunflower, mustard, soybean and castor.
+- Sugar crops: sugarcane (Saccharum officinarum). Tamil Nadu is a major producer of sugarcane. 
+- Vegetables and tubers: potato (Solanum tuberosum), tomato, brinjal, onion (Allium cepa), garlic (Allium sativum), tapioca (Manihot esculenta), sweet potato, carrot, drumstick.
+- Fruits: mango (Mangifera indica; national fruit of India), banana (Musa), jackfruit, papaya, guava, coconut, orange, grapes and pineapple. Salem is famous for mangoes, and Tamil Nadu is a leading producer of banana and coconut (Pollachi, Coimbatore).
+
+7.2 FIBRES, BEVERAGES, SPICES AND PLANTATION CROPS
+- Fibres: cotton (Gossypium; seed hairs), jute (golden fibre; stem), coir (coconut husk; fruit), hemp, flax (linen), sisal. Tamil Nadu is a major producer of cotton and cotton textiles and coir.
+- Beverages: tea (Camellia sinensis; grown in the Nilgiris and Valparai), coffee (Coffea arabica; grown in Yercaud, Kodaikanal, Nilgiris), cocoa (Theobroma cacao).
+- Rubber: Hevea brasiliensis; latex; grown in Kanyakumari district of Tamil Nadu and Kerala.
+- Spices: black pepper (Piper nigrum; "king of spices"), cardamom ("queen of spices"), clove, cinnamon, turmeric (Curcuma longa), ginger (Zingiber officinale), coriander and cumin. Kerala and Karnataka lead in spices; Theni and Kanyakumari districts grow spices in Tamil Nadu. 
+- Timber: teak (Tectona grandis), sal, sandalwood (Santalum album; Tamil Nadu and Karnataka), rosewood, bamboo. Palmyra palm (Borassus flabellifer) yields neera, palm jaggery and fibre.
+
+7.3 MEDICINAL PLANTS
+- Neem (Azadirachta indica): antiseptic, insecticide.
+- Tulsi (Ocimum sanctum): cough, cold.
+- Aloe vera: skin care and burns.
+- Turmeric: antiseptic.
+- Adathoda (Adhatoda vasica): cough.
+- Amla (Indian gooseberry): rich in vitamin C.
+- Sarpagandha (Rauwolfia serpentina): reserpine, used to treat high blood pressure.
+- Cinchona: quinine for malaria.
+- Digitalis (foxglove): digoxin for heart.
+- Opium poppy (Papaver somniferum): morphine, codeine as painkillers.
+- Periwinkle (Catharanthus roseus, Nithyakalyani): vincristine and vinblastine for cancer.
+- Taxus (yew): taxol for cancer.
+- Ephedra: ephedrine for asthma.
+- Cannabis and tobacco: harmful narcotics.
+Siddha, Ayurveda, Unani, Homeopathy and Yoga and Naturopathy come under AYUSH. Tamil Nadu has a rich Siddha tradition and the Central Siddha Research Institute is in Chennai.
+
+7.4 CROP SEASONS AND AGRICULTURE
+- Kharif crops (sown in June-July and harvested in September-October with the monsoon): rice, maize, jowar, bajra, cotton, groundnut, soybean, sugarcane.
+- Rabi crops (sown in October-November and harvested in March-April): wheat, barley, gram, mustard, pea, linseed.
+- Zaid crops (summer): watermelon, cucumber, vegetables.
+Tamil Nadu rice seasons: Kuruvai (June-September), Samba (August-January) and Thaladi (September-February). Thanjavur and the Cauvery delta are called the "rice bowl of Tamil Nadu." 
+Types of agriculture: subsistence, commercial, shifting cultivation (jhum), mixed cropping, intercropping, crop rotation (growing different crops in sequence to maintain fertility; legumes added to restore nitrogen), organic farming, and dry farming. 
+Green Revolution: introduced high-yield variety seeds (mainly wheat and rice), led by M. S. Swaminathan, the "Father of the Green Revolution in India," who was born in Kumbakonam, Tamil Nadu, and Norman Borlaug internationally. White Revolution: milk (Verghese Kurien). Blue Revolution: fish. Yellow Revolution: oilseeds. Golden Revolution: horticulture. Silver Revolution: eggs and poultry. Pink Revolution: onion and prawn. Red Revolution: tomato or meat.
+
+7.5 PLANT DISEASES AND PEST CONTROL
+- Fungal: wheat rust (Puccinia), rice blast, red rot of sugarcane, late blight of potato, powdery mildew, Panama wilt of banana.
+- Bacterial: citrus canker, bacterial blight of rice.
+- Viral: tobacco mosaic, bunchy top of banana, yellow vein mosaic in bhendi.
+Control: resistant varieties, crop rotation, fungicides like Bordeaux mixture, biological control (using natural enemies and neem products), integrated pest management and use of biopesticides. Bacillus thuringiensis (Bt) produces a toxin that kills certain insects; Bt cotton is a genetically modified crop resistant to bollworm. Golden rice has been modified to contain beta-carotene (vitamin A precursor). 
+
+7.6 BIOTECHNOLOGY AND PLANT IMPROVEMENT (BASICS)
+Plant breeding produces improved varieties through selection, hybridisation and mutation. Genetically modified (GM) crops have genes from other organisms. Biofertilisers: Rhizobium, Azotobacter, Azospirillum, blue-green algae, Azolla and mycorrhiza. Single-cell protein from Spirulina and yeast. Biofuels from plants: ethanol from sugarcane and biodiesel from Jatropha and Pongamia.
+
+==================================================
+UNIT 8: BOTANICAL NAMES AND QUICK FACTS FOR REVISION
+==================================================
+
+Common name - Botanical name:
+Rice - Oryza sativa; Wheat - Triticum aestivum; Maize - Zea mays; Sugarcane - Saccharum officinarum; Cotton - Gossypium hirsutum; Potato - Solanum tuberosum; Tomato - Solanum lycopersicum; Brinjal - Solanum melongena; Mango - Mangifera indica; Banana - Musa paradisiaca; Coconut - Cocos nucifera; Palmyra - Borassus flabellifer; Tea - Camellia sinensis; Coffee - Coffea arabica; Tulsi - Ocimum sanctum; Neem - Azadirachta indica; Banyan - Ficus benghalensis; Peepal - Ficus religiosa; Turmeric - Curcuma longa; Ginger - Zingiber officinale; Garlic - Allium sativum; Onion - Allium cepa; Groundnut - Arachis hypogaea; Pea - Pisum sativum; Lotus (national flower) - Nelumbo nucifera; Glory lily (Tamil Nadu state flower) - Gloriosa superba; Teak - Tectona grandis; Sandalwood - Santalum album; Aloe - Aloe vera; Rubber - Hevea brasiliensis; Tapioca - Manihot esculenta.
+
+Quick facts:
+- The plant that is the "king of spices" is pepper; the "queen of spices" is cardamom.
+- The "amphibians of the plant kingdom" are bryophytes.
+- The first vascular plants are pteridophytes.
+- Naked seeds are found in gymnosperms.
+- Double fertilisation and a triploid endosperm occur only in angiosperms.
+- The green pigment chlorophyll contains magnesium; haemoglobin contains iron.
+- The study of plants is botany, the study of fungi is mycology, the study of algae is phycology, the study of bryophytes is bryology, the study of pollen is palynology, the study of fruits is pomology, the study of flowers is anthology, the study of seeds is spermology, the study of tree rings is dendrochronology, the study of forests is silviculture and forestry, and the cultivation of vegetables is olericulture. Horticulture is the cultivation of fruits, flowers and vegetables, and floriculture is flower cultivation.
+- Father of Botany: Theophrastus. Father of Genetics: Mendel. Father of Taxonomy: Linnaeus. Father of Indian Ecology: Ramdeo Misra.
+- National Botanical Research Institute is in Lucknow, and the Botanical Survey of India has its headquarters in Kolkata. The Indian Botanical Garden at Howrah, Kolkata, is home to the Great Banyan Tree. The Government Botanic Gardens at Udhagamandalam (Ooty) in the Nilgiris and the Lawley Botanical Garden in Coonoor are in Tamil Nadu. The Tamil Nadu Agricultural University (TNAU) is in Coimbatore, and the Sugarcane Breeding Institute is in Coimbatore.
+- Important days: Van Mahotsav (first week of July), World Environment Day (5 June), World Forest Day (21 March), World Food Day (16 October), National Farmers' Day (23 December; birthday of Chaudhary Charan Singh).
+
+==================================================
+END OF PART 3: BOTANY
+==================================================
+
+==================================================
+UNIT 1: ANIMAL KINGDOM - DIVERSITY
+==================================================
+
+1.1 BASIS OF CLASSIFICATION
+Animals are classified according to body symmetry (asymmetrical, radial, bilateral), level of organisation (cellular, tissue, organ system), body cavity (acoelomate, pseudocoelomate, coelomate), segmentation, presence of a notochord, and type of digestive and circulatory systems. Animals without a backbone are invertebrates (about 95 percent of animals), and those with a backbone are vertebrates. 
+
+1.2 NON-CHORDATE PHYLA
+- Porifera (sponges): pore-bearing, aquatic, with canal system and no true tissues; examples: Sycon, Spongilla (freshwater sponge) and Euspongia (bath sponge).
+- Cnidaria (Coelenterata): radial symmetry with stinging cells (cnidoblasts); examples: Hydra, jellyfish (Aurelia), sea anemone and corals (Gulf of Mannar). Corals build reefs.
+- Platyhelminthes (flatworms): flat body, no body cavity; mostly parasitic; examples: Planaria (regeneration), liver fluke (Fasciola) and tapeworm (Taenia solium).
+- Nematoda (roundworms): round body with a pseudocoelom; examples: Ascaris (roundworm), Wuchereria (filarial worm), hookworm and Dracunculus (guinea worm).
+- Annelida: segmented worms; examples: earthworm (called the "farmer's friend" or "intestinal tract of the soil"), leech (blood sucker used in leech therapy) and Nereis. Earthworm has 4 pairs of hearts (aortic arches).
+- Arthropoda: the largest phylum with jointed legs and chitinous exoskeleton. Insects have 3 pairs of legs (6 legs) and 3 body parts (head, thorax, abdomen); examples: housefly, honeybee (Apis), butterfly, mosquito, cockroach, silkworm. Arachnids have 8 legs (spider, scorpion, mite and tick); crustaceans include prawn, crab, lobster, Daphnia. Centipede and millipede are myriapods. Arthropods have an open circulatory system.
+- Mollusca: soft body, usually with a shell and a muscular foot; examples: snail (Pila), mussel, pearl oyster (pearls from the Gulf of Mannar), octopus, squid and cuttlefish. Octopus has three hearts and blue blood containing haemocyanin (copper).
+- Echinodermata: spiny skin, marine; examples: starfish, sea urchin, sea cucumber and brittle star; they have a water vascular system and can regenerate.
+
+1.3 CHORDATES
+Chordates have a notochord, dorsal hollow nerve cord and pharyngeal gill slits at some stage. Subphyla: Urochordata (Ascidia), Cephalochordata (Amphioxus) and Vertebrata. Vertebrate classes:
+- Pisces (fishes): gills for respiration, fins, cold-blooded, two-chambered heart (single circulation). Cartilaginous fishes: shark, ray and skate. Bony fishes: rohu, catla, mrigal, eel, seahorse, sardine and tuna. Lung fish can breathe air. Fish oil is a source of vitamins A and D.
+- Amphibia: live on land and in water, moist skin, metamorphosis, three-chambered heart; examples: frog, toad, salamander. Frog tadpole breathes through gills.
+- Reptilia: dry scaly skin, lay eggs with leathery shells, cold-blooded, three-chambered heart (crocodile has four chambers); examples: snake, lizard, turtle, tortoise, crocodile and gharial. Tortoises have the longest lifespan among animals on land.
+- Aves (birds): feathers, wings, beak, hollow (pneumatic) bones, warm-blooded, four-chambered heart and lay hard-shelled eggs. Ostrich is the largest bird and cannot fly; the smallest bird is the humming bird; the kiwi is flightless; the peregrine falcon is the fastest bird. Birds have air sacs. 
+- Mammalia: mammary glands that produce milk, hair or fur, diaphragm, four-chambered heart, warm-blooded and most give birth to young ones (viviparous). Egg-laying mammals: duck-billed platypus and echidna. Pouched mammals (marsupials): kangaroo and koala. The bat is the only flying mammal. Whale and dolphin are aquatic mammals that breathe with lungs. The blue whale is the largest animal ever known; the elephant is the largest land animal; the giraffe is the tallest animal; the cheetah is the fastest land animal. Humans belong to the genus Homo, species sapiens.
+
+1.4 USEFUL AND HARMFUL ANIMALS
+- Honeybee: lives in colonies with a queen, drones and workers; honey and beeswax; apiculture is bee-keeping. Karl von Frisch described the waggle dance.
+- Silkworm (Bombyx mori) feeds on mulberry leaves; sericulture is the rearing of silkworms for silk. Silk is a protein fibre produced from the cocoon. India produces mulberry, tasar, eri and muga silk; Tamil Nadu is known for Kancheepuram silk and sericulture in Salem, Dharmapuri and Coimbatore. Muga silk is produced only in Assam.
+- Lac insect (Laccifer lacca) gives lac.
+- Earthworms make vermicompost.
+- Mosquitoes: Anopheles (malaria), Aedes (dengue, chikungunya, yellow fever) and Culex (filariasis, Japanese encephalitis).
+- Housefly spreads typhoid and cholera; rat flea spreads plague; sandfly spreads kala-azar; tsetse fly spreads sleeping sickness; louse spreads typhus.
+- Snakes: India has four venomous snakes of medical importance, called the "big four" - Indian cobra, common krait, Russell's viper and saw-scaled viper. Venom may be neurotoxic (cobra and krait) or haemotoxic (vipers). Snakebite is treated with anti-venom (polyvalent serum), which is prepared from horse serum. King cobra is the longest venomous snake.
+- Metamorphosis: butterfly and moth show complete metamorphosis (egg -> larva -> pupa -> adult). Cockroach shows incomplete metamorphosis (egg -> nymph -> adult). Frog (egg -> tadpole -> adult) is controlled by thyroxine.
+
+==================================================
+UNIT 2: HUMAN DIGESTIVE SYSTEM AND NUTRITION
+==================================================
+
+2.1 DIGESTIVE SYSTEM
+The alimentary canal comprises the mouth, pharynx, oesophagus, stomach, small intestine (duodenum, jejunum, ileum), large intestine and anus. Associated glands: salivary glands, liver and pancreas.
+- Mouth: teeth chew food, tongue tastes and mixes. Humans have 20 milk (deciduous) teeth and 32 permanent teeth (8 incisors, 4 canines, 8 premolars, 12 molars). Enamel is the hardest substance in the body. The wisdom teeth are the last molars. Saliva has salivary amylase (ptyalin), which starts the digestion of starch into maltose. 
+- Stomach: gastric juice contains hydrochloric acid (kills bacteria and activates pepsinogen), pepsin (digests proteins) and mucus (protects the stomach lining). Rennin acts on milk proteins in infants.
+- Liver: the largest gland in the body (about 1.5 kg). It produces bile, which is stored in the gall bladder, emulsifies fats and neutralises acid. The liver stores glycogen, makes urea, detoxifies poisons, and stores vitamins A, D, B12 and iron. Liver cells can regenerate. Jaundice is caused by excess bile pigment (bilirubin) in the blood, and hepatitis is inflammation of the liver.
+- Pancreas: pancreatic juice has amylase, trypsin and lipase. Also an endocrine gland.
+- Small intestine: the longest part (about 6-7 metres) and the main site of digestion and absorption of nutrients via villi. Intestinal juice completes digestion.
+- Large intestine: absorbs water and forms faeces; vitamin K and B12 are made by bacteria in it. Appendix is a small vestigial organ attached to the caecum. 
+Enzymes in digestion: carbohydrates -> glucose (amylase, maltase); proteins -> amino acids (pepsin, trypsin); fats -> fatty acids and glycerol (lipase). Peristalsis is the wave-like movement that pushes food through the canal.
+
+2.2 NUTRIENTS
+- Carbohydrates: main source of energy (4 kcal per gram); rice, wheat, potatoes, sugar.
+- Proteins: body-building foods, made of amino acids (4 kcal per gram); milk, eggs, pulses, fish, meat, soya. Essential amino acids cannot be made in the body.
+- Fats: provide the most energy (9 kcal per gram); oils, ghee, butter, nuts. 
+- Vitamins, minerals, water and roughage (dietary fibre, which prevents constipation). A balanced diet contains all the nutrients in proper proportion. Calorie is a unit of energy; one adult needs about 2000-2500 kcal per day. Mother's milk contains colostrum, rich in antibodies. Water forms about 60-70 percent of the body weight.
+- Body Mass Index (BMI) = weight in kg / (height in m)2; the normal range is about 18.5 to 24.9.
+- Malnutrition: protein-energy malnutrition causes kwashiorkor (protein deficiency, swelling and pot belly) and marasmus (severe deficiency of calories and protein, shrunken body). Obesity is excess body fat.
+
+2.3 VITAMINS AND DEFICIENCY DISEASES
+Fat-soluble vitamins: A, D, E and K. Water-soluble: B-complex and C.
+- Vitamin A (retinol): night blindness, xerophthalmia; sources: carrot, papaya, mango, spinach, milk, liver and fish oil.
+- Vitamin B1 (thiamine): beriberi; sources: unpolished rice, whole grains, pulses and yeast.
+- Vitamin B2 (riboflavin): cracks at the corners of the mouth (cheilosis), sore tongue.
+- Vitamin B3 (niacin): pellagra (dermatitis, diarrhoea, dementia).
+- Vitamin B6 (pyridoxine): anaemia and convulsions.
+- Vitamin B7 (biotin): hair loss and skin problems.
+- Vitamin B9 (folic acid): anaemia and neural tube defects in babies.
+- Vitamin B12 (cyanocobalamin, contains cobalt): pernicious anaemia; found in animal foods.
+- Vitamin C (ascorbic acid): scurvy (bleeding gums); sources: amla, citrus fruits, guava, tomato.
+- Vitamin D (calciferol): rickets in children and osteomalacia in adults; made in the skin by sunlight, and found in fish liver oil and eggs.
+- Vitamin E (tocopherol): sterility in rats and muscle weakness; an antioxidant.
+- Vitamin K (phylloquinone): delayed blood clotting; found in green leafy vegetables, and made by gut bacteria.
+Minerals: Calcium and phosphorus (strong bones and teeth; milk, ragi); iron (haemoglobin; deficiency causes anaemia; sources: spinach, jaggery, liver, dates); iodine (thyroid; deficiency causes goitre; iodised salt); fluorine (teeth; excess causes fluorosis, deficiency causes dental caries); sodium and potassium (nerve function and water balance); magnesium; zinc (growth); copper; cobalt (in vitamin B12).
+
+==================================================
+UNIT 3: RESPIRATORY SYSTEM
+==================================================
+
+3.1 ORGANS AND MECHANISM
+Air passes through the nostrils (nasal cavity), pharynx, larynx (voice box), trachea (windpipe, held open by cartilage rings), bronchi, bronchioles and alveoli in the lungs. The lungs are protected by the rib cage and pleura. Gas exchange occurs in the alveoli (about 300 million). The diaphragm and intercostal muscles produce breathing: during inhalation the diaphragm contracts and moves down and the ribs move up and out, so air enters; during exhalation they relax and air goes out. Breathing rate is about 12-20 per minute at rest. 
+Oxygen is transported by haemoglobin in red blood cells as oxyhaemoglobin. Carbon dioxide is carried mostly as bicarbonate in the plasma. Carbon monoxide combines with haemoglobin very strongly, causing poisoning. Inhaled air contains about 21 percent oxygen and about 0.04 percent carbon dioxide; exhaled air contains about 16 percent oxygen and about 4 percent carbon dioxide. The respiratory centre is in the medulla oblongata of the brain. 
+Disorders: asthma (narrowing of bronchi, allergic), bronchitis, pneumonia, emphysema, tuberculosis and lung cancer (mostly due to smoking). 
+
+==================================================
+UNIT 4: CIRCULATORY SYSTEM
+==================================================
+
+4.1 BLOOD
+Blood is a fluid connective tissue. Adults have about 5-6 litres (about 7-8 percent of body weight). Components: plasma (about 55 percent; water, proteins, salts, hormones) and blood cells.
+- Red blood cells (RBCs or erythrocytes): carry oxygen; contain haemoglobin (an iron-containing red pigment); biconcave, no nucleus in mammals; formed in the red bone marrow and destroyed in the liver and spleen; life span about 120 days. About 4.5-5.5 million per cubic mm. Anaemia is the deficiency of haemoglobin. The spleen is called the "graveyard of RBCs."
+- White blood cells (WBCs or leucocytes): fight infections; 4,000-11,000 per cubic mm; types include neutrophils, lymphocytes and monocytes. Leukaemia is blood cancer.
+- Platelets (thrombocytes): help in blood clotting; 1.5-4 lakh per cubic mm. Vitamin K and calcium are needed for clotting. Haemophilia is a genetic condition in which blood does not clot.
+- Blood groups were discovered by Karl Landsteiner in 1901: A, B, AB and O. Group O (O negative) is the universal donor and AB is the universal recipient. The Rh factor was discovered by Landsteiner and Wiener (1940) in rhesus monkeys; people with the Rh antigen are Rh positive, and others are Rh negative. Rh incompatibility between mother and fetus can cause erythroblastosis fetalis. Blood donation day is 14 June, celebrated on the birthday of Karl Landsteiner.
+
+4.2 THE HEART
+The heart is a muscular organ about the size of a fist, weighing about 300 grams and located in the thoracic cavity slightly to the left, protected by the pericardium. It has four chambers: two upper atria (auricles) and two lower ventricles. The right side carries deoxygenated blood and the left side carries oxygenated blood. Valves (tricuspid and bicuspid or mitral) prevent backflow. The sinoatrial (SA) node is the natural pacemaker. Heart beats about 72 times per minute at rest (about 100,000 times a day). Double circulation: blood passes through the heart twice in one complete circuit - pulmonary circulation (heart-lungs-heart) and systemic circulation (heart-body-heart). William Harvey discovered blood circulation. 
+Flow: body -> vena cava -> right atrium -> right ventricle -> pulmonary artery -> lungs -> pulmonary vein -> left atrium -> left ventricle -> aorta -> body. The pulmonary artery carries deoxygenated blood and the pulmonary vein carries oxygenated blood (the only exception to the general rule). 
+- Arteries carry blood away from the heart; they have thick walls and the pulse can be felt in them. Veins carry blood to the heart and have valves. Capillaries are tiny vessels where exchange takes place. The aorta is the largest artery and the vena cava is the largest vein. The coronary arteries supply the heart muscle.
+- Blood pressure is measured with a sphygmomanometer. Normal BP is about 120/80 mm Hg (systolic/diastolic). Hypertension is high blood pressure. A stethoscope (invented by Laennec) is used to hear heart sounds ("lub dub"). ECG records the electrical activity of the heart. Heart attack occurs when the coronary arteries are blocked. The first heart transplant was done by Christiaan Barnard in 1967 in South Africa. Cardiologists treat the heart.
+
+4.3 LYMPHATIC SYSTEM
+Lymph is a colourless fluid that drains excess tissue fluid and transports fats and white cells. Lymph nodes filter germs; the spleen and thymus are lymphoid organs.
+
+==================================================
+UNIT 5: EXCRETORY SYSTEM
+==================================================
+
+5.1 EXCRETION
+Excretion is the removal of metabolic wastes. Organs: kidneys (urea, uric acid and excess salts, and water), skin (sweat), lungs (carbon dioxide and water vapour) and liver (bile pigments).
+The urinary system has two kidneys, two ureters, the urinary bladder and the urethra. The kidney is bean-shaped and the functional unit is the nephron (about one million per kidney), made of a glomerulus, Bowman's capsule and renal tubule. Steps: filtration, selective reabsorption and secretion. Urine is about 95 percent water, and the yellow colour comes from urochrome. Normal pH of urine is about 6. An adult passes about 1-1.5 litres of urine per day. Antidiuretic hormone (ADH) controls water reabsorption.
+Disorders: kidney stones (calcium oxalate), uraemia, kidney failure. Dialysis (haemodialysis) uses a machine to filter blood, and kidney transplantation replaces the failed kidney.
+Nitrogenous wastes: ammonia (fishes; ammonotelic), urea (humans and mammals; ureotelic) and uric acid (birds, reptiles and insects; uricotelic).
+
+==================================================
+UNIT 6: NERVOUS SYSTEM AND SENSE ORGANS
+==================================================
+
+6.1 NEURON
+The neuron is the structural and functional unit of the nervous system; it has a cell body, dendrites and an axon. A synapse is the junction between neurons. Impulses travel as electrical signals and neurotransmitters (acetylcholine) cross the synapse.
+
+6.2 CENTRAL AND PERIPHERAL NERVOUS SYSTEM
+- Brain (about 1.4 kg): cerebrum (largest part; thinking, memory, intelligence and voluntary actions), cerebellum (balance and coordination), medulla oblongata (controls involuntary actions like heartbeat, breathing, vomiting and sneezing), thalamus and hypothalamus (body temperature, hunger and thirst; links nervous and endocrine systems). The brain is protected by the skull and three membranes (meninges) and cerebrospinal fluid. 
+- Spinal cord: carries messages between the brain and the body and controls reflex actions.
+- Peripheral nerves: 12 pairs of cranial nerves and 31 pairs of spinal nerves. The autonomic nervous system (sympathetic and parasympathetic) controls involuntary actions.
+- Reflex action: an automatic, quick response to a stimulus without thinking (withdrawing the hand from a hot object, blinking, knee jerk), controlled by the spinal cord. The path is the reflex arc.
+Disorders: epilepsy, Parkinson's disease, Alzheimer's disease, meningitis, paralysis. The study of the nervous system is neurology. EEG records brain activity.
+
+6.3 THE EYE
+Parts: cornea, sclera (white), iris (coloured part), pupil, lens, retina (with rods and cones), optic nerve, aqueous and vitreous humour. The pupil controls the amount of light. Accommodation is the ability of the lens to change its focal length. The blind spot has no photoreceptors. Rods - dim light and cones - bright light and colour. The eye donation of the cornea can restore sight. 
+
+6.4 THE EAR
+Outer ear (pinna and ear canal), middle ear (eardrum or tympanic membrane and three ossicles: malleus, incus and stapes, the smallest bones in the body) and inner ear (cochlea for hearing and semicircular canals for balance). The Eustachian tube equalises pressure. 
+
+6.5 OTHER SENSE ORGANS
+Nose (olfactory receptors for smell), tongue (taste buds: sweet at the tip, salt and sour at the sides, bitter at the back, and umami) and skin (touch, pressure, heat, cold and pain).
+
+==================================================
+UNIT 7: ENDOCRINE SYSTEM AND HORMONES
+==================================================
+
+Hormones are chemical messengers secreted by endocrine (ductless) glands into the blood.
+- Pituitary: the "master gland," located at the base of the brain; secretes growth hormone (excess causes gigantism or acromegaly, deficiency causes dwarfism), ADH (deficiency causes diabetes insipidus), TSH, ACTH, FSH, LH, prolactin (milk production) and oxytocin (uterine contraction during childbirth).
+- Thyroid: thyroxine controls metabolism; iodine is needed. Deficiency causes goitre (swelling of the neck), hypothyroidism and cretinism in children; excess causes hyperthyroidism (Graves' disease).
+- Parathyroid: parathormone regulates calcium and phosphorus levels.
+- Adrenal glands (on top of kidneys): adrenaline (the "emergency hormone" or "fight, flight and fright" hormone) increases heartbeat; cortisol; aldosterone.
+- Pancreas: insulin (reduces blood sugar) and glucagon (raises blood sugar). Deficiency of insulin causes diabetes mellitus. Insulin was discovered by Banting and Best in 1921. Normal fasting blood sugar is about 70-100 mg/dL. 
+- Gonads: testes secrete testosterone (male characteristics), ovaries secrete oestrogen and progesterone (female characteristics and the menstrual cycle).
+- Thymus: matures T-lymphocytes (immunity), larger in children. 
+- Pineal gland: melatonin controls the sleep-wake cycle.
+Pheromones are chemical signals between individuals of the same species (e.g. in ants and moths). 
+
+==================================================
+UNIT 8: SKELETAL AND MUSCULAR SYSTEM
+==================================================
+
+8.1 SKELETON
+The adult human skeleton has 206 bones (a newborn baby has about 300 bones, many of which fuse). The axial skeleton has the skull (22 bones), vertebral column (33 vertebrae at first, 26 in adults after fusion) and rib cage (12 pairs of ribs and the sternum). The appendicular skeleton has the limbs and girdles. The femur (thigh bone) is the longest and strongest bone, and the stapes (middle ear) is the smallest. The humerus is in the upper arm; radius and ulna are in the forearm; the tibia and fibula are in the leg. The lower jaw (mandible) is the only movable bone in the skull. The vertebral column protects the spinal cord. Hyoid bone supports the tongue.
+Joints: ball and socket (shoulder and hip), hinge (knee, elbow), pivot (neck), gliding (wrist) and fixed (skull) joints. Cartilage is the softer, flexible tissue in the ear and nose. Ligaments connect bone to bone and tendons connect muscles to bones. Bone is made of calcium phosphate; the bone marrow makes blood cells.
+Disorders: arthritis, osteoporosis (loss of bone density), rickets and fractures.
+
+8.2 MUSCLES
+The human body has over 600 muscles. Types: skeletal (voluntary, striated), smooth (involuntary; in the stomach, intestine and blood vessels) and cardiac (involuntary, striated, found only in the heart). The gluteus maximus (in the buttocks) is the largest muscle; the stapedius (in the ear) is the smallest. The strongest muscle based on its size is the masseter (jaw). Muscles work in antagonistic pairs (biceps and triceps). Lactic acid causes muscle cramps and fatigue.
+
+8.3 SKIN AND OTHER FACTS
+The skin is the largest organ of the body. The pigment melanin protects it from ultraviolet rays. Parts: epidermis, dermis and subcutaneous layer. The liver is the largest internal organ and the largest gland. The thyroid is the largest endocrine gland. The pancreas is both an exocrine and endocrine gland. The brain consumes about 20 percent of the body's energy. The human body is made of about 60-70 percent water. The most abundant element in the human body is oxygen, followed by carbon, hydrogen and nitrogen. The most abundant protein in the human body is collagen. The hardest substance in the body is tooth enamel.
+
+==================================================
+UNIT 9: HUMAN REPRODUCTION AND GENETICS
+==================================================
+
+9.1 MALE AND FEMALE REPRODUCTIVE SYSTEMS
+Male: testes (produce sperms and testosterone), epididymis, vas deferens, seminal vesicles, prostate gland and penis. Sperms are produced in the seminiferous tubules, and the testes lie in the scrotum, which keeps them at a temperature slightly lower than the body temperature. Female: ovaries (produce eggs or ova and hormones), fallopian tubes (oviducts), uterus (womb) and vagina. 
+Fertilisation occurs in the fallopian tube and the zygote forms and implants in the uterine wall. The placenta supplies nutrients and oxygen to the foetus through the umbilical cord. The usual gestation period is about 280 days or 40 weeks (about nine months). The menstrual cycle is about 28 days and ovulation occurs around the 14th day. Menopause occurs at the age of about 45-50 years in women. Twins can be identical (from one zygote) or fraternal (from two zygotes). The first test tube baby, Louise Brown, was born in 1978 in England; IVF (in vitro fertilisation) is used to treat infertility.
+
+9.2 SEX DETERMINATION
+Humans have 23 pairs of chromosomes (22 pairs of autosomes and 1 pair of sex chromosomes). Females have XX and males have XY. The sex of a child is determined by the father's sperm: an X sperm gives a girl, a Y sperm gives a boy.
+
+9.3 GENETIC DISORDERS
+- Haemophilia: X-linked recessive blood clotting disorder; "royal disease" in Queen Victoria's family; more common in males.
+- Colour blindness: X-linked recessive; more common in males.
+- Sickle-cell anaemia: abnormal haemoglobin.
+- Thalassemia: reduced haemoglobin production.
+- Down syndrome: trisomy 21 (an extra chromosome 21; total 47 chromosomes).
+- Turner syndrome: XO (females; 45 chromosomes). Klinefelter syndrome: XXY (males; 47 chromosomes).
+- Albinism: lack of melanin. 
+Blood group inheritance, DNA fingerprinting (Alec Jeffreys, in 1984) and genetic engineering are modern developments. The Human Genome Project (1990-2003) mapped the human genome. Dolly the sheep (1996) was the first mammal cloned from an adult cell, by Ian Wilmut and colleagues at the Roslin Institute, Scotland.
+
+==================================================
+UNIT 10: HEALTH, DISEASES AND IMMUNITY
+==================================================
+
+10.1 HEALTH
+Health is a state of complete physical, mental and social well-being (WHO definition). Normal body temperature: 37 C (98.6 F). Pulse rate: 72 per minute. Normal BP: 120/80 mm Hg. Personal hygiene, clean water, balanced food, exercise, adequate sleep (7-8 hours) and avoiding addiction are important. The WHO was founded on 7 April 1948 and has its headquarters in Geneva; World Health Day is 7 April.
+
+10.2 COMMUNICABLE DISEASES
+Bacterial: cholera (Vibrio cholerae; contaminated water), typhoid (Salmonella typhi), tuberculosis (Mycobacterium tuberculosis; discovered by Robert Koch), leprosy (Mycobacterium leprae), tetanus, diphtheria, whooping cough, pneumonia, plague, anthrax and food poisoning.
+Viral: polio, measles, mumps, chickenpox, smallpox (eradicated in 1980), influenza, rabies, dengue, chikungunya, Japanese encephalitis, hepatitis A (water-borne) and hepatitis B and C (blood-borne), AIDS (HIV; Human Immunodeficiency Virus attacks the CD4 T-helper cells), COVID-19 (SARS-CoV-2), and Nipah. Antibiotics do not work on viruses.
+Protozoan: malaria (Plasmodium, spread by female Anopheles mosquito; Ronald Ross discovered the parasite's transmission), amoebic dysentery (Entamoeba histolytica), sleeping sickness (Trypanosoma), kala-azar (Leishmania), giardiasis.
+Helminth (worm) diseases: filariasis or elephantiasis (Wuchereria bancrofti; Culex mosquito), ascariasis, taeniasis (tapeworm) and dracunculiasis (guinea worm).
+Fungal: ringworm, athlete's foot, candidiasis.
+Modes of transmission: air, water, food, contact, vectors (mosquito, housefly), blood and sexual contact. HIV spreads through unprotected sex, blood, shared needles and from mother to child, but not through hugging or sharing food. AIDS has no cure but is controlled with antiretroviral therapy (ART). Pasteurisation is heating milk to kill microbes (Louis Pasteur).
+
+10.3 NON-COMMUNICABLE (LIFESTYLE) DISEASES
+Diabetes mellitus, hypertension, coronary heart disease, stroke, cancer (uncontrolled cell division; the study of cancer is oncology; tobacco is a major cause), obesity, asthma and mental disorders. Benign tumours do not spread, malignant tumours spread (metastasis). Cancer treatment: surgery, chemotherapy and radiotherapy. Tobacco contains nicotine, tar and carbon monoxide. Alcohol damages the liver (cirrhosis). Drug abuse and addiction are dangerous. 
+
+10.4 IMMUNITY AND VACCINATION
+Immunity is the body's ability to resist disease. Innate (natural) immunity includes skin, mucus, tears and stomach acid. Acquired immunity develops after infection or vaccination, and is mediated by antibodies (produced by B-lymphocytes) and T-lymphocytes. Active immunity: the body makes antibodies (vaccines). Passive immunity: readymade antibodies are given (anti-venom, colostrum, antitoxin).
+Vaccines: Edward Jenner developed the first vaccine for smallpox in 1796 using cowpox. Louis Pasteur developed vaccines for rabies and anthrax. Important vaccines: BCG (tuberculosis), DPT (diphtheria, pertussis and tetanus), OPV (oral polio vaccine by Albert Sabin) and the injected polio vaccine by Jonas Salk, MMR (measles, mumps, rubella), hepatitis B, and rotavirus. India's Pulse Polio programme started in 1995, and India was certified polio-free by WHO in 2014. The Universal Immunisation Programme in India started in 1985. National Immunisation Day is observed on 16 March.
+Antibiotics were discovered by Alexander Fleming (penicillin, 1928). Allergy is an exaggerated response to allergens such as dust and pollen. Autoimmune diseases occur when the body attacks its own cells (rheumatoid arthritis, Type 1 diabetes).
+
+10.5 FIRST AID AND EMERGENCY CARE
+First aid is the immediate help given to an injured person before medical care. For bleeding, apply pressure with a clean cloth. For burns, cool with running water for several minutes and do not apply ointment or break blisters. For snakebite, keep the person calm and still, immobilise the limb and rush to a hospital. For fracture, avoid moving the limb and support it with a splint. For electric shock, switch off the supply before touching. CPR (cardiopulmonary resuscitation) is given for cardiac arrest with chest compressions and rescue breaths. In an unconscious person, ensure an open airway. In ORS (oral rehydration solution), salt and sugar are given to treat dehydration in diarrhoea.
+
+10.6 IMPORTANT HEALTH DAYS
+World Cancer Day - 4 February; National Science Day - 28 February; World TB Day - 24 March; World Health Day - 7 April; World Malaria Day - 25 April; World No Tobacco Day - 31 May; World Blood Donor Day - 14 June; International Yoga Day - 21 June; National Doctors' Day - 1 July; World Heart Day - 29 September; World Mental Health Day - 10 October; World Diabetes Day - 14 November; World AIDS Day - 1 December; International Nurses Day - 12 May.
+
+==================================================
+UNIT 11: ANIMAL HUSBANDRY, FISHERIES AND LIVESTOCK OF TAMIL NADU
+==================================================
+
+11.1 CATTLE AND DAIRYING
+Milch breeds of cattle: Gir, Sahiwal, Red Sindhi and Tharparkar; Draught breeds: Kangayam, Umblachery and Bargur are Tamil Nadu breeds. Pulikulam (Jallikattu) bulls are known for the bull-taming sport at Alanganallur and Palamedu in the Madurai region. Buffalo breeds: Murrah (best milk yielder), Mehsana and Toda buffalo (of the Nilgiris). Jersey and Holstein-Friesian are exotic breeds with high milk yield. 
+Operation Flood (the White Revolution) was started in 1970 by Dr Verghese Kurien, the "Milkman of India," under the National Dairy Development Board, and Amul is the famous cooperative in Anand, Gujarat. Aavin is the milk cooperative of Tamil Nadu. The Madras Veterinary College (Chennai, established 1903) is the oldest veterinary college in India. Milk is pasteurised to remove microbes; lactose is milk sugar; and casein is the milk protein.
+
+11.2 SHEEP, GOAT AND POULTRY
+Sheep breeds: Mecheri, Ramnad White and Vembur in Tamil Nadu. Goat breeds: Kanni Adu and Kodi Adu in Tamil Nadu, Jamnapari and Barbari elsewhere. Poultry: Leghorn, Rhode Island Red and Aseel (a fighting breed); Namakkal in Tamil Nadu is a major egg-producing centre. Broilers are raised for meat and layers for eggs.
+
+11.3 FISHERIES
+Capture fishery (sea and inland) and culture fishery (aquaculture). Freshwater fish culture uses Indian major carps: catla, rohu and mrigal, along with common carp and grass carp. Marine fishes: sardine, mackerel, tuna and pomfret. Prawn culture is carried out along the coast. Tamil Nadu has a long coastline (about 1,076 km), and the Gulf of Mannar and Palk Bay are rich fishing grounds. Fish provide protein and vitamins A and D. The Blue Revolution is linked to fisheries development.
+
+==================================================
+UNIT 12: ANIMAL BEHAVIOUR, ADAPTATION AND EVOLUTION BASICS
+==================================================
+
+12.1 ANIMAL BEHAVIOUR
+Instinct is an inborn behaviour (spiders spinning webs; birds building nests). Learning includes conditioning (Pavlov's experiment on dogs). Migration: birds like the Siberian crane and Arctic tern travel long distances. Hibernation is winter sleep (bears, frogs); aestivation is summer sleep (snails, lungfish). Echolocation by bats and dolphins uses ultrasound. Camouflage and mimicry help animals to hide (chameleon).
+
+12.2 EVOLUTION BASICS
+Charles Darwin proposed the theory of natural selection in "On the Origin of Species" (1859) after his voyage on HMS Beagle and his observations in the Galapagos Islands (finches). Lamarck proposed the theory of inheritance of acquired characters. Homologous organs have the same structure but different functions (a human hand, a bat's wing and a whale's flipper); analogous organs have different structures but similar functions (a bird's wing and an insect's wing). Vestigial organs are reduced and functionless (appendix, wisdom teeth). Fossils give evidence of evolution; carbon dating helps to find their age. Archaeopteryx is a connecting link between reptiles and birds. Human evolution: Australopithecus -> Homo habilis -> Homo erectus -> Homo sapiens (modern humans). Neanderthals were a related human species. Hugo de Vries proposed the mutation theory. The Miller-Urey experiment (1953) showed that organic molecules could form from simple gases under early-earth conditions. Oparin and Haldane proposed the chemical origin of life.
+
+==================================================
+UNIT 13: QUICK FACTS FOR REVISION
+==================================================
+
+- Branches: Zoology - animals; Anatomy - body structure; Physiology - functions; Cytology - cells; Histology - tissues; Entomology - insects; Ornithology - birds; Ichthyology - fishes; Herpetology - reptiles and amphibians; Mammalogy - mammals; Embryology - embryos; Genetics - heredity; Haematology - blood; Nephrology - kidney; Cardiology - heart; Neurology - nervous system; Oncology - cancer; Dermatology - skin; Ophthalmology - eye; Pathology - disease; Epidemiology - spread of disease; Virology - viruses; Bacteriology - bacteria; Parasitology - parasites; Gerontology - old age; Pedology - soil; Ethology - animal behaviour; Apiculture - bees; Sericulture - silk; Pisciculture - fish; Viticulture - grapes; Floriculture - flowers.
+- Father of Medicine: Hippocrates. Father of Zoology: Aristotle. Father of Modern Anatomy: Andreas Vesalius. Father of Surgery in India: Sushruta. Father of Indian Medicine (Ayurveda): Charaka and Sushruta. Father of Modern Genetics: Mendel.
+- Largest cell: ostrich egg; longest cell: nerve cell (neuron); smallest cell: Mycoplasma; the smallest bone: stapes; the longest bone: femur; the largest artery: aorta; the largest vein: vena cava; the largest gland: liver; the largest organ: skin; the largest muscle: gluteus maximus; the largest part of the brain: cerebrum.
+- Normal values: body temperature 37 C; pulse 72 per minute; BP 120/80 mm Hg; haemoglobin 12-16 g per dL (women) and 14-18 g per dL (men); blood volume about 5 litres; RBC life 120 days; breathing rate 12-20 per minute.
+- Cold-blooded (poikilothermic) animals: fishes, amphibians and reptiles. Warm-blooded (homeothermic) animals: birds and mammals.
+- Hearts: fish 2 chambers; amphibians 3; reptiles 3 (crocodile 4); birds 4; mammals 4.
+- National symbols: national animal - tiger; national bird - peacock; national aquatic animal - Ganges river dolphin; national reptile - king cobra; national heritage animal - elephant.
+- Madras Medical College (Chennai, established 1835) is among the oldest medical colleges in India.
+
+==================================================
+END OF PART 4: ZOOLOGY AND HUMAN BODY
+==================================================
+
+==================================================
+UNIT 1: SCIENTISTS AND THEIR DISCOVERIES
+==================================================
+
+1.1 PHYSICS
+- Isaac Newton: laws of motion, universal law of gravitation, reflecting telescope, white light dispersion; book "Principia Mathematica" (1687).
+- Galileo Galilei: used the telescope for astronomy (moons of Jupiter), law of inertia, pendulum.
+- Archimedes: principle of buoyancy and lever ("Eureka").
+- Albert Einstein: theory of relativity (special 1905, general 1915), E = mc2, explanation of the photoelectric effect (Nobel prize in 1921).
+- Max Planck: quantum theory (Nobel prize 1918). Niels Bohr: atomic model. Werner Heisenberg: uncertainty principle. Erwin Schrodinger: wave equation.
+- Michael Faraday: electromagnetic induction, laws of electrolysis. James Clerk Maxwell: electromagnetic theory. Hans Christian Oersted: magnetic effect of current. Andre-Marie Ampere: electrodynamics. Georg Ohm: Ohm's law. Alessandro Volta: voltaic cell. Luigi Galvani: animal electricity. Benjamin Franklin: lightning is electricity, lightning conductor.
+- Heinrich Hertz: produced radio waves. Guglielmo Marconi: wireless telegraphy (radio). 
+- Wilhelm Roentgen: X-rays (1895; first Nobel prize in Physics, 1901). Henri Becquerel: natural radioactivity (1896). Marie Curie and Pierre Curie: polonium and radium. Ernest Rutherford: atomic nucleus. J. J. Thomson: electron. James Chadwick: neutron. Enrico Fermi: first nuclear reactor. Otto Hahn: nuclear fission. 
+- Christiaan Huygens: wave theory of light. Thomas Young: interference of light. Edwin Hubble: expanding universe. Stephen Hawking: black holes. Johannes Kepler: laws of planetary motion. Nicolaus Copernicus: heliocentric theory. Hans Lippershey: telescope. Torricelli: barometer. Blaise Pascal: Pascal's law. Robert Boyle: Boyle's law. Jacques Charles: Charles's law. Daniel Bernoulli: Bernoulli's principle. Robert Hooke: law of elasticity and the word "cell." Anders Celsius: Celsius scale; Fahrenheit: mercury thermometer. Lord Kelvin: absolute scale.
+
+1.2 CHEMISTRY AND BIOLOGY
+- Antoine Lavoisier, John Dalton, Mendeleev, Moseley, Robert Boyle (see chemistry notes). Alfred Nobel: dynamite and Nobel prizes. Humphry Davy: safety lamp; discovered sodium and potassium. Louis Pasteur: pasteurisation, rabies vaccine, germ theory. Robert Koch: tuberculosis and cholera bacteria. Alexander Fleming: penicillin (1928). Edward Jenner: smallpox vaccine. Joseph Lister: antiseptic surgery. Ronald Ross: malaria parasite transmission by mosquito. Karl Landsteiner: blood groups. William Harvey: blood circulation. Frederick Banting and Charles Best: insulin. Gregor Mendel: genetics. Charles Darwin: natural selection. Watson and Crick: DNA structure (1953). Hugo de Vries: mutation theory. Carolus Linnaeus: classification. Ian Wilmut: Dolly the sheep. Christiaan Barnard: first human heart transplant (1967). Wilhelm Wundt, Sigmund Freud: psychology. Ivan Pavlov: conditioned reflex. 
+
+1.3 INDIAN SCIENTISTS
+- Aryabhata (5th century): Aryabhatiya; place value system and zero; the earth rotates on its axis; India's first satellite was named after him.
+- Brahmagupta: rules for zero. Bhaskara II: Lilavati. Varahamihira: astronomy. Charaka: Charaka Samhita (medicine). Sushruta: Sushruta Samhita (surgery; the Father of Indian Surgery). Nagarjuna: chemistry (Rasaratnakara).
+- Srinivasa Ramanujan (born 22 December 1887 at Erode, Tamil Nadu): genius mathematician, Fellow of the Royal Society (1918), worked on number theory and infinite series; the number 1729 is the "Hardy-Ramanujan number." National Mathematics Day is celebrated on 22 December.
+- Sir C. V. Raman (born 1888 at Tiruchirappalli, Tamil Nadu): discovered the Raman Effect (scattering of light) on 28 February 1928 and won the Nobel Prize in Physics in 1930, the first Asian to win a Nobel prize in science. National Science Day is celebrated on 28 February. He founded the Raman Research Institute in Bengaluru. Bharat Ratna 1954.
+- Subrahmanyan Chandrasekhar: Chandrasekhar limit for white dwarf stars (about 1.4 times the mass of the sun); Nobel prize in Physics in 1983 (shared); NASA's Chandra X-ray Observatory is named after him. He was the nephew of C. V. Raman.
+- Sir Jagadish Chandra Bose: showed that plants respond to stimuli; invented the crescograph; the pioneer of wireless and microwave work; founded the Bose Institute in Kolkata (1917).
+- Meghnad Saha: Saha ionisation equation (astrophysics). Satyendra Nath Bose: Bose-Einstein statistics (bosons). Homi J. Bhabha: Father of the Indian nuclear programme; TIFR (1945); first chairman of the Atomic Energy Commission (1948). Vikram Sarabhai: Father of the Indian Space Programme; founded the Physical Research Laboratory (PRL), Ahmedabad. Satish Dhawan: ISRO chairman who developed the launch vehicle programme. 
+- A. P. J. Abdul Kalam (born 15 October 1931 at Rameswaram, Tamil Nadu): the "Missile Man of India," led the SLV-3 project and the Integrated Guided Missile Development Programme (Agni, Prithvi); scientific adviser to the PM, 11th President of India (2002-2007); Bharat Ratna 1997; author of "Wings of Fire," "India 2020" and "Ignited Minds"; died on 27 July 2015. His birthday, 15 October, is observed as World Students' Day.
+- M. S. Swaminathan (born in Kumbakonam, Tamil Nadu): Father of the Green Revolution in India; first World Food Prize winner (1987). Salim Ali: "Birdman of India," ornithologist. Birbal Sahni: palaeobotanist. Har Gobind Khorana: Nobel prize in Medicine in 1968 for deciphering the genetic code. Venkatraman Ramakrishnan: Nobel prize in Chemistry 2009 (ribosome structure; born at Chidambaram, Tamil Nadu). 
+- G. N. Ramachandran (Chennai): Ramachandran plot (protein structure). Verghese Kurien: White Revolution. Vijay Bhatkar: PARAM supercomputer. Raja Ramanna: led the 1974 Pokhran test. Tessy Thomas: "Missile Woman of India." Kalpana Chawla: first woman of Indian origin in space (1997). Rakesh Sharma: first Indian in space (1984, Soyuz T-11). Shubhanshu Shukla: first Indian astronaut to visit the International Space Station (2025, Axiom-4 mission).
+- Tamil Nadu space scientists: Mylswamy Annadurai (the "Moon Man of India"; project director of Chandrayaan-1; born in Kodhavadi near Pollachi), K. Sivan (born at Sarakkalvilai near Nagercoil; ISRO chairman 2018-2022), V. Narayanan (from Kanyakumari district, cryogenic propulsion expert; appointed ISRO chairman in January 2025), P. Veeramuthuvel (from Villupuram district; project director of Chandrayaan-3), Nambi Narayanan (cryogenic engine pioneer; born in Nagercoil).
+
+1.4 INDIAN NOBEL LAUREATES
+Rabindranath Tagore (Literature, 1913; first Asian Nobel laureate); C. V. Raman (Physics, 1930); Har Gobind Khorana (Medicine, 1968); Mother Teresa (Peace, 1979); S. Chandrasekhar (Physics, 1983); Amartya Sen (Economics, 1998); V. Ramakrishnan (Chemistry, 2009); Kailash Satyarthi (Peace, 2014); Abhijit Banerjee (Economics, 2019). Nobel prizes are given in Physics, Chemistry, Medicine or Physiology, Literature and Peace (since 1901), and Economics (since 1969), at Stockholm and Oslo (Peace) on 10 December, the death anniversary of Alfred Nobel. Marie Curie is the only person to win Nobel prizes in two different sciences (Physics 1903 and Chemistry 1911).
+
+==================================================
+UNIT 2: INVENTIONS AND DISCOVERIES
+==================================================
+
+- Printing press: Johannes Gutenberg (about 1440).
+- Steam engine: James Watt (improved). Steam locomotive: George Stephenson. 
+- Telephone: Alexander Graham Bell (1876). Telegraph: Samuel Morse. Radio: Marconi. Television: John Logie Baird. Cinema: Lumiere brothers. Photography: Daguerre. Phonograph and electric bulb: Thomas Alva Edison. Typewriter: Christopher Sholes. 
+- Aeroplane: Wright brothers (1903). Helicopter: Igor Sikorsky. Jet engine: Frank Whittle. Rocket: Robert Goddard (liquid-fuelled rocket). Parachute: Leonardo da Vinci's design. 
+- Dynamite: Alfred Nobel. Safety lamp: Humphry Davy. Pasteurisation: Louis Pasteur. Microscope: Zacharias Janssen. Telescope: Hans Lippershey (Galileo improved it). Thermometer: Galileo (early) and Fahrenheit (mercury). Barometer: Torricelli. Hydrogen balloon: Jacques Charles. Stethoscope: Rene Laennec. Radar: Robert Watson-Watt. Sonar: Paul Langevin. Laser: Theodore Maiman (1960). Transistor: Bardeen, Brattain and Shockley (1947). Integrated circuit: Jack Kilby. Microprocessor: Intel (1971). 
+- Computer: Charles Babbage is the "Father of the Computer" (Analytical Engine); Ada Lovelace was the first programmer. ENIAC (1946) was an early electronic computer. Personal computers: Apple (Steve Jobs and Steve Wozniak) and Microsoft (Bill Gates and Paul Allen). 
+- World Wide Web: Tim Berners-Lee (1989-91). E-mail: Ray Tomlinson (1971). Google: Larry Page and Sergey Brin (1998). Facebook: Mark Zuckerberg (2004). 
+- Nylon: Wallace Carothers. Bakelite: Leo Baekeland. Vulcanised rubber: Charles Goodyear. Stainless steel: Harry Brearley. Cement: Joseph Aspdin. Safety razor: King Gillette. Ball-point pen: Laszlo Biro. Refrigerator: Jacob Perkins. Sewing machine: Elias Howe. Bicycle: Kirkpatrick Macmillan. Zip fastener: Whitcomb Judson. Dynamo: Faraday. Battery: Volta. 
+- Penicillin: Fleming. X-ray: Roentgen. Insulin: Banting and Best. Polio vaccines: Salk (injection) and Sabin (oral). Smallpox vaccine: Jenner. Rabies vaccine: Pasteur. Anaesthesia (ether): William Morton. 
+- Dolly the sheep (1996): the first mammal cloned from an adult cell. Human Genome Project completed in 2003.
+
+Units named after scientists: newton (Newton), joule (Joule), watt (James Watt), pascal (Blaise Pascal), hertz (Heinrich Hertz), tesla (Nikola Tesla; unit of magnetic field), weber, ohm (Georg Ohm), ampere (Ampere), volt (Volta), coulomb (Coulomb), farad (Faraday), henry (Joseph Henry), kelvin (Lord Kelvin), becquerel (Becquerel; radioactivity), curie, gray (absorbed radiation dose), sievert (radiation dose equivalent), decibel (Alexander Graham Bell), dioptre, angstrom (Anders Angstrom).
+
+Important effects and laws: Raman effect (scattering of light), Doppler effect (change in frequency), photoelectric effect (Einstein), Zeeman effect (magnetic field and spectral lines), Compton effect, Tyndall effect (scattering by colloids), Bernoulli's principle (fluid speed and pressure; aerofoil lift), Hooke's law (stress and strain), Boyle's law (P x V = constant at constant temperature), Charles's law (V/T constant at constant pressure), Avogadro's law, Pascal's law, Archimedes' principle and Kepler's laws.
+
+==================================================
+UNIT 3: SPACE SCIENCE
+==================================================
+
+3.1 UNIVERSE AND SOLAR SYSTEM
+The universe began with the Big Bang about 13.8 billion years ago. A galaxy is a huge collection of stars. Our galaxy is the Milky Way (spiral shape); the nearest large galaxy is Andromeda. A star is a hot gaseous ball producing energy by nuclear fusion. The nearest star to the earth is the sun; the nearest star beyond the solar system is Proxima Centauri. Light year is the distance light travels in a year. Stars end as white dwarfs, neutron stars or black holes. A constellation is a group of stars in a pattern (Ursa Major or Saptarishi, Orion and Cassiopeia). The Pole Star (Polaris, Dhruva Tara) indicates the north.
+The Solar System: the sun (a medium-sized star, about 4.6 billion years old, 99.8 percent of the solar system mass) and eight planets in order of distance from the sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Pluto was reclassified as a dwarf planet in 2006 by the International Astronomical Union.
+- Mercury: smallest planet and the nearest to the sun; no moons; shortest year (88 days).
+- Venus: hottest planet (thick carbon dioxide atmosphere); rotates in the opposite direction; called the "morning star" or "evening star" and the earth's twin.
+- Earth: the only known planet with life; about 71 percent water, hence the "blue planet"; one moon; rotation 24 hours and revolution about 365.25 days; the axis tilted at 23.5 degrees causes seasons.
+- Mars: "red planet" because of iron oxide; two moons (Phobos and Deimos); Olympus Mons is the largest volcano in the solar system.
+- Jupiter: largest planet; the Great Red Spot; the most moons earlier (Ganymede is the largest moon in the solar system); shortest day of all the planets (about 10 hours).
+- Saturn: spectacular rings; very low density, less than water; Titan is its largest moon.
+- Uranus: tilted on its side, rotates on its side; Neptune: the farthest planet, with a blue colour and strong winds.
+Inner planets (Mercury, Venus, Earth, Mars) are rocky and called terrestrial planets; the outer planets are gas giants (Jupiter and Saturn) and ice giants (Uranus and Neptune). The asteroid belt lies between Mars and Jupiter. Comets are icy bodies with tails; Halley's Comet appears about every 76 years (last in 1986, next in 2061). Meteors are shooting stars; meteorites reach the ground. Light from the sun reaches the earth in about 8 minutes 20 seconds.
+Moon: the earth's only natural satellite, about one-fourth of the earth's diameter, orbit period about 27.3 days, and the same face always toward the earth. Neil Armstrong was the first man on the moon (Apollo 11, 20 July 1969), followed by Buzz Aldrin. A solar eclipse occurs when the moon comes between the sun and the earth (new moon day); a lunar eclipse occurs when the earth comes between the sun and the moon (full moon day). Tides are caused by the gravitational pull of the moon and the sun.
+
+3.2 SPACE EXPLORATION MILESTONES
+Sputnik-1 (USSR, 1957) was the first artificial satellite. Laika was the first dog in space (1957). Yuri Gagarin of the USSR was the first man in space (12 April 1961). Valentina Tereshkova was the first woman in space (1963). Neil Armstrong landed on the moon on 20 July 1969 (Apollo 11). Space Shuttle programme (1981-2011). International Space Station (ISS) is a joint project of several nations, orbiting at about 400 km. Hubble Space Telescope (1990) and James Webb Space Telescope (launched on 25 December 2021) are major space observatories. Voyager 1 and 2 (1977) are the farthest human-made objects. Mars rovers: Curiosity, Perseverance. Sunita Williams and Kalpana Chawla are among the astronauts of Indian origin. 
+
+==================================================
+UNIT 4: INDIAN SPACE PROGRAMME (ISRO)
+==================================================
+
+4.1 ORGANISATION
+The Indian National Committee for Space Research (INCOSPAR) was set up in 1962 under Vikram Sarabhai. ISRO (Indian Space Research Organisation) was established on 15 August 1969 and is headquartered at Bengaluru. The Department of Space and the Space Commission were set up in 1972. Antrix is the commercial arm of ISRO, and NSIL (NewSpace India Limited) was set up in 2019. IN-SPACe (2020) promotes private space activities. National Space Day is celebrated on 23 August to commemorate the Chandrayaan-3 landing. World Space Week is observed from 4 to 10 October.
+Centres: Vikram Sarabhai Space Centre (VSSC), Thiruvananthapuram (rockets); Satish Dhawan Space Centre (SDSC SHAR), Sriharikota, Andhra Pradesh (launch site); U R Rao Satellite Centre (URSC, formerly ISAC), Bengaluru (satellites); Liquid Propulsion Systems Centre (LPSC) at Valiamala (Kerala), Bengaluru and the ISRO Propulsion Complex at Mahendragiri in Tirunelveli district, Tamil Nadu; Space Applications Centre (SAC), Ahmedabad; National Remote Sensing Centre (NRSC), Hyderabad; ISRO Telemetry Tracking and Command Network (ISTRAC), Bengaluru. Thumba Equatorial Rocket Launching Station (TERLS) near Thiruvananthapuram was set up in 1963 and its first sounding rocket was launched on 21 November 1963. A new spaceport at Kulasekarapattinam in Thoothukudi district of Tamil Nadu is being developed for small satellite launch vehicles (SSLV).
+
+4.2 SATELLITES AND LAUNCH VEHICLES
+- Aryabhata: India's first satellite, launched on 19 April 1975 with Soviet help.
+- Bhaskara-I (1979), Rohini (RS-1) was launched by the indigenous SLV-3 on 18 July 1980, making India the sixth nation to launch a satellite on its own rocket. APPLE (1981) was an experimental communication satellite.
+- INSAT (Indian National Satellite System) series for communication, television, meteorology; one of the largest domestic communication satellite systems in the Asia-Pacific region. GSAT series for communication. IRS (Indian Remote Sensing) series for natural resources, started with IRS-1A in 1988. Cartosat for cartography, Oceansat, Resourcesat, RISAT (radar imaging), EDUSAT (education, 2004), Megha-Tropiques and INSAT-3D for weather. 
+- Launch vehicles: SLV, ASLV, PSLV (Polar Satellite Launch Vehicle; the workhorse; first successful flight in 1994), GSLV (Geosynchronous Satellite Launch Vehicle; uses an indigenous cryogenic engine), LVM3 (formerly GSLV Mk III; heaviest launcher), and SSLV (Small Satellite Launch Vehicle). A cryogenic engine uses liquid hydrogen and liquid oxygen as propellants.
+- PSLV-C37 launched a record 104 satellites in a single mission on 15 February 2017. 
+- NavIC (Navigation with Indian Constellation; earlier IRNSS) is India's regional navigation system, with satellites in geostationary and geosynchronous orbits covering India and about 1,500 km around it. 
+- AstroSat (2015): India's first dedicated multi-wavelength space observatory. 
+- Polar satellites orbit at about 600-900 km and are used for remote sensing; geostationary satellites orbit at about 36,000 km above the equator. 
+
+4.3 MISSIONS
+- Chandrayaan-1 (22 October 2008): India's first lunar mission, and its Moon Impact Probe detected water molecules on the moon.
+- Mangalyaan or Mars Orbiter Mission (MOM) launched on 5 November 2013 by PSLV-C25 and entered the Martian orbit on 24 September 2014. India became the first Asian country to reach the Mars orbit and the first country in the world to do so in its maiden attempt, at a low cost (about Rs 450 crore).
+- Chandrayaan-2 (22 July 2019): the lander Vikram lost contact during descent, but the orbiter continues to work.
+- Chandrayaan-3 (launched on 14 July 2023 by LVM3; landed on 23 August 2023): India became the fourth country to soft-land on the moon (after the USSR, USA and China) and the first to land near the lunar south pole. The lander is Vikram and the rover is Pragyan; the landing spot was named Shiv Shakti Point. 
+- Aditya-L1 (launched on 2 September 2023): India's first solar mission, placed in a halo orbit around the Lagrange point L1 (about 1.5 million km from the earth) in January 2024.
+- Space Docking Experiment (SpaDeX) in 2024-25 made India the fourth country to demonstrate space docking. NISAR, a joint NASA-ISRO radar satellite for earth observation, was launched in 2025.
+- Gaganyaan: India's human spaceflight programme; planned to send Indian astronauts to low-earth orbit (about 400 km), with uncrewed test flights and a "Vyommitra" humanoid robot. Check the latest status in current affairs.
+- Other: Reusable Launch Vehicle technology demonstration (RLV-TD); a Venus orbiter mission (Shukrayaan) is planned.
+
+==================================================
+UNIT 5: DEFENCE, NUCLEAR AND DEVELOPMENT SCIENCE
+==================================================
+
+5.1 NUCLEAR PROGRAMME
+Atomic Energy Commission was set up in 1948 and the Department of Atomic Energy in 1954. The Bhabha Atomic Research Centre (BARC) is at Trombay, Mumbai. Apsara (1956) was Asia's first research reactor. Tarapur (Maharashtra) was the first nuclear power station (1969). The Indira Gandhi Centre for Atomic Research (IGCAR) is at Kalpakkam, Tamil Nadu, and works on fast breeder reactors. The Madras Atomic Power Station (Kalpakkam) and the Kudankulam Nuclear Power Plant (Tirunelveli district) are in Tamil Nadu. India's three-stage nuclear power programme aims to use thorium. Pokhran-I (the "Smiling Buddha") was India's first nuclear test on 18 May 1974, and Pokhran-II (Operation Shakti) was in May 1998. India follows a "no first use" policy. National Technology Day is celebrated on 11 May to commemorate the 1998 tests. 
+
+5.2 DEFENCE RESEARCH
+DRDO (Defence Research and Development Organisation, 1958) develops military technology. The Integrated Guided Missile Development Programme (IGMDP, 1983) under Dr Kalam produced: Prithvi (surface-to-surface), Agni (intermediate range and intercontinental ballistic missiles), Akash (surface-to-air), Trishul (short-range surface-to-air) and Nag (anti-tank missile). BrahMos is a supersonic cruise missile developed jointly with Russia, and the Indian Navy and Air Force use it. Arjun is the main battle tank. Tejas is an indigenous light combat aircraft (HAL). INS Vikrant (indigenous aircraft carrier, commissioned in 2022), INS Arihant (nuclear-powered submarine). Pinaka is a multi-barrel rocket launcher. Dhruv is an advanced light helicopter. Missile test ranges are at Chandipur and Wheeler Island (now Abdul Kalam Island) in Odisha. Defence Research complex in Tamil Nadu: the Combat Vehicles Research and Development Establishment (CVRDE) at Avadi, Chennai, and the Heavy Vehicles Factory, Avadi. Defence Industrial Corridor: Tamil Nadu is one of the two corridors (the other is in Uttar Pradesh).
+
+5.3 SCIENCE INSTITUTIONS
+CSIR (Council of Scientific and Industrial Research, 1942); ICAR (Indian Council of Agricultural Research); ICMR (Indian Council of Medical Research; Delhi); IISc (Indian Institute of Science, Bengaluru, 1909); IITs (first IIT at Kharagpur in 1951; IIT Madras was set up in 1959 with German assistance); TIFR (Mumbai); IUCAA (Pune); NPL (National Physical Laboratory, Delhi); NCL (Pune); CDRI (Lucknow); CLRI (Central Leather Research Institute) at Chennai; CECRI (Central Electro-Chemical Research Institute) at Karaikudi; CMFRI (Central Marine Fisheries Research Institute) at Kochi; Birbal Sahni Institute of Palaeosciences, Lucknow; Wadia Institute of Himalayan Geology, Dehradun; Indian Meteorological Department (IMD, 1875), Delhi; National Institute of Ocean Technology (NIOT), Chennai; Periyar Science and Technology Centre, Chennai; Birla Planetarium, Chennai. National Science Centre is in Delhi. Indian Science Congress Association was founded in 1914. 
+
+==================================================
+UNIT 6: COMPUTERS AND INFORMATION TECHNOLOGY BASICS
+==================================================
+
+6.1 BASIC TERMS
+A computer is an electronic device that accepts data, processes it and gives results. Hardware: physical parts such as CPU, monitor, keyboard, mouse and printer. Software: programs; system software (operating systems like Windows, Linux, Android, macOS) and application software (MS Word, Excel, browsers). CPU (Central Processing Unit) is the brain and has the Arithmetic Logic Unit (ALU) and Control Unit (CU). Input devices: keyboard, mouse, scanner, microphone, webcam. Output devices: monitor, printer, speaker. Storage: RAM (Random Access Memory; temporary and volatile), ROM (Read Only Memory; permanent), hard disk, SSD, pen drive, CD, DVD and cloud storage. A bit is the smallest unit of data (0 or 1); 1 byte = 8 bits; 1 KB = 1024 bytes, followed by MB, GB and TB. Binary is the number system of computers. A pixel is the smallest element of a picture. 
+
+6.2 GENERATIONS OF COMPUTERS
+First generation: vacuum tubes (ENIAC, UNIVAC). Second: transistors. Third: integrated circuits (IC). Fourth: microprocessors (VLSI). Fifth: artificial intelligence and parallel processing. Types: supercomputers (PARAM by C-DAC under Vijay Bhatkar, India's first supercomputer in 1991), mainframe, mini, micro or personal computers, laptops, tablets and smartphones.
+
+6.3 INTERNET AND COMMUNICATION
+The Internet is a global network of networks. ARPANET (1969) was its early form. The World Wide Web (WWW) is a collection of web pages accessed over the internet through a browser (Chrome, Firefox, Edge, Safari) using HTTP or HTTPS. A URL is the address of a web page; an IP address identifies a device. Domain names: .com (commercial), .org (organisation), .edu (education), .gov (government), .in (India). E-mail uses the @ symbol. Wi-Fi: wireless local area network; Bluetooth: short-range wireless. LAN, MAN and WAN are networks of different size. 4G and 5G are mobile network generations. GPS is a satellite navigation system of the USA; India has NavIC. Cloud computing, Internet of Things (IoT), Artificial Intelligence (AI), Machine learning, Blockchain and Big data are the modern technologies. 3D printing makes objects layer by layer. Robots are programmable machines. Drones are unmanned aerial vehicles.
+
+6.4 CYBER SAFETY
+Malware includes viruses, worms, trojans, ransomware and spyware. A firewall protects networks; antivirus software detects malware. Phishing is a fraud that tricks people into revealing personal details such as passwords and OTPs through fake messages or websites. Strong passwords and two-factor authentication improve safety. The Information Technology Act was passed in 2000 and amended in 2008; it covers cybercrime and digital signatures. The National Cyber Security Policy and CERT-In deal with cyber incidents. Cyber crime helpline in India: 1930 and the portal cybercrime.gov.in.
+
+6.5 DIGITAL INDIA AND TAMIL NADU
+Digital India was launched in 2015. Aadhaar (UIDAI, 2009) is a 12-digit identity number. UPI (Unified Payments Interface; NPCI, 2016) enables instant mobile payments. DigiLocker stores documents digitally. e-Sevai centres of the Tamil Nadu government provide online services; TNPSC runs its examinations with its own online portal and One Time Registration. Tamil Nadu e-Governance Agency (TNeGA) manages e-governance. Technopark and IT corridor: the Rajiv Gandhi Salai (Old Mahabalipuram Road) in Chennai is known as the IT Expressway. Tidel Park (Chennai, 2000) is a major IT park. Tamil Nadu has Electronics Hardware Manufacturing in Sriperumbudur and Hosur. The Tamil language computing: Tamil Virtual University (2001) and Unicode support for Tamil.
+
+==================================================
+UNIT 7: SCIENCE AND TECHNOLOGY DAYS AND QUICK REVISION
+==================================================
+
+7.1 IMPORTANT SCIENCE DAYS
+- 11 February: International Day of Women and Girls in Science.
+- 14 March: Pi Day. 
+- 23 March: World Meteorological Day.
+- 28 February: National Science Day (Raman Effect).
+- 22 April: Earth Day. 
+- 11 May: National Technology Day.
+- 15 September: Engineers' Day (birthday of Sir M. Visvesvaraya).
+- 4-10 October: World Space Week.
+- 15 October: Dr A. P. J. Abdul Kalam's birth anniversary, World Students' Day.
+- 23 August: National Space Day. 
+- 22 December: National Mathematics Day (Ramanujan's birthday).
+- 5 June: World Environment Day. 
+- 29 June: National Statistics Day (P. C. Mahalanobis).
+- 12 January: National Youth Day (Swami Vivekananda's birthday).
+- 5 September: Teachers' Day.
+- 23 December: Kisan Divas (Farmers' Day).
+
+7.2 QUICK FACTS
+- Famous Indian "Fathers": Father of the Indian nuclear programme - Homi J. Bhabha; Father of the Indian space programme - Vikram Sarabhai; Father of the Green Revolution in India - M. S. Swaminathan; Father of the White Revolution - Verghese Kurien; Missile Man of India - A. P. J. Abdul Kalam; Moon Man of India - Mylswamy Annadurai; Father of Indian Surgery - Sushruta; Satish Dhawan - architect of ISRO's launch vehicle programme; Father of the Indian Constitution - B. R. Ambedkar. 
+- Dr Muthulakshmi Reddi (born in Pudukkottai, Tamil Nadu) was India's first woman legislator and a pioneer in healthcare reform.
+- The first Indian to go into space: Rakesh Sharma (1984). The first Indian woman in space: Kalpana Chawla (as an American astronaut, 1997).
+- First Indian satellite: Aryabhata (1975); first satellite by an Indian rocket: Rohini (1980); first lunar probe: Chandrayaan-1 (2008); first Mars mission: Mangalyaan (2013-14); first solar mission: Aditya-L1 (2023).
+- The Indian Space Research Organisation's motto is "Space technology in the service of humankind."
+- The first nuclear reactor in India: Apsara (1956). First Indian nuclear test: 1974.
+- India's first computer: TIFRAC (at TIFR, in the 1950s); India's first indigenous supercomputer: PARAM 8000 (1991).
+- CSIR's lab at Chennai: Structural Engineering Research Centre (SERC) and CLRI. IIT Madras is among India's top engineering institutions. Anna University is a technical university in Chennai (named after C. N. Annadurai, 1978). 
+
+7.3 EXAM TIPS FOR GENERAL SCIENCE
+Read the Samacheer science textbooks of Standards 6 to 10 first, then the Std 11 and 12 Biology, Physics and Chemistry. Make short notes on formulae, units, discoveries, vitamins and diseases, and revise them often. Practise previous-year questions and take the mock tests in your system. For current affairs in science, read the latest news about ISRO, DRDO, health and environment.
+
+==================================================
+END OF PART 5 - END OF SCIENTIFIC BASICS SERIES
+==================================================

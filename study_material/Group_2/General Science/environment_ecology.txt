@@ -1,0 +1,650 @@
+
+==================================================
+UNIT 1: INTRODUCTION TO ENVIRONMENT AND ECOLOGY
+==================================================
+
+1.1 MEANING OF ENVIRONMENT
+The word "environment" comes from the French word "environner", which means "to surround". Environment is the sum total of all living (biotic) and non-living (abiotic) things that surround an organism and influence its life. It includes air, water, soil, sunlight, temperature, plants, animals, microorganisms and human-made surroundings. Every organism depends on its environment for food, shelter, oxygen and water, and in turn changes the environment through its activities.
+
+1.2 COMPONENTS OF ENVIRONMENT
+(a) Abiotic components: These are the non-living parts. Examples are light, temperature, rainfall, humidity, wind, soil, minerals, air and water. They are further grouped as climatic factors (light, temperature, rainfall), edaphic factors (soil, pH, minerals) and topographic factors (altitude, slope).
+(b) Biotic components: These are the living parts. They are classified by their role as producers, consumers and decomposers.
+(c) Energy components: Solar energy is the main source of energy for almost all ecosystems.
+
+1.3 MEANING OF ECOLOGY
+The term "Oekologie" was coined by the German biologist Ernst Haeckel in 1866. It comes from the Greek words "oikos" (house) and "logos" (study). Ecology is the scientific study of the relationship between organisms and their environment, and among organisms themselves. Eugene Odum is called the Father of Modern Ecology. In India, Ramdeo Misra is called the Father of Indian Ecology. Important sub-branches: Autecology (study of a single species), Synecology (study of communities), Population ecology, Community ecology, Ecosystem ecology, and Conservation ecology.
+
+1.4 LEVELS OF ORGANISATION IN ECOLOGY
+Organism -> Population -> Community -> Ecosystem -> Biome -> Biosphere.
+An organism is a single living individual. A population is a group of individuals of the same species living in one area at one time. A community is the collection of all populations of different species living together. An ecosystem is a community interacting with its physical environment. A biome is a large geographical area with similar climate and vegetation (for example tundra, taiga, desert, tropical rain forest). The biosphere is the zone of the earth where life exists, including the lower atmosphere, hydrosphere and upper lithosphere.
+
+1.5 HABITAT AND NICHE
+Habitat is the physical place where an organism lives, for example a pond for fish. Niche is the functional role of an organism in its habitat, including what it eats, who eats it, its breeding and its interactions. Two species cannot occupy exactly the same niche for long in the same habitat (Gause's competitive exclusion principle).
+
+1.6 ADAPTATION
+Adaptation is any structural, physiological or behavioural feature that helps an organism survive in its environment. Examples: camel stores fat in its hump and has broad padded feet for sand; cactus has spines in place of leaves and a thick waxy stem to reduce water loss; polar bear has thick fur and a fat layer; aquatic plants have air spaces (aerenchyma) in stems for buoyancy. Plants are classified as hydrophytes (water plants), xerophytes (dry-habitat plants), mesophytes (moderate habitat) and halophytes (salty habitat, such as mangroves).
+
+==================================================
+UNIT 2: ECOSYSTEM
+==================================================
+
+2.1 DEFINITION AND TYPES
+The term "ecosystem" was proposed by A. G. Tansley in 1935. An ecosystem is a self-sustaining functional unit of nature in which living organisms interact with each other and with the non-living environment through the flow of energy and cycling of matter.
+Types of ecosystem:
+1. Natural ecosystems - Terrestrial (forest, grassland, desert) and Aquatic (freshwater such as ponds, lakes, rivers; marine such as sea, ocean, estuary, coral reef).
+2. Artificial (man-made) ecosystems - crop fields, aquarium, gardens, reservoirs.
+
+2.2 STRUCTURE OF ECOSYSTEM
+Producers (autotrophs): green plants, algae and some bacteria that make food by photosynthesis or chemosynthesis.
+Consumers (heterotrophs):
+- Primary consumers (herbivores) such as cow, deer, grasshopper.
+- Secondary consumers (primary carnivores) such as frog, snake feeding on herbivores.
+- Tertiary consumers (secondary carnivores) such as hawk, large fish.
+- Quaternary consumers or top carnivores such as lion, tiger, eagle.
+- Omnivores such as humans, crow, bear feed on both plants and animals.
+Decomposers (saprotrophs): bacteria and fungi that break down dead organic matter and return nutrients to the soil. Detritivores such as earthworms and termites feed on detritus.
+
+2.3 FOOD CHAIN
+A food chain is the sequence of organisms in which each one serves as food for the next. 
+Types: 
+(a) Grazing food chain: Plants -> Herbivore -> Carnivore. Example: Grass -> Grasshopper -> Frog -> Snake -> Eagle. It begins with green plants and is the main energy pathway in most ecosystems.
+(b) Detritus food chain: Dead organic matter -> Detritivore -> Carnivore. Example: Dead leaves -> Earthworm -> Frog -> Snake. It is the main pathway in forests and in the sea floor.
+(c) Parasitic food chain: Large host -> Smaller parasite -> Hyperparasite.
+
+2.4 FOOD WEB
+In nature, one organism usually feeds on and is eaten by several others. Many interconnected food chains form a food web. A food web makes the ecosystem more stable because if one species decreases, the consumers can shift to other food sources.
+
+2.5 TROPHIC LEVELS
+Each step in the food chain is a trophic level. T1 = producers, T2 = primary consumers, T3 = secondary consumers, T4 = tertiary consumers. Usually there are only four to five trophic levels because of energy loss at each step.
+
+2.6 ENERGY FLOW - THE TEN PERCENT LAW
+Proposed by Raymond Lindeman (1942). Only about 10 percent of the energy of one trophic level is passed to the next trophic level; the remaining 90 percent is lost as heat during respiration and other metabolic activities. For example, if producers fix 10,000 joules, herbivores obtain about 1,000 joules, primary carnivores about 100 joules and top carnivores about 10 joules. Energy flow in an ecosystem is unidirectional (one-way), whereas nutrients move in cycles.
+
+2.7 ECOLOGICAL PYRAMIDS
+Charles Elton introduced ecological pyramids in 1927. They show the relationship between trophic levels graphically.
+- Pyramid of number: Upright in grassland and pond ecosystems; inverted in a tree ecosystem (one tree supports many insects) and in a parasitic food chain.
+- Pyramid of biomass: Upright in land (forest, grassland) ecosystems; inverted in a pond/sea ecosystem because small phytoplankton have lower biomass than the zooplankton and fish that feed on them.
+- Pyramid of energy: Always upright, never inverted, because energy is lost at every level.
+
+2.8 PRODUCTIVITY
+Primary productivity is the rate at which producers store solar energy as organic matter. Gross Primary Productivity (GPP) is the total amount of organic matter produced; Net Primary Productivity (NPP) = GPP minus respiration losses. Secondary productivity is the rate of formation of new organic matter by consumers. Tropical rain forests and coral reefs have very high productivity; deserts and the deep ocean have very low productivity. 
+
+==================================================
+UNIT 3: BIOGEOCHEMICAL CYCLES
+==================================================
+
+3.1 MEANING
+Nutrients such as carbon, nitrogen, oxygen, phosphorus, sulphur and water move between the living world and the non-living world in cycles known as biogeochemical cycles. They are of two kinds: gaseous cycles (carbon, nitrogen, oxygen) whose reservoir is the atmosphere, and sedimentary cycles (phosphorus, sulphur) whose reservoir is the earth's crust.
+
+3.2 WATER CYCLE (HYDROLOGICAL CYCLE)
+Water evaporates from oceans, lakes and rivers; plants release water vapour by transpiration; the vapour rises, cools and condenses to form clouds; it returns to the earth as rain, snow or hail (precipitation); part flows as runoff into rivers and the sea, and part soaks into the ground as groundwater (infiltration). About 97 percent of the earth's water is in the oceans, and only about 3 percent is fresh water, most of which is locked in glaciers and ice caps.
+
+3.3 CARBON CYCLE
+The atmosphere contains about 0.04 percent carbon dioxide. Producers absorb CO2 for photosynthesis and convert it into carbohydrates. Carbon moves through food chains to consumers. It returns to the atmosphere by respiration, decomposition, and combustion of fossil fuels and wood. The oceans act as a major carbon sink. Deforestation and burning of fossil fuels have increased the atmospheric CO2 and caused global warming.
+
+3.4 NITROGEN CYCLE
+Nitrogen forms about 78 percent of air, but most organisms cannot use it directly. The steps are:
+1. Nitrogen fixation - conversion of atmospheric N2 into ammonia or nitrates by (a) lightning (physical), (b) industrial processes such as the Haber process, and (c) biological fixation by Rhizobium (in root nodules of legumes), Azotobacter, Clostridium (free-living soil bacteria) and cyanobacteria such as Anabaena and Nostoc.
+2. Ammonification - decomposers convert dead organic matter into ammonia.
+3. Nitrification - ammonia is converted to nitrite by Nitrosomonas, and nitrite to nitrate by Nitrobacter. Plants absorb nitrates.
+4. Denitrification - bacteria such as Pseudomonas and Thiobacillus convert nitrates back into nitrogen gas, which returns to the atmosphere.
+
+3.5 PHOSPHORUS CYCLE
+Phosphorus is found in rocks as phosphate. Weathering releases phosphate into soil and water, which plants absorb. It passes through food chains and returns through decomposition. There is no gaseous phase, so it is a sedimentary cycle. Excess phosphate in water bodies leads to eutrophication.
+
+==================================================
+UNIT 4: BIODIVERSITY
+==================================================
+
+4.1 MEANING AND LEVELS
+Biodiversity means the variety of life on earth. The term was popularised by Walter G. Rosen (1985) and Edward O. Wilson. It has three levels:
+(a) Genetic diversity - variation in genes within a species, e.g. different varieties of rice or mango.
+(b) Species diversity - variety of species in a region.
+(c) Ecosystem diversity - variety of habitats and ecosystems.
+India is one of the 17 mega-diverse countries of the world. The Western Ghats and the Himalayas are among the world's 36 biodiversity hotspots. The Indian hotspots are the Himalaya, the Indo-Burma region, the Western Ghats-Sri Lanka, and the Sundaland (Nicobar Islands).
+
+4.2 BIODIVERSITY HOTSPOTS
+The concept of hotspots was given by Norman Myers (1988). A region qualifies as a hotspot if it has at least 1,500 species of endemic vascular plants and has lost at least 70 percent of its original habitat.
+
+4.3 THREATS TO BIODIVERSITY
+Habitat loss and fragmentation, over-exploitation of resources, poaching, introduction of exotic invasive species, pollution, climate change, and co-extinction. The acronym HIPPO (Habitat destruction, Invasive species, Pollution, Population growth, Over-harvesting) is used to remember them.
+
+4.4 CONSERVATION
+In-situ conservation (inside natural habitat): national parks, wildlife sanctuaries, biosphere reserves, sacred groves.
+Ex-situ conservation (outside natural habitat): zoological parks, botanical gardens, gene banks, seed banks, cryopreservation, tissue culture.
+
+4.5 PROTECTED AREAS IN TAMIL NADU
+Biosphere reserves: Nilgiri Biosphere Reserve (first in India, 1986), Gulf of Mannar Biosphere Reserve, Agasthyamalai Biosphere Reserve. 
+National parks: Guindy, Gulf of Mannar Marine, Indira Gandhi (Anamalai), Mudumalai, Mukurthi. 
+Tiger reserves: Anamalai, Kalakad-Mundanthurai, Mudumalai, Sathyamangalam. 
+Important sanctuaries: Vedanthangal (oldest bird sanctuary in India), Point Calimere, Mudumalai, Vettangudi, Karaivetti.
+Important facts: The Nilgiri tahr is the state animal of Tamil Nadu; the Emerald dove is the state bird; Gloriosa superba (Glory Lily, Kandhal) is the state flower; the Palmyra palm is the state tree; the Jackfruit is the state fruit.
+
+4.6 IUCN AND RED DATA BOOK
+The International Union for Conservation of Nature (IUCN) prepares the Red Data Book listing endangered species. Categories include Extinct, Extinct in the Wild, Critically Endangered, Endangered, Vulnerable, Near Threatened and Least Concern. Red pages show threatened species and green pages show species that have recovered.
+
+TNPSC GROUP 2 - GENERAL SCIENCE
+ENVIRONMENT AND ECOLOGY - STUDY MATERIAL (PART 2)
+Pollution, Ozone Depletion, Global Warming and Climate Change
+(Original exam-oriented notes aligned to the Samacheer Kalvi Std 6-12 syllabus)
+
+==================================================
+UNIT 5: ENVIRONMENTAL POLLUTION - GENERAL
+==================================================
+
+5.1 MEANING
+Pollution is the undesirable change in the physical, chemical or biological characteristics of air, water or soil that harms living organisms and natural resources. Any substance that causes pollution is called a pollutant.
+
+5.2 TYPES OF POLLUTANTS
+(a) Biodegradable pollutants: broken down by microorganisms, e.g. sewage, kitchen waste, paper, cotton.
+(b) Non-biodegradable pollutants: not broken down or broken down very slowly, e.g. plastics, DDT, heavy metals, glass, aluminium cans.
+(c) Primary pollutants: released directly from a source, e.g. carbon monoxide, sulphur dioxide, soot, smoke.
+(d) Secondary pollutants: formed by reactions among primary pollutants, e.g. ozone at ground level, peroxyacetyl nitrate (PAN), smog, sulphuric acid mist.
+
+==================================================
+UNIT 6: AIR POLLUTION
+==================================================
+
+6.1 SOURCES
+Natural sources: volcanic eruptions, forest fires, dust storms, pollen. 
+Human-made sources: burning of fossil fuels in vehicles and power plants, industries, burning of crop residue and garbage, mining, and use of aerosols.
+
+6.2 MAJOR AIR POLLUTANTS AND THEIR EFFECTS
+- Carbon monoxide (CO): produced by incomplete combustion of fuel. It combines with haemoglobin to form carboxyhaemoglobin, reducing the oxygen-carrying capacity of blood and causing headache, dizziness and even death.
+- Carbon dioxide (CO2): main greenhouse gas that causes global warming.
+- Sulphur dioxide (SO2): released from burning of coal and from thermal power plants; causes respiratory diseases and acid rain.
+- Oxides of nitrogen (NOx): released from vehicle exhaust; cause acid rain and photochemical smog.
+- Particulate matter (PM10 and PM2.5): tiny solid or liquid particles; PM2.5 are fine particles that reach deep into the lungs and bloodstream and cause asthma, bronchitis and heart disease.
+- Lead: from leaded petrol; harms the nervous system, especially in children.
+- Hydrocarbons and volatile organic compounds: from vehicles and solvents; cause smog.
+- Chlorofluorocarbons (CFCs): from refrigerators, air-conditioners and aerosol sprays; destroy ozone.
+- Ammonia, hydrogen sulphide and fluorides from industries.
+
+6.3 SMOG
+The word "smog" is a combination of smoke and fog.
+(a) Classical (London) smog: formed in cool, humid conditions from smoke and sulphur dioxide; also called reducing smog. The Great London Smog of 1952 caused thousands of deaths.
+(b) Photochemical (Los Angeles) smog: formed in warm, sunny conditions when nitrogen oxides and hydrocarbons react in sunlight to produce ozone and PAN; also called oxidising smog. It irritates the eyes and lungs.
+
+6.4 BHOPAL GAS TRAGEDY
+On the night of 2-3 December 1984, methyl isocyanate (MIC) gas leaked from the Union Carbide pesticide plant in Bhopal, Madhya Pradesh. It is considered the world's worst industrial disaster. After this event the Environment (Protection) Act, 1986 was passed.
+
+6.5 CONTROL OF AIR POLLUTION
+Use of catalytic converters in vehicles (convert CO, NOx and hydrocarbons into CO2, N2 and water), electrostatic precipitators and scrubbers in industries, use of unleaded and cleaner fuels (CNG, LPG, Bharat Stage norms), more green belts and tree planting, use of public transport, and renewable energy.
+
+6.6 LEGAL FRAMEWORK
+The Air (Prevention and Control of Pollution) Act was passed in 1981. The Central Pollution Control Board (CPCB) was set up in 1974. The Tamil Nadu Pollution Control Board (TNPCB) works at the state level. The National Air Quality Index (AQI) was launched in 2014 and classifies air quality into six categories: Good, Satisfactory, Moderately Polluted, Poor, Very Poor and Severe.
+
+==================================================
+UNIT 7: WATER POLLUTION
+==================================================
+
+7.1 SOURCES
+Point sources: factory effluents, sewage outlets. Non-point sources: agricultural runoff containing fertilisers and pesticides, urban runoff, mining and oil spills.
+
+7.2 MAJOR CAUSES AND EFFECTS
+- Domestic sewage and organic waste: increases the number of bacteria, which use up dissolved oxygen.
+- Industrial effluents: contain heavy metals such as mercury, lead, cadmium and arsenic.
+- Agricultural runoff: fertilisers and pesticides.
+- Thermal pollution: hot water from power plants reduces dissolved oxygen and harms aquatic life.
+- Oil spills: form a film on water that blocks oxygen and sunlight and kills sea birds and marine life.
+- Plastic and microplastic pollution in rivers and oceans.
+
+7.3 IMPORTANT TERMS
+- Dissolved Oxygen (DO): the amount of oxygen dissolved in water. Healthy water has high DO.
+- Biochemical Oxygen Demand (BOD): the amount of oxygen needed by microorganisms to break down organic matter in water. High BOD means high pollution. 
+- Chemical Oxygen Demand (COD): the oxygen needed to chemically oxidise the pollutants.
+- Eutrophication: nutrient enrichment of a water body, especially by nitrates and phosphates, leading to heavy growth of algae (algal bloom). When the algae die, their decomposition uses up oxygen and fish die. 
+- Biomagnification: the increase in concentration of non-degradable toxic substances like DDT and mercury at each successive trophic level. Top carnivores such as eagles and humans accumulate the highest amounts.
+
+7.4 DISEASES AND DISASTERS LINKED TO WATER POLLUTION
+Minamata disease: caused by mercury poisoning from eating contaminated fish in Minamata, Japan (1956). 
+Itai-itai disease: caused by cadmium poisoning in Japan. 
+Water-borne diseases: cholera, typhoid, dysentery, hepatitis A, and diarrhoea.
+Fluorosis: caused by excess fluoride in drinking water, damaging teeth and bones.
+Blue baby syndrome (methaemoglobinaemia): caused by excess nitrate in drinking water.
+Arsenic poisoning (blackfoot disease): caused by arsenic in groundwater.
+
+7.5 CONTROL
+Sewage treatment (primary, secondary and tertiary treatment), effluent treatment plants in industries, rainwater harvesting, use of organic farming, bio-remediation, and public awareness. The Water (Prevention and Control of Pollution) Act was passed in 1974. The Ganga Action Plan was launched in 1985 and the National Mission for Clean Ganga (Namami Gange) in 2014.
+
+7.6 WATER QUALITY FACTS
+The pH of safe drinking water ranges between 6.5 and 8.5. Chlorination, boiling, ultraviolet treatment and reverse osmosis are common methods of purification. 
+
+==================================================
+UNIT 8: SOIL POLLUTION AND SOLID WASTE
+==================================================
+
+8.1 SOIL POLLUTION
+Soil pollution is the addition of harmful substances to the soil that reduce its quality and fertility. Causes include excessive use of chemical fertilisers and pesticides, dumping of industrial and household waste, plastics, mining, acid rain and sewage sludge. Effects include loss of soil fertility, harm to soil organisms such as earthworms, contamination of food crops and groundwater. Control measures include organic farming, integrated pest management, crop rotation, afforestation, and proper waste disposal.
+
+8.2 SOLID WASTE MANAGEMENT
+Types of waste: municipal solid waste, industrial waste, biomedical waste, agricultural waste, electronic waste (e-waste), hazardous waste and radioactive waste.
+The 3R principle: Reduce, Reuse, Recycle. Some also add Refuse and Recover.
+Methods of disposal: sanitary landfill, incineration, composting, vermicomposting, biogas generation and recycling.
+E-waste includes discarded computers, mobiles, batteries and television sets and contains toxic metals like lead, mercury and cadmium.
+Plastic waste: plastics take hundreds of years to decompose. Single-use plastics have been banned in Tamil Nadu from 1 January 2019.
+
+==================================================
+UNIT 9: NOISE AND OTHER POLLUTION
+==================================================
+
+9.1 NOISE POLLUTION
+Noise is unwanted or disturbing sound. It is measured in decibels (dB). A whisper is about 30 dB, normal conversation about 60 dB, heavy traffic about 80-90 dB, and sound above about 120 dB can cause pain. Sources: vehicles, aircraft, industries, loudspeakers, firecrackers and construction. Effects: hearing loss, stress, sleeplessness, high blood pressure and reduced concentration. Control: silencers in vehicles, sound barriers, green belts, restricting loudspeakers, and honking-free zones. The Noise Pollution (Regulation and Control) Rules were made in 2000 under the Environment Protection Act.
+
+9.2 THERMAL POLLUTION
+Discharge of hot water from power plants and industries into rivers raises the water temperature, decreases dissolved oxygen and disturbs aquatic life.
+
+9.3 RADIOACTIVE POLLUTION
+Caused by nuclear accidents, nuclear weapon tests, nuclear power plant wastes and mining of radioactive minerals. Major accidents: Chernobyl (Ukraine, 1986), Fukushima (Japan, 2011), and Three Mile Island (USA, 1979). Radiation can cause cancer, genetic mutations and birth defects.
+
+9.4 LIGHT POLLUTION
+Excessive or misdirected artificial light that affects astronomy, human sleep and the behaviour of nocturnal animals and migratory birds.
+
+==================================================
+UNIT 10: OZONE LAYER DEPLETION
+==================================================
+
+10.1 OZONE LAYER
+Ozone (O3) is a form of oxygen with three atoms. About 90 percent of ozone is found in the stratosphere, about 15 to 35 km above the earth, and this layer absorbs most of the harmful ultraviolet-B (UV-B) radiation from the sun. Ozone in the troposphere (ground level) is a pollutant. Ozone thickness is measured in Dobson Units (DU), named after G. M. B. Dobson. Ozone is formed when UV light splits O2 into oxygen atoms, which combine with other O2 molecules.
+
+10.2 CAUSES OF DEPLETION
+Chlorofluorocarbons (CFCs), halons, carbon tetrachloride, methyl bromide and nitrous oxide release chlorine and bromine atoms in the stratosphere under UV radiation. One chlorine atom can destroy thousands of ozone molecules in a chain reaction.
+Cl + O3 -> ClO + O2 
+ClO + O -> Cl + O2
+
+10.3 OZONE HOLE
+Ozone thinning is most severe over Antarctica in the southern spring (September-October). The ozone hole over Antarctica was reported by Joseph Farman, Brian Gardiner and Jonathan Shanklin of the British Antarctic Survey in 1985.
+
+10.4 EFFECTS
+Increase in skin cancer, cataract and weakening of the immune system in humans; reduced crop yield and damage to phytoplankton in oceans; damage to aquatic life.
+
+10.5 INTERNATIONAL AGREEMENTS
+- Vienna Convention (1985): framework for protecting the ozone layer.
+- Montreal Protocol (1987): agreement to phase out the production and use of ozone-depleting substances. It is considered one of the most successful environmental treaties. It came into force in 1989.
+- Kigali Amendment (2016): phase down of hydrofluorocarbons (HFCs), which are strong greenhouse gases.
+- World Ozone Day is observed on 16 September.
+
+==================================================
+UNIT 11: GREENHOUSE EFFECT AND GLOBAL WARMING
+==================================================
+
+11.1 GREENHOUSE EFFECT
+The greenhouse effect is a natural process in which certain gases in the atmosphere trap part of the heat radiated by the earth and keep the earth warm enough for life. Without it the average temperature of the earth would be about -18 degrees Celsius instead of about 15 degrees Celsius. 
+
+11.2 GREENHOUSE GASES
+Water vapour, carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), chlorofluorocarbons, ozone and hydrofluorocarbons. Methane is produced by paddy fields, cattle, wetlands and landfills and traps much more heat per molecule than CO2. Nitrous oxide comes from fertilisers and burning of biomass.
+
+11.3 GLOBAL WARMING
+Global warming is the rise in the average temperature of the earth caused by the increase of greenhouse gases due to human activity, mainly burning of fossil fuels, deforestation and industrialisation.
+
+11.4 EFFECTS OF GLOBAL WARMING
+Melting of glaciers and polar ice caps, rise in sea level that threatens coastal areas and island nations, more frequent floods, droughts, heat waves and cyclones, coral bleaching, shifts in agriculture, spread of diseases, and loss of biodiversity. Ocean acidification occurs when oceans absorb extra CO2.
+
+11.5 CONTROL MEASURES
+Reduce use of fossil fuels, use renewable energy such as solar and wind, improve energy efficiency, afforestation, carbon capture, and encourage electric vehicles.
+
+==================================================
+UNIT 12: CLIMATE CHANGE AND INTERNATIONAL AGREEMENTS
+==================================================
+
+12.1 ACID RAIN
+Rain, snow or fog with a pH below 5.6 is called acid rain. It is caused by sulphur dioxide and nitrogen oxides which form sulphuric acid and nitric acid in the atmosphere. Effects: damage to buildings and monuments (the Taj Mahal's marble suffers "marble cancer"), acidification of lakes that kills fish, soil nutrient loss and forest damage.
+
+12.2 IMPORTANT CLIMATE AGREEMENTS AND SUMMITS
+- Stockholm Conference (1972): first major UN conference on the human environment. World Environment Day (5 June) began from it.
+- Earth Summit, Rio de Janeiro (1992): led to the UNFCCC, the Convention on Biological Diversity and Agenda 21.
+- Kyoto Protocol (1997, in force 2005): set binding emission reduction targets for developed countries.
+- Paris Agreement (2015): aims to limit global temperature rise to well below 2 degrees Celsius and to pursue efforts for 1.5 degrees Celsius above pre-industrial levels. Each country submits its Nationally Determined Contributions (NDCs).
+- Intergovernmental Panel on Climate Change (IPCC), set up in 1988, assesses climate science.
+- Carbon footprint is the total amount of greenhouse gases produced by an individual, group or product. Carbon credit allows a country or company to emit one tonne of CO2 for each credit.
+
+12.3 IMPORTANT ENVIRONMENTAL DAYS
+Wetlands Day - 2 February; World Water Day - 22 March; Earth Day - 22 April; World Environment Day - 5 June; World Ozone Day - 16 September; World Wildlife Day - 3 March; World Forest Day - 21 March; Biodiversity Day - 22 May.
+
+==================================================
+END OF PART 2
+==================================================
+
+==================================================
+UNIT 13: NATURAL RESOURCES
+==================================================
+
+13.1 MEANING AND CLASSIFICATION
+Natural resources are the materials and energy sources provided by nature that are useful to humans. They are classified as follows:
+(a) Renewable resources: those that can be replenished naturally within a reasonable time if used wisely, e.g. forests, water, soil, wildlife, solar energy, wind, biomass.
+(b) Non-renewable resources: those that exist in limited quantity and take millions of years to form, e.g. coal, petroleum, natural gas, minerals, metals. 
+(c) Inexhaustible resources: solar energy, wind, tidal energy.
+Another classification divides resources into biotic (forests, animals, fisheries) and abiotic (land, water, minerals).
+
+13.2 LAND RESOURCES
+Land provides food, fibre, fuel, shelter and minerals. Land degradation is caused by soil erosion, deforestation, overgrazing, mining, salinisation and waterlogging. Desertification is the process by which fertile land becomes desert. World Day to Combat Desertification is observed on 17 June. Soil conservation methods: contour ploughing, terrace farming, strip cropping, crop rotation, mulching, shelter belts, check dams, and afforestation.
+
+13.3 SOIL RESOURCES
+Soil is formed by weathering of rocks and the action of living organisms over thousands of years. Soil profile has horizons: O (organic), A (topsoil), B (subsoil), C (weathered rock) and R (bedrock). Soil erosion is the removal of the topsoil by wind or water. Types of soil in India: alluvial, black (regur), red, laterite, desert, mountain and forest soils. In Tamil Nadu, red soil covers the largest area, black soil is found in Coimbatore, Madurai and Tirunelveli regions, and alluvial soil in the Cauvery delta. World Soil Day is observed on 5 December.
+
+13.4 WATER RESOURCES
+About 71 percent of the earth's surface is covered with water, but only about 3 percent is fresh water. Sources: surface water (rivers, lakes, ponds), groundwater, rainwater. 
+Problems: over-extraction of groundwater, pollution, wastage, uneven rainfall and drought.
+Conservation: rainwater harvesting, watershed management, drip and sprinkler irrigation, recycling of waste water, desilting of tanks (eris), and protection of wetlands.
+Tamil Nadu made rainwater harvesting compulsory for all buildings in 2001. The Tamil Nadu tank (eri) irrigation system is a traditional method of storing rainwater. Kallanai (Grand Anicut) on the Cauvery river built by Karikala Chola is one of the oldest functioning dams in the world.
+Dams: Mettur Dam (Cauvery, Salem district), Bhavanisagar, Vaigai, Amaravathi, Papanasam, Mullaperiyar and Parambikulam are important irrigation projects connected with Tamil Nadu.
+
+13.5 MINERAL RESOURCES
+Minerals are classified as metallic (iron, copper, bauxite, gold) and non-metallic (limestone, mica, gypsum). Fuel minerals include coal, petroleum and natural gas. Effects of mining: land degradation, deforestation, water and air pollution, loss of biodiversity. Neyveli in Tamil Nadu is famous for its lignite (brown coal) reserves. Tamil Nadu also has magnesite (Salem), bauxite (Shevaroy hills, Kolli hills), limestone and granite.
+
+13.6 FOOD RESOURCES AND FISHERIES
+World food comes mainly from wheat, rice and maize. Problems: overgrazing, overfishing, and loss of crop diversity. The Green Revolution (led by M. S. Swaminathan in India with Norman Borlaug's work internationally) increased food grain production but also led to excess use of fertilisers and pesticides and water depletion.
+
+13.7 CONSERVATION OF RESOURCES
+Principles: use resources wisely, reduce wastage, reuse and recycle, replace non-renewable by renewable resources, and adopt sustainable practices.
+
+==================================================
+UNIT 14: FORESTS
+==================================================
+
+14.1 IMPORTANCE OF FORESTS
+Forests give oxygen, absorb carbon dioxide, prevent soil erosion, regulate the water cycle, maintain climate, provide timber, fuelwood, medicines, bamboo, honey, lac and gums, and are the home of wildlife. They are called "the lungs of the earth." The Amazon rain forest is the largest tropical rain forest.
+
+14.2 TYPES OF FORESTS IN INDIA
+1. Tropical wet evergreen forests: found in the Western Ghats, North-East India and Andaman and Nicobar Islands, where rainfall is above 200 cm. Trees: ebony, mahogany, rosewood.
+2. Tropical moist deciduous forests: rainfall 100-200 cm. Trees: teak, sal, sandalwood, bamboo.
+3. Tropical dry deciduous forests: rainfall 70-100 cm. Trees: teak, neem, tamarind.
+4. Tropical thorn forests: below 70 cm rainfall, in Rajasthan, Gujarat, and dry parts of Tamil Nadu. Trees: babool (acacia), cactus, khejri.
+5. Montane (mountain) forests: in the Himalayas and the Nilgiris. Sholas are the temperate evergreen forests of the Nilgiri and Anamalai hills.
+6. Littoral and swamp (mangrove) forests: along coasts and deltas. Sundarbans in West Bengal is the largest mangrove forest in the world. Pichavaram near Chidambaram and Muthupet in Tamil Nadu are important mangroves. Mangroves protect coasts against cyclones and tsunamis.
+
+14.3 FOREST COVER FACTS
+The National Forest Policy of 1988 aims to bring one-third (33 percent) of the total geographical area under forest or tree cover, and two-thirds (66 percent) in hilly regions. India's forest cover is a little above one-fifth of its area. The Forest Survey of India (FSI), headquartered at Dehradun, publishes the India State of Forest Report every two years. The Forest Research Institute is also in Dehradun. In Tamil Nadu, the forest cover is a little over one-fifth of the state's area, and the Western Ghats and Eastern Ghats hold most of it. Madhya Pradesh has the largest forest area in India, and Mizoram has the highest percentage of forest cover.
+
+14.4 DEFORESTATION
+Deforestation is the large-scale removal of forests. Causes: agriculture and shifting cultivation (jhum), urbanisation, mining, dams, timber extraction, overgrazing, forest fires and fuelwood collection. Effects: soil erosion, floods, loss of biodiversity, climate change and reduced rainfall. 
+
+14.5 FOREST CONSERVATION MEASURES
+- Afforestation: planting trees on land that was not forest.
+- Reforestation: replanting in areas where forest was cut.
+- Social forestry: growing trees on community and wasteland to meet local needs.
+- Agroforestry: growing trees along with crops.
+- Joint Forest Management (JFM): local communities and the forest department share responsibility and benefits (started in 1990).
+- Van Mahotsav: annual tree plantation festival begun in July 1950 by K. M. Munshi, then Union Agriculture Minister.
+- Forest Conservation Act, 1980: restricts conversion of forest land for non-forest purposes.
+- Forest Rights Act, 2006: recognises the rights of forest-dwelling tribal communities.
+
+==================================================
+UNIT 15: WILDLIFE CONSERVATION
+==================================================
+
+15.1 WILDLIFE PROTECTION ACT, 1972
+This Act provides for the protection of wild animals, birds and plants and for the management of their habitats. It created national parks and sanctuaries and prohibits hunting. It has schedules listing species with different levels of protection; Schedule I gives the highest protection (for example tiger, lion, elephant, leopard). The Act was amended in 2022, which rearranged the schedules and strengthened the provisions on invasive species and CITES. The National Board for Wildlife is the apex advisory body.
+
+15.2 NATIONAL PARK, SANCTUARY, BIOSPHERE RESERVE
+- National park: area strictly reserved for wildlife; no human activity such as grazing or forestry is allowed. Boundaries are fixed by legislation.
+- Wildlife sanctuary: area where hunting is prohibited but some human activities may be permitted.
+- Biosphere reserve: large area that protects ecosystems and allows sustainable use. It has a core zone, a buffer zone and a transition zone. Biosphere reserves are designated under UNESCO's Man and Biosphere (MAB) programme.
+Examples in India: Nilgiri, Gulf of Mannar, Sundarbans, Nanda Devi, Manas, Kanchenjunga.
+
+15.3 PROJECTS FOR SPECIES CONSERVATION
+- Project Tiger (1973): launched to protect the tiger and its habitat; Jim Corbett National Park was the first reserve.
+- Project Elephant (1992): protects elephants and their corridors.
+- Crocodile Breeding Project (1975): started in Odisha.
+- Gir Lion Project: protects the Asiatic lion in Gujarat.
+- Project Snow Leopard, Project Great Indian Bustard and others protect other threatened species.
+Important notes: The tiger is the national animal of India; the peacock is the national bird; the lotus is the national flower; the Indian elephant is the national heritage animal; the Ganges river dolphin is the national aquatic animal.
+
+15.4 ENDANGERED SPECIES OF INDIA AND TAMIL NADU
+Tiger, Asiatic lion, one-horned rhinoceros, snow leopard, Great Indian Bustard, Nilgiri tahr, lion-tailed macaque, Olive Ridley turtle, dugong (sea cow in the Gulf of Mannar), gharial and Ganges river dolphin. Olive Ridley turtles nest on the Chennai and Odisha coasts. The Dugong Conservation Reserve was established in Palk Bay in Tamil Nadu.
+
+15.5 ENDEMIC SPECIES, EXTINCT SPECIES AND KEYSTONE SPECIES
+Endemic species are found only in a particular area, e.g. the lion-tailed macaque in the Western Ghats. Extinct species include the dodo, Steller's sea cow, passenger pigeon, and the Indian cheetah (declared extinct in India in 1952). A keystone species has a large effect on its ecosystem compared to its numbers, e.g. tiger, elephant and sea otter.
+
+15.6 WILDLIFE THREATS AND HUMAN-WILDLIFE CONFLICT
+Poaching (ivory, skin, horns), habitat loss, road and rail accidents, illegal trade, pollution and encroachment of elephant corridors. Control: stricter laws, anti-poaching camps, protection of corridors, awareness, and compensation to affected farmers. Wildlife Week is celebrated from 1 to 7 October.
+
+==================================================
+UNIT 16: ENVIRONMENTAL LAWS AND INSTITUTIONS
+==================================================
+
+16.1 CONSTITUTIONAL PROVISIONS
+Article 48A (Directive Principle) directs the state to protect and improve the environment and safeguard forests and wildlife. Article 51A(g) (Fundamental Duty) makes it the duty of every citizen to protect and improve the natural environment. Forests and protection of wild animals and birds were moved from the State List to the Concurrent List by the 42nd Amendment, 1976.
+
+16.2 IMPORTANT ACTS
+- Wildlife (Protection) Act, 1972
+- Water (Prevention and Control of Pollution) Act, 1974
+- Forest (Conservation) Act, 1980
+- Air (Prevention and Control of Pollution) Act, 1981
+- Environment (Protection) Act, 1986: umbrella legislation passed after the Bhopal gas tragedy.
+- Public Liability Insurance Act, 1991
+- Biological Diversity Act, 2002: the National Biodiversity Authority is headquartered in Chennai.
+- Forest Rights Act, 2006
+- National Green Tribunal Act, 2010: established the National Green Tribunal (NGT) to deal quickly with environmental cases. The principal bench is in New Delhi and there are regional benches, including one in Chennai.
+- Coastal Regulation Zone (CRZ) Notification, 1991: regulates activities along the coast.
+- Environmental Impact Assessment (EIA) Notification, 2006: requires environmental clearance for major projects.
+
+16.3 WASTE-RELATED RULES
+Solid Waste Management Rules, 2016; Plastic Waste Management Rules, 2016; E-Waste Management Rules, 2016; Bio-Medical Waste Management Rules, 2016; Hazardous Waste Rules. The principle "polluter pays" makes the polluter responsible for the cost of pollution.
+
+16.4 INSTITUTIONS
+Ministry of Environment and Forests was formed in 1985 (now Ministry of Environment, Forest and Climate Change). Central Pollution Control Board (1974), State Pollution Control Boards, Botanical Survey of India (Kolkata), Zoological Survey of India (Kolkata), Wildlife Institute of India (Dehradun), Forest Survey of India (Dehradun), Salim Ali Centre for Ornithology and Natural History (Coimbatore) and the Bombay Natural History Society.
+
+==================================================
+UNIT 17: INTERNATIONAL CONVENTIONS AND ORGANISATIONS
+==================================================
+
+- Ramsar Convention (1971, Iran): protection of wetlands. Tamil Nadu has the highest number of Ramsar sites among Indian states; examples include Point Calimere, Pulicat and Vedanthangal. Wetlands Day is 2 February.
+- CITES (1973): regulates international trade in endangered species.
+- Convention on Biological Diversity (1992).
+- Cartagena Protocol (2000): safe handling of living modified organisms.
+- Nagoya Protocol (2010): access and benefit sharing of genetic resources.
+- UNEP: United Nations Environment Programme, formed in 1972 with headquarters at Nairobi, Kenya.
+- WWF: World Wide Fund for Nature, whose symbol is the giant panda.
+- Brundtland Commission (1987) report "Our Common Future" defined sustainable development as meeting present needs without compromising the ability of future generations to meet their needs.
+
+==================================================
+UNIT 18: ENVIRONMENTAL MOVEMENTS IN INDIA
+==================================================
+
+- Bishnoi Movement (1730): led by Amrita Devi at Khejarli village in Rajasthan, to protect khejri trees. This is the earliest recorded tree-protection movement.
+- Chipko Movement (1973): in Uttarakhand (then Uttar Pradesh), the villagers hugged trees to prevent felling. Leaders: Sunderlal Bahuguna, Chandi Prasad Bhatt and Gaura Devi. 
+- Appiko Movement (1983): in the Western Ghats of Karnataka, led by Pandurang Hegde. "Appiko" means "hug" in Kannada.
+- Silent Valley Movement (1978-1980s): in Kerala, to save the evergreen forest and the lion-tailed macaque from a hydroelectric project. The area was declared a national park in 1984.
+- Narmada Bachao Andolan (1985): led by Medha Patkar, opposing dams on the Narmada river.
+- Tehri Dam protest: led by Sunderlal Bahuguna.
+- Navdanya: founded by Vandana Shiva to protect indigenous seeds and organic farming.
+
+==================================================
+UNIT 19: WASTE MANAGEMENT AND SUSTAINABLE PRACTICES
+==================================================
+
+19.1 SEGREGATION AT SOURCE
+Waste should be separated into wet (biodegradable), dry (recyclable) and hazardous waste. Green bins are used for wet waste, blue bins for dry waste, and black or red bins for hazardous waste in many municipalities.
+
+19.2 COMPOSTING AND VERMICOMPOSTING
+Composting is the decomposition of organic waste by microbes into humus-rich manure. Vermicomposting uses earthworms such as Eisenia fetida and Eudrilus eugeniae to convert organic waste into vermicompost, which improves soil fertility.
+
+19.3 BIOGAS
+Biogas is produced by the anaerobic digestion of organic matter such as cow dung and kitchen waste. It consists mainly of methane (about 50-70 percent) and carbon dioxide. The residue (slurry) is a good manure. Methanogens such as Methanobacterium carry out the process.
+
+19.4 BIOREMEDIATION AND PHYTOREMEDIATION
+Bioremediation uses microorganisms to clean up polluted soil and water, e.g. Pseudomonas for oil spills. Phytoremediation uses plants such as sunflower and water hyacinth to absorb toxic substances.
+
+19.5 SWACHH BHARAT MISSION
+Launched on 2 October 2014 to achieve cleanliness and sanitation in India.
+
+==================================================
+END OF PART 3
+==================================================
+
+==================================================
+UNIT 20: ENERGY RESOURCES
+==================================================
+
+20.1 CLASSIFICATION
+Energy resources are divided into conventional (non-renewable) sources such as coal, petroleum, natural gas and nuclear fuel, and non-conventional (renewable) sources such as solar, wind, hydro, tidal, geothermal, biomass and hydrogen.
+
+20.2 FOSSIL FUELS
+Fossil fuels were formed from the remains of plants and animals buried for millions of years under heat and pressure.
+(a) Coal: stages of formation are peat -> lignite -> bituminous -> anthracite. Anthracite has the highest carbon content (about 90 percent or more) and the highest calorific value. Lignite (brown coal) is found at Neyveli in Tamil Nadu. India's major coal fields are in Jharkhand, Odisha, Chhattisgarh and West Bengal.
+(b) Petroleum (crude oil): refined by fractional distillation into petrol, diesel, kerosene, lubricating oil, paraffin wax and bitumen. India's oil fields are in Assam, Gujarat and Mumbai High. Cauvery basin has oil and gas fields in Tamil Nadu.
+(c) Natural gas: mainly methane. Compressed Natural Gas (CNG) is a cleaner fuel for vehicles. LPG is a mixture of propane and butane.
+Problems of fossil fuels: limited stock, release of carbon dioxide and other pollutants, and global warming. 
+
+20.3 NUCLEAR ENERGY
+Energy is obtained by nuclear fission of uranium-235 or plutonium-239 in reactors. India's nuclear programme was planned by Homi J. Bhabha. Important nuclear power stations in Tamil Nadu: Kudankulam Nuclear Power Plant in Tirunelveli district (built with Russian cooperation) and Madras Atomic Power Station at Kalpakkam. The Indira Gandhi Centre for Atomic Research (IGCAR) is at Kalpakkam. Advantages: large energy from small fuel quantity, no CO2 emission. Disadvantages: radioactive waste disposal, risk of accidents and high cost. Thorium reserves in India are among the largest in the world, and the three-stage nuclear programme aims to use them.
+
+20.4 SOLAR ENERGY
+The sun is the main source of energy. Solar energy is used by photovoltaic (solar) cells, which convert sunlight directly into electricity, and by solar thermal devices such as solar cookers, water heaters and dryers. India launched the Jawaharlal Nehru National Solar Mission in 2010. The International Solar Alliance was launched by India and France at the Paris climate conference in 2015, with its headquarters at Gurugram, India. The Kamuthi solar power project in Ramanathapuram district of Tamil Nadu is among the largest single-location solar plants in the world.
+
+20.5 WIND ENERGY
+Wind turns the blades of wind turbines connected to generators. Suitable sites need steady, strong winds. Tamil Nadu has one of the largest wind power capacities in India. The Muppandal wind farm near Kanyakumari is one of the largest wind farms in India, and the Aralvaimozhi pass is a famous wind corridor. 
+
+20.6 HYDROELECTRIC ENERGY
+Falling water from a dam turns turbines to produce electricity. It is clean and renewable but dams cause displacement of people, loss of forests and changes in river flow. Hydro projects of Tamil Nadu include Mettur, Papanasam, Pykara, Kundah and Moyar.
+
+20.7 TIDAL, WAVE AND OCEAN THERMAL ENERGY
+Tidal energy uses the rise and fall of sea level. Suitable sites in India: Gulf of Khambhat, Gulf of Kutch and the Sundarbans. Ocean Thermal Energy Conversion (OTEC) uses the temperature difference between warm surface water and cold deep water.
+
+20.8 GEOTHERMAL ENERGY
+Heat from inside the earth is used to produce steam for generating electricity. In India, geothermal fields are found at Manikaran in Himachal Pradesh and Puga Valley in Ladakh.
+
+20.9 BIOMASS AND BIOFUELS
+Biomass includes firewood, agricultural waste, cow dung and municipal waste. Biogas, ethanol and biodiesel are biofuels. Biodiesel can be obtained from Jatropha and Pongamia (Pungai) seeds. Ethanol is blended with petrol to reduce emissions. Biomass is carbon neutral in principle because the CO2 released was earlier absorbed by plants.
+
+20.10 HYDROGEN ENERGY
+Hydrogen burns to give only water. It is used as a fuel in rockets and in fuel cells. A fuel cell converts chemical energy directly into electrical energy.
+
+20.11 ENERGY CONSERVATION
+Switch off unused appliances, use LED lamps and BEE star-rated appliances, use public transport, improve insulation, and shift to renewable energy. The Bureau of Energy Efficiency (BEE) was set up in 2002. National Energy Conservation Day is 14 December.
+
+==================================================
+UNIT 21: SUSTAINABLE DEVELOPMENT
+==================================================
+
+21.1 MEANING
+Sustainable development means meeting the needs of the present generation without compromising the ability of future generations to meet their own needs (Brundtland Report, 1987). It balances economic growth, social development and environmental protection.
+
+21.2 PRINCIPLES
+Intergenerational equity, conservation of biodiversity, precautionary principle (act to prevent harm even if the science is not fully certain), polluter pays principle, and public participation.
+
+21.3 SUSTAINABLE DEVELOPMENT GOALS (SDGs)
+The United Nations adopted the 17 Sustainable Development Goals in 2015 as part of the 2030 Agenda. The target year is 2030. Some of the goals: No Poverty, Zero Hunger, Good Health and Well-being, Quality Education, Gender Equality, Clean Water and Sanitation, Affordable and Clean Energy, Decent Work and Economic Growth, Climate Action, Life Below Water, Life on Land, and Peace, Justice and Strong Institutions. They replaced the Millennium Development Goals (2000-2015).
+
+21.4 RELATED CONCEPTS
+- Ecological footprint: the area of land and water needed to produce what a person or population consumes and to absorb its waste.
+- Carrying capacity: the maximum population an environment can support.
+- Green GDP: GDP adjusted for environmental damage.
+- Ecotourism: responsible travel to natural areas that conserves the environment.
+- Organic farming: farming without synthetic chemicals.
+- Rainwater harvesting, watershed management and green buildings are practical examples of sustainable development.
+
+==================================================
+UNIT 22: POPULATION ECOLOGY
+==================================================
+
+22.1 POPULATION ATTRIBUTES
+Population density, natality (birth rate), mortality (death rate), immigration and emigration, age distribution and sex ratio. Population size changes by: Final population = Initial population + (births + immigration) - (deaths + emigration).
+
+22.2 GROWTH CURVES
+- Exponential growth (J-shaped curve): growth with unlimited resources.
+- Logistic growth (S-shaped curve): growth slows as the population approaches the carrying capacity (K). 
+Population explosion occurs when growth is much higher than the environment can support.
+
+==================================================
+UNIT 23: INTERACTIONS AMONG ORGANISMS
+==================================================
+
+23.1 POSITIVE INTERACTIONS
+- Mutualism (+/+): both gain. Examples: lichen (alga and fungus), mycorrhiza (fungus and plant roots), Rhizobium in root nodules of legumes, pollination of flowers by insects.
+- Commensalism (+/0): one benefits and the other is not affected. Examples: orchid growing on a mango tree, remora fish attached to shark, egret and cattle.
+- Protocooperation: both benefit but can live separately, e.g. hermit crab and sea anemone.
+
+23.2 NEGATIVE INTERACTIONS
+- Predation (+/-): the predator kills and eats the prey, e.g. lion and deer. Predation controls prey populations and maintains balance.
+- Parasitism (+/-): the parasite lives on or in a host and harms it. Examples: tapeworm and roundworm in humans, lice, Cuscuta (dodder) and mistletoe on plants, cuckoo as a brood parasite of the crow.
+- Competition (-/-): organisms compete for the same resource such as food, space or light. Intraspecific competition occurs within a species and interspecific competition occurs between different species.
+- Amensalism (0/-): one is harmed and the other is unaffected, e.g. Penicillium secreting penicillin that kills bacteria; allelopathy in some plants.
+
+==================================================
+UNIT 24: ECOLOGICAL SUCCESSION
+==================================================
+
+24.1 MEANING
+Ecological succession is the gradual and orderly replacement of one community by another over time until a stable climax community is formed. Each temporary community is called a seral stage and the whole sequence is a sere.
+
+24.2 TYPES
+- Primary succession: begins on a bare area where no life existed before, such as a bare rock, new lava or a newly formed pond. Pioneer species such as lichens start the process, followed by mosses, herbs, shrubs and finally trees. 
+- Secondary succession: begins in an area where a community existed but was destroyed, such as abandoned farmland or a burnt forest; it is faster because soil is already present.
+- Hydrosere: succession in water. Xerosere: succession on dry land, rock (lithosere) or sand (psammosere).
+
+24.3 CLIMAX COMMUNITY
+The final stable stage, which is in balance with the climate of the region and has maximum diversity and biomass.
+
+==================================================
+UNIT 25: BIOMES
+==================================================
+
+- Tundra: very cold, treeless, with permafrost. Plants: mosses and lichens. Animals: reindeer, polar bear, Arctic fox.
+- Taiga (boreal forest): coniferous forests of pine, fir and spruce in northern regions.
+- Temperate deciduous forest: trees shed leaves in winter, e.g. oak and maple.
+- Temperate grassland: prairies (North America), steppes (Eurasia), pampas (South America), veldt (Africa), downs (Australia).
+- Savanna: tropical grassland with scattered trees, in Africa, home of lions, zebras and giraffes.
+- Desert: very low rainfall. Plants: cactus. Animals: camel, lizards. The Thar is India's desert.
+- Tropical rain forest: hot, humid and with the highest biodiversity. Found in the Amazon basin, the Congo basin and South-East Asia.
+- Aquatic biomes: freshwater (lakes, ponds, rivers, wetlands), marine (oceans, coral reefs), and estuaries where rivers meet the sea. Coral reefs are called "rainforests of the sea." In India, coral reefs are found in the Gulf of Mannar, Gulf of Kutch, Lakshadweep, and Andaman and Nicobar Islands.
+
+==================================================
+UNIT 26: TAMIL NADU ENVIRONMENT AT A GLANCE
+==================================================
+
+- Tamil Nadu has two mountain ranges, the Western Ghats and the Eastern Ghats, and the Nilgiris where they meet.
+- Biosphere reserves: Nilgiri (1986), Gulf of Mannar (1989), Agasthyamalai (2001). The Gulf of Mannar has more than 3,600 marine species and is one of the richest marine areas in Asia.
+- Tiger reserves: Anamalai, Mudumalai, Kalakad-Mundanthurai, Sathyamangalam and Srivilliputhur-Megamalai.
+- Mangrove forests: Pichavaram (Cuddalore district) and Muthupet (Thiruvarur and Thanjavur districts).
+- Wetlands and bird areas: Vedanthangal, Point Calimere (Kodiakarai), Pulicat Lake (shared with Andhra Pradesh), Pallikaranai marsh in Chennai, and Koonthankulam. Tamil Nadu has the highest number of Ramsar sites among Indian states.
+- State symbols: animal - Nilgiri tahr; bird - Emerald dove; flower - Glory lily (Gloriosa superba); tree - Palmyra palm; fruit - Jackfruit.
+- Environmental issues: coastal erosion, pollution of rivers such as the Cooum, Adyar and Noyyal, groundwater depletion, floods and cyclones, and plastic waste.
+- Single-use plastics were banned in Tamil Nadu from 1 January 2019. Rainwater harvesting was made compulsory in 2001.
+- Tamil Nadu Pollution Control Board (TNPCB) enforces pollution laws in the state.
+- Chennai is vulnerable to floods and cyclones because of its low-lying coast and encroachment of water bodies.
+- The Olive Ridley turtles nest along the Chennai coast and Gulf of Mannar; the dugong is protected in Palk Bay.
+
+==================================================
+UNIT 27: DISASTER AND ENVIRONMENT (BRIEF)
+==================================================
+
+Natural disasters: earthquakes, floods, droughts, cyclones, tsunamis and landslides. The Disaster Management Act was passed in 2005, creating the National Disaster Management Authority (NDMA). The 2004 Indian Ocean tsunami hit the Tamil Nadu coast, especially Nagapattinam, on 26 December 2004. Mangroves, coastal shelterbelts and coral reefs act as natural barriers against tsunamis and storms. Cyclone naming is done by regional bodies; the Indian Meteorological Department (IMD) gives forecasts. 
+
+==================================================
+UNIT 28: QUICK GLOSSARY FOR REVISION
+==================================================
+
+Abiotic: non-living factor.
+Biotic: living factor.
+Autotroph: organism that makes its own food.
+Heterotroph: organism that depends on others for food.
+Ecotone: transition zone between two ecosystems, e.g. estuary, where edge effect is seen.
+Edge effect: greater diversity of species in an ecotone.
+Endemic: found only in one region.
+Exotic species: introduced from another region (e.g. water hyacinth, Lantana).
+Invasive species: exotic species that spreads and harms native species.
+Keystone species: has a disproportionately large effect on the ecosystem.
+Flagship species: popular species used to attract conservation support, e.g. tiger, panda.
+Indicator species: shows the health of the environment, e.g. lichens indicate air quality.
+Umbrella species: protecting it also protects many other species.
+Bioindicator: living organism that shows pollution level.
+Biomagnification: increase in toxin concentration up the food chain.
+Bioaccumulation: build-up of a substance within an organism over time.
+Eutrophication: nutrient enrichment of water leading to algal bloom.
+Carrying capacity: the maximum population size an environment can sustain.
+Ecological footprint: resource use of a person or population in land area terms.
+Carbon sink: reservoir that absorbs more carbon than it releases, e.g. forests and oceans.
+Carbon neutral: net zero carbon emission.
+Greenhouse effect: heat trapping by gases in the atmosphere.
+Cryopreservation: storage of seeds, sperm or tissue at very low temperature (-196 degrees Celsius in liquid nitrogen).
+Gene bank: facility that stores genetic material. The National Bureau of Plant Genetic Resources is in New Delhi.
+Sacred groves: patches of forest protected by local communities for religious reasons, e.g. kovil kadu in Tamil Nadu.
+Wetland: area saturated with water for part or all of the year, e.g. marsh and mangroves.
+Watershed: land area from which water drains to a common point.
+Ecosystem services: benefits people get from ecosystems such as clean water, pollination and climate regulation.
+
+==================================================
+END OF PART 4 - END OF ENVIRONMENT AND ECOLOGY SERIES
+==================================================

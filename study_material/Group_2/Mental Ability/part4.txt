@@ -1,0 +1,1113 @@
+TNPSC GROUP 2 – APTITUDE
+MENTAL ABILITY – BLOOD RELATION
+
+1. INTRODUCTION
+
+Blood Relation questions test the ability to identify relationships between family members. These questions may describe relationships directly or through statements, and the candidate must determine the correct relationship.
+
+2. BASIC FAMILY RELATIONSHIPS
+
+Father – Male parent
+Mother – Female parent
+Son – Male child
+Daughter – Female child
+Brother – Male sibling
+Sister – Female sibling
+Husband – Male spouse
+Wife – Female spouse
+Grandfather – Father of a parent
+Grandmother – Mother of a parent
+Uncle – Brother of a parent
+Aunt – Sister of a parent
+Nephew – Son of a sibling
+Niece – Daughter of a sibling
+Cousin – Child of an uncle or aunt
+
+3. IMPORTANT RELATIONSHIP RULES
+
+Rule 1: Father's or mother's son may be the person's brother or the person himself.
+
+Rule 2: Father's or mother's daughter may be the person's sister or the person herself.
+
+Rule 3: Father's brother is uncle.
+
+Rule 4: Mother's sister is aunt.
+
+Rule 5: Brother's son is nephew.
+
+Rule 6: Sister's daughter is niece.
+
+Rule 7: Father's father is paternal grandfather.
+
+Rule 8: Mother's mother is maternal grandmother.
+
+Rule 9: Son's wife is daughter-in-law.
+
+Rule 10: Daughter's husband is son-in-law.
+
+4. SOLVED EXAMPLES
+
+Example 1:
+Pointing to a boy, Ravi says, "He is the son of my father." How is the boy related to Ravi?
+
+Answer:
+The boy is Ravi's brother if he is not Ravi himself.
+
+Example 2:
+A is the mother of B. B is the sister of C. How is A related to C?
+
+Solution:
+A is the mother of B.
+B and C are siblings.
+Therefore, A is the mother of C.
+
+Answer: Mother.
+
+Example 3:
+P is the brother of Q. Q is the mother of R. How is P related to R?
+
+Solution:
+Q is R's mother.
+P is Q's brother.
+Therefore, P is R's maternal uncle.
+
+Answer: Maternal uncle.
+
+Example 4:
+A is the father of B. B is the father of C. How is A related to C?
+
+Solution:
+A is B's father.
+B is C's father.
+Therefore, A is C's grandfather.
+
+Answer: Grandfather.
+
+Example 5:
+Pointing to a woman, Kumar says, "She is the daughter of my mother's only son." Who is the woman to Kumar?
+
+Solution:
+Kumar's mother's only son is Kumar himself.
+The daughter of Kumar is his daughter.
+
+Answer: Daughter.
+
+5. FAMILY TREE METHOD
+
+Use these symbols to draw a family tree:
+
+Male = M
+Female = F
+Marriage = —
+Parent-child relationship = vertical line
+Siblings = same generation
+
+Always identify the gender and generation before deciding the relationship.
+
+6. IMPORTANT EXAM SHORTCUTS
+
+7. Read the statement carefully.
+
+8. Identify the person from whose point of view the relationship is asked.
+
+9. Mark the gender of each person.
+
+10. Draw a small family tree for complicated questions.
+
+11. Do not assume that a person is male or female unless the question provides the information.
+
+12. Read the final question carefully: it may ask how A is related to B, not how B is related to A.
+
+13. PRACTICE QUESTIONS
+
+Q1. A is the father of B. B is the sister of C. How is A related to C?
+A) Brother
+B) Father
+C) Uncle
+D) Grandfather
+
+Answer: B) Father
+
+Q2. P is the mother of Q. Q is the father of R. How is P related to R?
+A) Aunt
+B) Mother
+C) Grandmother
+D) Sister
+
+Answer: C) Grandmother
+
+Q3. X is the brother of Y. Y is the mother of Z. How is X related to Z?
+A) Father
+B) Maternal uncle
+C) Brother
+D) Grandfather
+
+Answer: B) Maternal uncle
+
+Q4. A woman says, "The man is the son of my mother's only daughter." If the woman is the only daughter of her mother, how is the man related to her?
+A) Brother
+B) Father
+C) Son
+D) Uncle
+
+Answer: C) Son
+
+Q5. M is the sister of N. N is the son of P. How is M related to P?
+A) Daughter
+B) Mother
+C) Aunt
+D) Grandmother
+
+Answer: A) Daughter
+
+Q6. A is the son of B. B is the daughter of C. How is C related to A?
+A) Grandparent
+B) Brother
+C) Uncle
+D) Father
+
+Answer: A) Grandparent
+
+Q7. Pointing to a girl, Arun says, "She is the daughter of my father's sister." How is the girl related to Arun?
+A) Sister
+B) Cousin
+C) Niece
+D) Aunt
+
+Answer: B) Cousin
+
+Q8. R is the husband of S. T is the daughter of R and S. How is R related to T?
+A) Brother
+B) Father
+C) Uncle
+D) Grandfather
+
+Answer: B) Father
+
+Q9. A is the brother of B. B is the daughter of C. How is A related to C?
+A) Son
+B) Father
+C) Uncle
+D) Grandfather
+
+Answer: A) Son
+
+Q10. P is the father of Q. Q is the mother of R. How is P related to R?
+A) Uncle
+B) Grandfather
+C) Brother
+D) Father
+
+Answer: B) Grandfather
+
+8. CONCLUSION
+
+Blood Relation questions can be solved quickly by identifying gender, generation, and family connections. Drawing a family tree helps avoid confusion in complex questions.
+
+TNPSC GROUP 2 – APTITUDE
+MENTAL ABILITY – CODING AND DECODING
+
+1. INTRODUCTION
+
+Coding and Decoding is a reasoning topic in which letters, numbers, or words are converted into another form according to a particular rule. The candidate must identify the rule and apply it to the given word or number.
+
+2. TYPES OF CODING
+
+3. Letter shifting
+
+4. Reverse alphabet coding
+
+5. Number coding
+
+6. Word substitution
+
+7. Letter-number combination
+
+8. Pattern-based coding
+
+9. LETTER POSITION
+
+Each English letter has a numerical position.
+
+A = 1
+B = 2
+C = 3
+D = 4
+E = 5
+F = 6
+G = 7
+H = 8
+I = 9
+J = 10
+K = 11
+L = 12
+M = 13
+N = 14
+O = 15
+P = 16
+Q = 17
+R = 18
+S = 19
+T = 20
+U = 21
+V = 22
+W = 23
+X = 24
+Y = 25
+Z = 26
+
+4. LETTER SHIFTING
+
+Example 1:
+If CAT is coded as DBU, how is DOG coded?
+
+Rule:
+C → D (+1)
+A → B (+1)
+T → U (+1)
+
+Apply the same rule:
+D → E
+O → P
+G → H
+
+Answer: EPH
+
+Example 2:
+If BOOK is coded as CPPL, how is PEN coded?
+
+Rule: Shift every letter one position forward.
+
+P → Q
+E → F
+N → O
+
+Answer: QFO
+
+5. BACKWARD LETTER SHIFTING
+
+Example:
+If DBU is the code for CAT, each letter has been shifted one position forward.
+
+To decode DBU:
+D → C
+B → A
+U → T
+
+Answer: CAT
+
+6. REVERSE ALPHABET CODING
+
+In reverse alphabet coding:
+
+A ↔ Z
+B ↔ Y
+C ↔ X
+D ↔ W
+E ↔ V
+F ↔ U
+G ↔ T
+H ↔ S
+I ↔ R
+J ↔ Q
+K ↔ P
+L ↔ O
+M ↔ N
+
+Example:
+If CAT is coded using reverse alphabet positions:
+
+C → X
+A → Z
+T → G
+
+Answer: XZG
+
+7. NUMBER CODING
+
+Example:
+If A = 1, B = 2, C = 3, what is the code for BAD?
+
+B = 2
+A = 1
+D = 4
+
+Answer: 2-1-4
+
+Example:
+If the value of a word is the sum of its letter positions, find the value of CAT.
+
+C = 3
+A = 1
+T = 20
+
+Total = 3 + 1 + 20 = 24
+
+Answer: 24
+
+8. SOLVED EXAMPLES
+
+Example 1:
+If SUN is coded as TVO, how is MOON coded?
+
+Rule: Shift each letter one position forward.
+
+M → N
+O → P
+O → P
+N → O
+
+Answer: NPPO
+
+Example 2:
+If FISH is coded as GJTI, how is BIRD coded?
+
+Rule: Shift each letter one position forward.
+
+B → C
+I → J
+R → S
+D → E
+
+Answer: CJSE
+
+Example 3:
+If APPLE is coded as ELPPA, what is the coding rule?
+
+Rule: Reverse the order of the letters.
+
+Answer: The letters are written in reverse order.
+
+9. IMPORTANT SHORTCUTS
+
+10. Write the alphabet positions when needed.
+
+11. Compare the original and coded words letter by letter.
+
+12. Check whether letters move forward or backward.
+
+13. Check whether the word is reversed.
+
+14. Check whether the code uses letter positions or their sum.
+
+15. Apply the identified rule consistently to every letter.
+
+16. Do not assume the same coding rule for every question.
+
+17. PRACTICE QUESTIONS
+
+Q1. If CAT is coded as DBU, how is BAT coded?
+A) CBU
+B) CAU
+C) BZU
+D) DBT
+
+Answer: A) CBU
+
+Q2. If DOG is coded as EPH, how is COW coded?
+A) DPX
+B) CPX
+C) DQX
+D) BPV
+
+Answer: A) DPX
+
+Q3. If A = 1, B = 2, and so on, what is the value of BAD?
+A) 6
+B) 7
+C) 8
+D) 9
+
+Answer: B) 7
+
+Q4. If SUN is coded as TVO, how is SKY coded?
+A) TLZ
+B) TLA
+C) R JX
+D) TLX
+
+Answer: A) TLZ
+
+Q5. If PEN is coded as QFO, how is MAP coded?
+A) NBQ
+B) NBR
+C) LBQ
+D) MBQ
+
+Answer: A) NBQ
+
+Q6. If APPLE is coded as ELPPA, how is MANGO coded?
+A) OGNAM
+B) OGNMA
+C) MOGNA
+D) ANGOM
+
+Answer: A) OGNAM
+
+Q7. Using reverse alphabet coding, how is BAD coded?
+A) YZW
+B) ZYX
+C) XZW
+D) YZA
+
+Answer: A) YZW
+
+Q8. If each letter is shifted one position backward, how is FISH coded?
+A) EHRG
+B) GJTI
+C) EIRG
+D) DHRG
+
+Answer: A) EHRG
+
+Q9. If A = 1, B = 2, and so on, what is the sum of the letters in DOG?
+A) 24
+B) 25
+C) 26
+D) 27
+
+Answer: C) 26
+
+Q10. If the letters in a word are written in reverse order, how is TRAIN coded?
+A) NIART
+B) NIRAT
+C) TNIAR
+D) RAINT
+
+Answer: A) NIART
+
+11. CONCLUSION
+
+Coding and Decoding questions become easier when the candidate identifies the exact pattern. Practise letter shifting, reverse alphabet coding, number coding, and word reversal.
+
+TNPSC GROUP 2 – APTITUDE
+MENTAL ABILITY – VENN DIAGRAM
+
+1. INTRODUCTION
+
+A Venn Diagram is a diagram that uses circles to represent groups or sets. The relationship between the groups is shown by the positions and intersections of the circles.
+
+Venn Diagram questions test the ability to understand similarities, differences, and relationships between categories.
+
+2. BASIC TYPES
+
+Type 1: Completely separate groups
+
+Example:
+Dogs and Cars.
+
+Dogs and cars are different categories, so their circles do not overlap.
+
+Type 2: One group inside another
+
+Example:
+Roses and Flowers.
+
+All roses are flowers, but not all flowers are roses. The Roses circle is inside the Flowers circle.
+
+Type 3: Partially overlapping groups
+
+Example:
+Students who play Cricket and students who play Football.
+
+Some students may play both games, so the circles overlap.
+
+Type 4: Three related groups
+
+Example:
+Doctors, Women, and Human Beings.
+
+The relationships depend on the information given in the question. Not every member of one group necessarily belongs to another group.
+
+3. IMPORTANT SYMBOLS
+
+Union (A ∪ B):
+Elements belonging to A or B or both.
+
+Intersection (A ∩ B):
+Elements common to both A and B.
+
+Subset (A ⊆ B):
+Every element of A belongs to B.
+
+Disjoint sets:
+Two sets that have no common elements.
+
+4. SOLVED EXAMPLES
+
+Example 1:
+Which diagram best represents Roses, Flowers, and Animals?
+
+Solution:
+All roses are flowers.
+Animals are a separate category in this basic classification question.
+
+Answer:
+A small Roses circle inside a larger Flowers circle, with Animals in a separate circle.
+
+Example 2:
+Which diagram represents Students, Boys, and Girls?
+
+Solution:
+Boys and girls are categories of students when the question defines them as such. The exact diagram depends on whether the question assumes the groups are exhaustive and mutually exclusive.
+
+Answer:
+A Students circle containing separate Boys and Girls regions, if every student is classified into exactly one of these two groups.
+
+Example 3:
+Which diagram represents Cats, Dogs, and Animals?
+
+Solution:
+Cats and dogs are both animals, but cats are not dogs and dogs are not cats.
+
+Answer:
+Two separate smaller circles, Cats and Dogs, inside a larger Animals circle.
+
+Example 4:
+In a class, 20 students like Cricket, 15 like Football, and 5 like both. How many like at least one of the two games?
+
+Formula:
+At least one = Cricket + Football − Both
+
+= 20 + 15 − 5
+= 30
+
+Answer: 30 students.
+
+Example 5:
+In a group of 40 students, 22 like Mathematics, 18 like Science, and 8 like both. How many like neither subject?
+
+Students liking at least one:
+22 + 18 − 8 = 32
+
+Students liking neither:
+40 − 32 = 8
+
+Answer: 8 students.
+
+5. IMPORTANT FORMULAS
+
+For two sets A and B:
+
+n(A ∪ B) = n(A) + n(B) − n(A ∩ B)
+
+Number belonging to neither set:
+Total − n(A ∪ B)
+
+Number belonging only to A:
+n(A) − n(A ∩ B)
+
+Number belonging only to B:
+n(B) − n(A ∩ B)
+
+6. EXAM SHORTCUTS
+
+7. Identify whether the categories are separate, overlapping, or contained.
+
+8. Read words such as all, some, none, and only.
+
+9. For numerical questions, subtract the common group once.
+
+10. To find neither, subtract the union from the total.
+
+11. Do not assume that two categories overlap unless the question supports it.
+
+12. Draw circles before choosing the answer.
+
+13. PRACTICE QUESTIONS
+
+Q1. Which relationship is correct for Mangoes, Fruits, and Vehicles?
+A) All are the same group
+B) Mangoes are inside Fruits; Vehicles are separate
+C) Fruits are inside Mangoes
+D) Vehicles are inside Fruits
+
+Answer: B
+
+Q2. In a class of 50 students, 30 like Mathematics, 25 like Science, and 10 like both. How many like at least one subject?
+A) 35
+B) 40
+C) 45
+D) 55
+
+Answer: C) 45
+
+Q3. In a group of 60 people, 35 like Tea, 25 like Coffee, and 10 like both. How many like neither?
+A) 5
+B) 10
+C) 15
+D) 20
+
+Answer: B) 10
+
+Q4. Which relationship best represents Cats, Dogs, and Animals?
+A) Cats and Dogs are both inside Animals and do not overlap
+B) Animals are inside Cats
+C) Dogs are inside Cats
+D) All circles are identical
+
+Answer: A
+
+Q5. In a group, 24 play Cricket, 16 play Football, and 6 play both. How many play only Cricket?
+A) 6
+B) 16
+C) 18
+D) 24
+
+Answer: C) 18
+
+Q6. In a group of 40 students, 22 like English, 15 like Tamil, and 7 like both. How many like only Tamil?
+A) 7
+B) 8
+C) 15
+D) 22
+
+Answer: B) 8
+
+Q7. Which relationship best represents Squares and Rectangles?
+A) All rectangles are squares
+B) All squares are rectangles, but not all rectangles are squares
+C) Squares and rectangles have no relationship
+D) All squares and rectangles are circles
+
+Answer: B
+
+Q8. Out of 70 students, 40 like Mathematics, 30 like Science, and 15 like both. How many like neither?
+A) 10
+B) 15
+C) 20
+D) 25
+
+Answer: B) 15
+
+Q9. If A and B have no common elements, they are called:
+A) Equal sets
+B) Disjoint sets
+C) Universal sets
+D) Subsets
+
+Answer: B
+
+Q10. If all roses are flowers, which statement is correct?
+A) All flowers are roses
+B) No roses are flowers
+C) Every rose is a flower
+D) Every flower is a rose
+
+Answer: C
+
+8. CONCLUSION
+
+Venn Diagrams help solve classification and set-based questions visually. Understanding containment, overlap, and set formulas is essential for solving numerical problems quickly.
+
+TNPSC GROUP 2 – APTITUDE
+MENTAL ABILITY – DIRECTIONS
+
+1. INTRODUCTION
+
+Direction questions test the ability to determine a person's final position or direction after moving through a series of routes.
+
+2. FOUR MAIN DIRECTIONS
+
+North – Up
+South – Down
+East – Right
+West – Left
+
+3. INTERMEDIATE DIRECTIONS
+
+North-East (NE)
+North-West (NW)
+South-East (SE)
+South-West (SW)
+
+4. RIGHT AND LEFT TURNS
+
+When facing North:
+Right = East
+Left = West
+
+When facing South:
+Right = West
+Left = East
+
+When facing East:
+Right = South
+Left = North
+
+When facing West:
+Right = North
+Left = South
+
+5. SOLVED EXAMPLES
+
+Example 1:
+Ravi walks 5 km North and then 3 km East. In which direction is he from the starting point?
+
+Solution:
+He is North and East of the starting point.
+
+Answer: North-East.
+
+Example 2:
+A person walks 6 km East and then 6 km West. How far is the person from the starting point?
+
+Solution:
+The movements cancel each other.
+
+Answer: 0 km.
+
+Example 3:
+A person faces North and turns right. Which direction is the person facing?
+
+Answer: East.
+
+Example 4:
+A person walks 4 km South and then 3 km North. How far and in which direction is the person from the starting point?
+
+Solution:
+Net movement = 4 − 3 = 1 km South.
+
+Answer: 1 km South.
+
+Example 5:
+A person walks 3 km East and 4 km North. What is the shortest distance from the starting point?
+
+Formula:
+Distance = √(3² + 4²)
+= √(9 + 16)
+= √25
+= 5 km
+
+Answer: 5 km.
+
+6. IMPORTANT FORMULAS
+
+If movements are in opposite directions on the same straight line:
+Net distance = Difference between the distances.
+
+If movements are in perpendicular directions:
+Shortest distance = √(Horizontal distance² + Vertical distance²)
+
+If both movements are in the same direction:
+Net distance = Sum of the distances.
+
+7. EXAM SHORTCUTS
+
+8. Draw a small compass.
+
+9. Mark the starting point.
+
+10. Track every turn and movement in order.
+
+11. Do not confuse the direction faced with the direction travelled.
+
+12. Cancel opposite movements when they lie on the same straight line.
+
+13. Use the Pythagorean theorem for perpendicular movements.
+
+14. For left and right turns, first identify the direction the person is facing.
+
+15. PRACTICE QUESTIONS
+
+Q1. A man walks 5 km North and then 5 km South. How far is he from the starting point?
+A) 0 km
+B) 5 km
+C) 10 km
+D) 15 km
+
+Answer: A) 0 km
+
+Q2. A person faces East and turns left. Which direction is the person facing?
+A) South
+B) North
+C) West
+D) East
+
+Answer: B) North
+
+Q3. A person walks 4 km North and 3 km East. What is the shortest distance from the starting point?
+A) 5 km
+B) 6 km
+C) 7 km
+D) 1 km
+
+Answer: A) 5 km
+
+Q4. A person faces South and turns right. Which direction is the person facing?
+A) East
+B) West
+C) North
+D) South
+
+Answer: B) West
+
+Q5. Ravi walks 8 km East and then 3 km West. How far is he from the starting point?
+A) 3 km East
+B) 5 km East
+C) 11 km West
+D) 5 km West
+
+Answer: B) 5 km East
+
+Q6. A person walks 7 km North and then 2 km South. What is the final position?
+A) 9 km North
+B) 5 km North
+C) 5 km South
+D) 2 km South
+
+Answer: B) 5 km North
+
+Q7. A person faces West and turns left. Which direction is the person facing?
+A) North
+B) South
+C) East
+D) West
+
+Answer: B) South
+
+Q8. A person walks 6 km East and 8 km North. Find the shortest distance from the starting point.
+A) 10 km
+B) 12 km
+C) 14 km
+D) 2 km
+
+Answer: A) 10 km
+
+Q9. A person faces North, turns right, and then turns right again. Which direction is the person facing?
+A) North
+B) East
+C) South
+D) West
+
+Answer: C) South
+
+Q10. A person walks 5 km West and then 12 km South. What is the shortest distance from the starting point?
+A) 7 km
+B) 12 km
+C) 13 km
+D) 17 km
+
+Answer: C) 13 km
+
+9. CONCLUSION
+
+Direction questions can be solved by tracking movements on a compass. Practise turns, opposite movements, and shortest-distance calculations.
+
+TNPSC GROUP 2 – APTITUDE
+MENTAL ABILITY – LETTER SERIES
+
+1. INTRODUCTION
+
+A Letter Series is a sequence of letters arranged according to a particular pattern. The candidate must identify the pattern and find the next letter or missing letter.
+
+2. ALPHABET POSITIONS
+
+A = 1
+B = 2
+C = 3
+D = 4
+E = 5
+F = 6
+G = 7
+H = 8
+I = 9
+J = 10
+K = 11
+L = 12
+M = 13
+N = 14
+O = 15
+P = 16
+Q = 17
+R = 18
+S = 19
+T = 20
+U = 21
+V = 22
+W = 23
+X = 24
+Y = 25
+Z = 26
+
+3. TYPES OF LETTER SERIES
+
+4. Forward sequence
+
+5. Backward sequence
+
+6. Alternate letters
+
+7. Increasing gaps
+
+8. Decreasing gaps
+
+9. Mixed letter patterns
+
+10. SOLVED EXAMPLES
+
+Example 1:
+A, B, C, D, ?
+
+Pattern:
+Each letter moves forward by one position.
+
+Answer: E
+
+Example 2:
+A, C, E, G, ?
+
+Pattern:
+Each letter moves forward by two positions.
+
+Answer: I
+
+Example 3:
+Z, X, V, T, ?
+
+Pattern:
+Each letter moves backward by two positions.
+
+Answer: R
+
+Example 4:
+A, D, G, J, ?
+
+Pattern:
+Each letter moves forward by three positions.
+
+Answer: M
+
+Example 5:
+B, E, H, K, ?
+
+Pattern:
+Each letter moves forward by three positions.
+
+Answer: N
+
+Example 6:
+A, C, F, J, O, ?
+
+Pattern:
+The gaps are +2, +3, +4, +5.
+The next gap is +6.
+
+O is position 15.
+15 + 6 = 21.
+
+Answer: U
+
+5. ALTERNATE LETTER SERIES
+
+Example:
+A, Z, B, Y, C, X, ?
+
+Pattern:
+One sequence moves forward from A: A, B, C, D.
+The other moves backward from Z: Z, Y, X.
+
+Answer: D
+
+6. IMPORTANT SHORTCUTS
+
+7. Convert letters into their alphabet positions.
+
+8. Find the difference between consecutive positions.
+
+9. Check whether the differences are constant.
+
+10. Check whether the gaps increase or decrease.
+
+11. For alternating series, examine the odd and even positions separately.
+
+12. Remember that the alphabet contains 26 letters.
+
+13. In circular alphabet patterns, after Z the sequence may return to A if the question's rule requires it.
+
+14. PRACTICE QUESTIONS
+
+Q1. A, B, C, D, ?
+A) E
+B) F
+C) G
+D) H
+
+Answer: A) E
+
+Q2. A, C, E, G, ?
+A) H
+B) I
+C) J
+D) K
+
+Answer: B) I
+
+Q3. Z, X, V, T, ?
+A) R
+B) S
+C) Q
+D) P
+
+Answer: A) R
+
+Q4. B, E, H, K, ?
+A) M
+B) N
+C) O
+D) P
+
+Answer: B) N
+
+Q5. A, D, G, J, ?
+A) K
+B) L
+C) M
+D) N
+
+Answer: C) M
+
+Q6. C, F, I, L, ?
+A) M
+B) N
+C) O
+D) P
+
+Answer: C) O
+
+Q7. A, C, F, J, O, ?
+A) T
+B) U
+C) V
+D) W
+
+Answer: B) U
+
+Q8. M, K, I, G, ?
+A) E
+B) F
+C) D
+D) C
+
+Answer: A) E
+
+Q9. B, D, G, K, P, ?
+A) U
+B) V
+C) W
+D) X
+
+Answer: B) V
+
+Q10. A, Z, B, Y, C, X, ?
+A) W
+B) D
+C) E
+D) V
+
+Answer: B) D
+
+8. CONCLUSION
+
+Letter Series questions become easier when the alphabet positions and differences are identified. Practise simple sequences, alternate sequences, and increasing-gap patterns.
+

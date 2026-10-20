@@ -1,0 +1,781 @@
+---
+
+# 📘 REASONING – FULL STRUCTURE (TNPSC GROUP 1)
+
+👉 TNPSC reasoning syllabusல முக்கிய types:
+✔ Analogy
+✔ Classification
+✔ Coding-Decoding
+✔ Blood Relation
+✔ Direction
+✔ Puzzle
+✔ Venn Diagram
+✔ Statement & Conclusion
+✔ Number / Alpha reasoning
+✔ Visual reasoning ([MNT Free IAS][1])
+
+---
+
+# 🔴 TYPE 1: ANALOGY (HARD LEVEL)
+
+---
+
+## 📌 எப்படி கேப்பாங்க:
+
+👉 A : B :: C : ?
+
+## 📌 Keywords:
+
+👉 “same relation”
+👉 “similar pattern”
+
+## 📌 Solve Method:
+
+👉 First pair relation கண்டுபிடி
+👉 அதே relation apply
+
+---
+
+## 🔥 HARD SOLVED EXAMPLES
+
+### 🧠 Q1
+
+Doctor : Hospital :: Teacher : ?
+
+👉 Relation = Work place
+✔ Answer = School
+
+---
+
+### 🧠 Q2
+
+Book : Reading :: Knife : ?
+
+👉 Use → Cutting
+
+✔ Answer = Cutting
+
+---
+
+### 🧠 Q3 (Hard)
+
+Pencil : Write :: Eraser : ?
+
+👉 Opposite function
+✔ Remove
+
+---
+
+# 🟡 TYPE 2: CLASSIFICATION
+
+---
+
+## 📌 எப்படி கேப்பாங்க:
+
+👉 Odd one out
+
+## 📌 Keywords:
+
+👉 “which is different”
+👉 “find odd”
+
+## 📌 Solve:
+
+👉 Common property check
+
+---
+
+### 🧠 Example
+
+Dog, Cat, Tiger, Car
+
+👉 Car different
+
+---
+
+# 🔵 TYPE 3: CODING – DECODING
+
+---
+
+## 📌 Keywords:
+
+👉 “coded as”
+👉 “written as”
+
+## 📌 Types:
+
+✔ Letter shift
+✔ Reverse
+✔ Pattern
+
+---
+
+### 🧠 HARD Example
+
+CAT → DBU
+
+👉 +1 shift
+
+DOG → EPH
+
+---
+
+# 🟣 TYPE 4: BLOOD RELATION (VERY IMPORTANT 🔥)
+
+---
+
+## 📌 Keywords:
+
+👉 father, mother, brother
+👉 “son of”, “daughter of”
+
+## 📌 Solve:
+
+👉 Draw family tree
+
+---
+
+### 🧠 HARD Example
+
+A is father of B, B is sister of C
+
+👉 A = father of C
+
+---
+
+# 🟠 TYPE 5: DIRECTION
+
+---
+
+## 📌 Keywords:
+
+👉 north, south, east, west
+👉 left, right
+
+## 📌 Solve:
+
+👉 Always draw direction
+
+---
+
+### 🧠 HARD Example
+
+A goes north → right → south
+
+👉 Final = east
+
+---
+
+# 🔴 TYPE 6: PUZZLES (VERY HARD 🔥)
+
+---
+
+## 📌 Keywords:
+
+👉 “arranged”, “seated”
+👉 “left of”, “right of”
+
+## 📌 Solve:
+
+👉 Table method
+
+---
+
+### 🧠 Example
+
+A sits left of B, B right of C
+
+👉 Order = C B A
+
+---
+
+# 🟡 TYPE 7: VENN DIAGRAM
+
+---
+
+## 📌 Keywords:
+
+👉 all, some, none
+
+## 📌 Solve:
+
+👉 Draw circles
+
+---
+
+### 🧠 Example
+
+All cats are animals
+
+👉 Cat inside animal
+
+---
+
+# 🔵 TYPE 8: STATEMENT & CONCLUSION
+
+---
+
+## 📌 Keywords:
+
+👉 “conclude”, “infer”
+
+## 📌 Solve:
+
+👉 Only given info use
+
+---
+
+### 🧠 Example
+
+All dogs bark
+
+👉 Conclusion: some dogs bark ✔
+
+---
+
+# 🟣 TYPE 9: ALPHANUMERIC
+
+---
+
+## 📌 Keywords:
+
+👉 letters + numbers
+
+---
+
+### 🧠 Example
+
+A=1, B=2
+
+👉 CAT = 3+1+20 = 24
+
+---
+
+# 🔴 TYPE 10: NUMBER SERIES
+
+---
+
+## 📌 Keywords:
+
+👉 next number
+
+---
+
+### 🧠 Example
+
+2, 4, 8, 16 → ?
+
+👉 ×2
+
+✔ 32
+
+---
+
+# 🔥 HARD LEVEL MIXED SOLVED (IMPORTANT)
+
+---
+
+### 🧠 Example 1 (Puzzle)
+
+5 people A,B,C,D,E sitting
+
+👉 Use table → solve
+
+---
+
+### 🧠 Example 2 (Blood + Puzzle)
+
+A is father of B, B sits left of C
+
+👉 combine logic
+
+---
+
+### 🧠 Example 3 (Coding tricky)
+
+DOG → 4157
+
+👉 position + reverse
+
+---
+
+### 🧠 Example 4 (Statement)
+
+All A are B
+Some B are C
+
+👉 Only valid conclusion choose
+
+---
+
+### 🧠 Example 5 (Direction hard)
+
+2 turns + distance
+
+👉 final displacement
+
+---
+
+# 🚀 TRICKS (VERY IMPORTANT)
+
+✔ Diagram draw
+✔ Assume positions
+✔ Eliminate options
+✔ Keywords identify
+
+---
+
+# 📊 HARD PRACTICE (DATASET READY)
+
+```txt id="rz7x9q"
+Q1: A is brother of B, B is sister of C. How is A related to C?
+A) Brother
+B) Sister
+C) Father
+D) Cannot say
+
+Q2: If CAT = DBU, then DOG = ?
+A) EPH
+B) EOG
+C) DPH
+D) EPI
+
+Q3: Find odd: Apple, Mango, Banana, Car
+A) Apple
+B) Mango
+C) Banana
+D) Car
+
+Q4: A walks north, turns right, then right again. Direction?
+A) North
+B) South
+C) East
+D) West
+
+Q5: All A are B, some B are C. Conclusion?
+A) All C are A
+B) Some C are A
+C) Some A are C
+D) None
+
+---
+
+# 🧠 1. BLOOD RELATION – DEEP HARD LEVEL
+
+---
+
+## 📌 CORE IDEA
+
+👉 Family tree logic
+👉 Relations decode பண்ணணும்
+
+---
+
+## 📌 KEYWORDS (IMPORTANT 🔥)
+
+✔ Father of
+✔ Mother of
+✔ Brother of
+✔ Sister of
+✔ Son of / Daughter of
+✔ Married to
+✔ Only son / eldest / youngest
+
+---
+
+## 📌 TRICKS
+
+✔ Diagram draw always
+✔ Gender assume carefully
+✔ “of” = relationship chain
+✔ Reverse reading practice
+
+---
+
+# ✍️ HARD SOLVED EXAMPLES
+
+---
+
+## 🧠 Example 1 (Chain hard)
+
+A is father of B
+B is sister of C
+
+👉 A = father of C
+
+✔ Answer: A is father of C
+
+---
+
+## 🧠 Example 2 (Marriage trap)
+
+A is wife of B
+B is brother of C
+
+👉 A = sister-in-law of C
+
+---
+
+## 🧠 Example 3 (Multiple relation)
+
+A is father of B
+B is mother of C
+
+👉 A = grandfather of C
+
+---
+
+## 🧠 Example 4 (Tricky gender)
+
+A is son of B
+B is daughter of C
+
+👉 C = grandmother of A
+
+---
+
+## 🧠 Example 5 (Exam trap 🔥)
+
+A is brother of B
+B is brother of C
+C is daughter of D
+
+👉 A = uncle of C
+
+---
+
+# 📊 BLOOD RELATION – HARD PRACTICE (30)
+
+```txt id="br9x1"
+Q1: A is father of B. B is sister of C. How is A related to C?
+A) Father
+B) Uncle
+C) Brother
+D) Cousin
+
+Q2: P is mother of Q. Q is husband of R. R is sister of S. How is P related to S?
+A) Mother
+B) Aunt
+C) Grandmother
+D) Sister
+
+Q3: A is son of B. B is daughter of C. C is father of D. How is D related to A?
+A) Uncle
+B) Aunt
+C) Grandfather
+D) Brother
+
+Q4: X is wife of Y. Y is brother of Z. How is X related to Z?
+A) Sister
+B) Sister-in-law
+C) Aunt
+D) Mother
+
+Q5: A is father of B. B is father of C. C is father of D. A is how related to D?
+A) Grandfather
+B) Father
+C) Uncle
+D) Cousin
+
+---
+
+# 🧠 2. CODING – DECODING (HARD LEVEL)
+
+---
+
+## 📌 CORE IDEA
+
+👉 Words → code format
+👉 Patterns hidden
+
+---
+
+## 📌 KEYWORDS
+
+✔ coded as
+✔ written as
+✔ encrypted
+✔ pattern follows
+✔ reverse order
+
+---
+
+## 📌 TYPES
+
+✔ Letter shift
+✔ Reverse coding
+✔ Number coding
+✔ Pattern coding
+✔ Mixed coding
+
+---
+
+## 📌 TRICKS
+
+✔ Alphabet positions (A=1 to Z=26)
+✔ Reverse alphabet (Z=1 logic)
+✔ +1 / -1 shift check
+✔ Word length mapping
+
+---
+
+# ✍️ HARD SOLVED EXAMPLES
+
+---
+
+## 🧠 Example 1 (Shift)
+
+CAT → DBU
+
+👉 Each letter +1
+
+✔ DOG → EPH
+
+---
+
+## 🧠 Example 2 (Reverse)
+
+BAD → YZW
+
+👉 Reverse alphabet
+
+---
+
+## 🧠 Example 3 (Pattern)
+
+APPLE → BQQMF
+
+👉 +1 shift
+
+---
+
+## 🧠 Example 4 (Mixed)
+
+SUN → 192114
+
+👉 S=19 U=21 N=14
+
+---
+
+## 🧠 Example 5 (Tricky)
+
+CODE → DPEF → reverse → FEPD
+
+---
+
+# 📊 CODING – HARD PRACTICE (30)
+
+```txt id="cd8x9"
+Q1: If CAT = DBU, then DOG = ?
+A) EPH
+B) EPI
+C) DPH
+D) FPI
+
+Q2: If BAD = YZW, then GOD = ?
+A) TLD
+B) TLE
+C) UMD
+D) VNE
+
+Q3: If APPLE = BQQMF, then MANGO = ?
+A) NBOHP
+B) NAPHP
+C) OCPHQ
+D) NBPHQ
+
+Q4: If SUN = 192114, then MOON = ?
+A) 13141514
+B) 13141513
+C) 14131514
+D) 12141514
+
+Q5: If CODE = DPEF, then DECODE = ?
+A) EFDPFE
+B) EFDCPF
+C) EFDPFEF
+D) DPEFDE
+
+---
+
+# 📊 REASONING – MIXED HARD PRACTICE 
+
+Q1: A is father of B. B is sister of C. How is A related to C?
+A) Father
+B) Uncle
+C) Brother
+D) Cousin
+
+Q2: If CAT = DBU, then DOG = ?
+A) EPH
+B) EPI
+C) DPH
+D) FPI
+
+Q3: A walks north 10m, turns right and walks 5m. Direction of final point?
+A) East
+B) West
+C) South
+D) North
+
+Q4: All cats are animals. Some animals are dogs. Conclusion?
+A) All cats are dogs
+B) Some cats are dogs
+C) No valid conclusion
+D) All dogs are cats
+
+Q5: Find odd one out:
+A) Apple
+B) Mango
+C) Banana
+D) Car
+
+Q6: A is mother of B. B is husband of C. How is A related to C?
+A) Mother
+B) Mother-in-law
+C) Sister
+D) Aunt
+
+Q7: 2, 6, 12, 20, ?
+A) 30
+B) 28
+C) 32
+D) 36
+
+Q8: In a code, TABLE = UBSMF. Then CHAIR = ?
+A) DIJST
+B) DIBJS
+C) DJIBS
+D) DHIJS
+
+Q9: A is second left of B. B is right of C. Who is in middle?
+A) A
+B) B
+C) C
+D) Cannot say
+
+Q10: Statement: All roses are flowers. Some flowers are red. Conclusion?
+A) Some roses are red
+B) All flowers are roses
+C) No valid conclusion
+D) Some red are roses
+
+Q11: If 1= A, 2= B, then 28 = ?
+A) AB
+B) ABZ
+C) AZ
+D) BA
+
+Q12: A is brother of B. B is sister of C. C is father of D. A is how related to D?
+A) Uncle
+B) Father
+C) Brother
+D) Cousin
+
+Q13: If SUN = 192114, then MOON = ?
+A) 13141514
+B) 14131514
+C) 13151414
+D) 12141514
+
+Q14: A is facing east. Turns left, then right. Final direction?
+A) North
+B) South
+C) East
+D) West
+
+Q15: Find next number: 3, 8, 15, 24, ?
+A) 35
+B) 36
+C) 40
+D) 30
+
+Q16: If DOG = EPH, then CAT = ?
+A) DBU
+B) DBV
+C) DCU
+D) EBU
+
+Q17: A is father of B. B is mother of C. C is sister of D. How is A related to D?
+A) Grandfather
+B) Uncle
+C) Father
+D) Cousin
+
+Q18: Find odd one:
+A) Circle
+B) Square
+C) Triangle
+D) Apple
+
+Q19: A walks 5m east, 5m north, 5m west. Distance from start?
+A) 5m
+B) 10m
+C) 15m
+D) 0m
+
+Q20: All pens are books. Some books are pencils. Conclusion?
+A) Some pens are pencils
+B) All pencils are pens
+C) No valid conclusion
+D) Some books are pens
+
+Q21: If A = 1, Z = 26, then CAT = ?
+A) 24
+B) 21
+C) 22
+D) 23
+
+Q22: A is wife of B. B is brother of C. How is A related to C?
+A) Sister-in-law
+B) Aunt
+C) Sister
+D) Mother
+
+Q23: 5, 10, 20, 40, ?
+A) 60
+B) 70
+C) 80
+D) 90
+
+Q24: If BAD = YZW, then GOD = ?
+A) TLD
+B) UMD
+C) VNE
+D) TLE
+
+Q25: A is north of B. B is east of C. C is south of D. Direction of A from D?
+A) North-East
+B) South-East
+C) North-West
+D) South-West
+
+Q26: Statement: All birds fly. Some birds are black. Conclusion?
+A) Some black fly
+B) All black are birds
+C) No valid conclusion
+D) All birds are black
+
+Q27: A is son of B. B is daughter of C. How is C related to A?
+A) Grandmother
+B) Grandfather
+C) Aunt
+D) Uncle
+
+Q28: If TABLE = UBSMF, then CHAIR = ?
+A) DIBJS
+B) DIJST
+C) DJIBS
+D) DHIJS
+
+Q29: 1, 4, 9, 16, ?
+A) 20
+B) 25
+C) 30
+D) 36
+
+Q30: A is left of B, B is left of C. Who is in middle?
+A) A
+B) B
+C) C
+D) Cannot say

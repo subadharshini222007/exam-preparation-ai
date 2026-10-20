@@ -1,0 +1,208 @@
+TNPSC GROUP 2 - GENERAL SCIENCE
+SCIENCE AND TECHNOLOGY - STUDY MATERIAL
+Biotechnology, Nanotechnology, AI and Robotics, Communication, Energy, Health and Agriculture Technology, Science Policy and Institutions
+(Original exam-oriented notes aligned to the Samacheer Kalvi syllabus and current-affairs style questions. Space, defence, nuclear and basic computer topics are in Scientific Basics Part 5.)
+
+==================================================
+UNIT 1: SCIENCE AND TECHNOLOGY - INTRODUCTION
+==================================================
+
+1.1 MEANING
+Science is the systematic study of nature, and technology is the practical application of scientific knowledge to solve problems and improve human life. Science asks "why" and technology asks "how." Technology has changed agriculture, industry, communication, health, transport and education. Digital technology, biotechnology, nanotechnology, artificial intelligence and clean energy are called emerging technologies. 
+
+1.2 INDUSTRIAL REVOLUTIONS
+First: steam power and mechanisation (18th century). Second: electricity and mass production. Third: electronics and computers (automation). Fourth (Industry 4.0): artificial intelligence, Internet of Things, robotics, big data, cloud and 3D printing.
+
+==================================================
+UNIT 2: BIOTECHNOLOGY
+==================================================
+
+2.1 MEANING AND SCOPE
+Biotechnology is the use of living organisms, cells or their parts to make useful products and processes. The term was coined by the Hungarian engineer Karl Ereky in 1919. Traditional biotechnology includes making curd, bread, wine, vinegar and cheese. Modern biotechnology uses genetic engineering, tissue culture and fermentation technology. Areas are classified by colour: Red (medical), Green (agriculture), White (industrial), Blue (marine) and Grey (environment).
+
+2.2 GENETIC ENGINEERING AND RECOMBINANT DNA TECHNOLOGY
+Genetic engineering is the alteration of an organism's genes by inserting, removing or changing DNA. In recombinant DNA technology (rDNA), a gene of interest is cut out and joined to a vector, and put into a host cell. The first recombinant DNA molecule was made by Stanley Cohen and Herbert Boyer in 1973. Tools:
+- Restriction enzymes (molecular scissors): cut DNA at specific sites (e.g. EcoRI).
+- DNA ligase (molecular glue): joins DNA fragments.
+- Vectors: carriers of genes; plasmids of bacteria (e.g. pBR322), bacteriophages and Agrobacterium tumefaciens (used for plants).
+- Host cells: Escherichia coli, yeast, plant and animal cells.
+- Polymerase Chain Reaction (PCR): amplifies a small DNA sample into millions of copies; developed by Kary Mullis (1983); uses the heat-stable Taq polymerase from the bacterium Thermus aquaticus. It is used in the diagnosis of diseases, including COVID-19 testing (RT-PCR), forensic science and genetics.
+- Gel electrophoresis: separates DNA fragments by size.
+
+2.3 APPLICATIONS
+(a) In medicine: 
+- Recombinant insulin (Humulin, 1982, the first recombinant drug) made by E. coli; human growth hormone; interferons; hepatitis B vaccine made through yeast; clotting factors.
+- Monoclonal antibodies (Kohler and Milstein, 1975) used in cancer treatment and diagnostics.
+- Gene therapy: treating genetic diseases by inserting normal genes (the first successful gene therapy in 1990 for ADA deficiency).
+- Stem cell therapy: stem cells can develop into many cell types; sources include embryos, bone marrow, umbilical cord blood and adult tissues.
+- DNA fingerprinting (Alec Jeffreys, 1984) is used in forensics, paternity tests and identifying criminals; in India, the Centre for DNA Fingerprinting and Diagnostics (CDFD) is at Hyderabad, and the Centre for Cellular and Molecular Biology (CCMB) is at Hyderabad.
+- CRISPR-Cas9 genome editing: allows precise editing of DNA; Emmanuelle Charpentier and Jennifer Doudna won the Nobel Prize in Chemistry in 2020 for it. India released its first genome-edited rice varieties in 2025 (verify the details from current news).
+- Vaccines: traditional vaccines (live attenuated, inactivated), subunit and recombinant vaccines, DNA vaccines and mRNA vaccines. The Nobel Prize in Physiology or Medicine in 2023 was awarded to Katalin Kariko and Drew Weissman for the discoveries that enabled mRNA vaccines. In India, Covaxin (Bharat Biotech with ICMR and NIV; inactivated virus vaccine), Covishield (Serum Institute of India; viral vector vaccine) and ZyCoV-D (Zydus Cadila; the world's first DNA vaccine for humans) were used against COVID-19, and the vaccination drive started on 16 January 2021. India's first indigenous CAR-T cell therapy for cancer was approved in 2023.
+(b) In agriculture:
+- Transgenic (GM) crops: plants with foreign genes. Bt cotton (with a gene from Bacillus thuringiensis giving resistance to bollworm) was approved in India in 2002 and is the only GM crop cultivated commercially in India. Bt brinjal was not approved (moratorium in 2010). GM mustard was cleared by the regulator in 2022 and is still before the courts; check the latest status. Golden rice (beta-carotene), Flavr Savr tomato (the first GM food, 1994) and herbicide-tolerant soybean are other examples.
+- Tissue culture and micropropagation, biofertilisers, biopesticides, and nitrogen-fixing crops.
+- The Genetic Engineering Appraisal Committee (GEAC) under the Ministry of Environment, Forest and Climate Change approves GM crops.
+(c) In industry: enzymes in detergents, production of antibiotics, ethanol, citric acid and vitamins by fermentation, biogas and bioplastics. Bioreactors (fermenters) are large vessels used for growing microbes. 
+(d) In the environment: bioremediation (e.g. Pseudomonas to clean oil spills), biofuels, biosensors, biomining and waste treatment. 
+
+2.4 CLONING
+A clone is an exact genetic copy. Dolly the sheep (born in 1996 at the Roslin Institute, Scotland by Ian Wilmut and colleagues) was the first mammal cloned from an adult somatic cell using the somatic cell nuclear transfer method. Reproductive cloning of humans is banned in most countries. India's first cloned buffalo calf was born in 2009 at the National Dairy Research Institute, Karnal (Samrupa). Therapeutic cloning is used for tissue and organ development.
+
+2.5 BIOETHICS, BIOSAFETY AND BIOPIRACY
+Concerns include ethical issues in cloning and gene editing, risks of GM crops to biodiversity and health, and biopiracy (use of biological resources or traditional knowledge without authorisation). Famous patent cases: Basmati rice, neem and turmeric were challenged and the patents were revoked. The Biological Diversity Act, 2002, the Protection of Plant Varieties and Farmers' Rights Act, 2001, and the Geographical Indications Act, 1999 protect resources and knowledge. The Cartagena Protocol on Biosafety (2000) regulates the movement of living modified organisms.
+
+2.6 BIOTECHNOLOGY IN INDIA
+The Department of Biotechnology (DBT) was set up in 1986 under the Ministry of Science and Technology. BIRAC (Biotechnology Industry Research Assistance Council, 2012) supports biotech start-ups. The National Institute of Immunology is in New Delhi. The Indian Institute of Science, Bengaluru, and the Institute of Genomics and Integrative Biology (IGIB) in Delhi are research leaders. The Genome India Project aims to sequence the genomes of thousands of Indians. Hyderabad is called the "Genome Valley," a major biotech cluster. Tamil Nadu has biotech research in IIT Madras, TNAU, Madras Veterinary College and the Centre for Biotechnology at Anna University, as well as the M. S. Swaminathan Research Foundation (Chennai), which works on biodiversity and sustainable agriculture.
+
+==================================================
+UNIT 3: NANOTECHNOLOGY AND NEW MATERIALS
+==================================================
+
+3.1 NANOTECHNOLOGY
+Nanotechnology is the science of manipulating matter at the scale of 1 to 100 nanometres. One nanometre is one-billionth of a metre (10^-9 m). A human hair is about 80,000 nanometres wide. At the nanoscale, materials show different properties (colour, strength, conductivity). Richard Feynman in 1959 gave a talk "There's Plenty of Room at the Bottom," which is considered the beginning of the idea, and Norio Taniguchi first used the term "nanotechnology" in 1974. K. Eric Drexler popularised the concept. The Scanning Tunnelling Microscope (invented by Gerd Binnig and Heinrich Rohrer) and the atomic force microscope enabled the study of atoms.
+Approaches: top-down (breaking bulk material into nanoparticles) and bottom-up (assembling atoms and molecules).
+
+3.2 NANOMATERIALS
+- Fullerenes (C-60) discovered by Kroto, Curl and Smalley (Nobel 1996).
+- Carbon nanotubes (Sumio Iijima, 1991): very strong and good conductors.
+- Graphene: a single layer of carbon atoms, isolated by Andre Geim and Konstantin Novoselov in 2004 (Nobel Prize in Physics 2010); strong, transparent and conducts electricity.
+- Quantum dots: nanocrystals that give light of different colours; Moungi Bawendi, Louis Brus and Alexei Ekimov received the Nobel Prize in Chemistry in 2023.
+- Nanoparticles of silver (antibacterial), gold, titanium dioxide (sunscreens and self-cleaning glass) and zinc oxide.
+
+3.3 APPLICATIONS
+Medicine (targeted drug delivery, cancer treatment, diagnostics), electronics (smaller and faster chips), water purification (nano filters), agriculture (nano fertilisers; India's IFFCO has promoted nano urea), textiles (stain-resistant clothes), cosmetics, energy (better solar cells and batteries), and environment (cleaning pollutants). The risks are possible toxicity to health and the environment. India launched the Nano Mission in 2007 under the Department of Science and Technology.
+
+3.4 OTHER ADVANCED MATERIALS
+- Superconductors: zero electrical resistance below a critical temperature (discovered by Heike Kamerlingh Onnes in 1911 in mercury); used in MRI magnets, maglev trains and particle accelerators.
+- Semiconductors: silicon and germanium; heart of computer chips. LED (light-emitting diode): efficient and long-lasting lighting; the Nobel Prize in Physics 2014 was awarded for the blue LED (Isamu Akasaki, Hiroshi Amano and Shuji Nakamura). 
+- Shape memory alloys (Nitinol), smart materials, optical fibre, biodegradable plastics and composites (carbon fibre), aerogels, and metamaterials.
+- Lithium-ion batteries: Nobel Prize in Chemistry in 2019 (Goodenough, Whittingham and Yoshino).
+- 3D printing (additive manufacturing): objects made layer by layer from a digital design, used in prototypes, houses, prosthetics and aerospace parts.
+
+==================================================
+UNIT 4: ARTIFICIAL INTELLIGENCE, ROBOTICS AND DIGITAL TECHNOLOGIES
+==================================================
+
+4.1 ARTIFICIAL INTELLIGENCE (AI)
+AI is the ability of machines to perform tasks that normally need human intelligence, such as learning, reasoning and understanding language. The term "Artificial Intelligence" was coined by John McCarthy in 1956. Alan Turing proposed the Turing Test. Branches: machine learning (computers learn from data), deep learning (neural networks), natural language processing, computer vision, expert systems and robotics. Generative AI creates text, images, audio and code (e.g. chatbots such as ChatGPT, Claude and Gemini). Applications: voice assistants, face recognition, language translation, medical diagnosis, self-driving cars, fraud detection, weather prediction, farming advice and education. Risks: job loss, bias, deepfakes, misinformation, privacy and misuse.
+The Nobel Prize in Physics 2024 was awarded to John Hopfield and Geoffrey Hinton for work on artificial neural networks, and the Nobel Prize in Chemistry 2024 partly went to Demis Hassabis and John Jumper for AlphaFold, which predicts protein structures. 
+India: NITI Aayog released the National Strategy for AI ("AI for All") in 2018. The IndiaAI Mission was approved in 2024 to build AI computing capacity and support AI start-ups. Bhashini is the national language translation mission for Indian languages.
+
+4.2 ROBOTICS
+A robot is a programmable machine that can carry out tasks automatically. The word "robot" was first used in the play "R.U.R." by the Czech writer Karel Capek (1920), and Isaac Asimov gave the three laws of robotics. Uses: industrial manufacturing, surgery, space exploration (Mars rovers), defence (bomb disposal), logistics, agriculture and domestic cleaning. Examples: Sophia (a humanoid robot), Mars rover Perseverance, Pragyan rover on the moon, and the Vyommitra humanoid for Gaganyaan. Drones (unmanned aerial vehicles) are used in photography, agriculture spraying, delivery and defence; India notified the Drone Rules in 2021, and the "Namo Drone Didi" scheme supports women self-help groups using agricultural drones.
+
+4.3 INTERNET OF THINGS, CLOUD, BIG DATA AND BLOCKCHAIN
+- Internet of Things (IoT): everyday devices (watches, fridges, sensors) connected to the internet to exchange data, used in smart homes and smart cities.
+- Cloud computing: using remote servers on the internet for storage and computing.
+- Big data: extremely large datasets analysed to find patterns.
+- Blockchain: a decentralised and tamper-proof digital ledger; the technology behind cryptocurrency such as Bitcoin (Satoshi Nakamoto, 2009).
+- Quantum computing uses qubits (which can be 0 and 1 together) to solve certain problems much faster. The National Quantum Mission was approved by the Government of India in 2023.
+- Augmented reality (AR) overlays digital content on the real world; Virtual reality (VR) creates a fully digital environment. 
+- Cyber security, digital signatures and encryption protect data.
+
+4.4 COMMUNICATION TECHNOLOGY
+- Generations of mobile networks: 1G (analogue voice), 2G (digital voice and SMS; GSM), 3G (mobile internet), 4G (LTE; high-speed broadband and video streaming) and 5G (very high speed, very low delay, supports IoT and smart factories). 5G services were launched in India on 1 October 2022 at the India Mobile Congress.
+- Optical fibre networks (BharatNet connects gram panchayats), satellite communication, VSAT, and fibre broadband. 
+- Wireless technologies: Wi-Fi, Bluetooth, NFC and RFID. 
+- Broadcast: radio (AM and FM), digital TV, DTH. All India Radio and Doordarshan are the public broadcasters; Prasar Bharati was set up in 1997. India's first TV broadcast was in 1959.
+- Digital public infrastructure: Aadhaar, UPI, DigiLocker, CoWIN, ONDC (Open Network for Digital Commerce) and Account Aggregator framework. UPI is the world's largest real-time payment system by volume. 
+- Semiconductors: the India Semiconductor Mission was launched in 2021 with an incentive of Rs 76,000 crore to develop chip manufacturing and display ecosystems. 
+
+==================================================
+UNIT 5: ENERGY AND ENVIRONMENT TECHNOLOGY
+==================================================
+
+5.1 RENEWABLE ENERGY TECHNOLOGY
+Solar photovoltaic cells (silicon), solar thermal, wind turbines (onshore and offshore), small hydropower, biomass and waste-to-energy, geothermal, tidal and wave energy. Pumped storage and batteries are used for storing renewable energy. The International Solar Alliance (2015) is headquartered in Gurugram. PM Surya Ghar: Muft Bijli Yojana (2024) supports rooftop solar for households. PM-KUSUM promotes solar pumps for farmers. India's targets: 500 GW of non-fossil fuel capacity by 2030 and net-zero emissions by 2070, as announced by the Prime Minister at COP26 in Glasgow in 2021 (the "Panchamrit" commitments). Mission LiFE (Lifestyle for Environment) promotes sustainable habits. 
+Tamil Nadu is among the leading states in wind and solar capacity (Muppandal and Kamuthi).
+
+5.2 GREEN HYDROGEN AND FUEL CELLS
+Green hydrogen is produced by splitting water by electrolysis using renewable electricity, and it emits no carbon. A fuel cell produces electricity from hydrogen and oxygen, giving only water as the by-product. The National Green Hydrogen Mission was approved in 2023 with a target of 5 million tonnes of production per year by 2030. 
+
+5.3 ELECTRIC VEHICLES AND BATTERIES
+Electric vehicles use batteries (lithium-ion) and electric motors, and have no tailpipe emissions. India promotes EVs through the FAME scheme (Faster Adoption and Manufacturing of Electric Vehicles) and PLI incentives. Regenerative braking recovers energy. Tamil Nadu (Chennai, Hosur and Krishnagiri) is a major hub for automobile and EV manufacturing, and Chennai is called the "Detroit of Asia" for its automobile industry. Biofuels: ethanol blending in petrol reached about 20 percent (E20) in India (verify the current status); compressed biogas (CBG); and the SATAT scheme. 
+
+5.4 NUCLEAR AND OTHER ENERGY TECHNOLOGY
+Small modular reactors, thorium-based fast breeder reactors (the Prototype Fast Breeder Reactor at Kalpakkam), and nuclear fusion research (ITER in France, in which India is a partner). Smart grids use digital technology to supply electricity efficiently. LED lighting under the UJALA scheme reduced power consumption.
+
+5.5 ENVIRONMENTAL TECHNOLOGY
+Remote sensing and GIS for mapping forests, floods, crops and land use. Effluent treatment plants, common effluent treatment plants and zero liquid discharge (used in Tiruppur's textile units). Waste-to-energy plants, composting and bioremediation. Carbon capture and storage; rainwater harvesting; desalination plants (Chennai has seawater desalination plants at Minjur and Nemmeli); sewage treatment plants. Weather forecasting by satellites, Doppler radar and supercomputers (the IMD and the National Centre for Medium Range Weather Forecasting). The Early Warning System for tsunamis is operated by INCOIS in Hyderabad (set up after the 2004 tsunami). 
+
+==================================================
+UNIT 6: HEALTH TECHNOLOGY
+==================================================
+
+6.1 MEDICAL IMAGING AND DIAGNOSTICS
+X-ray (Roentgen), CT scan (Computed Tomography; Godfrey Hounsfield), MRI (Magnetic Resonance Imaging; uses magnets and radio waves, no radiation), ultrasonography (sound waves; safe for pregnant women), PET scan (detects cancer using radioactive tracers), ECG (heart), EEG (brain), EMG (muscles), endoscopy (fibre optic tube to see inside the body) and laparoscopy (keyhole surgery). Laser surgery is used for the eyes and tumours. 
+
+6.2 TREATMENT TECHNOLOGY
+Robotic surgery, dialysis machines, pacemakers, angioplasty and stents, ventilators, artificial limbs, 3D-printed prosthetics, hearing aids, cochlear implants, artificial organs, organ transplantation (kidney, liver, heart) and bone marrow transplantation, radiotherapy and chemotherapy, immunotherapy, and precision medicine. In India, the Transplantation of Human Organs Act was passed in 1994 and amended in 2011. Tamil Nadu is known for leading the country in deceased-donor organ donation under the Transplant Authority (TRANSTAN, formed 2008).
+
+6.3 DIGITAL HEALTH
+Telemedicine, e-Sanjeevani (government teleconsultation service), the Ayushman Bharat Digital Mission (2021; ABHA health ID), wearables (smart watches), AI-based diagnosis and electronic health records. Ayushman Bharat - PM-JAY (2018) gives health insurance cover of Rs 5 lakh per family per year to poor families (the cover was later expanded for senior citizens). The Tamil Nadu government runs the Chief Minister's Comprehensive Health Insurance Scheme and the "Makkalai Thedi Maruthuvam" (Healthcare at doorstep) scheme launched in 2021. 
+
+6.4 DRUGS AND VACCINES
+Generic medicines, biosimilars, Jan Aushadhi stores (low-cost generics), indigenous vaccines, and the pharmaceutical industry. India is called the "pharmacy of the world" because it is among the largest suppliers of generic medicines and vaccines. Pharmacopoeia and the Drugs and Cosmetics Act, 1940 regulate medicines, and CDSCO is the national regulator. The Indian Council of Medical Research (ICMR) is the apex body for biomedical research.
+
+==================================================
+UNIT 7: AGRICULTURE TECHNOLOGY
+==================================================
+
+7.1 MODERN FARMING TECHNOLOGY
+Precision farming (using GPS, sensors and drones), drip and sprinkler irrigation (micro irrigation), hydroponics and aeroponics, greenhouse and polyhouse cultivation, vertical farming, organic and natural farming, integrated pest management, mechanisation (tractors, combine harvesters, seed drills), and soil testing (Soil Health Card scheme, 2015). Remote sensing and weather apps support crop planning. The neem-coated urea policy improves fertiliser efficiency. 
+The e-NAM (electronic National Agriculture Market, 2016) is an online trading platform for farm produce. The Kisan Call Centre and the mKisan portal give information to farmers. PM-KISAN (2019) provides income support. The Pradhan Mantri Fasal Bima Yojana (2016) is a crop insurance scheme. 
+
+7.2 SEEDS AND CROP IMPROVEMENT
+High-yielding varieties, hybrids, drought-resistant and climate-resilient varieties, biofortified varieties, GM and genome-edited crops, tissue culture, and seed banks. The International Rice Research Institute (IRRI) is in the Philippines; ICRISAT is at Hyderabad (for semi-arid crops). The Tamil Nadu Agricultural University (TNAU), Coimbatore, and the Rice Research Station at Tirur and Aduthurai released many varieties.
+
+7.3 FOOD PROCESSING AND STORAGE
+Pasteurisation, canning, freezing, dehydration, irradiation and cold chains. Warehousing: Food Corporation of India (FCI) and the Central Warehousing Corporation. Food fortification adds nutrients like iron and vitamins to food (e.g. fortified rice and double fortified salt). FSSAI (Food Safety and Standards Authority of India, 2006) regulates food safety. The Agmark certifies agricultural produce; ISI mark (now BIS) certifies industrial products; Hallmark certifies gold purity; and the FPO mark applies to fruit products. 
+
+==================================================
+UNIT 8: INTELLECTUAL PROPERTY, SCIENCE POLICY AND INSTITUTIONS
+==================================================
+
+8.1 INTELLECTUAL PROPERTY RIGHTS (IPR)
+Patents (new inventions; 20 years under the Patents Act, 1970, amended in 2005), copyright (creative works; the Copyright Act, 1957), trademarks (brand names and logos), industrial designs, Geographical Indications (the GI Act, 1999; Darjeeling tea was the first GI-tagged product in India) and trade secrets. TRIPS (Trade-Related Aspects of Intellectual Property Rights) is a WTO agreement. WIPO (World Intellectual Property Organization) has its headquarters in Geneva. The Controller General of Patents, Designs and Trade Marks has offices in Mumbai, Delhi, Chennai and Kolkata. Chennai has a Patent Office. 
+GI tags from Tamil Nadu include Kancheepuram silk, Thanjavur paintings, Swamimalai bronze icons, Madurai Malli (jasmine), Kovilpatti Kadalai Mittai, Palani Panchamirtham, Nilgiri tea, Salem Venpattu and Thanjavur Veena, among many others. 
+
+8.2 SCIENCE AND TECHNOLOGY POLICIES OF INDIA
+- Scientific Policy Resolution, 1958 (under Jawaharlal Nehru): aimed to foster scientific research.
+- Technology Policy Statement, 1983.
+- Science and Technology Policy, 2003 and the Science, Technology and Innovation Policy, 2013. A new STI policy has been under development. The Department of Science and Technology (DST) was set up in 1971, the Department of Scientific and Industrial Research (DSIR) in 1985 and the Department of Biotechnology in 1986. 
+- CSIR (1942) is India's largest research organisation with a chain of national laboratories; Shanti Swarup Bhatnagar was its first director. 
+- Anusandhan National Research Foundation (ANRF) was established through the ANRF Act, 2023, to fund research (it replaced the Science and Engineering Research Board).
+- Atal Innovation Mission (2016, NITI Aayog) sets up Atal Tinkering Labs in schools and Atal Incubation Centres. Startup India (2016), Make in India (2014), Digital India (2015), Skill India (2015) and the Production Linked Incentive (PLI) schemes support innovation and manufacturing. 
+- Technology Development Board (1996) funds the commercialisation of indigenous technology. National Technology Day (11 May) honours technological achievements. INSPIRE (Innovation in Science Pursuit for Inspired Research) encourages young students. Vigyan Prasar promotes science popularisation. The National Education Policy 2020 promotes science and coding education. 
+
+8.3 TAMIL NADU IN SCIENCE AND TECHNOLOGY
+- Tamil Nadu State Council for Science and Technology (TNSCST), established in 1972, promotes science and technology in the state. The Periyar Science and Technology Centre and Birla Planetarium at Chennai-Guindy popularise science.
+- IIT Madras (1959) is consistently ranked as India's top engineering institution, and it has the IIT Madras Research Park (the first research park in an Indian university). The Madras Institute of Technology (1949) and Anna University (1978) are major technical institutions. The Indian Institute of Information Technology Design and Manufacturing is at Kancheepuram.
+- CSIR labs: Central Leather Research Institute (Chennai), Central Electrochemical Research Institute (Karaikudi), Structural Engineering Research Centre (Chennai). The National Institute of Ocean Technology (Chennai) works on ocean science and deep ocean missions such as Samudrayaan. The Indira Gandhi Centre for Atomic Research (Kalpakkam), and ISRO's Propulsion Complex in Mahendragiri and the future spaceport at Kulasekarapattinam are in Tamil Nadu.
+- StartupTN (2018, later reorganised as the Tamil Nadu Startup and Innovation Mission) supports start-ups. Tamil Nadu has IT parks like Tidel Park and the IT corridor on Rajiv Gandhi Salai (Old Mahabalipuram Road) in Chennai, Electronics manufacturing at Sriperumbudur and Hosur, and engineering and textile clusters at Coimbatore and Tiruppur. The Tamil Nadu government also supports the semiconductor and electronics ecosystem through industrial policies. 
+- Tamil Nadu has also contributed through Tamil computing: Tamil Virtual University (2001), Tamil Unicode and the Tamil Nadu e-Governance Agency (TNeGA).
+- Tamil Nadu scientists: C. V. Raman, S. Chandrasekhar, Srinivasa Ramanujan, A. P. J. Abdul Kalam, M. S. Swaminathan, V. Ramakrishnan, Mylswamy Annadurai, K. Sivan, V. Narayanan, P. Veeramuthuvel, G. N. Ramachandran and Nambi Narayanan.
+
+==================================================
+UNIT 9: RECENT NOBEL PRIZES AND SCIENCE NEWS FOR REVISION
+==================================================
+
+- Nobel Prize in Physics: 2019 (Peebles, Mayor, Queloz: cosmology and exoplanets); 2020 (Penrose, Genzel, Ghez: black holes); 2021 (Manabe, Hasselmann, Parisi: complex systems and climate); 2022 (Aspect, Clauser, Zeilinger: quantum entanglement); 2023 (Agostini, Krausz, L'Huillier: attosecond pulses of light); 2024 (Hopfield and Hinton: machine learning with artificial neural networks).
+- Nobel Prize in Chemistry: 2019 (lithium-ion batteries); 2020 (CRISPR genome editing); 2021 (organocatalysis; List and MacMillan); 2022 (click chemistry; Sharpless, Meldal and Bertozzi); 2023 (quantum dots); 2024 (protein design and structure prediction; Baker, Hassabis and Jumper).
+- Nobel Prize in Physiology or Medicine: 2019 (how cells sense oxygen); 2020 (hepatitis C virus discovery); 2021 (temperature and touch receptors); 2022 (Svante Paabo; ancient human genomes); 2023 (mRNA vaccines; Kariko and Weissman); 2024 (microRNA; Ambros and Ruvkun).
+- Check the latest Nobel Prizes and other new developments (for example, new ISRO missions, new vaccines, and new government schemes) from the current news before the exam, since this part of General Science changes every year.
+
+7.2 QUICK REVISION POINTS
+- Biotechnology: scissors - restriction enzyme; glue - ligase; PCR - Kary Mullis; first recombinant drug - insulin; first cloned mammal - Dolly; first GM crop in India - Bt cotton (2002).
+- Nano: 1 nm = 10^-9 m; graphene - Geim and Novoselov; carbon nanotube - Iijima.
+- AI: coined by John McCarthy in 1956; Turing Test by Alan Turing.
+- WWW: Tim Berners-Lee; Linux: Linus Torvalds; Google: Larry Page and Sergey Brin.
+- 5G launched in India on 1 October 2022. 
+- Green hydrogen mission: 2023. Net zero target for India: 2070.
+- First GI tag in India: Darjeeling tea. 
+- DBT: 1986. DST: 1971. CSIR: 1942. ISRO: 1969. DRDO: 1958. 
+- Father of the Indian nuclear programme: Homi Bhabha. Father of the Indian space programme: Vikram Sarabhai. Missile Man: A. P. J. Abdul Kalam.
+
+==================================================
+END OF SCIENCE AND TECHNOLOGY UNIT
+==================================================

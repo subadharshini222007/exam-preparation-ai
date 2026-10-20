@@ -1,0 +1,545 @@
+# 📘 NUMBER SERIES – TNPSC GROUP 1 (HARD LEVEL MODULE)
+
+---
+
+# 🧠 CORE IDEA
+
+👉 Number series = pattern recognition
+👉 Every question = hidden rule
+
+---
+
+## 🔴 TYPE 1: ARITHMETIC SERIES (DIFFERENCE PATTERN)
+
+### 📌 Keywords:
+
+✔ difference
+✔ increase / decrease
+✔ constant gap
+
+### 📌 Trick:
+
+👉 Always check “+ / - pattern”
+
+---
+
+### ✍️ 10 HARD SOLVED
+
+1. 3, 7, 13, 21, ?
+   → +4, +6, +8
+   ✔ 31
+
+2. 10, 17, 26, 37, ?
+   → +7, +9, +11
+   ✔ 50
+
+3. 100, 90, 78, 64, ?
+   → -10, -12, -14
+   ✔ 48
+
+4. 5, 12, 23, 38, ?
+   → +7, +11, +15
+   ✔ 57
+
+5. 2, 6, 12, 20, ?
+   ✔ 30
+
+6. 1, 4, 9, 16, ?
+   ✔ 25
+
+7. 8, 15, 24, 35, ?
+   ✔ 48
+
+8. 50, 47, 43, 38, ?
+   ✔ 32
+
+9. 6, 11, 18, 27, ?
+   ✔ 38
+
+10. 9, 19, 31, 45, ?
+    ✔ 61
+
+---
+
+## 🔵 TYPE 2: GEOMETRIC SERIES (MULTIPLICATION)
+
+### 📌 Keywords:
+
+✔ × pattern
+✔ ratio
+✔ doubling
+
+### 📌 Trick:
+
+👉 check multiplication
+
+---
+
+### ✍️ 10 HARD SOLVED
+
+1. 2, 6, 18, 54, ?
+   ✔ 162
+
+2. 3, 9, 27, 81, ?
+   ✔ 243
+
+3. 5, 10, 20, 40, ?
+   ✔ 80
+
+4. 4, 16, 64, 256, ?
+   ✔ 1024
+
+5. 1, 3, 9, 27, ?
+   ✔ 81
+
+6. 2, 8, 32, 128, ?
+   ✔ 512
+
+7. 7, 14, 28, 56, ?
+   ✔ 112
+
+8. 6, 12, 24, 48, ?
+   ✔ 96
+
+9. 3, 6, 12, 24, ?
+   ✔ 48
+
+10. 9, 27, 81, 243, ?
+    ✔ 729
+
+---
+
+## 🟣 TYPE 3: SQUARE SERIES
+
+### 📌 Keywords:
+
+✔ perfect square
+✔ n² pattern
+
+---
+
+### ✍️ 10 HARD SOLVED
+
+1. 1, 4, 9, 16, ?
+   ✔ 25
+
+2. 4, 9, 16, 25, ?
+   ✔ 36
+
+3. 25, 36, 49, 64, ?
+   ✔ 81
+
+4. 2², 3², 4², 5², ?
+   ✔ 36
+
+5. 10, 17, 26, 37, ? (n²+1 pattern)
+   ✔ 50
+
+6. 3, 12, 27, 48, ?
+   ✔ 75
+
+7. 1, 9, 25, 49, ?
+   ✔ 81
+
+8. 16, 25, 36, 49, ?
+   ✔ 64
+
+9. 5, 10, 17, 26, ?
+   ✔ 37
+
+10. 8, 17, 32, 53, ?
+    ✔ 80
+
+---
+
+## 🟠 TYPE 4: MIXED PATTERN (HARD 🔥 TNPSC FAVORITE)
+
+### 📌 Keywords:
+
+✔ alternate pattern
+✔ mix operation
+
+---
+
+### ✍️ 10 HARD SOLVED
+
+1. 2, 5, 11, 23, ?
+   ✔ 47
+
+2. 3, 8, 18, 38, ?
+   ✔ 78
+
+3. 1, 2, 6, 24, ?
+   ✔ 120
+
+4. 4, 7, 13, 25, ?
+   ✔ 49
+
+5. 10, 21, 43, 87, ?
+   ✔ 175
+
+6. 5, 9, 19, 39, ?
+   ✔ 79
+
+7. 6, 13, 27, 55, ?
+   ✔ 111
+
+8. 1, 3, 7, 15, ?
+   ✔ 31
+
+9. 2, 7, 22, 67, ?
+   ✔ 202
+
+10. 3, 10, 31, 94, ?
+    ✔ 283
+
+---
+
+# 🚀 TRICKS (VERY IMPORTANT)
+
+✔ first difference check
+✔ then multiplication
+✔ then square/cube
+✔ then mixed pattern
+✔ last option elimination
+
+---
+
+# 📘 WRONG NUMBER SERIES – HARD LEVEL MODULE
+
+---
+
+# 🧠 CORE IDEA
+
+👉 ஒரு seriesல **ஒரே ஒரு number wrong இருக்கும்**
+👉 pattern break ஆகும் point கண்டுபிடிக்கணும்
+
+---
+
+# 🔥 HOW TO SOLVE (TRICK)
+
+✔ Step 1: difference check
+✔ Step 2: multiplication check
+✔ Step 3: alternate pattern check
+✔ Step 4: square/cube check
+✔ Step 5: odd man out number identify
+
+---
+
+# 📌 KEYWORDS
+
+👉 “wrong term”
+👉 “incorrect number”
+👉 “does not fit”
+👉 “find error”
+
+---
+
+# ✍️ HARD SOLVED EXAMPLES (STEP-BY-STEP)
+
+---
+
+## 🧠 Example 1
+
+3, 7, 13, 21, 31
+
+👉 +4, +6, +8, +10 should be correct
+✔ 3 → 7 → 13 → 21 → 33
+
+👉 31 is wrong
+
+✔ Answer: 31
+
+---
+
+## 🧠 Example 2
+
+2, 6, 12, 20, 30, 42
+
+👉 pattern: n(n+1)
+✔ correct series: 2, 6, 12, 20, 30, 42
+
+👉 all correct (trap question style)
+
+---
+
+## 🧠 Example 3
+
+5, 10, 20, 40, 90
+
+👉 ×2 pattern
+✔ correct should be 80
+
+👉 90 is wrong
+
+---
+
+## 🧠 Example 4
+
+1, 4, 9, 16, 25, 40
+
+👉 square series
+✔ correct: 1,4,9,16,25,36
+
+👉 40 is wrong
+
+---
+
+## 🧠 Example 5
+
+10, 17, 26, 37, 48
+
+👉 +7, +9, +11, +13
+✔ correct last = 50
+
+👉 48 is wrong
+
+---
+
+## 🧠 Example 6
+
+100, 90, 81, 72, 64
+
+👉 -10, -9, -9, -8
+✔ correct should be 73 instead of 72
+
+👉 72 is wrong
+
+---
+
+## 🧠 Example 7
+
+2, 8, 18, 32, 50, 72
+
+👉 pattern: n² + n
+✔ correct all fine
+
+👉 no wrong number (trap)
+
+---
+
+## 🧠 Example 8
+
+3, 6, 12, 24, 48, 96
+
+👉 ×2 pattern
+✔ correct all fine
+
+---
+
+## 🧠 Example 9
+
+7, 14, 28, 56, 110
+
+👉 ×2 pattern
+✔ correct last = 112
+
+👉 110 is wrong
+
+---
+
+## 🧠 Example 10 (HARD 🔥)
+
+1, 2, 6, 24, 120, 500
+
+👉 factorial pattern
+✔ correct: 1,2,6,24,120,720
+
+👉 500 is wrong
+
+---
+
+# 🚀 EXAM TRICKS
+
+✔ always check last number first
+✔ reverse pattern check
+✔ square/cube shortcut
+✔ multiplication jump check
+✔ difference stability check
+
+---
+
+# 📊 NUMBER SERIES – MIXED HARD PRACTICE (Q1–Q30)
+
+Q1: 3, 7, 13, 21, ?
+A) 27
+B) 29
+C) 31
+D) 33
+
+Q2: 2, 6, 18, 54, ?
+A) 108
+B) 162
+C) 144
+D) 180
+
+Q3: 1, 4, 9, 16, ?
+A) 20
+B) 25
+C) 30
+D) 36
+
+Q4: 5, 10, 20, 40, ?
+A) 60
+B) 70
+C) 80
+D) 90
+
+Q5: 10, 17, 26, 37, ?
+A) 46
+B) 48
+C) 50
+D) 52
+
+Q6: 100, 90, 78, 64, ?
+A) 50
+B) 48
+C) 52
+D) 54
+
+Q7: 3, 8, 15, 24, ?
+A) 33
+B) 34
+C) 35
+D) 36
+
+Q8: 2, 5, 11, 23, ?
+A) 45
+B) 47
+C) 49
+D) 51
+
+Q9: 4, 16, 64, 256, ?
+A) 512
+B) 768
+C) 1024
+D) 2048
+
+Q10: 7, 14, 28, 56, ?
+A) 100
+B) 110
+C) 112
+D) 114
+
+Q11: 1, 3, 7, 15, ?
+A) 31
+B) 29
+C) 33
+D) 35
+
+Q12: 6, 13, 27, 55, ?
+A) 109
+B) 111
+C) 113
+D) 115
+
+Q13: 9, 19, 31, 45, ?
+A) 57
+B) 59
+C) 61
+D) 63
+
+Q14: 2, 8, 18, 32, 50, ?
+A) 64
+B) 68
+C) 72
+D) 76
+
+Q15: 5, 9, 19, 39, ?
+A) 79
+B) 81
+C) 83
+D) 85
+
+Q16: 1, 2, 6, 24, 120, ?
+A) 500
+B) 600
+C) 720
+D) 840
+
+Q17: 3, 6, 12, 24, ?
+A) 36
+B) 42
+C) 48
+D) 54
+
+Q18: 8, 15, 24, 35, ?
+A) 44
+B) 46
+C) 48
+D) 50
+
+Q19: 11, 22, 44, 88, ?
+A) 132
+B) 144
+C) 160
+D) 176
+
+Q20: 4, 7, 13, 25, ?
+A) 45
+B) 47
+C) 49
+D) 51
+
+Q21: 1, 9, 25, 49, ?
+A) 64
+B) 81
+C) 100
+D) 121
+
+Q22: 2, 7, 22, 67, ?
+A) 190
+B) 201
+C) 202
+D) 203
+
+Q23: 3, 10, 31, 94, ?
+A) 283
+B) 284
+C) 285
+D) 286
+
+Q24: 6, 11, 18, 27, ?
+A) 36
+B) 38
+C) 40
+D) 42
+
+Q25: 50, 47, 43, 38, ?
+A) 32
+B) 33
+C) 34
+D) 35
+
+Q26: 1, 4, 10, 20, 35, ?
+A) 50
+B) 52
+C) 54
+D) 56
+
+Q27: 12, 24, 48, 96, ?
+A) 180
+B) 190
+C) 192
+D) 200
+
+Q28: 7, 12, 21, 34, ?
+A) 45
+B) 49
+C) 51
+D) 55
+
+Q29: 5, 12, 23, 38, ?
+A) 55
+B) 57
+C) 59
+D) 61
+
+Q30: 2, 3, 5, 8, 13, ?
+A) 18
+B) 20
+C) 21
+D) 22
+
+
+

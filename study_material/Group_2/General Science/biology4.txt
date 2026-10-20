@@ -1,0 +1,3070 @@
+
+# BIOLOGY – PART 9 AND PART 10
+---
+# PART 9: HUMAN REPRODUCTIVE SYSTEM, REPRODUCTION AND REPRODUCTIVE HEALTH
+
+# CHAPTER 1: INTRODUCTION TO REPRODUCTION
+
+## 1.1 Definition of Reproduction
+
+Reproduction is the biological process by which living organisms produce new individuals of their own kind.
+
+Reproduction is an essential characteristic of living organisms because it helps maintain the continuity of a species across generations.
+
+An individual organism may survive without reproducing, but a species cannot continue indefinitely without successful reproduction.
+
+Reproduction generally occurs in two major forms:
+
+1. Asexual reproduction.
+2. Sexual reproduction.
+
+Different organisms use different reproductive methods depending on their structure, life cycle and environment.
+
+## 1.2 Importance of Reproduction
+
+Reproduction has several biological functions.
+
+### Continuity of Species
+
+It ensures that new generations replace previous generations.
+
+### Transmission of Genetic Information
+
+Parents pass genetic information to offspring through reproductive processes.
+
+### Genetic Variation
+
+Sexual reproduction produces new combinations of genetic material.
+
+### Evolution
+
+Inherited variation produced through reproduction provides material on which evolutionary processes can act.
+
+### Population Maintenance
+
+Reproduction helps populations continue over time.
+
+## 1.3 Asexual Reproduction
+
+Asexual reproduction involves the production of offspring from a single parent without the fusion of male and female gametes.
+
+The offspring are often genetically very similar to the parent, although mutations can introduce differences.
+
+### Binary Fission
+
+In binary fission, one parent cell divides into two daughter cells.
+
+Examples include:
+
+* Amoeba.
+* Many bacteria.
+* Paramecium.
+
+In Amoeba, the nucleus divides and the cytoplasm separates to form two daughter cells.
+
+### Budding
+
+Budding involves the formation of a small outgrowth called a bud.
+
+The bud develops into a new individual.
+
+Examples:
+
+* Hydra.
+* Yeast.
+
+In Hydra, a bud develops from the parent body and may eventually separate.
+
+### Fragmentation
+
+In fragmentation, an organism breaks into parts, and each suitable fragment develops into a new organism.
+
+Example:
+
+* Spirogyra.
+
+Fragmentation depends on the organism's ability to regenerate the required structures.
+
+### Regeneration
+
+Regeneration is the ability to replace lost or damaged body parts.
+
+In certain organisms, regeneration can also produce a complete individual from a body fragment.
+
+Examples commonly used in textbooks include planarians and some echinoderms.
+
+Regeneration is not equivalent to reproduction in every organism; in many animals, it serves mainly in repair.
+
+### Spore Formation
+
+Some fungi and other organisms produce spores that can develop into new individuals under suitable conditions.
+
+Example:
+
+* Rhizopus.
+
+Spores can help organisms reproduce and disperse.
+
+### Vegetative Propagation
+
+Vegetative propagation is a form of asexual reproduction in plants in which new plants develop from vegetative parts such as roots, stems or leaves.
+
+Examples:
+
+* Potato: stem tuber.
+* Ginger: rhizome.
+* Onion: bulb.
+* Bryophyllum: leaves.
+* Sugarcane: stem cuttings.
+
+Vegetative propagation is widely used in agriculture and horticulture.
+
+## 1.4 Sexual Reproduction
+
+Sexual reproduction involves the formation and fusion of gametes.
+
+In humans, the male gamete is the sperm and the female gamete is the ovum or egg.
+
+Fusion of the gametes is called fertilisation.
+
+Fertilisation produces a zygote, which develops through successive stages into an embryo.
+
+Sexual reproduction creates new combinations of inherited genetic material.
+
+## 1.5 Sexual and Asexual Reproduction
+
+| Feature                    | Asexual Reproduction                           | Sexual Reproduction                                                                    |
+| -------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Number of parents involved | Usually one                                    | Usually two gametes; these may come from one or two parents, depending on the organism |
+| Gamete fusion              | Absent                                         | Present                                                                                |
+| Genetic variation          | Often relatively limited                       | Usually greater                                                                        |
+| Speed                      | Often rapid                                    | May take longer                                                                        |
+| Examples                   | Binary fission, budding                        | Human reproduction, flowering plant reproduction                                       |
+| Evolutionary significance  | Can maintain successful combinations of traits | Produces new combinations of alleles                                                   |
+
+---
+
+# CHAPTER 2: MALE REPRODUCTIVE SYSTEM
+
+## 2.1 Introduction
+
+The male reproductive system produces sperm cells and male reproductive hormones.
+
+In humans, the main structures include:
+
+* Testes.
+* Scrotum.
+* Epididymis.
+* Vas deferens.
+* Ejaculatory ducts.
+* Urethra.
+* Penis.
+* Seminal vesicles.
+* Prostate gland.
+* Bulbourethral glands.
+
+Each structure performs a particular role in reproductive function.
+
+## 2.2 Testes
+
+The testes are the primary male reproductive organs.
+
+They perform two major functions:
+
+1. Production of sperm.
+2. Secretion of testosterone and other hormones.
+
+The testes contain seminiferous tubules, where sperm production occurs.
+
+Cells called Sertoli cells support developing sperm cells.
+
+Leydig cells, located between the seminiferous tubules, produce testosterone in response to hormonal stimulation.
+
+## 2.3 Scrotum
+
+The scrotum is a skin-covered pouch that contains the testes.
+
+It helps regulate testicular temperature.
+
+Normal sperm production requires a temperature somewhat below core body temperature.
+
+The scrotum changes the position of the testes in response to temperature and other physiological conditions.
+
+## 2.4 Epididymis
+
+The epididymis is a long, coiled tube located along the back of each testis.
+
+Functions:
+
+* Sperm maturation.
+* Sperm storage.
+* Transport of sperm toward the vas deferens.
+
+Sperm acquire important functional abilities during their passage through the epididymis.
+
+## 2.5 Vas Deferens
+
+The vas deferens is a muscular tube that transports sperm from the epididymis toward the ejaculatory duct.
+
+Its muscular wall helps move sperm during ejaculation.
+
+## 2.6 Seminal Vesicles
+
+The seminal vesicles produce a substantial portion of the fluid in semen.
+
+Their secretion contains substances that support sperm function, including fructose.
+
+Fructose provides an energy source for sperm.
+
+## 2.7 Prostate Gland
+
+The prostate gland contributes fluid to semen.
+
+Prostatic secretions contain substances that support the environment in which sperm travel.
+
+The prostate surrounds part of the urethra below the urinary bladder.
+
+## 2.8 Bulbourethral Glands
+
+These glands produce a mucus-like secretion that helps lubricate the urethra.
+
+They are also called Cowper's glands.
+
+## 2.9 Urethra
+
+The urethra is a tube that carries urine out of the body.
+
+In males, it also carries semen during ejaculation, although the urinary and reproductive processes are coordinated so that urine and semen are not normally passed simultaneously.
+
+## 2.10 Penis
+
+The penis is the external male reproductive organ.
+
+It contains erectile tissues that become engorged with blood during an erection.
+
+It serves reproductive and urinary functions.
+
+## 2.11 Sperm Structure
+
+A sperm cell is specialised for fertilisation.
+
+Its major regions are:
+
+### Head
+
+Contains the nucleus with paternal genetic material.
+
+### Acrosome
+
+Contains enzymes that help sperm interact with the egg's outer coverings.
+
+### Midpiece
+
+Contains mitochondria that supply energy for sperm movement.
+
+### Tail
+
+Helps propel the sperm.
+
+A mature human sperm normally carries 23 chromosomes.
+
+---
+
+# CHAPTER 3: SPERM PRODUCTION AND MALE HORMONES
+
+## 3.1 Spermatogenesis
+
+Spermatogenesis is the process of sperm formation in the seminiferous tubules of the testes.
+
+It begins around puberty and continues through adult life, although the rate and quality of sperm production may change with age and health.
+
+### Main Stages
+
+1. Spermatogonia divide by mitosis.
+2. Some develop into primary spermatocytes.
+3. Primary spermatocytes undergo meiosis I.
+4. Secondary spermatocytes are formed.
+5. Secondary spermatocytes undergo meiosis II.
+6. Haploid spermatids are produced.
+7. Spermatids differentiate into spermatozoa.
+
+A primary spermatocyte normally contains 46 chromosomes.
+
+Following meiosis, each spermatid contains 23 chromosomes.
+
+Spermiogenesis is the transformation of spermatids into mature-looking sperm cells.
+
+## 3.2 Hormonal Control
+
+Sperm production is controlled by interactions between the hypothalamus, pituitary gland and testes.
+
+### Gonadotropin-Releasing Hormone (GnRH)
+
+GnRH is released by the hypothalamus.
+
+It stimulates the anterior pituitary gland to release gonadotropins.
+
+### Follicle-Stimulating Hormone (FSH)
+
+FSH acts on Sertoli cells and supports sperm production.
+
+### Luteinising Hormone (LH)
+
+LH stimulates Leydig cells to produce testosterone.
+
+### Testosterone
+
+Testosterone contributes to:
+
+* Development of male reproductive organs.
+* Male secondary sexual characteristics.
+* Support of sperm production.
+* Maintenance of certain reproductive functions.
+
+## 3.3 Puberty
+
+Puberty is the period during which the body develops reproductive capability and secondary sexual characteristics.
+
+Changes vary between individuals.
+
+Common male pubertal changes include:
+
+* Growth of the testes and penis.
+* Increased facial and body hair.
+* Voice changes.
+* Increased muscle development.
+* Beginning of sperm production.
+
+Puberty is regulated by hormonal changes involving the brain and reproductive organs.
+
+---
+
+# CHAPTER 4: FEMALE REPRODUCTIVE SYSTEM
+
+## 4.1 Introduction
+
+The female reproductive system produces ova, secretes reproductive hormones and supports fertilisation and pregnancy.
+
+Major structures include:
+
+* Ovaries.
+* Fallopian tubes.
+* Uterus.
+* Cervix.
+* Vagina.
+* External genital structures.
+
+## 4.2 Ovaries
+
+The ovaries are the primary female reproductive organs.
+
+Their major functions are:
+
+1. Production and release of oocytes.
+2. Secretion of oestrogens.
+3. Secretion of progesterone, mainly by the corpus luteum after ovulation.
+
+The ovaries contain follicles at different stages of development.
+
+An ovarian follicle contains an immature egg cell surrounded by supporting cells.
+
+## 4.3 Fallopian Tubes
+
+The fallopian tubes are also called uterine tubes or oviducts.
+
+They transport the oocyte from the region of the ovary toward the uterus.
+
+Fertilisation commonly occurs in the ampulla, the wider region of the fallopian tube.
+
+Cilia and muscular contractions help move the reproductive cell and early embryo.
+
+## 4.4 Uterus
+
+The uterus is a muscular organ in which an embryo may implant and develop during pregnancy.
+
+Its major layers include:
+
+* Endometrium.
+* Myometrium.
+* Perimetrium.
+
+### Endometrium
+
+The inner lining undergoes cyclical changes and is the usual site of implantation.
+
+### Myometrium
+
+The thick muscular layer produces contractions, including during labour.
+
+### Perimetrium
+
+The outer covering of the uterus.
+
+## 4.5 Cervix
+
+The cervix is the lower part of the uterus that opens into the vagina.
+
+It produces cervical mucus, whose properties change during the menstrual cycle.
+
+During labour, the cervix dilates to permit passage of the baby.
+
+## 4.6 Vagina
+
+The vagina is a muscular, elastic canal connecting the cervix with the exterior of the body.
+
+Functions include:
+
+* Receiving sperm during sexual intercourse.
+* Serving as the passage for menstrual flow.
+* Acting as the birth canal during vaginal delivery.
+
+## 4.7 Mammary Glands
+
+Mammary glands produce milk after childbirth.
+
+Milk production is primarily stimulated by prolactin.
+
+Milk ejection, also called the let-down reflex, is stimulated by oxytocin.
+
+## 4.8 Female Reproductive System – Summary
+
+| Structure       | Main function                                    |
+| --------------- | ------------------------------------------------ |
+| Ovaries         | Produce oocytes and reproductive hormones        |
+| Fallopian tubes | Transport oocytes; usual site of fertilisation   |
+| Uterus          | Supports implantation and pregnancy              |
+| Endometrium     | Uterine lining where implantation usually occurs |
+| Cervix          | Lower uterine opening                            |
+| Vagina          | Muscular canal and birth canal                   |
+| Mammary glands  | Produce milk after childbirth                    |
+
+---
+
+# CHAPTER 5: OOGENESIS AND FEMALE HORMONES
+
+## 5.1 Oogenesis
+
+Oogenesis is the process of female gamete development.
+
+Unlike sperm production, oogenesis begins before birth.
+
+During foetal development, precursor cells develop into primary oocytes.
+
+Primary oocytes begin meiosis but remain arrested in prophase I.
+
+After puberty, during reproductive cycles, some oocytes resume development.
+
+Usually, one dominant follicle releases an oocyte during ovulation in a typical menstrual cycle.
+
+The cell divisions are unequal, producing one large functional female gamete and smaller polar bodies.
+
+## 5.2 Oestrogen
+
+Oestrogens are a group of hormones.
+
+They contribute to:
+
+* Development of female reproductive organs.
+* Female secondary sexual characteristics.
+* Growth of the uterine lining.
+* Regulation of the menstrual cycle.
+* Maintenance of bone health.
+
+## 5.3 Progesterone
+
+Progesterone is important in preparing and maintaining the uterine lining for pregnancy.
+
+After ovulation, the corpus luteum produces progesterone.
+
+If pregnancy occurs, hormonal signals help maintain progesterone production until the placenta becomes the major source later in pregnancy.
+
+## 5.4 FSH and LH
+
+FSH supports ovarian follicle development.
+
+LH contributes to final follicular maturation and triggers ovulation through a surge in LH.
+
+After ovulation, LH supports formation and function of the corpus luteum.
+
+## 5.5 Prolactin
+
+Prolactin is secreted by the anterior pituitary gland.
+
+It stimulates milk production after childbirth.
+
+## 5.6 Oxytocin
+
+Oxytocin is produced in the hypothalamus and released from the posterior pituitary.
+
+It contributes to:
+
+* Uterine contractions during labour.
+* Milk ejection during breastfeeding.
+
+---
+
+# CHAPTER 6: MENSTRUAL CYCLE
+
+## 6.1 Definition
+
+The menstrual cycle consists of cyclical changes in the ovaries and uterus that prepare the body for a possible pregnancy.
+
+Cycle length varies among individuals and can vary from month to month.
+
+A 28-day cycle is often used as a teaching example, but it is not the only normal cycle length.
+
+## 6.2 Menstrual Phase
+
+If pregnancy has not occurred, the uterine lining breaks down and is shed.
+
+This produces menstrual bleeding.
+
+The start of menstrual bleeding is counted as day 1 of the cycle.
+
+## 6.3 Follicular Phase
+
+FSH supports the development of ovarian follicles.
+
+Developing follicles produce oestrogen.
+
+Oestrogen helps rebuild and thicken the uterine lining.
+
+The follicular phase begins on day 1 and continues until ovulation.
+
+Its duration is a major source of variation in total cycle length.
+
+## 6.4 Ovulation
+
+Ovulation is the release of an oocyte from a mature ovarian follicle.
+
+A surge in LH is the main hormonal trigger.
+
+In a 28-day textbook cycle, ovulation is often illustrated around day 14, but the timing differs between individuals and cycles.
+
+## 6.5 Luteal Phase
+
+After ovulation, the remaining follicular tissue forms the corpus luteum.
+
+The corpus luteum secretes progesterone and some oestrogen.
+
+These hormones help maintain the uterine lining.
+
+If pregnancy does not occur, the corpus luteum regresses, hormone levels decline and menstruation begins.
+
+If pregnancy occurs, hormonal signals support the corpus luteum early in pregnancy.
+
+## 6.6 Hormonal Changes
+
+| Hormone      | Main role in the cycle                            |
+| ------------ | ------------------------------------------------- |
+| FSH          | Supports follicle development                     |
+| LH           | Surge triggers ovulation                          |
+| Oestrogen    | Supports growth of the uterine lining             |
+| Progesterone | Helps maintain the uterine lining after ovulation |
+
+## 6.7 Menstrual Cycle – Important Facts
+
+* Day 1 is the first day of menstrual bleeding.
+* Ovulation is triggered by an LH surge.
+* The corpus luteum forms after ovulation.
+* Progesterone is important during the luteal phase.
+* Menstruation occurs when ovarian hormone levels fall if pregnancy has not occurred.
+
+---
+
+# CHAPTER 7: FERTILISATION AND EARLY EMBRYONIC DEVELOPMENT
+
+## 7.1 Fertilisation
+
+Fertilisation is the fusion of a sperm and an oocyte to form a zygote.
+
+In humans, fertilisation commonly occurs in the ampulla of the fallopian tube.
+
+The sperm contributes paternal genetic material, and the oocyte contributes maternal genetic material.
+
+The resulting zygote normally has 46 chromosomes.
+
+## 7.2 Early Cell Division
+
+After fertilisation, the zygote undergoes repeated mitotic divisions called cleavage.
+
+The early embryo passes through several stages.
+
+### Zygote
+
+The single cell formed at fertilisation.
+
+### Morula
+
+A compact cluster of cells formed after early cleavage divisions.
+
+### Blastocyst
+
+A stage containing:
+
+* An outer cell layer called the trophoblast.
+* An inner cell mass.
+* A fluid-filled cavity.
+
+The inner cell mass contributes to the embryo, while the trophoblast contributes to structures involved in implantation and placental development.
+
+## 7.3 Implantation
+
+Implantation occurs when the blastocyst attaches to and begins embedding in the uterine lining.
+
+The trophoblast contributes to formation of the placenta.
+
+Implantation is essential for establishing the relationship between the developing embryo and the maternal tissues.
+
+## 7.4 Placenta
+
+The placenta is a temporary organ that develops during pregnancy.
+
+Functions include:
+
+* Exchange of oxygen and carbon dioxide.
+* Transfer of nutrients.
+* Removal of certain waste products.
+* Production of hormones.
+* Support of communication between maternal and foetal systems.
+
+Maternal and foetal blood normally do not mix directly in large amounts, although substances can cross the placental barrier.
+
+Some medicines, alcohol and infectious agents can cross the placenta, which is one reason pregnancy requires appropriate medical guidance.
+
+## 7.5 Umbilical Cord
+
+The umbilical cord connects the developing foetus to the placenta.
+
+It normally contains:
+
+* Two umbilical arteries.
+* One umbilical vein.
+
+The umbilical vein carries oxygen-rich blood from the placenta toward the foetus.
+
+The umbilical arteries carry blood from the foetus toward the placenta.
+
+## 7.6 Amniotic Fluid
+
+Amniotic fluid surrounds the developing embryo and foetus.
+
+Functions include:
+
+* Cushioning against physical impact.
+* Allowing movement.
+* Supporting relatively stable conditions.
+* Helping prevent some forms of mechanical compression.
+
+## 7.7 Stages of Prenatal Development
+
+### Germinal Stage
+
+The early period from fertilisation through the initial stages of development and implantation.
+
+### Embryonic Stage
+
+The early developmental period during which major body structures begin to form.
+
+### Foetal Stage
+
+The later period of prenatal development, characterised by growth and maturation of organs.
+
+The terms embryo and foetus refer to different stages of prenatal development.
+
+---
+
+# CHAPTER 8: PREGNANCY, CHILDBIRTH AND LACTATION
+
+## 8.1 Pregnancy
+
+Pregnancy begins after successful implantation and establishment of the developing embryo in the uterus.
+
+Human pregnancy is commonly described as lasting about 40 weeks from the first day of the last menstrual period, although actual delivery timing varies.
+
+## 8.2 Human Chorionic Gonadotropin
+
+Human chorionic gonadotropin, or hCG, is produced by trophoblast-derived tissues early in pregnancy.
+
+It supports the corpus luteum during early pregnancy.
+
+Pregnancy tests commonly detect hCG in urine or blood.
+
+## 8.3 Childbirth
+
+Childbirth, or parturition, is the process through which the baby is delivered.
+
+Important processes include:
+
+1. Cervical changes and dilation.
+2. Uterine contractions.
+3. Delivery of the baby.
+4. Delivery of the placenta.
+
+Labour involves complex interactions among hormones, the uterus, the cervix and other physiological factors.
+
+## 8.4 Lactation
+
+Lactation is the production and secretion of breast milk.
+
+Prolactin stimulates milk production.
+
+Oxytocin stimulates milk ejection.
+
+Breast milk provides nutrients and immune-related components to the infant.
+
+The composition of milk changes during lactation to meet changing needs.
+
+## 8.5 Colostrum
+
+Colostrum is the early milk produced around childbirth.
+
+It contains concentrated nutrients and immune components, including antibodies.
+
+It plays an important role in early infant feeding.
+
+---
+
+# CHAPTER 9: REPRODUCTIVE HEALTH
+
+## 9.1 Meaning
+
+Reproductive health is a state of physical, mental and social well-being in matters relating to the reproductive system.
+
+It includes:
+
+* Understanding reproductive biology.
+* Menstrual health.
+* Prevention and treatment of reproductive infections.
+* Access to appropriate medical care.
+* Safe pregnancy and childbirth.
+* Informed reproductive decisions.
+* Protection from coercion and abuse.
+
+Reproductive health education should be scientifically accurate, age-appropriate and respectful.
+
+## 9.2 Importance of Reproductive Health Education
+
+Education can help individuals:
+
+1. Understand normal body changes.
+2. Recognise when medical advice is needed.
+3. Understand the basics of fertility and reproduction.
+4. Prevent the spread of certain infections.
+5. Make informed health decisions.
+6. Understand consent and personal boundaries.
+7. Reduce misinformation and stigma.
+
+## 9.3 Menstrual Hygiene
+
+Menstrual hygiene involves safely managing menstrual bleeding.
+
+Good practices include:
+
+* Using clean menstrual products.
+* Changing products as recommended.
+* Washing hands before and after changing products.
+* Cleaning reusable products appropriately.
+* Disposing of used products safely.
+* Seeking medical advice for unusually severe pain or bleeding.
+
+Menstruation is a normal biological process and should not be treated as a source of shame.
+
+## 9.4 Menstrual Problems
+
+Some people experience cramps or changes in bleeding.
+
+Medical evaluation may be appropriate when symptoms significantly affect daily activities or include unusually heavy bleeding, severe pain, faintness or other concerning changes.
+
+Possible causes vary, and symptoms should not automatically be attributed to one condition.
+
+## 9.5 Sexually Transmitted Infections
+
+Sexually transmitted infections, or STIs, are infections that can spread through sexual contact. Some can also spread through blood exposure or from parent to child during pregnancy, childbirth or breastfeeding.
+
+Examples include:
+
+* HIV.
+* Syphilis.
+* Gonorrhoea.
+* Chlamydia.
+* Human papillomavirus infection.
+* Genital herpes.
+* Hepatitis B.
+
+Some STIs cause noticeable symptoms, while others may be asymptomatic.
+
+Testing and appropriate medical treatment are important because untreated infections can cause complications.
+
+## 9.6 Prevention of STIs
+
+Public-health prevention includes:
+
+* Accurate health education.
+* Appropriate vaccination, such as HPV and hepatitis B vaccination when indicated.
+* Correct and consistent condom use by sexually active people.
+* Testing based on risk and medical guidance.
+* Timely treatment.
+* Avoiding the sharing of contaminated needles.
+* Appropriate medical care during pregnancy.
+
+Prevention strategies differ by infection.
+
+## 9.7 HIV and AIDS
+
+HIV stands for Human Immunodeficiency Virus.
+
+HIV attacks important cells of the immune system, especially CD4 T lymphocytes.
+
+AIDS stands for Acquired Immunodeficiency Syndrome.
+
+AIDS is an advanced stage of HIV infection that can occur when immune damage becomes severe.
+
+HIV can be transmitted through certain body fluids, including blood, semen, vaginal fluids and breast milk.
+
+HIV is not transmitted through ordinary social contact such as hugging, sharing food or sitting beside someone.
+
+Antiretroviral therapy can control HIV and help people live long, healthy lives. Effective treatment can also reduce the risk of sexual transmission to an extremely low level when viral suppression is sustained.
+
+## 9.8 HPV
+
+Human papillomavirus is a group of viruses.
+
+Some HPV types cause warts, while certain high-risk types can cause cancers, including cervical cancer.
+
+HPV vaccination helps prevent infections caused by important cancer-associated HPV types.
+
+Cervical screening can detect precancerous changes and help prevent cervical cancer.
+
+## 9.9 Hepatitis B
+
+Hepatitis B is a viral infection that affects the liver.
+
+It can spread through infected blood and certain body fluids and can also be transmitted from mother to child.
+
+Vaccination is an important preventive measure.
+
+---
+
+# CHAPTER 10: FAMILY PLANNING AND CONTRACEPTION
+
+## 10.1 Meaning of Family Planning
+
+Family planning allows individuals and couples to make informed decisions about the timing and spacing of pregnancies.
+
+It contributes to maternal and child health.
+
+Family planning services should be voluntary, informed and respectful.
+
+## 10.2 Types of Contraception
+
+Contraceptive methods are commonly grouped into several categories.
+
+### Barrier Methods
+
+These methods physically reduce the chance of sperm reaching the egg.
+
+Examples:
+
+* Male condoms.
+* Female condoms.
+
+Condoms can also reduce the risk of many STIs.
+
+### Hormonal Methods
+
+These use hormones to prevent pregnancy.
+
+Examples include:
+
+* Combined oral contraceptive pills.
+* Progestin-only pills.
+* Some injections.
+* Implants.
+* Hormonal intrauterine systems.
+
+Different methods have different benefits, limitations and medical considerations.
+
+### Intrauterine Devices
+
+An intrauterine device, or IUD, is placed in the uterus by a trained healthcare professional.
+
+Types include:
+
+* Copper IUDs.
+* Hormonal IUDs.
+
+They provide effective contraception for varying durations depending on the device.
+
+### Emergency Contraception
+
+Emergency contraception can reduce the chance of pregnancy after unprotected sexual intercourse or contraceptive failure.
+
+It is time-sensitive, and the appropriate method depends on the circumstances and local medical guidance.
+
+It does not terminate an established pregnancy.
+
+### Permanent Methods
+
+Permanent contraception includes surgical procedures intended to prevent future pregnancy.
+
+Examples include vasectomy and tubal procedures.
+
+These require informed decision-making and appropriate medical counselling.
+
+## 10.3 Important Facts
+
+* Condoms can reduce the risk of many STIs.
+* Hormonal contraception does not protect against STIs.
+* IUDs require placement by a trained professional.
+* Contraceptive choice depends on health, preferences and circumstances.
+* No single method is suitable for every person.
+
+---
+
+# CHAPTER 11: ASSISTED REPRODUCTIVE TECHNOLOGY
+
+## 11.1 Meaning
+
+Assisted reproductive technology, or ART, includes medical techniques used to help achieve pregnancy.
+
+It may be considered when pregnancy does not occur naturally or when specific medical circumstances make assistance appropriate.
+
+## 11.2 In Vitro Fertilisation
+
+In vitro fertilisation, or IVF, involves fertilising an egg with sperm outside the body in a laboratory setting.
+
+The general process may include:
+
+1. Assessment and preparation.
+2. Stimulation of ovarian follicles when appropriate.
+3. Collection of oocytes.
+4. Fertilisation in the laboratory.
+5. Development and assessment of embryos.
+6. Transfer of a selected embryo to the uterus when appropriate.
+
+Not every IVF cycle results in pregnancy.
+
+## 11.3 Intracytoplasmic Sperm Injection
+
+Intracytoplasmic sperm injection, or ICSI, involves injecting a single sperm into an egg.
+
+It is used in certain fertility situations.
+
+## 11.4 Artificial Insemination
+
+Artificial insemination involves introducing sperm into the reproductive tract using a medical procedure.
+
+The method and location depend on the specific technique.
+
+## 11.5 Important Considerations
+
+Assisted reproduction involves medical, emotional, financial and ethical considerations.
+
+Outcomes depend on factors such as age, underlying medical conditions, treatment method and individual circumstances.
+
+---
+
+# PART 10: HUMAN HEALTH, DISEASES, IMMUNITY AND NUTRITION
+
+# CHAPTER 12: INTRODUCTION TO HUMAN HEALTH
+
+## 12.1 Definition of Health
+
+Health is more than the absence of disease.
+
+The World Health Organization traditionally defines health as a state of complete physical, mental and social well-being, rather than merely the absence of disease or infirmity.
+
+Health is influenced by biological, psychological, social, economic and environmental factors.
+
+## 12.2 Dimensions of Health
+
+### Physical Health
+
+Relates to body function, fitness, nutrition and freedom from or management of disease.
+
+### Mental Health
+
+Relates to emotional well-being, coping, thinking and daily functioning.
+
+### Social Health
+
+Relates to relationships, social support and participation in communities.
+
+### Environmental Health
+
+Concerns factors such as clean water, sanitation, housing, air quality and safe surroundings.
+
+## 12.3 Determinants of Health
+
+Important determinants include:
+
+* Heredity.
+* Nutrition.
+* Physical activity.
+* Sleep.
+* Access to healthcare.
+* Safe housing.
+* Clean water.
+* Sanitation.
+* Education.
+* Income and social conditions.
+* Environmental quality.
+
+Health outcomes are influenced by the interaction of many determinants.
+
+## 12.4 Personal Hygiene
+
+Personal hygiene helps reduce the spread of certain infectious diseases.
+
+Important practices include:
+
+* Handwashing.
+* Safe food handling.
+* Oral hygiene.
+* Regular bathing.
+* Keeping wounds clean.
+* Appropriate sanitation.
+* Safe drinking water.
+* Respiratory hygiene when ill.
+
+Hygiene is one part of disease prevention and does not eliminate every risk.
+
+---
+
+# CHAPTER 13: HEALTHY NUTRITION
+
+## 13.1 Meaning of Nutrition
+
+Nutrition is the process through which organisms obtain and use nutrients for energy, growth, maintenance and repair.
+
+Humans require several categories of nutrients.
+
+The major categories include:
+
+1. Carbohydrates.
+2. Proteins.
+3. Fats.
+4. Vitamins.
+5. Minerals.
+6. Water.
+
+Dietary fibre is also important for normal digestive health.
+
+## 13.2 Balanced Diet
+
+A balanced diet provides adequate energy and essential nutrients in appropriate amounts for an individual's needs.
+
+Requirements vary according to:
+
+* Age.
+* Growth.
+* Physical activity.
+* Pregnancy and lactation.
+* Health conditions.
+* Other individual factors.
+
+A balanced diet generally includes a variety of vegetables, fruits, whole grains, protein-rich foods and appropriate sources of fats, alongside adequate water.
+
+## 13.3 Importance of Nutrition
+
+Nutrition supports:
+
+* Growth and development.
+* Energy production.
+* Immune function.
+* Tissue repair.
+* Hormone production.
+* Brain function.
+* Bone health.
+* Normal blood formation.
+
+Long-term nutrient deficiencies can impair health and development.
+
+## 13.4 Malnutrition
+
+Malnutrition refers to deficiencies, excesses or imbalances in energy or nutrients.
+
+It includes:
+
+* Undernutrition.
+* Micronutrient deficiencies.
+* Overnutrition.
+* Diet-related health problems.
+
+Malnutrition can affect people of different ages and backgrounds.
+
+---
+
+# CHAPTER 14: CARBOHYDRATES
+
+## 14.1 Definition
+
+Carbohydrates are organic compounds made mainly of carbon, hydrogen and oxygen.
+
+They are an important source of energy in the human diet.
+
+One gram of digestible carbohydrate provides approximately 4 kilocalories of energy.
+
+## 14.2 Types of Carbohydrates
+
+### Monosaccharides
+
+These are simple sugars consisting of a single sugar unit.
+
+Examples:
+
+* Glucose.
+* Fructose.
+* Galactose.
+
+Glucose is an important fuel used by cells.
+
+### Disaccharides
+
+These contain two monosaccharide units.
+
+Examples:
+
+* Sucrose.
+* Lactose.
+* Maltose.
+
+Sucrose consists of glucose and fructose.
+
+Lactose consists of glucose and galactose.
+
+Maltose consists of two glucose units.
+
+### Polysaccharides
+
+These are long chains of sugar units.
+
+Examples:
+
+* Starch.
+* Glycogen.
+* Cellulose.
+
+Starch is an important storage carbohydrate in plants.
+
+Glycogen is a storage carbohydrate in animals and is found especially in the liver and skeletal muscles.
+
+Cellulose is a major component of plant cell walls and acts as dietary fibre in humans.
+
+## 14.3 Functions of Carbohydrates
+
+1. Supply energy.
+2. Help maintain blood glucose.
+3. Provide stored energy as glycogen.
+4. Contribute to the structure of some biological molecules.
+5. Support digestive health when consumed as fibre-rich foods.
+
+## 14.4 Digestion of Carbohydrates
+
+Digestion begins in the mouth.
+
+Salivary amylase begins breaking down starch.
+
+In the small intestine, pancreatic amylase and brush-border enzymes continue carbohydrate digestion.
+
+Simple sugars are absorbed through the small intestine and enter the bloodstream.
+
+## 14.5 Sources
+
+Examples include:
+
+* Rice.
+* Wheat.
+* Millets.
+* Oats.
+* Potatoes.
+* Fruits.
+* Legumes.
+* Milk.
+* Vegetables.
+
+Whole grains and fibre-rich foods provide benefits beyond energy alone.
+
+---
+
+# CHAPTER 15: PROTEINS
+
+## 15.1 Definition
+
+Proteins are large biological molecules made of amino acids linked by peptide bonds.
+
+They contain carbon, hydrogen, oxygen and nitrogen; some also contain sulphur or other elements.
+
+Proteins are essential for the structure and functioning of cells.
+
+## 15.2 Amino Acids
+
+Amino acids are the building blocks of proteins.
+
+Humans use 20 standard amino acids to build proteins.
+
+Nine amino acids are generally classified as essential in the human diet because the body cannot synthesise them in sufficient amounts.
+
+They must be obtained from food.
+
+## 15.3 Functions of Proteins
+
+Proteins:
+
+* Build and repair tissues.
+* Form enzymes.
+* Contribute to hormones and signalling molecules.
+* Form antibodies.
+* Transport substances.
+* Support muscle function.
+* Help maintain fluid balance.
+* Contribute to blood clotting.
+* Support cellular structure.
+
+## 15.4 Sources of Protein
+
+Animal sources:
+
+* Eggs.
+* Fish.
+* Milk.
+* Curd.
+* Meat.
+
+Plant sources:
+
+* Lentils.
+* Beans.
+* Peas.
+* Soy products.
+* Nuts.
+* Seeds.
+
+A varied diet can provide the amino acids needed for normal body functions.
+
+## 15.5 Protein Deficiency
+
+Severe protein-energy malnutrition can affect growth, muscle mass and immune function.
+
+Kwashiorkor is a severe form of malnutrition traditionally associated with oedema and other clinical features.
+
+Marasmus is associated with severe wasting due to inadequate energy intake, often accompanied by inadequate protein intake.
+
+These conditions require appropriate medical and nutritional care.
+
+## 15.6 Protein Digestion
+
+Protein digestion begins mainly in the stomach.
+
+Pepsin breaks proteins into smaller peptides.
+
+In the small intestine, pancreatic enzymes and intestinal peptidases continue digestion.
+
+Amino acids and small peptides are absorbed and used by the body.
+
+---
+
+# CHAPTER 16: FATS AND LIPIDS
+
+## 16.1 Definition
+
+Lipids are a broad group of biological molecules that include fats, oils, phospholipids and steroids.
+
+Fats provide concentrated energy.
+
+One gram of fat provides approximately 9 kilocalories.
+
+## 16.2 Functions of Fats
+
+Fats:
+
+* Store energy.
+* Form part of cell membranes.
+* Help insulate the body.
+* Protect certain organs.
+* Support absorption of vitamins A, D, E and K.
+* Provide essential fatty acids.
+* Contribute to hormone synthesis through certain lipid pathways.
+
+## 16.3 Saturated and Unsaturated Fats
+
+### Saturated Fats
+
+Contain fatty acids without carbon-carbon double bonds.
+
+Sources include certain animal fats and some tropical oils.
+
+### Unsaturated Fats
+
+Contain one or more carbon-carbon double bonds.
+
+They include monounsaturated and polyunsaturated fats.
+
+Sources include:
+
+* Nuts.
+* Seeds.
+* Certain vegetable oils.
+* Fish.
+
+The health effect depends on the type of fat and the overall dietary pattern. Replacing some saturated fats with unsaturated fats can support cardiovascular health.
+
+## 16.4 Essential Fatty Acids
+
+Some fatty acids cannot be synthesised by humans in sufficient amounts.
+
+Linoleic acid and alpha-linolenic acid are essential fatty acids that must be obtained through the diet.
+
+They support normal cellular and physiological functions.
+
+## 16.5 Cholesterol
+
+Cholesterol is a lipid used in:
+
+* Cell membranes.
+* Steroid hormone production.
+* Bile acid production.
+* Vitamin D synthesis pathways.
+
+The body produces cholesterol, and it is also obtained from some foods.
+
+Blood cholesterol levels are influenced by genetics, diet, health conditions and other factors.
+
+---
+
+# CHAPTER 17: VITAMINS
+
+Vitamins are organic micronutrients needed in small amounts for normal growth and body functions.
+
+They are generally classified as fat-soluble or water-soluble.
+
+## 17.1 Fat-Soluble Vitamins
+
+The fat-soluble vitamins are:
+
+* A.
+* D.
+* E.
+* K.
+
+They can be stored in the body, particularly in the liver and fatty tissues, so excessive intake of certain supplements can be harmful.
+
+## 17.2 Vitamin A
+
+Functions:
+
+* Supports vision.
+* Helps maintain epithelial tissues.
+* Supports immune function.
+* Contributes to growth and development.
+
+Sources include:
+
+* Liver.
+* Eggs.
+* Dairy products.
+* Orange and yellow vegetables.
+* Dark green leafy vegetables.
+
+Deficiency can cause night blindness and, in severe cases, eye damage.
+
+## 17.3 Vitamin D
+
+Functions:
+
+* Helps regulate calcium and phosphate.
+* Supports bone mineralisation.
+* Contributes to muscle function.
+
+The skin can produce vitamin D after exposure to ultraviolet B radiation.
+
+Dietary sources include certain fish, fortified foods and some other foods.
+
+Deficiency in children can cause rickets.
+
+Deficiency in adults can contribute to osteomalacia.
+
+## 17.4 Vitamin E
+
+Vitamin E includes compounds with antioxidant functions.
+
+It helps protect cell membranes from oxidative damage.
+
+Sources include:
+
+* Nuts.
+* Seeds.
+* Vegetable oils.
+* Some green vegetables.
+
+Severe deficiency is uncommon but may affect nerves and muscles.
+
+## 17.5 Vitamin K
+
+Vitamin K is important for normal blood clotting.
+
+It also contributes to bone-related processes.
+
+Sources include:
+
+* Green leafy vegetables.
+* Some vegetable oils.
+* Certain other foods.
+
+Newborn infants may require vitamin K prophylaxis according to medical guidelines because low vitamin K levels can increase bleeding risk.
+
+## 17.6 Water-Soluble Vitamins
+
+The water-soluble vitamins include vitamin C and the B-complex vitamins.
+
+Many require regular dietary intake because the body stores them less extensively than fat-soluble vitamins, although some B vitamins can be stored in meaningful amounts.
+
+## 17.7 Vitamin B1 – Thiamine
+
+Functions:
+
+* Supports energy metabolism.
+* Helps normal nervous system function.
+
+Deficiency can cause beriberi.
+
+Severe thiamine deficiency can also cause neurological problems, including Wernicke encephalopathy in susceptible individuals.
+
+Sources include whole grains, legumes, nuts and other foods.
+
+## 17.8 Vitamin B2 – Riboflavin
+
+Functions:
+
+* Supports energy metabolism.
+* Forms part of important coenzymes.
+
+Deficiency can cause inflammation of the mouth and tongue and other symptoms.
+
+Sources include dairy products, eggs, legumes and some green vegetables.
+
+## 17.9 Vitamin B3 – Niacin
+
+Functions:
+
+* Contributes to energy metabolism.
+* Forms NAD and NADP, important coenzymes.
+
+Severe deficiency causes pellagra.
+
+The classical features of pellagra are often summarised as the four Ds:
+
+* Dermatitis.
+* Diarrhoea.
+* Dementia.
+* Death.
+
+The fourth is a historical clinical mnemonic for untreated severe disease, not a prediction for every person with deficiency.
+
+## 17.10 Vitamin B6 – Pyridoxine
+
+Functions:
+
+* Supports amino acid metabolism.
+* Helps produce neurotransmitters.
+* Contributes to haemoglobin production.
+
+Deficiency can cause neurological and blood-related problems.
+
+## 17.11 Vitamin B9 – Folate
+
+Functions:
+
+* Supports DNA synthesis.
+* Supports cell division.
+* Contributes to red blood cell formation.
+
+Folate is especially important during early pregnancy because adequate intake reduces the risk of neural tube defects.
+
+Sources include leafy vegetables, legumes and fortified foods.
+
+## 17.12 Vitamin B12 – Cobalamin
+
+Functions:
+
+* Supports normal nerve function.
+* Supports DNA synthesis.
+* Contributes to red blood cell formation.
+
+Deficiency can cause megaloblastic anaemia and neurological problems.
+
+Natural dietary sources are mainly animal-derived foods, although fortified foods and supplements can provide B12.
+
+## 17.13 Vitamin C – Ascorbic Acid
+
+Functions:
+
+* Supports collagen synthesis.
+* Helps wound healing.
+* Supports normal connective tissue.
+* Enhances absorption of non-haem iron from plant foods.
+* Functions as an antioxidant.
+
+Deficiency causes scurvy.
+
+Sources include citrus fruits, guava, tomatoes, peppers and other fruits and vegetables.
+
+## 17.14 Vitamin Deficiency Table
+
+| Vitamin     | Deficiency condition or effect                                                               |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| Vitamin A   | Night blindness                                                                              |
+| Vitamin B1  | Beriberi                                                                                     |
+| Vitamin B3  | Pellagra                                                                                     |
+| Vitamin B9  | Megaloblastic changes; increased risk of neural tube defects with inadequate maternal folate |
+| Vitamin B12 | Megaloblastic anaemia and possible neurological problems                                     |
+| Vitamin C   | Scurvy                                                                                       |
+| Vitamin D   | Rickets in children; osteomalacia in adults                                                  |
+| Vitamin K   | Increased bleeding tendency                                                                  |
+
+---
+
+# CHAPTER 18: MINERALS AND WATER
+
+## 18.1 Minerals
+
+Minerals are inorganic nutrients required for normal physiological functions.
+
+Important minerals include:
+
+* Calcium.
+* Phosphorus.
+* Iron.
+* Iodine.
+* Sodium.
+* Potassium.
+* Zinc.
+* Magnesium.
+
+## 18.2 Calcium
+
+Calcium is essential for:
+
+* Bones and teeth.
+* Muscle contraction.
+* Nerve signalling.
+* Blood clotting.
+* Cellular communication.
+
+Sources include dairy products, some green vegetables, calcium-set tofu and fortified foods.
+
+Long-term inadequate calcium intake can contribute to poor bone health.
+
+## 18.3 Phosphorus
+
+Phosphorus contributes to:
+
+* Bones and teeth.
+* ATP.
+* DNA and RNA.
+* Cell membranes.
+
+It is found in many protein-rich foods and other foods.
+
+## 18.4 Iron
+
+Iron is essential for haemoglobin and oxygen transport.
+
+It is also involved in other proteins and enzymes.
+
+Iron deficiency can cause iron-deficiency anaemia.
+
+Sources include:
+
+* Meat.
+* Legumes.
+* Green leafy vegetables.
+* Fortified grains.
+
+Vitamin C can enhance the absorption of non-haem iron from plant foods.
+
+## 18.5 Iodine
+
+Iodine is required for the synthesis of thyroid hormones.
+
+Deficiency can cause goitre and hypothyroidism.
+
+During pregnancy and early development, severe iodine deficiency can impair brain development.
+
+Iodised salt is an important public-health measure used to reduce iodine deficiency.
+
+## 18.6 Sodium and Potassium
+
+Sodium and potassium help regulate:
+
+* Fluid balance.
+* Nerve impulses.
+* Muscle function.
+* Electrical activity of cells.
+
+Excessive sodium intake can contribute to high blood pressure in susceptible individuals.
+
+## 18.7 Zinc
+
+Zinc contributes to:
+
+* Enzyme function.
+* Immune function.
+* Growth.
+* Wound healing.
+* DNA synthesis.
+
+Sources include meat, seafood, legumes, nuts and seeds.
+
+## 18.8 Water
+
+Water is essential for life.
+
+Functions include:
+
+* Transporting nutrients.
+* Regulating body temperature.
+* Supporting chemical reactions.
+* Removing waste.
+* Maintaining blood volume.
+* Lubricating joints and tissues.
+
+Water requirements vary with age, activity, climate, diet and health.
+
+Dehydration occurs when water losses exceed intake sufficiently to affect body function.
+
+---
+
+# CHAPTER 19: DIGESTIVE SYSTEM AND NUTRIENT ABSORPTION
+
+## 19.1 Main Organs
+
+The human digestive system includes:
+
+* Mouth.
+* Pharynx.
+* Oesophagus.
+* Stomach.
+* Small intestine.
+* Large intestine.
+* Rectum.
+* Anus.
+
+Accessory organs include:
+
+* Salivary glands.
+* Liver.
+* Gallbladder.
+* Pancreas.
+
+## 19.2 Digestive Enzymes
+
+| Enzyme                      | Main action                                    |
+| --------------------------- | ---------------------------------------------- |
+| Salivary amylase            | Begins starch digestion                        |
+| Pepsin                      | Begins protein digestion                       |
+| Pancreatic amylase          | Digests starch                                 |
+| Trypsin and other proteases | Break proteins and peptides into smaller units |
+| Lipase                      | Digests fats                                   |
+| Lactase                     | Breaks lactose into glucose and galactose      |
+| Maltase                     | Breaks maltose into glucose                    |
+| Sucrase                     | Breaks sucrose into glucose and fructose       |
+
+---
+
+# CHAPTER 20: BLOOD AND ITS COMPONENTS
+
+## 20.1 Introduction
+
+Blood is a specialised connective tissue that circulates through the cardiovascular system.
+
+It transports gases, nutrients, hormones, waste products and immune cells.
+
+Blood consists of plasma and formed elements.
+
+## 20.2 Plasma
+
+Plasma is the liquid component of blood.
+
+It contains:
+
+* Water.
+* Electrolytes.
+* Proteins.
+* Nutrients.
+* Hormones.
+* Waste products.
+
+Major plasma proteins include albumin, globulins and fibrinogen.
+
+Albumin helps maintain oncotic pressure.
+
+Fibrinogen contributes to blood clotting.
+
+## 20.3 Red Blood Cells
+
+Red blood cells are also called erythrocytes.
+
+They contain haemoglobin, which transports oxygen.
+
+Mature human red blood cells normally lack a nucleus.
+
+They are produced in the red bone marrow.
+
+Their lifespan is approximately 120 days under normal conditions.
+
+## 20.4 White Blood Cells
+
+White blood cells are also called leukocytes.
+
+They participate in immune defence.
+
+Major categories include:
+
+* Neutrophils.
+* Lymphocytes.
+* Monocytes.
+* Eosinophils.
+* Basophils.
+
+Different types perform different functions.
+
+Neutrophils are important in many acute bacterial infections.
+
+Lymphocytes include B cells, T cells and natural killer cells.
+
+## 20.5 Platelets
+
+Platelets are cell fragments involved in haemostasis, the process that limits bleeding.
+
+They help form a platelet plug and support the clotting process.
+
+## 20.6 Blood Functions
+
+Blood:
+
+1. Transports oxygen and carbon dioxide.
+2. Carries nutrients.
+3. Transports hormones.
+4. Helps regulate temperature.
+5. Supports immune defence.
+6. Maintains fluid and electrolyte balance.
+7. Helps stop bleeding through clot formation.
+8. Carries waste products to organs that remove them.
+
+## 20.7 Blood Components Table
+
+| Component         | Main function            |
+| ----------------- | ------------------------ |
+| Plasma            | Transport medium         |
+| Red blood cells   | Oxygen transport         |
+| White blood cells | Immune defence           |
+| Platelets         | Haemostasis and clotting |
+
+---
+
+# CHAPTER 21: BLOOD GROUPS AND BLOOD TRANSFUSION
+
+## 21.1 ABO Blood Group System
+
+The ABO blood group system is based on the presence or absence of A and B antigens on red blood cells.
+
+### Group A
+
+A antigen is present on red blood cells.
+
+### Group B
+
+B antigen is present.
+
+### Group AB
+
+Both A and B antigens are present.
+
+### Group O
+
+Neither A nor B antigen is present.
+
+ABO antibodies in plasma are important in transfusion compatibility.
+
+## 21.2 Rh Blood Group System
+
+The Rh system includes several antigens.
+
+The D antigen is commonly used to classify a person as Rh-positive or Rh-negative.
+
+Rh incompatibility can be medically important in certain pregnancies and transfusions.
+
+## 21.3 Blood Transfusion
+
+Blood transfusion requires careful compatibility testing.
+
+The ABO and Rh groups are important, but other red-cell antigens may also matter.
+
+Crossmatching helps reduce the risk of serious transfusion reactions.
+
+## 21.4 Universal Donor and Recipient Concepts
+
+For red blood cell transfusion:
+
+* O negative is often described as the universal red-cell donor type in emergency teaching contexts.
+* AB positive is often described as the universal red-cell recipient type.
+
+These are simplified descriptions, not substitutes for blood typing, screening and compatibility testing.
+
+Plasma transfusion has different compatibility rules.
+
+## 21.5 Rh Incompatibility
+
+Rh incompatibility can occur when an Rh-negative pregnant person is exposed to Rh-positive foetal red blood cells and develops antibodies.
+
+These antibodies can affect a later Rh-positive pregnancy.
+
+Medical prevention and treatment, including anti-D immunoglobulin when indicated, have greatly reduced this risk.
+
+---
+
+# CHAPTER 22: CIRCULATORY SYSTEM
+
+## 22.1 Heart
+
+The human heart is a muscular organ that pumps blood.
+
+It has four chambers:
+
+* Right atrium.
+* Right ventricle.
+* Left atrium.
+* Left ventricle.
+
+The right side pumps blood toward the lungs.
+
+The left side pumps blood toward the rest of the body.
+
+## 22.2 Heart Valves
+
+The heart contains valves that help prevent backward blood flow.
+
+Major valves include:
+
+* Tricuspid valve.
+* Pulmonary valve.
+* Mitral valve.
+* Aortic valve.
+
+## 22.3 Double Circulation
+
+Humans have double circulation.
+
+### Pulmonary Circulation
+
+Blood travels between the heart and lungs.
+
+### Systemic Circulation
+
+Blood travels between the heart and the rest of the body.
+
+Double circulation helps maintain efficient oxygen delivery.
+
+## 22.4 Arteries
+
+Arteries carry blood away from the heart.
+
+Most arteries carry oxygen-rich blood, but the pulmonary arteries carry oxygen-poor blood to the lungs.
+
+## 22.5 Veins
+
+Veins carry blood toward the heart.
+
+Most veins carry oxygen-poor blood, but the pulmonary veins carry oxygen-rich blood from the lungs to the heart.
+
+## 22.6 Capillaries
+
+Capillaries are tiny blood vessels with thin walls.
+
+They allow exchange of gases, nutrients and waste products between blood and tissues.
+
+## 22.7 Important Facts
+
+* The heart has four chambers.
+* Pulmonary arteries carry oxygen-poor blood.
+* Pulmonary veins carry oxygen-rich blood.
+* Arteries carry blood away from the heart.
+* Veins carry blood toward the heart.
+* Capillaries are major sites of exchange.
+
+---
+
+# CHAPTER 23: RESPIRATORY SYSTEM
+
+## 23.1 Main Organs
+
+The respiratory system includes:
+
+* Nose and nasal cavity.
+* Pharynx.
+* Larynx.
+* Trachea.
+* Bronchi.
+* Bronchioles.
+* Lungs.
+* Alveoli.
+
+## 23.2 Functions
+
+The respiratory system:
+
+* Supplies oxygen.
+* Removes carbon dioxide.
+* Helps regulate blood pH.
+* Contributes to speech.
+* Supports the sense of smell.
+
+## 23.3 Alveoli
+
+Alveoli are tiny air sacs in the lungs.
+
+They have thin walls and a large total surface area, making them suitable for gas exchange.
+
+Oxygen diffuses from alveolar air into the blood.
+
+Carbon dioxide diffuses from the blood into the alveoli and is exhaled.
+
+## 23.4 Breathing
+
+During inhalation, the diaphragm contracts and moves downward.
+
+The chest cavity expands, reducing pressure in the lungs and allowing air to enter.
+
+During quiet exhalation, the diaphragm relaxes and elastic recoil helps air leave the lungs.
+
+## 23.5 Oxygen Transport
+
+Most oxygen in blood is carried by haemoglobin in red blood cells.
+
+A smaller amount is dissolved in plasma.
+
+## 23.6 Carbon Dioxide Transport
+
+Carbon dioxide is transported in several forms:
+
+* Mainly as bicarbonate ions.
+* Bound to proteins, including haemoglobin.
+* Dissolved in plasma.
+
+## 23.7 Respiratory Disorders
+
+### Asthma
+
+A chronic inflammatory condition involving variable narrowing of the airways.
+
+### Pneumonia
+
+An infection that inflames lung tissue and may fill alveoli with fluid or inflammatory material.
+
+### Tuberculosis
+
+A disease caused by *Mycobacterium tuberculosis*, commonly affecting the lungs.
+
+### Chronic Obstructive Pulmonary Disease
+
+A group of conditions involving persistent airflow limitation, often associated with long-term exposure to harmful particles or gases.
+
+### Lung Cancer
+
+A group of cancers that develop in lung tissue. Tobacco smoke is a major risk factor, although lung cancer can also occur in people who have never smoked.
+
+---
+
+# CHAPTER 24: EXCRETORY SYSTEM
+
+## 24.1 Meaning of Excretion
+
+Excretion is the removal of metabolic waste products from the body.
+
+It differs from egestion, which is the removal of undigested food from the digestive tract.
+
+## 24.2 Main Organs
+
+The human urinary system consists of:
+
+* Two kidneys.
+* Two ureters.
+* Urinary bladder.
+* Urethra.
+
+The kidneys filter blood and regulate water, electrolytes and acid-base balance.
+
+## 24.3 Kidney Structure
+
+Each kidney contains many nephrons, the functional units of the kidney.
+
+A nephron includes:
+
+* Renal corpuscle.
+* Proximal convoluted tubule.
+* Loop of Henle.
+* Distal convoluted tubule.
+* Collecting duct.
+
+## 24.4 Urine Formation
+
+Urine formation involves three major processes.
+
+### Filtration
+
+Water and small solutes pass from the blood into the nephron at the renal corpuscle.
+
+### Reabsorption
+
+Useful substances and much of the filtered water are returned to the blood.
+
+### Secretion
+
+Certain substances are transferred from the blood into the nephron tubule.
+
+The final urine contains waste products and excess substances that the body must remove.
+
+## 24.5 Functions of Kidneys
+
+Kidneys:
+
+* Remove nitrogenous wastes.
+* Regulate water balance.
+* Regulate electrolytes.
+* Help maintain blood pH.
+* Contribute to blood pressure regulation.
+* Produce erythropoietin.
+* Activate vitamin D.
+
+## 24.6 Nitrogenous Waste
+
+Major nitrogenous waste products include:
+
+* Urea.
+* Uric acid.
+* Creatinine.
+
+Urea is produced in the liver from nitrogen-containing compounds and removed mainly through the kidneys.
+
+## 24.7 Other Excretory Organs
+
+### Lungs
+
+Remove carbon dioxide and water vapour.
+
+### Skin
+
+Sweat glands remove water, salts and small amounts of other substances.
+
+### Liver
+
+Processes substances and converts ammonia to urea.
+
+---
+
+# CHAPTER 25: IMMUNE SYSTEM
+
+## 25.1 Definition of Immunity
+
+Immunity is the ability of the body to defend itself against pathogens and other harmful agents.
+
+The immune system includes cells, tissues, organs and molecules that work together to recognise and respond to threats.
+
+## 25.2 Main Functions
+
+The immune system:
+
+* Recognises many pathogens.
+* Limits infections.
+* Removes infected or damaged cells.
+* Produces immune memory.
+* Helps distinguish many foreign substances from the body's own tissues.
+
+Immune responses must be regulated carefully because excessive or misdirected responses can damage tissues.
+
+## 25.3 Innate Immunity
+
+Innate immunity is the body's rapid, broad defence system.
+
+It includes:
+
+* Skin.
+* Mucous membranes.
+* Stomach acid.
+* Certain antimicrobial substances.
+* Phagocytic cells.
+* Natural killer cells.
+* Inflammatory responses.
+* Complement proteins.
+
+Innate immune responses begin quickly and do not rely on the same antigen-specific memory system as adaptive immunity.
+
+## 25.4 Adaptive Immunity
+
+Adaptive immunity responds to particular antigens.
+
+It involves:
+
+* B lymphocytes.
+* T lymphocytes.
+* Antibodies.
+* Immune memory.
+
+Adaptive immunity can improve its response to a pathogen after exposure or vaccination.
+
+## 25.5 B Lymphocytes
+
+B cells can develop into plasma cells that produce antibodies.
+
+Some B cells become memory cells.
+
+Memory B cells can help the body respond more rapidly after later exposure to the same or a related antigen.
+
+## 25.6 T Lymphocytes
+
+Different T-cell types perform different functions.
+
+### Helper T Cells
+
+Coordinate immune responses by releasing signalling molecules.
+
+### Cytotoxic T Cells
+
+Can destroy infected or abnormal cells.
+
+### Regulatory T Cells
+
+Help control immune responses and maintain immune tolerance.
+
+## 25.7 Antibodies
+
+Antibodies are proteins produced by plasma cells.
+
+They bind specific antigens.
+
+Antibodies can:
+
+* Neutralise certain pathogens or toxins.
+* Mark pathogens for destruction.
+* Activate complement pathways.
+* Support other immune functions.
+
+## 25.8 Antigens
+
+An antigen is a substance recognised by components of the immune system.
+
+Antigens may be present on pathogens, environmental materials or the body's own cells.
+
+An immune response depends on the nature of the antigen and the body's response mechanisms.
+
+## 25.9 Inflammation
+
+Inflammation is a protective response to infection or tissue injury.
+
+Common signs of acute inflammation include:
+
+* Redness.
+* Heat.
+* Swelling.
+* Pain.
+
+Inflammation helps recruit immune cells and repair processes.
+
+However, excessive or chronic inflammation can contribute to tissue damage and disease.
+
+---
+
+# CHAPTER 26: VACCINATION AND IMMUNE MEMORY
+
+## 26.1 Definition of Vaccination
+
+Vaccination is the administration of a vaccine to stimulate protective immune responses against a disease.
+
+Vaccines expose the immune system to an antigen or instructions for producing an antigen without causing the full disease in the usual way.
+
+## 26.2 How Vaccines Work
+
+A vaccine stimulates immune recognition.
+
+The body may produce:
+
+* Antibodies.
+* Antigen-specific B cells.
+* Antigen-specific T cells.
+* Memory cells.
+
+If the vaccinated person later encounters the pathogen, immune memory may produce a faster and more effective response.
+
+The degree and duration of protection vary by vaccine and disease.
+
+## 26.3 Types of Vaccines
+
+### Live Attenuated Vaccines
+
+Contain weakened forms of a pathogen.
+
+### Inactivated Vaccines
+
+Contain pathogens that have been inactivated.
+
+### Subunit Vaccines
+
+Contain selected parts of a pathogen.
+
+### Toxoid Vaccines
+
+Contain inactivated toxins produced by certain bacteria.
+
+### Viral Vector Vaccines
+
+Use a modified vector to deliver genetic instructions for an antigen.
+
+### Nucleic Acid Vaccines
+
+Use DNA or RNA instructions to help cells produce an antigen.
+
+Not every vaccine type is suitable for every person or condition. Healthcare professionals consider individual circumstances.
+
+## 26.4 Importance of Vaccination
+
+Vaccination can:
+
+* Reduce the risk of specific infections.
+* Reduce severe disease.
+* Reduce complications.
+* Help protect vulnerable members of a community.
+* Reduce disease transmission for certain infections.
+
+Vaccines are an important public-health achievement.
+
+## 26.5 Active and Passive Immunity
+
+### Active Immunity
+
+The person's immune system produces its own response after infection or vaccination.
+
+It often produces immune memory.
+
+### Passive Immunity
+
+Ready-made antibodies are received from another source.
+
+Examples include:
+
+* Maternal antibodies passed across the placenta.
+* Antibodies in breast milk.
+* Certain antibody preparations used medically.
+
+Passive immunity provides immediate protection but is usually temporary.
+
+## 26.6 Comparison Table
+
+| Feature       | Active Immunity            | Passive Immunity                                                    |
+| ------------- | -------------------------- | ------------------------------------------------------------------- |
+| Source        | Body's own immune response | Antibodies received from another source                             |
+| Onset         | Usually takes time         | Can act immediately                                                 |
+| Immune memory | Often develops             | Usually does not develop from the transferred antibodies themselves |
+| Duration      | Often longer-lasting       | Usually temporary                                                   |
+| Example       | Vaccination                | Maternal antibodies                                                 |
+
+---
+
+# CHAPTER 27: INFECTIOUS DISEASES
+
+## 27.1 Definition
+
+Infectious diseases are caused by pathogenic organisms or agents, including certain bacteria, viruses, fungi and parasites.
+
+Some infections spread between people, while others are acquired from animals, contaminated food or water, vectors or the environment.
+
+## 27.2 Bacterial Diseases
+
+### Tuberculosis
+
+Causative organism: *Mycobacterium tuberculosis*.
+
+Commonly affects the lungs but can affect other organs.
+
+Transmission commonly occurs through the air when a person with infectious pulmonary TB releases bacteria.
+
+### Typhoid Fever
+
+Causative organism: *Salmonella enterica* serovar Typhi.
+
+It is generally transmitted through contaminated food or water.
+
+### Cholera
+
+Causative organism: *Vibrio cholerae*.
+
+It can cause severe watery diarrhoea and dehydration.
+
+Safe water, sanitation and appropriate medical treatment are important.
+
+### Tetanus
+
+Causative organism: *Clostridium tetani*.
+
+The bacterium produces a toxin that affects the nervous system.
+
+Vaccination is a key preventive measure.
+
+### Leprosy
+
+Causative organisms include *Mycobacterium leprae*.
+
+It mainly affects skin and peripheral nerves.
+
+Early diagnosis and multidrug therapy help prevent disability.
+
+## 27.3 Viral Diseases
+
+### Influenza
+
+Caused by influenza viruses.
+
+It affects the respiratory system and can cause fever, cough, fatigue and body aches.
+
+### Measles
+
+Caused by measles virus.
+
+It is highly contagious and can cause serious complications.
+
+Vaccination is the main preventive measure.
+
+### Hepatitis B
+
+Caused by hepatitis B virus.
+
+It affects the liver and can become chronic.
+
+### Dengue
+
+Caused by dengue viruses and transmitted mainly by infected Aedes mosquitoes.
+
+Symptoms can include fever, headache, body aches and rash.
+
+Severe dengue requires urgent medical care.
+
+### Rabies
+
+Caused by rabies virus.
+
+It is generally transmitted through the saliva of infected mammals, often through bites.
+
+Prompt medical assessment after a possible exposure is essential because rabies is preventable with timely post-exposure care but is almost always fatal after symptoms begin.
+
+### Polio
+
+Caused by poliovirus.
+
+It can damage the nervous system and cause paralysis in some cases.
+
+Vaccination has greatly reduced polio worldwide.
+
+## 27.4 Fungal Diseases
+
+Fungi can cause infections of the skin, nails and other body sites.
+
+Examples include:
+
+* Ringworm.
+* Athlete's foot.
+* Certain forms of candidiasis.
+
+The name ringworm is misleading because it is caused by fungi, not worms.
+
+## 27.5 Protozoan Diseases
+
+### Malaria
+
+Caused by *Plasmodium* species and transmitted by infected female Anopheles mosquitoes.
+
+### Amoebiasis
+
+Caused by *Entamoeba histolytica*.
+
+It can spread through contaminated food or water.
+
+### Kala-Azar
+
+Also called visceral leishmaniasis.
+
+It is caused by *Leishmania* parasites and transmitted by infected sand flies.
+
+### Sleeping Sickness
+
+Human African trypanosomiasis is caused by *Trypanosoma brucei* and transmitted by tsetse flies.
+
+## 27.6 Disease Comparison Table
+
+| Disease      | Causative agent              | Common transmission route            |
+| ------------ | ---------------------------- | ------------------------------------ |
+| Tuberculosis | *Mycobacterium tuberculosis* | Airborne transmission                |
+| Typhoid      | *Salmonella Typhi*           | Contaminated food or water           |
+| Cholera      | *Vibrio cholerae*            | Contaminated food or water           |
+| Influenza    | Influenza virus              | Respiratory transmission             |
+| Measles      | Measles virus                | Airborne transmission                |
+| Dengue       | Dengue virus                 | Infected Aedes mosquitoes            |
+| Malaria      | *Plasmodium* species         | Infected female Anopheles mosquitoes |
+| Rabies       | Rabies virus                 | Saliva, usually through bites        |
+| Ringworm     | Dermatophyte fungi           | Direct contact or contaminated items |
+| Amoebiasis   | *Entamoeba histolytica*      | Contaminated food or water           |
+
+---
+
+# CHAPTER 28: NON-COMMUNICABLE DISEASES
+
+## 28.1 Definition
+
+Non-communicable diseases are conditions that are not transmitted directly from one person to another in the way typical infectious diseases are.
+
+They often develop through interactions between genetic, environmental, behavioural and social factors.
+
+Major categories include:
+
+* Cardiovascular diseases.
+* Cancers.
+* Chronic respiratory diseases.
+* Diabetes.
+* Certain neurological disorders.
+
+## 28.2 Diabetes Mellitus
+
+Diabetes mellitus is a group of disorders characterised by persistently elevated blood glucose.
+
+### Type 1 Diabetes
+
+Results from autoimmune destruction of pancreatic beta cells, leading to severe insulin deficiency.
+
+### Type 2 Diabetes
+
+Involves insulin resistance and progressive impairment of insulin secretion.
+
+Risk factors include genetic susceptibility, age, body composition, physical inactivity and other influences. Type 2 diabetes can also occur in people without the commonly recognised risk factors.
+
+### Common Symptoms
+
+Possible symptoms include:
+
+* Increased thirst.
+* Frequent urination.
+* Fatigue.
+* Blurred vision.
+
+Some people have few or no noticeable symptoms.
+
+### Complications
+
+Poorly controlled diabetes can damage:
+
+* Eyes.
+* Kidneys.
+* Nerves.
+* Blood vessels.
+* Heart.
+
+Diagnosis and treatment require appropriate medical assessment.
+
+## 28.3 Hypertension
+
+Hypertension means persistently elevated blood pressure.
+
+It often causes no obvious symptoms, which is why blood pressure measurement is important.
+
+Long-term uncontrolled hypertension increases the risk of:
+
+* Heart disease.
+* Stroke.
+* Kidney disease.
+* Damage to blood vessels.
+
+Treatment may involve lifestyle changes and medication.
+
+## 28.4 Cardiovascular Diseases
+
+Cardiovascular diseases affect the heart and blood vessels.
+
+Examples include:
+
+* Coronary artery disease.
+* Heart attack.
+* Stroke.
+* Heart failure.
+
+Risk factors may include hypertension, diabetes, smoking, unhealthy lipid levels, physical inactivity and genetic factors.
+
+## 28.5 Cancer
+
+Cancer is a group of diseases in which abnormal cells grow and may invade surrounding tissues or spread to distant sites.
+
+Cancer can arise through genetic changes affecting cell growth, DNA repair and other cellular processes.
+
+Risk factors vary by cancer type.
+
+They can include:
+
+* Tobacco exposure.
+* Certain infections.
+* Ultraviolet radiation.
+* Some chemicals.
+* Age.
+* Inherited genetic variants.
+* Other environmental and biological factors.
+
+Not all cancers are preventable, and not every cancer has a single identifiable cause.
+
+## 28.6 Asthma
+
+Asthma is a chronic respiratory condition involving airway inflammation and variable airflow limitation.
+
+Symptoms may include wheezing, coughing, chest tightness and breathlessness.
+
+Triggers vary between individuals.
+
+Appropriate diagnosis and treatment help control symptoms and reduce the risk of severe attacks.
+
+## 28.7 Prevention of Non-Communicable Diseases
+
+Public-health strategies include:
+
+* Avoiding tobacco.
+* Regular physical activity.
+* Nutritious eating patterns.
+* Adequate sleep.
+* Appropriate vaccination.
+* Screening when recommended.
+* Monitoring blood pressure and blood glucose when indicated.
+* Reducing exposure to harmful environmental factors.
+* Accessing timely medical care.
+
+---
+
+# CHAPTER 29: IMMUNE SYSTEM DISORDERS
+
+## 29.1 Allergy
+
+An allergy is an immune response to a substance that is usually harmless to most people.
+
+Common allergens include:
+
+* Certain foods.
+* Pollen.
+* Dust mites.
+* Animal dander.
+* Some medicines.
+* Insect venom.
+
+Symptoms can range from mild skin or respiratory symptoms to severe systemic reactions.
+
+Anaphylaxis is a medical emergency requiring immediate treatment.
+
+## 29.2 Autoimmune Diseases
+
+Autoimmune diseases occur when immune responses target the body's own tissues.
+
+Examples include:
+
+* Type 1 diabetes.
+* Rheumatoid arthritis.
+* Systemic lupus erythematosus.
+* Multiple sclerosis.
+
+These conditions differ in the tissues affected, disease mechanisms and treatments.
+
+## 29.3 Immunodeficiency
+
+Immunodeficiency occurs when one or more components of the immune system do not function adequately.
+
+It may be:
+
+* Primary, due to inherited factors.
+* Secondary, due to conditions or exposures such as certain infections, medicines or nutritional deficiencies.
+
+Immunodeficiency can increase susceptibility to particular infections.
+
+## 29.4 HIV-Related Immune Deficiency
+
+HIV infects important immune cells, including CD4 T cells.
+
+Without effective treatment, progressive immune damage can lead to opportunistic infections and certain cancers.
+
+Antiretroviral therapy suppresses viral replication and helps preserve immune function.
+
+## 29.5 Comparison Table
+
+| Condition          | Main feature                                                                    |
+| ------------------ | ------------------------------------------------------------------------------- |
+| Allergy            | Immune response to usually harmless substances                                  |
+| Autoimmune disease | Immune response targets the body's own tissues                                  |
+| Immunodeficiency   | Reduced or impaired immune function                                             |
+| HIV infection      | Viral infection that can progressively damage immune function without treatment |
+
+---
+
+# CHAPTER 30: ANTIBIOTICS AND ANTIMICROBIAL RESISTANCE
+
+## 30.1 Antibiotics
+
+Antibiotics are medicines used to treat bacterial infections.
+
+They do not treat viral infections such as the common cold or influenza.
+
+Different antibiotics act against different bacteria and must be selected according to the infection and relevant medical guidance.
+
+## 30.2 Antibiotic Resistance
+
+Antibiotic resistance occurs when bacteria develop or acquire characteristics that allow them to survive exposure to an antibiotic that would normally inhibit or kill them.
+
+Resistance can arise through:
+
+* Mutations.
+* Transfer of resistance genes between bacteria.
+* Natural selection under antibiotic exposure.
+
+## 30.3 Why Resistance Is a Public-Health Problem
+
+Antibiotic resistance can:
+
+* Make infections harder to treat.
+* Increase the risk of complications.
+* Require more complex treatment.
+* Increase healthcare costs.
+* Spread between people, animals and environments.
+
+## 30.4 Responsible Antibiotic Use
+
+Important measures include:
+
+* Taking antibiotics only when appropriately prescribed.
+* Following the healthcare professional's instructions.
+* Not sharing antibiotics.
+* Not using leftover antibiotics without medical advice.
+* Preventing infections through hygiene and vaccination.
+* Improving infection control in healthcare settings.
+* Supporting appropriate antibiotic use in agriculture.
+
+Antibiotic use should be guided by the prescribing professional; people should not independently alter a prescribed course.
+
+---
+
+# CHAPTER 31: NUTRITIONAL DEFICIENCY DISEASES
+
+## 31.1 Anaemia
+
+Anaemia is a condition in which the blood has insufficient functional red-cell mass or haemoglobin to meet the body's needs.
+
+Causes include:
+
+* Iron deficiency.
+* Vitamin B12 deficiency.
+* Folate deficiency.
+* Blood loss.
+* Inherited blood disorders.
+* Chronic diseases.
+
+Symptoms may include fatigue, weakness and breathlessness, but diagnosis requires medical evaluation.
+
+## 31.2 Iron-Deficiency Anaemia
+
+Iron is required for haemoglobin synthesis.
+
+Inadequate iron, poor absorption or blood loss can lead to iron-deficiency anaemia.
+
+Possible symptoms include:
+
+* Tiredness.
+* Reduced exercise tolerance.
+* Pale skin.
+* Headaches.
+* Difficulty concentrating.
+
+Treatment depends on the cause and may involve dietary changes, supplements or other medical care.
+
+## 31.3 Goitre
+
+Goitre is enlargement of the thyroid gland.
+
+Iodine deficiency is one possible cause, but not the only cause.
+
+Thyroid inflammation, nodules and other conditions can also cause goitre.
+
+## 31.4 Rickets
+
+Rickets affects growing bones in children.
+
+It can result from vitamin D deficiency and may also involve inadequate calcium or phosphate.
+
+It can cause bone pain, growth problems and skeletal deformities.
+
+## 31.5 Scurvy
+
+Scurvy results from severe vitamin C deficiency.
+
+Vitamin C is required for normal collagen synthesis.
+
+Symptoms can include:
+
+* Bleeding gums.
+* Easy bruising.
+* Poor wound healing.
+* Fatigue.
+
+## 31.6 Beriberi
+
+Beriberi is caused by thiamine deficiency.
+
+It can affect the nervous system and cardiovascular system.
+
+## 31.7 Pellagra
+
+Pellagra is associated with niacin deficiency.
+
+Its classic features are dermatitis, diarrhoea and cognitive or neurological changes.
+
+## 31.8 Protein-Energy Malnutrition
+
+Protein-energy malnutrition occurs when energy and protein intake are insufficient for the body's needs.
+
+It can impair growth, immune function and tissue maintenance.
+
+## 31.9 Deficiency Table
+
+| Nutrient deficiency                  | Associated condition                            |
+| ------------------------------------ | ----------------------------------------------- |
+| Iron                                 | Iron-deficiency anaemia                         |
+| Iodine                               | Goitre and hypothyroidism                       |
+| Vitamin A                            | Night blindness                                 |
+| Vitamin B1                           | Beriberi                                        |
+| Vitamin B3                           | Pellagra                                        |
+| Vitamin C                            | Scurvy                                          |
+| Vitamin D                            | Rickets or osteomalacia                         |
+| Vitamin B12                          | Megaloblastic anaemia and possible nerve damage |
+| Severe energy and protein deficiency | Forms of protein-energy malnutrition            |
+
+---
+
+# CHAPTER 32: PUBLIC HEALTH AND DISEASE PREVENTION
+
+## 32.1 Public Health
+
+Public health focuses on protecting and improving the health of populations.
+
+It includes disease prevention, health education, environmental safety, surveillance and access to essential healthcare.
+
+## 32.2 Safe Drinking Water
+
+Safe drinking water reduces the risk of waterborne diseases.
+
+Important measures include:
+
+* Protecting water sources.
+* Appropriate water treatment.
+* Safe storage.
+* Preventing contamination.
+* Monitoring water quality.
+
+Boiling can inactivate many disease-causing organisms, but the best treatment method depends on the type of contamination.
+
+## 32.3 Sanitation
+
+Sanitation involves safe management of human waste and related environmental hazards.
+
+Good sanitation helps prevent the spread of several intestinal infections.
+
+## 32.4 Vector Control
+
+Vectors are organisms that transmit pathogens.
+
+Examples include:
+
+* Mosquitoes.
+* Certain flies.
+* Ticks.
+
+Vector control may involve:
+
+* Removing breeding sites.
+* Appropriate use of insecticides.
+* Protective clothing.
+* Window screens.
+* Mosquito nets where suitable.
+* Public-health surveillance.
+
+Different diseases require different control measures.
+
+## 32.5 Hand Hygiene
+
+Handwashing with soap and water helps reduce the spread of many pathogens.
+
+Important times include:
+
+* Before preparing food.
+* Before eating.
+* After using the toilet.
+* After handling waste.
+* After caring for someone who is ill.
+
+## 32.6 Food Safety
+
+Food safety practices include:
+
+* Washing hands.
+* Using safe water.
+* Separating raw and cooked foods.
+* Cooking food thoroughly.
+* Storing food at appropriate temperatures.
+* Avoiding contaminated food.
+
+These practices reduce the risk of foodborne illness.
+
+## 32.7 Screening
+
+Screening identifies possible disease or risk in people who may not yet have symptoms.
+
+Examples include certain cancer screenings and blood pressure checks.
+
+Screening recommendations depend on age, risk factors, local guidelines and the condition being screened for.
+
+---
+
+# CHAPTER 33: IMPORTANT HEALTH ORGANISATIONS
+
+## 33.1 World Health Organization
+
+The World Health Organization, or WHO, is a specialised agency of the United Nations concerned with international public health.
+
+It supports:
+
+* Disease surveillance.
+* Health guidance.
+* International coordination.
+* Technical assistance.
+* Public-health research and information.
+
+## 33.2 UNICEF
+
+UNICEF works to protect children's rights and improve children's health, education, nutrition and welfare.
+
+## 33.3 Food and Agriculture Organization
+
+The Food and Agriculture Organization, or FAO, works on food security, agriculture, nutrition and sustainable food systems.
+
+## 33.4 Indian Council of Medical Research
+
+The Indian Council of Medical Research, or ICMR, is a major Indian organisation supporting biomedical and health research.
+
+## 33.5 National Health Mission
+
+India's National Health Mission supports public-health services and healthcare delivery, with a focus on improving access and health outcomes.
+
+## 33.6 Important Facts
+
+* WHO: international public health.
+* UNICEF: children’s health, rights and welfare.
+* FAO: food, agriculture and food security.
+* ICMR: biomedical and health research in India.
+* National Health Mission: strengthening health services in India.
+
+---
+
+# CHAPTER 34: IMPORTANT SCIENTISTS AND DISCOVERIES IN HEALTH SCIENCE
+
+## 34.1 Edward Jenner
+
+Edward Jenner developed an early smallpox vaccination approach using cowpox-related material in 1796.
+
+His work helped establish the principle of vaccination.
+
+## 34.2 Louis Pasteur
+
+Louis Pasteur made major contributions to microbiology.
+
+His work supported germ theory and helped develop vaccines for certain diseases.
+
+## 34.3 Robert Koch
+
+Robert Koch made important contributions to bacteriology and identified organisms responsible for diseases including tuberculosis.
+
+## 34.4 Alexander Fleming
+
+Alexander Fleming discovered penicillin's antibacterial effect in 1928.
+
+Penicillin later became a major antibiotic treatment.
+
+## 34.5 Joseph Lister
+
+Joseph Lister promoted antiseptic surgical practices, helping reduce infections associated with surgery.
+
+## 34.6 Ronald Ross
+
+Ronald Ross demonstrated the role of mosquitoes in malaria transmission in birds, contributing to understanding malaria transmission.
+
+## 34.7 Jonas Salk
+
+Jonas Salk developed an inactivated polio vaccine.
+
+## 34.8 Albert Sabin
+
+Albert Sabin developed an oral live-attenuated polio vaccine.
+
+## 34.9 Important Scientists – Quick Table
+
+| Scientist         | Contribution                                   |
+| ----------------- | ---------------------------------------------- |
+| Edward Jenner     | Early smallpox vaccination                     |
+| Louis Pasteur     | Microbiology, germ theory and vaccines         |
+| Robert Koch       | Important discoveries in bacteriology          |
+| Alexander Fleming | Discovery of penicillin's antibacterial effect |
+| Joseph Lister     | Antiseptic surgery                             |
+| Ronald Ross       | Mosquito transmission research on malaria      |
+| Jonas Salk        | Inactivated polio vaccine                      |
+| Albert Sabin      | Oral live-attenuated polio vaccine             |
+
+---
+
+# CHAPTER 35: TNPSC GROUP 2 – IMPORTANT ONE-MARK FACTS
+
+## Reproduction
+
+1. Reproduction maintains the continuity of species.
+2. Asexual reproduction generally involves one parent.
+3. Binary fission occurs in organisms such as Amoeba.
+4. Budding occurs in Hydra and yeast.
+5. Vegetative propagation occurs through plant parts.
+6. Testes produce sperm and testosterone.
+7. The epididymis supports sperm maturation.
+8. Sertoli cells support developing sperm.
+9. Leydig cells produce testosterone.
+10. Ovaries produce oocytes and reproductive hormones.
+11. Fertilisation commonly occurs in the ampulla of the fallopian tube.
+12. The uterus supports pregnancy.
+13. The endometrium is the inner uterine lining.
+14. FSH supports ovarian follicle development.
+15. An LH surge triggers ovulation.
+16. The corpus luteum produces progesterone after ovulation.
+17. Prolactin stimulates milk production.
+18. Oxytocin contributes to milk ejection.
+19. The placenta supports exchange between maternal and foetal systems.
+20. hCG is detected by many pregnancy tests.
+
+## Nutrition
+
+21. Carbohydrates provide about 4 kcal per gram.
+22. Proteins provide about 4 kcal per gram.
+23. Fats provide about 9 kcal per gram.
+24. Glucose is an important cellular energy source.
+25. Glycogen is a storage carbohydrate in animals.
+26. Starch is a storage carbohydrate in plants.
+27. Proteins are made of amino acids.
+28. Vitamin A deficiency can cause night blindness.
+29. Vitamin B1 deficiency causes beriberi.
+30. Vitamin B3 deficiency causes pellagra.
+31. Vitamin C deficiency causes scurvy.
+32. Vitamin D deficiency can cause rickets in children.
+33. Vitamin K contributes to blood clotting.
+34. Iron is required for haemoglobin.
+35. Iodine is required for thyroid hormone synthesis.
+36. Calcium is important for bones and muscle function.
+
+## Human Body
+
+37. Red blood cells transport oxygen using haemoglobin.
+38. White blood cells participate in immune defence.
+39. Platelets help blood clot.
+40. The heart has four chambers.
+41. Pulmonary arteries carry oxygen-poor blood.
+42. Pulmonary veins carry oxygen-rich blood.
+43. Alveoli are the main sites of gas exchange in the lungs.
+44. The nephron is the functional unit of the kidney.
+45. The liver produces bile.
+46. The gallbladder stores and concentrates bile.
+47. The pancreas has digestive and hormonal functions.
+48. The small intestine is the main site of nutrient absorption.
+
+## Immunity and Disease
+
+49. Innate immunity provides rapid, broad defence.
+50. Adaptive immunity includes antigen-specific responses.
+51. B cells can develop into antibody-producing plasma cells.
+52. T cells perform several roles in adaptive immunity.
+53. Vaccination can stimulate immune memory.
+54. Passive immunity involves receiving antibodies from another source.
+55. Tuberculosis is caused by *Mycobacterium tuberculosis*.
+56. Typhoid is caused by *Salmonella Typhi*.
+57. Cholera is caused by *Vibrio cholerae*.
+58. Malaria is caused by *Plasmodium* species.
+59. Dengue is transmitted mainly by infected Aedes mosquitoes.
+60. Antibiotics treat bacterial infections, not viral infections.
+61. HIV attacks important cells of the immune system.
+62. Hypertension is persistently elevated blood pressure.
+63. Diabetes mellitus involves elevated blood glucose.
+64. WHO is a specialised agency of the United Nations.
+65. Alexander Fleming discovered penicillin's antibacterial effect.
+66. Edward Jenner's work contributed to the development of vaccination.
+67. Louis Pasteur made major contributions to microbiology.
+68. Robert Koch made important contributions to bacteriology.
+69. Jonas Salk developed an inactivated polio vaccine.
+70. Albert Sabin developed an oral polio vaccine.
+
+---
+
+# CHAPTER 36: FINAL REVISION TABLES
+
+## A. Reproductive Hormones
+
+| Hormone      | Source                                                    | Main function                                                            |
+| ------------ | --------------------------------------------------------- | ------------------------------------------------------------------------ |
+| GnRH         | Hypothalamus                                              | Stimulates pituitary gonadotropin release                                |
+| FSH          | Anterior pituitary                                        | Supports gamete development                                              |
+| LH           | Anterior pituitary                                        | Supports testosterone production or triggers ovulation, depending on sex |
+| Testosterone | Mainly Leydig cells in testes                             | Male reproductive development and function                               |
+| Oestrogen    | Mainly ovaries before menopause, with other sources       | Female reproductive functions and uterine lining growth                  |
+| Progesterone | Corpus luteum and placenta during pregnancy               | Supports uterine lining and pregnancy                                    |
+| Prolactin    | Anterior pituitary                                        | Milk production                                                          |
+| Oxytocin     | Produced in hypothalamus, released by posterior pituitary | Uterine contractions and milk ejection                                   |
+| hCG          | Trophoblast-derived tissues early in pregnancy            | Supports corpus luteum early in pregnancy                                |
+
+## B. Nutrients and Deficiencies
+
+| Nutrient    | Major role                                  | Deficiency association                           |
+| ----------- | ------------------------------------------- | ------------------------------------------------ |
+| Iron        | Haemoglobin production                      | Iron-deficiency anaemia                          |
+| Iodine      | Thyroid hormones                            | Goitre and hypothyroidism                        |
+| Vitamin A   | Vision and epithelial health                | Night blindness                                  |
+| Vitamin B1  | Energy metabolism                           | Beriberi                                         |
+| Vitamin B3  | Coenzyme function                           | Pellagra                                         |
+| Folate      | DNA synthesis                               | Megaloblastic changes                            |
+| Vitamin B12 | Nerve function and red blood cell formation | Megaloblastic anaemia, neurological problems     |
+| Vitamin C   | Collagen synthesis                          | Scurvy                                           |
+| Vitamin D   | Calcium regulation and bone health          | Rickets, osteomalacia                            |
+| Vitamin K   | Blood clotting                              | Increased bleeding tendency                      |
+| Protein     | Tissue growth and repair                    | Protein-energy malnutrition in severe deficiency |
+
+## C. Infectious Diseases
+
+| Disease      | Causative agent              | Prevention or control example                                           |
+| ------------ | ---------------------------- | ----------------------------------------------------------------------- |
+| Tuberculosis | *Mycobacterium tuberculosis* | Diagnosis, appropriate treatment and infection control                  |
+| Typhoid      | *Salmonella Typhi*           | Safe food, safe water and vaccination where indicated                   |
+| Cholera      | *Vibrio cholerae*            | Safe water, sanitation and appropriate vaccination in relevant settings |
+| Malaria      | *Plasmodium* species         | Mosquito control and recommended prevention                             |
+| Dengue       | Dengue virus                 | Aedes mosquito control                                                  |
+| Rabies       | Rabies virus                 | Animal vaccination and prompt post-exposure care                        |
+| Measles      | Measles virus                | Vaccination                                                             |
+| Hepatitis B  | Hepatitis B virus            | Vaccination and prevention of blood/body-fluid transmission             |
+| Influenza    | Influenza viruses            | Vaccination and infection-control measures                              |
+
+## D. Blood Components
+
+| Component         | Main role                         |
+| ----------------- | --------------------------------- |
+| Plasma            | Transport of dissolved substances |
+| Red blood cells   | Oxygen transport                  |
+| White blood cells | Immune defence                    |
+| Platelets         | Blood clotting                    |
+
+---

@@ -1,0 +1,657 @@
+
+# LOGICAL REASONING AND ANALYTICAL REASONING
+
+## PART A: LOGICAL REASONING
+
+### Question 1: Statements and Conclusions
+
+Statements:
+All teachers are graduates.
+All graduates are educated.
+
+Which conclusion follows?
+
+A) All educated people are teachers
+B) All teachers are educated
+C) No teachers are educated
+D) Some graduates are not educated
+
+Answer: B) All teachers are educated
+
+### Question 2: Syllogism
+
+Statements:
+All mangoes are fruits.
+All fruits are edible.
+
+Conclusion:
+
+A) All mangoes are edible
+B) All edible things are mangoes
+C) No mangoes are edible
+D) Some mangoes are not fruits
+
+Answer: A) All mangoes are edible
+
+### Question 3: Statement and Assumption
+
+Statement: The government advises people to conserve water.
+
+Which assumption is implicit?
+
+A) Water is available in unlimited quantities
+B) Water conservation is important
+C) People should stop using water
+D) Rainfall occurs every day
+
+Answer: B) Water conservation is important
+
+### Question 4: Assertion and Reason
+
+Assertion: Plants need sunlight for photosynthesis.
+
+Reason: Sunlight provides energy for photosynthesis.
+
+A) Both are true, and the reason explains the assertion
+B) Both are true, but the reason does not explain the assertion
+C) Assertion is true, but reason is false
+D) Assertion is false, but reason is true
+
+Answer: A) Both are true, and the reason explains the assertion
+
+### Question 5: Strong Argument
+
+Question: Should schools conduct regular fire-safety drills?
+
+Argument I: Fire-safety drills help students practise emergency evacuation.
+
+Argument II: Some students do not like drills.
+
+A) Only Argument I is strong
+B) Only Argument II is strong
+C) Both arguments are strong
+D) Neither argument is strong
+
+Answer: A) Only Argument I is strong
+
+### Question 6: Cause and Effect
+
+Event I: Heavy rainfall occurred continuously for several hours.
+
+Event II: Low-lying streets became flooded.
+
+What is the most likely relationship?
+
+A) Event II causes Event I
+B) Both events are unrelated
+C) Event I may cause Event II
+D) Event I must be caused by Event II
+
+Answer: C) Event I may cause Event II
+
+### Question 7: Course of Action
+
+Problem: Road accidents are increasing near a school because vehicles travel too fast.
+
+Which action is most appropriate?
+
+A) Close the school permanently
+B) Ignore the problem
+C) Remove traffic signs
+D) Introduce suitable speed controls and traffic monitoring
+
+Answer: D) Introduce suitable speed controls and traffic monitoring
+
+### Question 8: Logical Deduction
+
+Statements:
+All engineers are graduates.
+Ravi is an engineer.
+
+Which conclusion follows?
+
+A) Ravi is a graduate
+B) Ravi is a doctor
+C) All graduates are engineers
+D) Ravi is not educated
+
+Answer: A) Ravi is a graduate
+
+### Question 9: Statements and Conclusions
+
+Statements:
+Some books are novels.
+All novels are interesting.
+
+Conclusion I: Some books are interesting.
+Conclusion II: All books are interesting.
+
+A) Only Conclusion I follows
+B) Only Conclusion II follows
+C) Both conclusions follow
+D) Neither conclusion follows
+
+Answer: A) Only Conclusion I follows
+
+### Question 10: Syllogism
+
+Statements:
+No birds are mammals.
+All sparrows are birds.
+
+Conclusion:
+
+A) All mammals are sparrows
+B) No sparrows are mammals
+C) All sparrows are mammals
+D) Some mammals are birds
+
+Answer: B) No sparrows are mammals
+
+### Question 11: Statement and Assumption
+
+Statement: A college introduces extra practice sessions before examinations.
+
+Which assumption is most reasonable?
+
+A) Students never attend regular classes
+B) Examinations are unnecessary
+C) Additional practice may help students prepare
+D) All students have already passed
+
+Answer: C) Additional practice may help students prepare
+
+### Question 12: Strong and Weak Arguments
+
+Question: Should public places provide drinking-water facilities?
+
+Argument I: Such facilities can help people access drinking water while outside.
+
+Argument II: Public places have different wall colours.
+
+A) Only Argument I is strong
+B) Only Argument II is strong
+C) Both are strong
+D) Neither is strong
+
+Answer: A) Only Argument I is strong
+
+### Question 13: Logical Deduction
+
+Statements:
+All doctors are professionals.
+Some professionals are writers.
+
+Which conclusion definitely follows?
+
+A) All writers are doctors
+B) Some doctors are writers
+C) No professionals are doctors
+D) All doctors are professionals
+
+Answer: D) All doctors are professionals
+
+### Question 14: Course of Action
+
+Problem: A village faces frequent drinking-water shortages during summer.
+
+Which action is most appropriate?
+
+A) Waste available water
+B) Repair leaking pipes and improve water-storage arrangements
+C) Stop maintaining water sources
+D) Ignore the shortage
+
+Answer: B) Repair leaking pipes and improve water-storage arrangements
+
+### Question 15: Cause and Effect
+
+Event I: A vehicle's engine overheats because its cooling system fails.
+
+Event II: The vehicle stops working.
+
+Which relationship is most reasonable?
+
+A) Event II always causes Event I
+B) Both events must be unrelated
+C) Event I may cause Event II
+D) Event I is the result of Event II in every case
+
+Answer: C) Event I may cause Event II
+
+### Question 16: Statement and Conclusion
+
+Statement: Every applicant must submit the required documents before the deadline.
+
+Conclusion I: Applicants should submit the documents on time.
+Conclusion II: Applicants can always submit documents after the deadline.
+
+A) Only Conclusion I follows
+B) Only Conclusion II follows
+C) Both conclusions follow
+D) Neither conclusion follows
+
+Answer: A) Only Conclusion I follows
+
+### Question 17: Assertion and Reason
+
+Assertion: Regular exercise can improve physical fitness.
+
+Reason: Physical activity helps the body maintain strength and endurance.
+
+A) Both are true, and the reason explains the assertion
+B) Both are true, but the reason does not explain the assertion
+C) Assertion is true, but reason is false
+D) Assertion is false, but reason is true
+
+Answer: A) Both are true, and the reason explains the assertion
+
+### Question 18: Syllogism
+
+Statements:
+All roses are flowers.
+No flowers are stones.
+
+Conclusion:
+
+A) All stones are roses
+B) Some roses are stones
+C) No roses are stones
+D) All flowers are roses
+
+Answer: C) No roses are stones
+
+### Question 19: Strong Argument
+
+Question: Should public transport be improved in cities?
+
+Argument I: Better public transport can provide more travel options and reduce dependence on private vehicles.
+
+Argument II: Every city has buildings.
+
+A) Only Argument I is strong
+B) Only Argument II is strong
+C) Both arguments are strong
+D) Neither argument is strong
+
+Answer: A) Only Argument I is strong
+
+### Question 20: Logical Deduction
+
+Statements:
+All athletes practise regularly.
+Some students are athletes.
+
+Conclusion:
+
+A) All students are athletes
+B) Some students practise regularly
+C) No students practise regularly
+D) All people who practise are athletes
+
+Answer: B) Some students practise regularly
+
+---
+
+## PART B: ANALYTICAL REASONING
+
+### Question 21: Ranking and Order
+
+Ravi ranks 8th from the top and 12th from the bottom in a class. How many students are there?
+
+A) 18
+B) 19
+C) 20
+D) 21
+
+Answer: B) 19
+
+### Question 22: Seating Arrangement
+
+Five people sit in a row. P sits immediately to the left of Q. R sits immediately to the right of Q.
+
+Which order is correct for these three people?
+
+A) Q – P – R
+B) P – R – Q
+C) P – Q – R
+D) R – Q – P
+
+Answer: C) P – Q – R
+
+### Question 23: Blood Relations
+
+Anu is the sister of Bala. Bala is the father of Charan. How is Anu related to Charan?
+
+A) Mother
+B) Aunt
+C) Sister
+D) Cousin
+
+Answer: B) Aunt
+
+### Question 24: Direction Sense
+
+A person walks 5 km north and then 5 km east. In which direction is the person from the starting point?
+
+A) North-west
+B) South-east
+C) South-west
+D) North-east
+
+Answer: D) North-east
+
+### Question 25: Number Series
+
+Find the next number:
+
+3, 6, 12, 24, 48, ?
+
+A) 72
+B) 84
+C) 96
+D) 108
+
+Answer: C) 96
+
+### Question 26: Number Series
+
+Find the missing number:
+
+2, 6, 12, 20, 30, ?
+
+A) 36
+B) 40
+C) 42
+D) 44
+
+Answer: C) 42
+
+### Question 27: Letter Series
+
+Find the next letter:
+
+A, C, E, G, ?
+
+A) H
+B) I
+C) J
+D) K
+
+Answer: B) I
+
+### Question 28: Coding and Decoding
+
+If CAT is coded as DBU by moving each letter one position forward in the alphabet, how is DOG coded?
+
+A) EPH
+B) EOG
+C) FPH
+D) DPH
+
+Answer: A) EPH
+
+### Question 29: Analogy
+
+Doctor : Hospital :: Teacher : ?
+
+A) Court
+B) School
+C) Bank
+D) Factory
+
+Answer: B) School
+
+### Question 30: Classification
+
+Choose the odd one out.
+
+A) Apple
+B) Mango
+C) Banana
+D) Carrot
+
+Answer: D) Carrot
+
+### Question 31: Ranking and Order
+
+Meena is 15th from the top and 10th from the bottom in a class. How many students are there?
+
+A) 23
+B) 24
+C) 25
+D) 26
+
+Answer: B) 24
+
+### Question 32: Seating Arrangement
+
+A, B, C, and D sit in a row. A sits to the left of B. C sits to the right of B. D sits to the right of C.
+
+Which arrangement satisfies all the conditions?
+
+A) A – B – C – D
+B) B – A – C – D
+C) A – C – B – D
+D) D – C – B – A
+
+Answer: A) A – B – C – D
+
+### Question 33: Blood Relations
+
+Kumar is the son of Lakshmi. Lakshmi is the sister of Ravi. How is Ravi related to Kumar?
+
+A) Father
+B) Brother
+C) Maternal uncle
+D) Grandfather
+
+Answer: C) Maternal uncle
+
+### Question 34: Direction Sense
+
+A person walks 6 km east and then 8 km north. What is the shortest distance from the starting point?
+
+A) 10 km
+B) 12 km
+C) 14 km
+D) 16 km
+
+Answer: A) 10 km
+
+### Question 35: Number Series
+
+Find the next number:
+
+1, 4, 9, 16, 25, ?
+
+A) 30
+B) 32
+C) 35
+D) 36
+
+Answer: D) 36
+
+### Question 36: Number Series
+
+Find the missing number:
+
+100, 90, 81, 73, 66, ?
+
+A) 58
+B) 60
+C) 61
+D) 62
+
+Answer: C) 60
+
+### Question 37: Letter Series
+
+Find the next letter:
+
+Z, X, V, T, ?
+
+A) Q
+B) R
+C) S
+D) U
+
+Answer: B) R
+
+### Question 38: Coding and Decoding
+
+If BOOK is coded as CPPL by moving each letter one position forward, how is PEN coded?
+
+A) QFO
+B) QEN
+C) RFO
+D) PFO
+
+Answer: A) QFO
+
+### Question 39: Analogy
+
+Bird : Nest :: Bee : ?
+
+A) Cave
+B) Hive
+C) Stable
+D) Kennel
+
+Answer: B) Hive
+
+### Question 40: Classification
+
+Choose the odd one out.
+
+A) Square
+B) Rectangle
+C) Triangle
+D) Sphere
+
+Answer: D) Sphere
+
+### Question 41: Scheduling and Ordering
+
+Four tasks A, B, C, and D must be completed in an order. A must be completed before B, and B must be completed before C. D can be completed at any position.
+
+Which order is valid?
+
+A) C – A – B – D
+B) B – A – C – D
+C) A – B – C – D
+D) C – B – A – D
+
+Answer: C) A – B – C – D
+
+### Question 42: Analytical Reasoning
+
+Three friends—Arun, Bala, and Chitra—choose different fruits: apple, mango, and orange.
+
+Arun chooses apple. Bala does not choose mango.
+
+Which fruit does Bala choose?
+
+A) Apple
+B) Mango
+C) Orange
+D) Cannot be determined
+
+Answer: C) Orange
+
+### Question 43: Ranking and Order
+
+In a queue, Priya is 7th from the front. There are 9 people behind her. How many people are in the queue?
+
+A) 14
+B) 15
+C) 16
+D) 17
+
+Answer: B) 15
+
+### Question 44: Seating Arrangement
+
+Four people P, Q, R, and S sit in a row. P is to the left of Q. R is to the right of Q. S is to the right of R.
+
+Which person sits at the extreme right?
+
+A) P
+B) Q
+C) R
+D) S
+
+Answer: D) S
+
+### Question 45: Blood Relations
+
+Pointing to a boy, a woman says, “He is the son of my mother's only daughter.” If the woman has no sisters, how is the boy related to her?
+
+A) Brother
+B) Son
+C) Nephew
+D) Cousin
+
+Answer: B) Son
+
+### Question 46: Direction Sense
+
+A person walks 10 km south, turns left, and walks 4 km. In which direction is the person moving after turning left?
+
+A) East
+B) West
+C) North
+D) South
+
+Answer: A) East
+
+### Question 47: Number Series
+
+Find the next number:
+
+4, 9, 19, 39, 79, ?
+
+A) 119
+B) 139
+C) 149
+D) 159
+
+Answer: D) 159
+
+### Question 48: Letter Series
+
+Find the next pair:
+
+AZ, BY, CX, DW, ?
+
+A) EU
+B) EV
+C) FU
+D) EX
+
+Answer: B) EV
+
+### Question 49: Coding and Decoding
+
+If SOUTH is coded as TPVUI by moving each letter one position forward, how is NORTH coded using the same rule?
+
+A) OPSUI
+B) OPSVI
+C) OPRUI
+D) NPSUI
+
+Answer: A) OPSUI
+
+### Question 50: Analytical Reasoning
+
+Five books are arranged on a shelf. History is to the left of Science. Science is to the left of English. Mathematics is to the left of History.
+
+Which statement must be true?
+
+A) English is to the left of Mathematics
+B) History is to the left of Mathematics
+C) Mathematics is to the left of Science
+D) Science is to the left of History
+
+Answer: C) Mathematics is to the left of Science
+

@@ -1,0 +1,471 @@
+---
+
+# 📘 PERCENTAGE 
+
+---
+
+# 🟢 1. BASIC PERCENTAGE (X% of Y)
+
+## 📌 How to Solve (Steps)
+
+1. Percentage-ஐ fraction-ஆ மாற்று (X/100)
+2. Multiply with number (Y)
+3. Simplify
+
+---
+
+## ✍️ Solved Examples
+
+### 🧠 Example 1: 20% of 200
+
+👉 Step 1: 20% = 20/100
+👉 Step 2: (20/100) × 200
+👉 Step 3: 20 × 2 = 40
+
+✔ Answer = 40
+
+---
+
+### 🧠 Example 2: 15% of 300
+
+👉 (15/100) × 300
+👉 15 × 3 = 45
+
+✔ Answer = 45
+
+---
+
+### 🧠 Example 3: 25% of 400
+
+👉 (25/100) × 400
+👉 25 × 4 = 100
+
+✔ Answer = 100
+
+---
+
+### 🧠 Example 4: 12% of 500
+
+👉 (12/100) × 500
+👉 12 × 5 = 60
+
+✔ Answer = 60
+
+---
+
+### 🧠 Example 5: 5% of 1000
+
+👉 (5/100) × 1000
+👉 5 × 10 = 50
+
+✔ Answer = 50
+
+---
+
+---
+
+# 🟡 2. FIND PERCENTAGE (PART / WHOLE)
+
+## 📌 Steps
+
+1. Part ÷ Whole
+2. × 100
+
+---
+
+## ✍️ Examples
+
+### 🧠 Example 1: 50 is what % of 200
+
+👉 50/200 × 100
+👉 1/4 × 100 = 25%
+
+✔ Answer = 25%
+
+---
+
+### 🧠 Example 2: 30 is what % of 150
+
+👉 30/150 × 100
+👉 1/5 × 100 = 20%
+
+✔ Answer = 20%
+
+---
+
+### 🧠 Example 3: 75 is what % of 300
+
+👉 75/300 × 100
+👉 1/4 × 100 = 25%
+
+✔ Answer = 25%
+
+---
+
+---
+
+# 🔵 3. PERCENTAGE INCREASE / DECREASE
+
+## 📌 Steps
+
+1. New - Old
+2. Divide by Old
+3. × 100
+
+---
+
+## ✍️ Examples
+
+### 🧠 Example 1: 100 → 120
+
+👉 (120 - 100) / 100 × 100
+👉 20% increase
+
+---
+
+### 🧠 Example 2: 200 → 150
+
+👉 (150 - 200) / 200 × 100
+👉 -25% → 25% decrease
+
+---
+
+### 🧠 Example 3: 500 → 600
+
+👉 100/500 × 100 = 20%
+
+---
+
+### 🧠 Example 4: 400 → 360
+
+👉 40/400 × 100 = 10% decrease
+
+---
+
+---
+
+# 🟣 4. SUCCESSIVE PERCENTAGE
+
+## 📌 Steps
+
+Use shortcut formula:
+👉 A + B + (AB/100)
+
+---
+
+## ✍️ Examples
+
+### 🧠 Example 1: +10%, +20%
+
+👉 10 + 20 + (200/100)
+👉 10 + 20 + 2 = 32%
+
+✔ Answer = 32% increase
+
+---
+
+### 🧠 Example 2: +20%, -10%
+
+👉 20 - 10 - 2 = 8%
+
+---
+
+### 🧠 Example 3: -20%, -10%
+
+👉 -20 -10 +2 = -28%
+
+✔ 28% decrease
+
+---
+
+---
+
+# 🟠 5. PROFIT & LOSS (PERCENTAGE BASED)
+
+## 📌 Steps
+
+1. Find difference (SP - CP)
+2. Divide by CP
+3. × 100
+
+---
+
+## ✍️ Examples
+
+### 🧠 Example 1
+
+CP = 200, SP = 250
+👉 Profit = 50
+👉 50/200 × 100 = 25%
+
+✔ Answer = 25% profit
+
+---
+
+### 🧠 Example 2
+
+CP = 400, SP = 360
+👉 Loss = 40
+👉 40/400 × 100 = 10%
+
+✔ Answer = 10% loss
+
+---
+
+### 🧠 Example 3
+
+MP = 1000, SP = 800
+👉 Discount = 200
+👉 200/1000 × 100 = 20%
+
+✔ Answer = 20% discount
+
+---
+TYPE 5: PROFIT / LOSS / DISCOUNT TYPE
+
+Used in business problems.
+
+📌 Formula:
+
+👉 Profit % = (Profit / Cost Price) × 100
+👉 Discount % = (MP - SP) / MP × 100
+
+📌 How exam asks:
+Marked price vs selling price
+Profit calculation
+📌 Example:
+
+MP = 1000, SP = 800
+Discount = 20%
+
+📌 Practice:
+MP 500, SP 450
+CP 200, SP 250
+
+TYPE 6: POPULATION / COMPOUND GROWTH
+
+📌 Formula
+
+👉 Final = Initial × (1 ± r/100)^n
+
+✍️ Solved Examples (5)
+1000 + 10%
+= 1100
+2000 + 5%
+= 2100
+5000 + 2 years 10%
+= 6050
+10000 + 1 year 5%
+= 10500
+8000 + 10%
+= 8800
+
+---
+
+
+# 🔥 FINAL EXAM STRATEGY (VERY IMPORTANT)
+
+
+
+---
+
+TYPE 6: REVERSE PERCENTAGE
+📌 Concept
+
+Final value தெரியும், original find பண்ணணும்
+
+📌 Formula
+
+Original = Final × 100 / (100 ± %)
+
+📌 எப்படி கேப்பாங்க:
+After 20% increase price = 120, find original
+After 10% decrease value = 90
+
+---
+
+HOW TO CREATE QUESTIONS 
+
+👉 Pattern 1 (Direct)
+Find X% of Y
+👉 Pattern 2 (Reverse)
+X is what % of Y
+👉 Pattern 3 (Story)
+Salary increased
+Population changed
+👉 Pattern 4 (Mixed)
+Profit + discount
+Increase + decrease
+
+
+## 🧠 HOW TO SOLVE ANY QUESTION:
+
+👉 Step 1: Identify type
+👉 Step 2: Choose formula
+👉 Step 3: Substitute values
+👉 Step 4: Simplify
+
+---
+
+ 
+
+FINAL MIXED PRACTICE (30 QUESTIONS – EXAM LEVEL)
+🧠 BASIC
+20% of 400
+15% of 600
+10% of 900
+25% of 200
+5% of 1000
+📊 PERCENTAGE CHANGE
+100 → 150
+200 → 180
+500 → 550
+400 → 300
+250 → 275
+SUCCESSIVE
++10%, +10%
++20%, -10%
+-20%, -10%
++30%, +20%
+-10%, +10%
+🧮 REVERSE PERCENTAGE
+30 is what % of 150
+75 is what % of 300
+120 is what % of 600
+50 is what % of 200
+90 is what % of 450
+APPLICATION
+Population 1000 +10%
+Population 2000 +5%
+Salary 5000 → 6000
+Price 800 → 1000
+Discount MP 1000 SP 900
+🧠 MIXED LEVEL
+12% of 500
+18% of 600
+35% of 200
+22% of 300
+45% of 400
+
+EXAM QUESTIONS
+
+Q1: A number is increased by 20% and then decreased by 10%. What is the net percentage change?
+A) 6%
+B) 8%
+C) 10%
+D) 12%
+
+Q2: The population of a town increases by 10% every year. If present population is 2200, what was it 2 years ago?
+A) 1800
+B) 2000
+C) 1820
+D) 2100
+
+Q3: If the price of a commodity is increased by 25%, by what percentage should consumption be reduced to keep expenditure same?
+A) 20%
+B) 25%
+C) 15%
+D) 10%
+
+Q4: A student scores 40% marks and fails by 20 marks. If passing mark is 50%, what is the total mark?
+A) 200
+B) 180
+C) 250
+D) 300
+
+Q5: A shopkeeper gives two successive discounts of 10% and 20%. What is the equivalent discount?
+A) 28%
+B) 30%
+C) 32%
+D) 25%
+
+Q6: If a number is decreased by 20% and then increased by 25%, what is the net change?
+A) No change
+B) 5% increase
+C) 5% decrease
+D) 10% decrease
+
+Q7: Income of a person increases by 20% but expenditure increases by 10%. What is the increase in savings?
+A) 10%
+B) 20%
+C) More than 20%
+D) Cannot be determined
+
+Q8: If 60% of a number is 180, what is 40% of that number?
+A) 100
+B) 120
+C) 140
+D) 160
+
+Q9: The salary of a person is increased by 15% and then decreased by 15%. What is the net effect?
+A) No change
+B) Decrease
+C) Increase
+D) Cannot be determined
+
+Q10: If the price is reduced by 20%, how much more quantity can be bought for same money?
+A) 20%
+B) 25%
+C) 30%
+D) 40%
+
+Q11: A number when increased by 10% becomes 220. What is the original number?
+A) 180
+B) 200
+C) 210
+D) 220
+
+Q12: A student obtained 45% marks and failed by 30 marks. Passing marks are 60%. Find total marks.
+A) 150
+B) 200
+C) 300
+D) 250
+
+Q13: The value of a machine depreciates by 10% annually. What will be its value after 2 years if initial value is 10000?
+A) 8000
+B) 8100
+C) 8200
+D) 7900
+
+Q14: A trader marks his goods 40% above cost price and gives a discount of 20%. What is his profit percentage?
+A) 10%
+B) 12%
+C) 15%
+D) 20%
+
+Q15: If A's salary is 20% more than B's, by what percentage is B's salary less than A's?
+A) 16.66%
+B) 20%
+C) 18%
+D) 15%
+
+Q16: A number is first increased by 30% and then decreased by 30%. What is the net change?
+A) 9% decrease
+B) 9% increase
+C) No change
+D) 6% decrease
+
+Q17: The population decreases by 20% and then increases by 25%. What is the net change?
+A) No change
+B) 5% increase
+C) 5% decrease
+D) 10% decrease
+
+Q18: A number is such that 25% of it is equal to 50% of another number 200. Find the first number.
+A) 200
+B) 300
+C) 400
+D) 500
+
+Q19: A shopkeeper increases price by 25% and then gives 20% discount. What is net change?
+A) No change
+B) 5% increase
+C) 5% decrease
+D) 10% decrease
+
+Q20: If 20% of a number is equal to 30% of another number 200, find the first number.
+A) 300
+B) 200
+C) 150
+D) 100
+

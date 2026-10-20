@@ -1,0 +1,426 @@
+---
+
+# 📘 TIME & WORK – HARD LEVEL CONCEPT
+
+
+## 🔴 TYPE 1: FRACTION + PARTIAL WORK (TRICKY)
+
+### 📌 எப்படி கேப்பாங்க:
+
+* “A does 1/3 work in 5 days…”
+* “Work half done → then B joins”
+
+### 📌 எப்படி solve பண்ணணும்:
+
+👉 Always convert to **total work = LCM**
+👉 Split work into stages
+
+---
+
+## 🔴 TYPE 2: MULTIPLE PERSON JOIN/LEAVE
+
+### 📌 எப்படி கேப்பாங்க:
+
+* “A works 5 days, then B joins”
+* “C leaves after few days”
+
+### 📌 எப்படி solve:
+
+👉 Step-wise work calculation
+👉 Remaining work method
+
+---
+
+## 🔴 TYPE 3: EFFICIENCY COMPARISON
+
+### 📌 எப்படி கேப்பாங்க:
+
+* “A is 3 times efficient than B”
+* “A & B efficiency ratio”
+
+### 📌 எப்படி solve:
+
+👉 Efficiency ratio = inverse of time
+👉 Use unit method
+
+---
+
+## 🔴 TYPE 4: PIPE & CISTERN (NET WORK)
+
+### 📌 எப்படி கேப்பாங்க:
+
+* Fill + empty together
+
+### 📌 எப்படி solve:
+
+👉 Net work = fill – empty
+👉 Negative value → empty
+
+---
+
+## 🔴 TYPE 5: ALTERNATE WORK (VERY TRICKY)
+
+### 📌 எப்படி கேப்பாங்க:
+
+* A works 1 day, B next day
+
+### 📌 எப்படி solve:
+
+👉 Find 2-day cycle
+👉 Multiply cycles
+
+---
+
+## 🔴 TYPE 6: WAGES (WORK BASED)
+
+### 📌 எப்படி கேப்பாங்க:
+
+* Money division based on work
+
+### 📌 எப்படி solve:
+
+👉 Wage ∝ work done
+
+---
+
+## 🔴 TYPE 7: WORK + TIME CHANGE
+
+### 📌 எப்படி கேப்பாங்க:
+
+* Work stops midway
+* Worker removed
+
+### 📌 எப்படி solve:
+
+👉 Work done + remaining
+
+---
+
+## 🔴 TYPE 8: MIXED COMBINATION (TNPSC FAVORITE 🔥)
+
+👉 Combine:
+✔ Efficiency
+✔ Join/leave
+✔ Partial work
+
+---
+
+# ✍️ HARD LEVEL SOLVED EXAMPLES (10)
+
+---
+
+## 🧠 Example 1 (Join after partial)
+
+A alone can do in 12 days
+After 4 days, B joins → finish in 4 more days
+
+👉 Work in 4 days = 4/12 = 1/3
+👉 Remaining = 2/3
+
+👉 A+B in 4 days = 2/3
+👉 1 day = 1/6
+
+👉 A = 1/12
+👉 B = 1/6 - 1/12 = 1/12
+
+✔ B alone = 12 days
+
+---
+
+## 🧠 Example 2 (Efficiency)
+
+A is 3 times efficient than B
+B takes 18 days
+
+👉 A time = 18/3 = 6 days
+
+---
+
+## 🧠 Example 3 (Pipe tricky)
+
+Pipe A fills in 6 hrs
+Pipe B empties in 8 hrs
+
+👉 Net = 1/6 - 1/8
+👉 = (4-3)/24 = 1/24
+
+✔ Tank fills in 24 hrs
+
+---
+
+## 🧠 Example 4 (Alternate)
+
+A = 10 days, B = 15 days
+
+👉 2 days work = 1/10 + 1/15 = 1/6
+
+👉 6 days → 3 cycles = 1/2
+
+👉 Continue → total = 8 days
+
+---
+
+## 🧠 Example 5 (Wages)
+
+A does 2/3 work, B does 1/3
+Total money = 900
+
+👉 Ratio = 2:1
+👉 A = 600, B = 300
+
+---
+
+## 🧠 Example 6 (Join + leave)
+
+A = 10 days, B = 20 days
+
+👉 A works 5 days → 5/10 = 1/2
+👉 Remaining = 1/2
+
+👉 B does → 1/2 ÷ (1/20) = 10 days
+
+✔ Total = 15 days
+
+---
+
+## 🧠 Example 7 (Efficiency ratio)
+
+A:B = 2:3
+Total time together = 6 days
+
+👉 Total efficiency = 5 units
+
+👉 Work = 30
+
+👉 A time = 30/2 = 15
+
+---
+
+## 🧠 Example 8 (Pipe + leak)
+
+Fill = 5 hrs
+Leak = 10 hrs
+
+👉 Net = 1/5 - 1/10 = 1/10
+
+✔ Time = 10 hrs
+
+---
+
+## 🧠 Example 9 (Work stop)
+
+A = 12 days
+
+👉 Works 6 days → 1/2 done
+👉 Stops
+
+👉 Remaining = 1/2
+
+👉 B = 6 days
+
+✔ Total = 12 days
+
+---
+
+## 🧠 Example 10 (Mixed hardest)
+
+A = 12 days, B = 18 days
+
+👉 Together = 1/12 + 1/18 = 5/36
+
+👉 Work 4 days = 20/36
+
+👉 Remaining = 16/36
+
+👉 B alone → time = (16/36) ÷ (1/18)
+👉 = 8 days
+
+✔ Total = 12 days
+
+---
+
+# 📊 HARD LEVEL PRACTICE (30 QUESTIONS)
+
+```txt id="hz9w3t"
+Q1: A can do work in 12 days. After 3 days B joins and work finishes in 6 more days. Find B's time?
+A) 10
+B) 12
+C) 15
+D) 18
+
+Q2: A is twice efficient than B. B takes 18 days. A+B together?
+A) 4
+B) 5
+C) 6
+D) 7
+
+Q3: Pipe fills in 8 hrs, empties in 12 hrs. Time?
+A) 20
+B) 24
+C) 18
+D) 30
+
+Q4: A=10 days, B=15 days alternate work. Total time?
+A) 7
+B) 8
+C) 9
+D) 10
+
+Q5: A does 2/5 work, B rest. Money = 500. A share?
+A) 200
+B) 250
+C) 300
+D) 350
+
+Q6: A and B can complete a work in 12 and 18 days respectively. A works alone for 4 days, then B joins. Total time to finish work?
+A) 8
+B) 9
+C) 10
+D) 12
+
+Q7: A is 3 times as efficient as B. If B alone takes 24 days, how long will A and B together take?
+A) 5
+B) 6
+C) 7
+D) 8
+
+Q8: A pipe fills a tank in 10 hours and another empties it in 15 hours. If both are opened together, how long will it take to fill the tank?
+A) 20
+B) 25
+C) 30
+D) 35
+
+Q9: A can do a work in 15 days and B in 20 days. They work alternately starting with A. How many days will the work be completed?
+A) 16
+B) 17
+C) 18
+D) 19
+
+Q10: A does 3/5 of a work and B completes the rest. If total wage is ₹1000, what is B’s share?
+A) 300
+B) 400
+C) 500
+D) 600
+
+Q11: A can complete a work in 20 days. After working for 5 days, he leaves. B completes remaining work in 10 days. Find B’s time alone.
+A) 12
+B) 15
+C) 20
+D) 25
+
+Q12: A and B together can do a work in 8 days. A alone can do it in 12 days. How long will B alone take?
+A) 16
+B) 18
+C) 20
+D) 24
+
+Q13: A, B, and C can complete a work in 6 days. A alone in 12 days, B alone in 18 days. How long will C alone take?
+A) 36
+B) 18
+C) 24
+D) 30
+
+Q14: A pipe fills a tank in 8 hours. Due to leakage, it fills in 10 hours. How long will leakage alone empty the tank?
+A) 20
+B) 30
+C) 40
+D) 50
+
+Q15: A can do a work in 16 days, B in 24 days. They start together, but B leaves after 4 days. Total time to complete?
+A) 10
+B) 12
+C) 14
+D) 16
+
+Q16: A and B can do work in 10 days. B and C in 12 days. A and C in 15 days. How long will all three take together?
+A) 6
+B) 8
+C) 9
+D) 10
+
+Q17: A is twice as efficient as B and B is thrice as efficient as C. If C alone takes 36 days, how long will A take?
+A) 6
+B) 8
+C) 9
+D) 12
+
+Q18: A fills a tank in 12 hours. B empties it in 18 hours. If both are opened together, tank will be filled in?
+A) 36
+B) 24
+C) 30
+D) 20
+
+Q19: A completes 1/3 work in 5 days. B completes 1/4 work in 4 days. Together how long to complete full work?
+A) 6
+B) 7
+C) 8
+D) 9
+
+Q20: A and B together do a work in 9 days. A is 50% more efficient than B. Time taken by A alone?
+A) 12
+B) 15
+C) 18
+D) 20
+
+Q21: A can do a work in 10 days, B in 15 days. They work together for 3 days, then A leaves. How many more days will B take?
+A) 6
+B) 7
+C) 8
+D) 9
+
+Q22: 6 men can complete work in 12 days. 8 men start work, but after 3 days, 2 men leave. Total time?
+A) 8
+B) 9
+C) 10
+D) 11
+
+Q23: A pipe fills tank in 6 hrs, B fills in 8 hrs, C empties in 12 hrs. All opened together. Time?
+A) 3
+B) 4
+C) 5
+D) 6
+
+Q24: A works 2 days, B works 3 days alternately. A completes work in 10 days, B in 15 days. Total time?
+A) 8
+B) 9
+C) 10
+D) 11
+
+Q25: A and B can do work in 12 days. A, B, C together in 8 days. Time taken by C alone?
+A) 16
+B) 20
+C) 24
+D) 28
+
+Q26: A can do work in 18 days. B is 50% more efficient. Time taken by B?
+A) 9
+B) 12
+C) 15
+D) 6
+
+Q27: A pipe fills tank in 5 hrs. Another fills in 10 hrs. Both open for 2 hrs, then second closed. Remaining time?
+A) 2
+B) 3
+C) 4
+D) 5
+
+Q28: A does 40% work in 8 days. B is twice efficient. Time taken together?
+A) 4
+B) 5
+C) 6
+D) 7
+
+Q29: A and B can do work in 20 days. B and C in 30 days. A and C in 24 days. All together?
+A) 10
+B) 12
+C) 15
+D) 18
+
+Q30: A completes 1/2 work in 4 days. B completes 1/3 work in 6 days. Together full work?
+A) 5
+B) 6
+C) 7
+D) 8
+
+```
+

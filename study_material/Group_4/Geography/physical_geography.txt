@@ -1,0 +1,314 @@
+---
+
+# 🌍 PHYSICAL GEOGRAPHY
+---
+# 🟢 INTRODUCTION TO PHYSICAL GEOGRAPHY
+
+Physical Geography is the branch of geography that deals with natural features of the Earth such as landforms, climate, soils, oceans, and natural processes. It explains how physical forces like tectonics, weathering, erosion, and climate shape the Earth's surface.
+
+Physical Geography is the foundation for understanding all human activities because human settlement, agriculture, transport, and industries depend on physical conditions.
+
+---
+
+# 🟡 EARTH AS A PLANET
+
+Earth is the third planet from the Sun and the only known planet that supports life. It is part of the solar system and has unique conditions like atmosphere, water, and suitable temperature.
+
+---
+
+## 🟢 SHAPE OF THE EARTH
+
+The Earth is not perfectly spherical. It is an oblate spheroid, slightly flattened at the poles and bulged at the equator.
+
+### 🔵 IMPORTANT TERMS:
+
+* Latitude → horizontal lines
+* Longitude → vertical lines
+* Equator → 0° latitude
+* Prime Meridian → 0° longitude
+
+---
+
+# 🌐 LATITUDE AND LONGITUDE SYSTEM
+
+The Earth is divided using an imaginary grid system.
+
+### 🟡 LATITUDE:
+
+* Runs east-west
+* Measures distance north/south
+
+### 🟢 LONGITUDE:
+
+* Runs north-south
+* Measures distance east/west
+
+### 🔵 IMPORTANCE:
+
+* Time calculation
+* Climate zones
+* Navigation system
+
+---
+
+# 🌏 STRUCTURE OF THE EARTH
+
+Earth has three main layers:
+
+---
+
+## 🟢 1. CRUST
+
+* Outer layer
+* Thin and solid
+* Contains continents and ocean floors
+
+---
+
+## 🟡 2. MANTLE
+
+* Middle layer
+* Semi-molten rock
+* Responsible for tectonic movement
+
+---
+
+## 🔴 3. CORE
+
+* Inner layer
+* Very hot (iron + nickel)
+* Outer core is liquid, inner core is solid
+
+---
+
+# 🌋 TECTONIC PLATES AND CONTINENTAL DRIFT
+
+The Earth's crust is divided into tectonic plates that float on the semi-molten mantle.
+
+### 🟡 THEORY OF CONTINENTAL DRIFT:
+
+Proposed by Alfred Wegener, states that continents were once joined as Pangaea and later drifted apart.
+
+### 🔵 TYPES OF PLATE BOUNDARIES:
+
+* Convergent (collision)
+* Divergent (separation)
+* Transform (sliding)
+
+---
+
+# 🌋 VOLCANOES
+
+A volcano is an opening in the Earth's crust through which magma erupts.
+
+### 🟡 TYPES:
+
+* Active volcano
+* Dormant volcano
+* Extinct volcano
+
+### 🔵 IMPORTANCE:
+
+* Formation of new land
+* Fertile soil
+* Geothermal energy
+
+---
+
+# 🌎 EARTHQUAKES
+
+Earthquakes are sudden shaking of the Earth's surface caused by movement of tectonic plates.
+
+### 🟡 KEY TERMS:
+
+* Focus → origin point inside Earth
+* Epicenter → surface point above focus
+
+### 🔵 EFFECTS:
+
+* Ground rupture
+* Tsunami
+* Structural damage
+
+---
+
+# 🌦️ ATMOSPHERE
+
+The atmosphere is a layer of gases surrounding Earth.
+
+---
+
+## 🟢 LAYERS OF ATMOSPHERE
+
+* Troposphere (weather layer)
+* Stratosphere (ozone layer)
+* Mesosphere
+* Thermosphere
+* Exosphere
+
+---
+
+## 🔵 IMPORTANCE:
+
+* Protects from UV rays
+* Controls temperature
+* Supports life
+
+---
+
+# 🌧️ WEATHER AND CLIMATE
+
+Weather is short-term atmospheric condition. Climate is long-term weather pattern.
+
+### 🟡 FACTORS AFFECTING CLIMATE:
+
+* Latitude
+* Altitude
+* Distance from sea
+* Ocean currents
+* Winds
+
+---
+
+# 🌊 HYDROSPHERE (WATER ON EARTH)
+
+Hydrosphere includes all water bodies: oceans, rivers, lakes, glaciers, and groundwater.
+
+---
+
+## 🟢 WATER CYCLE
+
+* Evaporation
+* Condensation
+* Precipitation
+* Collection
+
+---
+
+## 🔵 OCEAN CURRENTS
+
+* Warm currents → Gulf Stream
+* Cold currents → Labrador Current
+
+---
+
+# 🏔️ LANDFORMS OF THE EARTH
+
+Major landforms:
+
+* Mountains
+* Plateaus
+* Plains
+* Deserts
+* Valleys
+
+---
+
+# 🏔️ MOUNTAINS
+
+Formed by tectonic forces.
+
+### TYPES:
+
+* Fold mountains (Himalayas)
+* Block mountains
+* Volcanic mountains
+
+---
+
+# 🌾 PLAINS
+
+Flat fertile land formed by river deposits.
+
+---
+
+# 🏜️ DESERTS
+
+Dry regions with very low rainfall.
+
+---
+
+# 🌄 PLATEAUS
+
+Elevated flat regions rich in minerals.
+
+---
+
+# 🌪️ WIND SYSTEMS
+
+Wind systems are caused by pressure differences in the atmosphere.
+
+### TYPES:
+
+* Trade winds
+* Westerlies
+* Polar winds
+
+---
+
+# 🌊 OCEANOGRAPHY BASICS
+
+* Oceans cover 71% of Earth
+* Pacific is largest ocean
+* Mariana Trench is deepest point
+
+---
+
+# 🌍 SOIL FORMATION PROCESS
+
+Soil is formed by weathering of rocks over long time.
+
+### FACTORS:
+
+* Climate
+* Parent rock
+* Vegetation
+* Time
+
+---
+
+# 🌱 SOIL EROSION
+
+Loss of topsoil due to wind and water.
+
+### CONTROL METHODS:
+
+* Afforestation
+* Terrace farming
+* Contour ploughing
+
+---
+
+# 🌿 NATURAL VEGETATION (PHYSICAL BASE)
+
+* Tropical rainforest
+* Deciduous forest
+* Grasslands
+* Desert vegetation
+
+---
+
+# ⚠️ NATURAL HAZARDS
+
+Natural hazards are extreme natural events causing damage.
+
+### TYPES:
+
+* Floods
+* Earthquakes
+* Cyclones
+* Drought
+* Landslides
+
+---
+
+# 🔥 QUICK REVISION POINTS
+
+* Earth = oblate spheroid
+* 3 layers → Crust, Mantle, Core
+* Plate tectonics → causes earthquakes
+* Atmosphere → 5 layers
+* Hydrosphere → water cycle
+* Landforms → mountains, plains, plateaus
+
+---

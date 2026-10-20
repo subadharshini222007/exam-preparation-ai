@@ -1,0 +1,3763 @@
+# BIOLOGY – PART 7
+
+# NERVOUS SYSTEM, SENSE ORGANS AND ENDOCRINE SYSTEM
+---
+# SECTION 1: INTRODUCTION TO THE HUMAN NERVOUS SYSTEM
+
+## 1.1 Meaning of the Nervous System
+
+The human nervous system is a complex communication and control system that coordinates the activities of different parts of the body.
+
+It receives information from the internal and external environments, processes that information and produces appropriate responses.
+
+For example, when a person touches a hot object, sensory receptors detect the stimulus. Nerve impulses carry information toward the central nervous system, where the information is processed. Signals then activate muscles to withdraw the hand.
+
+The nervous system is essential for movement, sensation, memory, learning, thinking, emotion and the regulation of many internal body functions.
+
+### Major functions of the nervous system
+
+1. Receives sensory information from the environment.
+2. Detects changes within the body.
+3. Processes and interprets sensory information.
+4. Controls voluntary movements.
+5. Regulates many involuntary activities.
+6. Coordinates reflex actions.
+7. Supports memory and learning.
+8. Participates in emotions and behaviour.
+9. Helps maintain homeostasis.
+10. Coordinates communication between the brain, spinal cord and other body structures.
+
+Homeostasis is the maintenance of a relatively stable internal environment despite changes inside or outside the body.
+
+### Example of nervous system coordination
+
+When a person sees a moving vehicle approaching, the eyes detect light and movement. Sensory information travels through neural pathways to the brain. The brain processes the information and coordinates a suitable response through motor pathways.
+
+This demonstrates the cooperation between sensory receptors, nerves, the central nervous system and muscles.
+
+---
+
+## 1.2 Organization of the Nervous System
+
+The human nervous system is divided into two major anatomical divisions:
+
+1. Central Nervous System (CNS)
+2. Peripheral Nervous System (PNS)
+
+### A. Central Nervous System
+
+The central nervous system consists of:
+
+* Brain
+* Spinal cord
+
+The brain processes sensory information, coordinates movement and supports higher functions such as reasoning, memory and language.
+
+The spinal cord transmits information between the brain and the body and participates in many reflex actions.
+
+### B. Peripheral Nervous System
+
+The peripheral nervous system consists of nerves and ganglia outside the brain and spinal cord.
+
+It connects the central nervous system with sensory receptors, muscles, glands and internal organs.
+
+The peripheral nervous system carries sensory information toward the central nervous system and conveys motor commands away from it.
+
+### Functional divisions of the peripheral nervous system
+
+The peripheral nervous system can be divided functionally into:
+
+**Sensory or afferent division:** Carries information from sensory receptors toward the central nervous system.
+
+**Motor or efferent division:** Carries commands from the central nervous system to muscles and glands.
+
+The motor division includes the somatic and autonomic nervous systems.
+
+### Somatic nervous system
+
+The somatic nervous system is associated with sensory information from the body and control of skeletal muscles.
+
+It is involved in voluntary movements such as walking, writing and lifting objects. It also participates in certain reflex actions.
+
+### Autonomic nervous system
+
+The autonomic nervous system regulates many involuntary functions of internal organs.
+
+It influences heart rate, digestion, pupil diameter, glandular secretion and the activity of smooth muscle.
+
+Its major divisions are:
+
+1. Sympathetic nervous system
+2. Parasympathetic nervous system
+
+The enteric nervous system is a specialized neural network in the digestive tract that coordinates many gastrointestinal functions.
+
+### Important comparison
+
+| Feature         | Central nervous system                           | Peripheral nervous system              |
+| --------------- | ------------------------------------------------ | -------------------------------------- |
+| Main components | Brain and spinal cord                            | Nerves and ganglia outside CNS         |
+| Main role       | Integration and processing                       | Communication between CNS and body     |
+| Protection      | Skull, vertebral column and protective membranes | Nerves distributed throughout the body |
+| Function        | Interprets information and coordinates responses | Carries sensory and motor signals      |
+
+**TNPSC Important Point:** The brain and spinal cord together form the central nervous system.
+
+---
+
+# SECTION 2: NEURONS AND NERVE IMPULSES
+
+## 2.1 Neuron – The Structural and Functional Unit
+
+A neuron is a specialized cell that receives, processes and transmits information through electrical and chemical signals.
+
+Neurons are the fundamental functional units of the nervous system.
+
+They communicate with other neurons, muscles and glands.
+
+### Main parts of a neuron
+
+1. Cell body
+2. Dendrites
+3. Axon
+4. Axon terminals
+
+### Cell body
+
+The cell body, also called the soma, contains the nucleus and most of the organelles required for cellular maintenance.
+
+It supports the metabolic activities of the neuron.
+
+### Dendrites
+
+Dendrites are branching extensions that commonly receive signals from other neurons or sensory structures.
+
+They increase the surface area available for communication.
+
+### Axon
+
+The axon is a long cellular extension that conducts electrical impulses away from the cell body toward other cells.
+
+Some axons are very short, while others extend over long distances.
+
+### Axon terminals
+
+Axon terminals form communication sites with other neurons, muscles or glands.
+
+They release chemical messengers called neurotransmitters at many synapses.
+
+### Myelin sheath
+
+Some axons are covered by a fatty insulating layer called the myelin sheath.
+
+In the peripheral nervous system, myelin is produced by Schwann cells.
+
+In the central nervous system, myelin is produced by oligodendrocytes.
+
+Myelin increases the speed of impulse conduction along many axons.
+
+### Nodes of Ranvier
+
+Nodes of Ranvier are small gaps between adjacent myelin segments.
+
+They allow action potentials to be regenerated at intervals along myelinated axons.
+
+This supports a form of rapid conduction called saltatory conduction.
+
+### Structure summary
+
+| Neuron part      | Main function                                  |
+| ---------------- | ---------------------------------------------- |
+| Cell body        | Maintains the neuron                           |
+| Dendrites        | Receive signals                                |
+| Axon             | Conducts signals away from the cell body       |
+| Axon terminals   | Communicate with target cells                  |
+| Myelin sheath    | Insulates axons and increases conduction speed |
+| Nodes of Ranvier | Support rapid impulse conduction               |
+
+---
+
+## 2.2 Types of Neurons
+
+Neurons can be classified according to their function.
+
+### Sensory neurons
+
+Sensory neurons carry information from sensory receptors toward the central nervous system.
+
+They detect stimuli such as pressure, temperature, light or chemical substances.
+
+### Motor neurons
+
+Motor neurons transmit signals from the central nervous system to muscles or glands.
+
+They participate in movement and glandular responses.
+
+### Interneurons
+
+Interneurons connect neurons within the central nervous system.
+
+They are important in information processing, coordination and reflex pathways.
+
+### Functional comparison
+
+| Type           | Main direction or role                                    |
+| -------------- | --------------------------------------------------------- |
+| Sensory neuron | Receptor toward CNS                                       |
+| Motor neuron   | CNS toward muscle or gland                                |
+| Interneuron    | Connects and processes information within neural circuits |
+
+**TNPSC Important Point:** Sensory neurons carry information toward the CNS, while motor neurons carry commands away from the CNS.
+
+---
+
+## 2.3 Nerve Impulse
+
+A nerve impulse is an electrical signal that travels along the membrane of a neuron.
+
+Neuronal membranes maintain differences in electrical charge between the inside and outside of the cell.
+
+These differences are produced by ion gradients and the selective permeability of the membrane.
+
+Important ions include sodium and potassium.
+
+### Resting membrane potential
+
+A resting neuron has a voltage difference across its membrane.
+
+The inside is normally negative relative to the outside.
+
+The resting membrane potential depends on ion concentrations, membrane permeability and the activity of ion-transport mechanisms.
+
+### Action potential
+
+An action potential is a rapid, temporary change in membrane voltage.
+
+In a typical neuron:
+
+1. A sufficient stimulus brings the membrane to threshold.
+2. Voltage-gated sodium channels open.
+3. Sodium enters the cell and causes depolarization.
+4. Sodium channels become inactivated.
+5. Voltage-gated potassium channels open.
+6. Potassium leaves the cell, producing repolarization.
+7. The membrane gradually returns toward its resting state.
+
+The exact sequence and timing vary among different cell types.
+
+### Refractory period
+
+After an action potential, a neuron experiences a period during which another action potential is difficult or temporarily impossible to initiate.
+
+This refractory period helps limit the frequency of impulses and supports one-way propagation along an axon.
+
+### Conduction of impulses
+
+An action potential propagates along the axon as neighbouring membrane regions are activated.
+
+In myelinated axons, conduction is faster because action potentials are regenerated mainly at the nodes of Ranvier.
+
+---
+
+## 2.4 Synapse and Neurotransmitters
+
+A synapse is a specialized junction through which one neuron communicates with another neuron or a target cell.
+
+Many synapses use chemical neurotransmitters.
+
+### Structure of a chemical synapse
+
+A typical chemical synapse includes:
+
+* Presynaptic terminal
+* Synaptic cleft
+* Postsynaptic membrane
+
+When an action potential reaches the presynaptic terminal, calcium channels open.
+
+Calcium entry triggers the release of neurotransmitters from synaptic vesicles.
+
+The neurotransmitters cross the synaptic cleft and bind to receptors on the postsynaptic membrane.
+
+This changes the activity of the target cell.
+
+The effect may be excitatory or inhibitory, depending on the neurotransmitter, receptor and cellular context.
+
+### Important neurotransmitters
+
+**Acetylcholine:** Involved in communication between motor neurons and skeletal muscles, and in many autonomic functions.
+
+**Dopamine:** Participates in movement, motivation, reward processing and other brain functions.
+
+**Serotonin:** Involved in mood, sleep, appetite and several other processes.
+
+**Noradrenaline:** Participates in alertness and sympathetic nervous system activity.
+
+**GABA:** The principal inhibitory neurotransmitter in much of the adult brain.
+
+**Glutamate:** The principal excitatory neurotransmitter in much of the central nervous system.
+
+### Electrical and chemical synapses
+
+| Feature        | Chemical synapse                        | Electrical synapse                              |
+| -------------- | --------------------------------------- | ----------------------------------------------- |
+| Communication  | Neurotransmitter release                | Direct ionic current through gap junctions      |
+| Synaptic cleft | Present                                 | Cells closely connected by gap junctions        |
+| Speed          | Usually involves a small delay          | Very rapid                                      |
+| Direction      | Usually one-way                         | Can be bidirectional                            |
+| Occurrence     | Very common in the human nervous system | Present in selected tissues and neural circuits |
+
+**TNPSC Important Point:** Neurotransmitters transmit chemical signals across many synapses.
+
+---
+
+# SECTION 3: THE HUMAN BRAIN
+
+## 3.1 Introduction
+
+The brain is the main integrating organ of the central nervous system.
+
+It receives sensory information, processes signals, coordinates movement and supports complex functions such as language, memory, attention and reasoning.
+
+The brain is protected by the skull and covered by three membranes called the meninges.
+
+Major brain regions include:
+
+1. Cerebrum
+2. Diencephalon
+3. Cerebellum
+4. Brainstem
+
+The brainstem includes the midbrain, pons and medulla oblongata.
+
+---
+
+## 3.2 Cerebrum
+
+The cerebrum is the largest major part of the human brain.
+
+It consists of two cerebral hemispheres connected by nerve fibres, particularly those forming the corpus callosum.
+
+The outer layer of the cerebrum is called the cerebral cortex.
+
+Much of the cortex consists of grey matter containing neuronal cell bodies, dendrites and synaptic connections.
+
+The deeper regions contain substantial white matter consisting largely of myelinated axons.
+
+### Functions of the cerebrum
+
+1. Conscious perception.
+2. Voluntary movement.
+3. Language.
+4. Memory.
+5. Reasoning.
+6. Planning.
+7. Learning.
+8. Attention.
+9. Interpretation of sensory information.
+
+### Lobes of the cerebrum
+
+The cerebral cortex is commonly divided into four major lobes on each hemisphere:
+
+* Frontal lobe
+* Parietal lobe
+* Temporal lobe
+* Occipital lobe
+
+### Frontal lobe
+
+The frontal lobe participates in planning, decision-making, voluntary movement, aspects of speech production and regulation of behaviour.
+
+The primary motor cortex is located in the frontal lobe.
+
+### Parietal lobe
+
+The parietal lobe is important for processing bodily sensations, including touch and information about body position.
+
+It also contributes to spatial awareness and integration of sensory information.
+
+### Temporal lobe
+
+The temporal lobe participates in hearing, aspects of language comprehension, memory and recognition.
+
+### Occipital lobe
+
+The occipital lobe contains major cortical areas involved in visual processing.
+
+### Comparison table
+
+| Lobe      | Important functions                                        |
+| --------- | ---------------------------------------------------------- |
+| Frontal   | Planning, voluntary movement, aspects of speech production |
+| Parietal  | Body sensations and spatial processing                     |
+| Temporal  | Hearing, memory and aspects of language comprehension      |
+| Occipital | Visual processing                                          |
+
+**TNPSC Important Point:** The occipital lobe is particularly important for vision.
+
+---
+
+## 3.3 Cerebellum
+
+The cerebellum is located toward the back of the brain, beneath the occipital lobes.
+
+It is important for coordinating movements and maintaining balance.
+
+### Functions
+
+1. Coordinates the timing and precision of movements.
+2. Helps maintain posture.
+3. Supports balance.
+4. Contributes to motor learning.
+5. Helps correct movement errors.
+
+The cerebellum does not usually initiate voluntary movements independently. Instead, it helps refine and coordinate motor activity.
+
+Damage to the cerebellum can cause ataxia, which is impaired coordination of movement.
+
+Symptoms may include unsteady walking, inaccurate movements and difficulty maintaining balance.
+
+**TNPSC Important Point:** The cerebellum is essential for coordination and balance.
+
+---
+
+## 3.4 Diencephalon
+
+The diencephalon lies deep within the brain and includes the thalamus and hypothalamus, among other structures.
+
+### Thalamus
+
+The thalamus acts as a major relay and processing centre for sensory information travelling toward the cerebral cortex.
+
+It also participates in attention, motor functions and other processes.
+
+Most sensory information destined for the cerebral cortex passes through the thalamus. The sense of smell is a major exception to the general rule of initial thalamic relay.
+
+### Hypothalamus
+
+The hypothalamus plays a major role in maintaining homeostasis.
+
+It regulates or influences:
+
+* Body temperature.
+* Hunger.
+* Thirst.
+* Sleep-wake rhythms.
+* Autonomic functions.
+* Hormonal control through the pituitary gland.
+* Certain emotional and behavioural responses.
+
+The hypothalamus links the nervous system with the endocrine system.
+
+It produces regulatory hormones that control the anterior pituitary and synthesizes oxytocin and antidiuretic hormone, which are released into the blood through the posterior pituitary.
+
+**TNPSC Important Point:** The hypothalamus is an important centre for homeostasis and endocrine regulation.
+
+---
+
+## 3.5 Brainstem
+
+The brainstem connects the brain with the spinal cord.
+
+It consists of:
+
+1. Midbrain
+2. Pons
+3. Medulla oblongata
+
+### Midbrain
+
+The midbrain participates in visual and auditory reflexes, movement control and the regulation of alertness.
+
+### Pons
+
+The pons helps connect different brain regions and participates in the regulation of breathing and sleep.
+
+### Medulla oblongata
+
+The medulla oblongata contains neural centres important for vital involuntary functions.
+
+These include regulation of breathing, heart rate and blood vessel activity.
+
+It also participates in reflexes such as swallowing, coughing and vomiting.
+
+**Important comparison**
+
+| Brain region      | Major function                                                        |
+| ----------------- | --------------------------------------------------------------------- |
+| Cerebrum          | Conscious perception, reasoning and voluntary movement                |
+| Cerebellum        | Coordination, balance and motor learning                              |
+| Thalamus          | Sensory relay and information processing                              |
+| Hypothalamus      | Homeostasis and hormonal regulation                                   |
+| Pons              | Communication between brain regions and respiratory modulation        |
+| Medulla oblongata | Important cardiovascular, respiratory and protective reflex functions |
+
+---
+
+# SECTION 4: SPINAL CORD AND REFLEX ACTION
+
+## 4.1 Spinal cord
+
+The spinal cord is a long cylindrical structure of the central nervous system that extends from the brainstem into the vertebral canal.
+
+It is protected by the vertebral column, meninges and cerebrospinal fluid.
+
+### Functions
+
+1. Carries sensory information toward the brain.
+2. Carries motor commands from the brain to the body.
+3. Coordinates many reflex actions.
+4. Connects spinal nerves with the central nervous system.
+
+The spinal cord contains grey matter and white matter.
+
+In a typical cross-section, grey matter forms a central butterfly-shaped region, while white matter surrounds it.
+
+### Grey matter
+
+Grey matter contains many neuronal cell bodies, dendrites and synapses.
+
+It participates in information processing.
+
+### White matter
+
+White matter contains many myelinated axons that conduct signals between spinal cord regions and the brain.
+
+---
+
+## 4.2 Reflex action
+
+A reflex action is a rapid, automatic response to a stimulus.
+
+Reflexes help protect the body and regulate physiological functions.
+
+Examples include:
+
+* Withdrawal of a hand from a painful stimulus.
+* The knee-jerk reflex.
+* The pupillary light reflex.
+* Certain protective airway reflexes.
+
+Not all reflexes are controlled solely by the spinal cord. Some involve brainstem circuits.
+
+### Reflex arc
+
+A reflex arc is the neural pathway responsible for a reflex response.
+
+Its common components are:
+
+1. Receptor
+2. Sensory neuron
+3. Integration centre
+4. Motor neuron
+5. Effector
+
+### Example: withdrawal reflex
+
+When a person touches a hot object:
+
+1. Sensory receptors detect a harmful stimulus.
+2. Sensory neurons transmit impulses toward the spinal cord.
+3. Neural circuits in the spinal cord process the information.
+4. Motor neurons activate appropriate muscles.
+5. The hand moves away from the source of heat.
+
+The brain also receives sensory information, allowing conscious awareness of pain.
+
+### Importance of reflexes
+
+1. Protect the body from potential injury.
+2. Support posture and balance.
+3. Help regulate internal functions.
+4. Produce rapid responses without requiring a deliberate decision.
+
+### Reflex action versus voluntary action
+
+| Reflex action                 | Voluntary action                                         |
+| ----------------------------- | -------------------------------------------------------- |
+| Automatic response            | Deliberate or intentionally controlled response          |
+| Often rapid                   | May involve more extensive conscious processing          |
+| Uses specific reflex circuits | Frequently involves planning and motor cortical pathways |
+| Example: withdrawal reflex    | Example: writing a sentence                              |
+
+**TNPSC Important Point:** The spinal cord integrates many simple reflexes, but the brain can also participate in reflex control.
+
+---
+
+# SECTION 5: PROTECTION OF THE CENTRAL NERVOUS SYSTEM
+
+## 5.1 Skull and vertebral column
+
+The skull protects the brain.
+
+The vertebral column surrounds and protects the spinal cord.
+
+These bony structures provide mechanical protection against injury.
+
+## 5.2 Meninges
+
+The meninges are three protective membranes surrounding the brain and spinal cord.
+
+They are:
+
+1. Dura mater
+2. Arachnoid mater
+3. Pia mater
+
+### Dura mater
+
+The dura mater is the tough outer meningeal layer.
+
+### Arachnoid mater
+
+The arachnoid mater is the middle meningeal layer.
+
+The subarachnoid space beneath it contains cerebrospinal fluid.
+
+### Pia mater
+
+The pia mater is the delicate inner layer that closely follows the surface of the brain and spinal cord.
+
+## 5.3 Cerebrospinal fluid
+
+Cerebrospinal fluid, or CSF, is a clear fluid circulating through the brain's ventricles and the subarachnoid space around the brain and spinal cord.
+
+### Functions
+
+1. Cushions the central nervous system.
+2. Provides buoyancy to the brain.
+3. Helps maintain a stable chemical environment.
+4. Supports transport and clearance of certain substances.
+
+CSF is produced mainly by the choroid plexuses within the brain's ventricles and is continuously circulated and reabsorbed.
+
+**TNPSC Important Point:** Cerebrospinal fluid helps protect and cushion the brain and spinal cord.
+
+---
+
+# SECTION 6: HUMAN SENSE ORGANS
+
+## 6.1 Introduction
+
+Sense organs detect changes in the external environment and within the body.
+
+They contain specialized sensory receptors that respond to specific forms of stimulation.
+
+The traditional five senses are:
+
+1. Sight
+2. Hearing
+3. Smell
+4. Taste
+5. Touch
+
+Humans also possess sensory systems that detect body position, movement, balance, temperature, pain and internal physiological conditions.
+
+### Types of sensory receptors
+
+**Photoreceptors:** Respond to light.
+
+**Mechanoreceptors:** Respond to mechanical stimuli such as pressure, vibration and sound.
+
+**Chemoreceptors:** Respond to chemical substances.
+
+**Thermoreceptors:** Respond to temperature changes.
+
+**Nociceptors:** Respond to potentially damaging stimuli and contribute to pain perception.
+
+**Proprioceptors:** Provide information about body position and movement.
+
+---
+
+# SECTION 7: THE HUMAN EYE
+
+## 7.1 Structure of the eye
+
+The human eye is the organ responsible for vision.
+
+It detects light and converts it into electrical signals that are processed by the brain.
+
+The major structures of the eye include:
+
+* Cornea
+* Iris
+* Pupil
+* Lens
+* Retina
+* Optic nerve
+* Ciliary body
+* Aqueous humour
+* Vitreous humour
+* Sclera
+* Choroid
+
+## 7.2 Cornea
+
+The cornea is the transparent front surface of the eye.
+
+It provides much of the eye's refractive power, helping bend incoming light so that it can be focused on the retina.
+
+The cornea also forms a protective barrier.
+
+## 7.3 Iris and pupil
+
+The iris is the coloured part of the eye.
+
+It contains muscles that regulate the size of the pupil.
+
+The pupil is the opening through which light enters the eye.
+
+In bright light, the pupil usually becomes smaller. In dim light, it usually becomes larger.
+
+This adjustment helps regulate the amount of light entering the eye.
+
+## 7.4 Lens
+
+The lens is a transparent structure behind the iris.
+
+It fine-tunes the focus of light onto the retina.
+
+The ciliary muscle changes the curvature of the lens during accommodation.
+
+For near vision, the lens generally becomes more rounded. For distant vision, it becomes flatter.
+
+## 7.5 Retina
+
+The retina is the light-sensitive layer lining the inner back portion of the eye.
+
+It contains photoreceptors called rods and cones.
+
+### Rods
+
+Rods are highly sensitive to light and are important for vision in dim conditions.
+
+They do not provide colour vision.
+
+### Cones
+
+Cones function best in brighter conditions and support colour vision and high visual acuity.
+
+Different cone types have different sensitivities to wavelengths of light.
+
+### Fovea
+
+The fovea is a specialized region of the retina with a high density of cones.
+
+It supports sharp central vision.
+
+### Blind spot
+
+The optic disc is the location where the optic nerve leaves the eye.
+
+It lacks photoreceptors, so it is called the blind spot.
+
+## 7.6 Optic nerve
+
+The optic nerve carries visual information from the retina toward the brain.
+
+The brain processes these signals to produce visual perception.
+
+### Light pathway through the eye
+
+Cornea → Aqueous humour → Pupil → Lens → Vitreous humour → Retina
+
+The visual signals then travel through the optic nerve and associated visual pathways toward the brain.
+
+**TNPSC Important Points**
+
+* The cornea provides much of the eye's refractive power.
+* The iris regulates pupil size.
+* The lens fine-tunes focus.
+* Rods are important for dim-light vision.
+* Cones support colour vision.
+* The optic disc is the blind spot.
+* The optic nerve carries visual information toward the brain.
+
+---
+
+# SECTION 8: COMMON DEFECTS OF VISION
+
+## 8.1 Myopia
+
+Myopia is also called short-sightedness.
+
+A person with myopia has difficulty seeing distant objects clearly.
+
+Light from distant objects is focused in front of the retina when accommodation is relaxed.
+
+It can be corrected with an appropriate concave or diverging lens.
+
+## 8.2 Hyperopia
+
+Hyperopia is also called long-sightedness.
+
+Near objects may be difficult to focus clearly.
+
+In the simplified optical model, light would be focused behind the retina without sufficient accommodation.
+
+It can be corrected with an appropriate convex or converging lens.
+
+## 8.3 Presbyopia
+
+Presbyopia is an age-related reduction in the ability to focus on near objects.
+
+It occurs largely because the lens becomes less flexible with age.
+
+Correction may involve reading glasses, multifocal lenses or other suitable optical solutions.
+
+## 8.4 Astigmatism
+
+Astigmatism occurs when the eye's refractive surfaces do not focus light equally in different meridians.
+
+It may cause blurred or distorted vision.
+
+It can often be corrected with cylindrical or other appropriately designed lenses.
+
+## 8.5 Cataract
+
+A cataract is clouding of the eye's natural lens.
+
+It may cause blurred vision, glare and reduced visual clarity.
+
+Treatment depends on severity and individual circumstances. Surgery may be considered when the cataract significantly affects vision.
+
+## 8.6 Glaucoma
+
+Glaucoma refers to a group of eye conditions that damage the optic nerve.
+
+Elevated intraocular pressure is an important risk factor in many cases, although glaucoma can also occur at normal measured pressure.
+
+Early detection and appropriate treatment can help reduce the risk of vision loss.
+
+### Comparison table
+
+| Condition   | Main feature                             | Common optical correction or treatment               |
+| ----------- | ---------------------------------------- | ---------------------------------------------------- |
+| Myopia      | Distant objects appear unclear           | Concave lens                                         |
+| Hyperopia   | Near focusing may be difficult           | Convex lens                                          |
+| Presbyopia  | Age-related difficulty focusing near     | Reading or multifocal lenses                         |
+| Astigmatism | Unequal focusing in different directions | Cylindrical or suitable corrective lenses            |
+| Cataract    | Clouding of the natural lens             | Surgery when indicated                               |
+| Glaucoma    | Optic nerve damage                       | Pressure-lowering treatment or other specialist care |
+
+**TNPSC Important Point:** Myopia is commonly corrected with a concave lens, whereas hyperopia is commonly corrected with a convex lens.
+
+---
+
+# SECTION 9: THE HUMAN EAR
+
+## 9.1 Functions of the ear
+
+The human ear is responsible for hearing and contributes to balance.
+
+It is divided into three main regions:
+
+1. Outer ear
+2. Middle ear
+3. Inner ear
+
+## 9.2 Outer ear
+
+The outer ear includes the pinna and external auditory canal.
+
+The pinna helps collect sound waves and direct them into the ear canal.
+
+Sound waves travel along the external auditory canal and strike the tympanic membrane.
+
+## 9.3 Tympanic membrane
+
+The tympanic membrane is commonly called the eardrum.
+
+It vibrates in response to sound waves and transfers these vibrations to the middle-ear bones.
+
+## 9.4 Middle ear
+
+The middle ear contains three small bones called ossicles:
+
+1. Malleus
+2. Incus
+3. Stapes
+
+These bones transmit and amplify mechanical vibrations from the eardrum toward the inner ear.
+
+The Eustachian tube connects the middle ear with the upper part of the throat and helps equalize pressure across the eardrum.
+
+## 9.5 Inner ear
+
+The inner ear contains the cochlea, vestibular apparatus and associated structures.
+
+### Cochlea
+
+The cochlea is a spiral-shaped structure important for hearing.
+
+Sound-induced vibrations move structures within the cochlea, causing stimulation of sensory hair cells.
+
+These cells convert mechanical movement into electrical signals that travel through the auditory pathway.
+
+### Organ of Corti
+
+The organ of Corti is a sensory structure located within the cochlea.
+
+It contains hair cells involved in converting sound-related mechanical stimulation into neural signals.
+
+### Vestibular apparatus
+
+The vestibular apparatus helps detect head position and movement.
+
+It includes:
+
+* Three semicircular canals.
+* Utricle.
+* Saccule.
+
+The semicircular canals are particularly important for sensing angular acceleration.
+
+The utricle and saccule help detect linear acceleration and the orientation of the head relative to gravity.
+
+### Auditory pathway
+
+Sound waves → Tympanic membrane → Ossicles → Inner ear → Sensory hair cells → Auditory nerve → Brain pathways
+
+**TNPSC Important Points**
+
+* The cochlea is important for hearing.
+* The semicircular canals participate in balance.
+* The ossicles are the malleus, incus and stapes.
+* The Eustachian tube helps equalize pressure across the eardrum.
+
+---
+
+# SECTION 10: TASTE, SMELL AND TOUCH
+
+## 10.1 Sense of taste
+
+Taste is known as gustation.
+
+Taste receptors are located mainly in taste buds, many of which are found in structures on the tongue.
+
+The five commonly recognized basic taste qualities are:
+
+1. Sweet
+2. Sour
+3. Salty
+4. Bitter
+5. Umami
+
+Umami is associated with the taste of certain amino acids, especially glutamate.
+
+Taste receptor cells respond to chemical substances dissolved in saliva.
+
+Taste perception is strongly influenced by smell, temperature and the texture of food.
+
+### Important point
+
+The traditional tongue map that assigns each taste to a separate exclusive region is inaccurate. Different taste qualities can be detected across many regions of the tongue that contain taste buds.
+
+## 10.2 Sense of smell
+
+The sense of smell is called olfaction.
+
+Olfactory receptor neurons are located in specialized tissue in the upper part of the nasal cavity.
+
+Odour molecules interact with receptors on these neurons and trigger neural signals.
+
+These signals travel through the olfactory nerve pathways to the olfactory bulb and other brain regions.
+
+Smell contributes significantly to flavour perception.
+
+It can also help detect smoke, spoiled food and certain environmental hazards.
+
+## 10.3 Sense of touch
+
+Touch is mediated by different types of sensory receptors in the skin and other tissues.
+
+These receptors detect:
+
+* Light touch.
+* Pressure.
+* Vibration.
+* Stretch.
+* Temperature.
+* Potentially damaging stimuli.
+
+Different receptors respond best to different forms of stimulation.
+
+Signals from these receptors travel through sensory nerves toward the spinal cord and brain.
+
+The brain processes this information to produce conscious sensations.
+
+## 10.4 Pain and temperature
+
+Nociceptors detect potentially damaging mechanical, thermal or chemical stimuli.
+
+Thermoreceptors respond to changes in temperature.
+
+Pain perception involves sensory pathways and brain processing; it is not simply a direct measurement of tissue damage.
+
+**TNPSC Important Point:** Sensory receptors convert different types of stimuli into electrical signals that can be processed by the nervous system.
+
+---
+
+# SECTION 11: INTRODUCTION TO THE ENDOCRINE SYSTEM
+
+## 11.1 Meaning of the endocrine system
+
+The endocrine system consists of glands and specialized cells that release hormones into the bloodstream or surrounding tissues.
+
+Hormones are chemical messengers that regulate growth, metabolism, reproduction, stress responses, fluid balance and many other functions.
+
+Unlike the nervous system, which often communicates through rapid electrical signals and neurotransmitters, endocrine signalling commonly acts through hormones transported in blood.
+
+Hormonal effects may begin more slowly but can last longer, depending on the hormone and target tissue.
+
+### Major endocrine glands
+
+1. Hypothalamus
+2. Pituitary gland
+3. Pineal gland
+4. Thyroid gland
+5. Parathyroid glands
+6. Thymus
+7. Adrenal glands
+8. Pancreatic islets
+9. Ovaries
+10. Testes
+
+Other organs, including the kidneys, heart, gastrointestinal tract and adipose tissue, also produce hormones.
+
+## 11.2 Functions of hormones
+
+Hormones can regulate:
+
+* Growth and development.
+* Metabolic rate.
+* Blood glucose.
+* Calcium balance.
+* Water and electrolyte balance.
+* Reproductive functions.
+* Stress responses.
+* Sleep-wake rhythms.
+* Lactation.
+* Blood pressure.
+
+Hormones act on target cells that possess suitable receptors.
+
+A hormone does not necessarily affect every cell it reaches. Its effects depend on the presence of receptors and the response mechanisms within target cells.
+
+---
+
+# SECTION 12: PITUITARY GLAND
+
+## 12.1 Introduction
+
+The pituitary gland is a small endocrine gland located at the base of the brain.
+
+It is connected to the hypothalamus and is situated within a bony depression called the sella turcica.
+
+The pituitary has two major parts:
+
+1. Anterior pituitary.
+2. Posterior pituitary.
+
+The hypothalamus regulates much of pituitary activity.
+
+## 12.2 Anterior pituitary hormones
+
+### Growth hormone
+
+Growth hormone promotes growth and influences protein synthesis and metabolism.
+
+It acts directly on tissues and indirectly through insulin-like growth factor 1, which is produced largely by the liver.
+
+Excess growth hormone before the growth plates close can cause gigantism.
+
+Excess growth hormone in adults can cause acromegaly.
+
+Insufficient growth hormone during childhood can impair normal growth.
+
+### Thyroid-stimulating hormone
+
+Thyroid-stimulating hormone, or TSH, stimulates the thyroid gland to produce thyroid hormones.
+
+### Adrenocorticotropic hormone
+
+Adrenocorticotropic hormone, or ACTH, stimulates the adrenal cortex, particularly its production of cortisol.
+
+### Follicle-stimulating hormone
+
+Follicle-stimulating hormone, or FSH, participates in reproductive functions.
+
+In females, it supports ovarian follicle development.
+
+In males, it supports sperm production through effects on Sertoli cells.
+
+### Luteinizing hormone
+
+Luteinizing hormone, or LH, regulates reproductive functions.
+
+In females, it triggers ovulation and supports corpus luteum function.
+
+In males, it stimulates testosterone production by Leydig cells.
+
+### Prolactin
+
+Prolactin is important for milk production after childbirth.
+
+Its secretion is regulated by several factors, including inhibitory control by dopamine.
+
+## 12.3 Posterior pituitary
+
+The posterior pituitary stores and releases two hormones synthesized in the hypothalamus:
+
+* Oxytocin
+* Antidiuretic hormone
+
+### Antidiuretic hormone
+
+ADH, also called vasopressin, promotes water reabsorption by the kidneys.
+
+It helps regulate body water and plasma concentration.
+
+### Oxytocin
+
+Oxytocin contributes to uterine contractions during childbirth and milk ejection during breastfeeding.
+
+### Pituitary hormone summary
+
+| Hormone        | Main function                          |
+| -------------- | -------------------------------------- |
+| Growth hormone | Growth and metabolic effects           |
+| TSH            | Stimulates thyroid hormone production  |
+| ACTH           | Stimulates adrenal cortex activity     |
+| FSH            | Reproductive functions                 |
+| LH             | Ovulation and testosterone production  |
+| Prolactin      | Milk production                        |
+| ADH            | Water conservation by kidneys          |
+| Oxytocin       | Uterine contractions and milk ejection |
+
+**TNPSC Important Point:** ADH and oxytocin are synthesized in the hypothalamus and released by the posterior pituitary.
+
+---
+
+# SECTION 13: THYROID AND PARATHYROID GLANDS
+
+## 13.1 Thyroid gland
+
+The thyroid gland is located in the front of the neck, below the larynx and around the upper trachea.
+
+It produces thyroid hormones that influence metabolism, growth and development.
+
+The principal thyroid hormones are:
+
+* Thyroxine, or T4.
+* Triiodothyronine, or T3.
+
+The thyroid also produces calcitonin through its parafollicular cells.
+
+## 13.2 Functions of thyroid hormones
+
+Thyroid hormones:
+
+1. Help regulate basal metabolic rate.
+2. Influence energy use and heat production.
+3. Support normal growth.
+4. Are essential for normal brain development.
+5. Affect heart rate and other physiological processes.
+
+Iodine is required for the synthesis of T3 and T4.
+
+## 13.3 Hypothyroidism
+
+Hypothyroidism occurs when thyroid hormone production or action is insufficient.
+
+Possible symptoms include fatigue, cold intolerance and changes in metabolism.
+
+Iodine deficiency is one possible cause, but autoimmune disease and other conditions can also cause hypothyroidism.
+
+## 13.4 Hyperthyroidism
+
+Hyperthyroidism occurs when the thyroid gland produces excessive thyroid hormone.
+
+Possible symptoms include increased heart rate, heat intolerance, tremor and weight changes.
+
+One important cause is Graves' disease, an autoimmune condition.
+
+## 13.5 Goitre
+
+Goitre is an enlargement of the thyroid gland.
+
+It can occur for several reasons, including iodine deficiency, autoimmune thyroid disease and other thyroid disorders.
+
+Iodine deficiency is a well-known cause of goitre.
+
+## 13.6 Parathyroid glands
+
+The parathyroid glands are usually four small glands located behind the thyroid gland.
+
+They produce parathyroid hormone, or PTH.
+
+PTH helps regulate calcium and phosphate balance.
+
+### Functions of PTH
+
+1. Increases blood calcium when required.
+2. Promotes calcium reabsorption in the kidneys.
+3. Influences phosphate handling by the kidneys.
+4. Promotes activation of vitamin D in the kidneys.
+5. Indirectly increases intestinal calcium absorption through active vitamin D.
+
+### Calcitonin
+
+Calcitonin is produced by thyroid parafollicular cells.
+
+It can inhibit bone resorption under certain conditions, but its role in everyday calcium regulation in healthy adults is less central than that of PTH and vitamin D.
+
+### Comparison table
+
+| Hormone    | Source                       | Main role                                          |
+| ---------- | ---------------------------- | -------------------------------------------------- |
+| T3 and T4  | Thyroid gland                | Regulation of metabolism and development           |
+| Calcitonin | Thyroid parafollicular cells | Can inhibit bone resorption                        |
+| PTH        | Parathyroid glands           | Raises blood calcium and regulates mineral balance |
+
+**TNPSC Important Point:** Iodine is essential for the synthesis of thyroid hormones.
+
+---
+
+# SECTION 14: ADRENAL GLANDS
+
+## 14.1 Introduction
+
+The adrenal glands are located above the kidneys.
+
+Each adrenal gland consists of:
+
+1. Adrenal cortex.
+2. Adrenal medulla.
+
+These regions produce different hormones.
+
+## 14.2 Adrenal cortex
+
+The adrenal cortex produces steroid hormones.
+
+Major categories include:
+
+* Glucocorticoids.
+* Mineralocorticoids.
+* Adrenal androgens.
+
+### Cortisol
+
+Cortisol is a glucocorticoid involved in the stress response and metabolism.
+
+Functions include:
+
+* Helping regulate glucose metabolism.
+* Influencing protein and fat metabolism.
+* Modulating immune and inflammatory responses.
+* Supporting adaptation to prolonged physiological stress.
+
+### Aldosterone
+
+Aldosterone is a mineralocorticoid that acts mainly on the kidneys.
+
+It promotes sodium reabsorption and potassium secretion in specific parts of the renal tubules.
+
+Water may follow retained sodium, helping regulate extracellular fluid volume and blood pressure.
+
+## 14.3 Adrenal medulla
+
+The adrenal medulla produces catecholamines, particularly:
+
+* Adrenaline, also called epinephrine.
+* Noradrenaline, also called norepinephrine.
+
+These hormones help prepare the body for rapid responses to stress.
+
+Effects may include increased heart rate, changes in blood flow, mobilization of energy stores and dilation of the airways.
+
+This is often called the fight-or-flight response.
+
+### Comparison
+
+| Hormone       | Source                                   | Important function                       |
+| ------------- | ---------------------------------------- | ---------------------------------------- |
+| Cortisol      | Adrenal cortex                           | Stress adaptation and metabolism         |
+| Aldosterone   | Adrenal cortex                           | Sodium, potassium and fluid regulation   |
+| Adrenaline    | Adrenal medulla                          | Rapid stress response                    |
+| Noradrenaline | Adrenal medulla and other neural sources | Alertness, vascular and stress responses |
+
+---
+
+# SECTION 15: PANCREAS AND BLOOD GLUCOSE REGULATION
+
+## 15.1 Endocrine pancreas
+
+The endocrine pancreas contains clusters of cells called the islets of Langerhans.
+
+These cells release hormones that regulate blood glucose and other metabolic functions.
+
+Important cell types include:
+
+* Beta cells.
+* Alpha cells.
+* Delta cells.
+
+### Beta cells
+
+Beta cells produce insulin.
+
+Insulin helps lower blood glucose by promoting glucose uptake in insulin-sensitive tissues and supporting storage processes.
+
+It promotes glycogen synthesis and influences fat and protein metabolism.
+
+### Alpha cells
+
+Alpha cells produce glucagon.
+
+Glucagon helps raise blood glucose, especially by stimulating glucose production and release by the liver.
+
+### Delta cells
+
+Delta cells produce somatostatin, which helps regulate the secretion of other hormones and digestive functions.
+
+## 15.2 Insulin
+
+Insulin is released when blood glucose rises, such as after a meal.
+
+Its actions include:
+
+1. Increasing glucose uptake in skeletal muscle and adipose tissue.
+2. Promoting glycogen synthesis.
+3. Reducing hepatic glucose production under appropriate conditions.
+4. Supporting the storage of nutrients after eating.
+
+The liver responds to insulin by increasing glucose storage and reducing glucose output.
+
+## 15.3 Glucagon
+
+Glucagon is generally released when blood glucose falls.
+
+It stimulates the liver to:
+
+* Break down glycogen.
+* Produce glucose through gluconeogenesis.
+* Release glucose into the bloodstream.
+
+Glucagon helps maintain blood glucose between meals and during fasting.
+
+## 15.4 Diabetes mellitus
+
+Diabetes mellitus is a group of disorders characterized by persistently elevated blood glucose due to problems with insulin production, insulin action or both.
+
+### Type 1 diabetes
+
+Type 1 diabetes is commonly caused by autoimmune destruction of pancreatic beta cells, leading to severe insulin deficiency.
+
+### Type 2 diabetes
+
+Type 2 diabetes involves insulin resistance and progressive impairment of insulin secretion.
+
+Genetic, environmental and lifestyle factors can contribute to its development.
+
+Diabetes requires appropriate diagnosis, monitoring and medical management.
+
+### Comparison table
+
+| Feature                           | Insulin                                      | Glucagon                                |
+| --------------------------------- | -------------------------------------------- | --------------------------------------- |
+| Produced by                       | Pancreatic beta cells                        | Pancreatic alpha cells                  |
+| General effect                    | Lowers blood glucose                         | Raises blood glucose                    |
+| Main target in glucose regulation | Multiple tissues, including liver and muscle | Mainly liver                            |
+| Important action                  | Promotes glucose uptake and storage          | Promotes glucose production and release |
+
+**TNPSC Important Point:** Insulin and glucagon have complementary roles in maintaining blood glucose.
+
+---
+
+# SECTION 16: REPRODUCTIVE HORMONES
+
+## 16.1 Ovaries
+
+The ovaries produce ova and several hormones, including oestrogens and progesterone.
+
+### Oestrogens
+
+Oestrogens contribute to the development of female secondary sexual characteristics and regulate several aspects of the reproductive cycle.
+
+They also influence bone health and other tissues.
+
+### Progesterone
+
+Progesterone helps prepare and maintain the uterine lining for pregnancy.
+
+It is produced by the corpus luteum after ovulation and by the placenta during pregnancy.
+
+## 16.2 Testes
+
+The testes produce sperm and testosterone.
+
+### Testosterone
+
+Testosterone contributes to:
+
+* Development of male reproductive organs.
+* Male secondary sexual characteristics.
+* Sperm production through coordinated hormonal action.
+* Maintenance of muscle and bone.
+* Sexual function.
+
+## 16.3 FSH and LH
+
+FSH and LH are released by the anterior pituitary.
+
+In females, they coordinate follicular development, ovulation and ovarian hormone production.
+
+In males, FSH supports sperm production, while LH stimulates testosterone secretion by Leydig cells.
+
+## 16.4 Puberty
+
+Puberty is the developmental period during which reproductive maturity is attained.
+
+Hormonal changes lead to growth, maturation of reproductive organs and development of secondary sexual characteristics.
+
+The timing of puberty varies among individuals.
+
+**TNPSC Important Point:** Oestrogens and progesterone are important ovarian hormones, while testosterone is a major hormone produced by the testes.
+
+---
+
+# SECTION 17: OTHER IMPORTANT ENDOCRINE ORGANS
+
+## 17.1 Pineal gland
+
+The pineal gland produces melatonin.
+
+Melatonin helps regulate circadian rhythms and the timing of sleep.
+
+Its secretion generally increases in darkness and decreases with light exposure.
+
+## 17.2 Thymus
+
+The thymus is an organ involved in immune system development.
+
+It is particularly important during childhood because T lymphocytes undergo maturation and selection in the thymus.
+
+The thymus also produces signalling molecules involved in immune development.
+
+## 17.3 Kidneys
+
+In addition to excretion, the kidneys perform important endocrine functions.
+
+They produce erythropoietin, which stimulates red blood cell production in the bone marrow.
+
+They also release renin, which participates in the regulation of blood pressure and fluid balance.
+
+The kidneys activate vitamin D into calcitriol, a hormone that helps regulate calcium and phosphate balance.
+
+## 17.4 Heart
+
+The heart produces natriuretic peptides, including atrial natriuretic peptide.
+
+These hormones help regulate blood volume and pressure by influencing sodium and water excretion and other physiological mechanisms.
+
+## 17.5 Gastrointestinal tract
+
+The digestive tract produces hormones such as gastrin, secretin and cholecystokinin.
+
+These hormones help regulate gastric secretion, pancreatic secretion, gallbladder activity and digestive processes.
+
+---
+
+# SECTION 18: FEEDBACK MECHANISMS AND HOMEOSTASIS
+
+## 18.1 Meaning of homeostasis
+
+Homeostasis is the maintenance of relatively stable internal conditions despite changing circumstances.
+
+Examples include regulation of:
+
+* Body temperature.
+* Blood glucose.
+* Blood pressure.
+* Water balance.
+* Blood calcium.
+* Blood pH.
+
+Both the nervous system and endocrine system participate in homeostasis.
+
+## 18.2 Negative feedback
+
+Negative feedback is a regulatory mechanism in which a change triggers responses that oppose the original change.
+
+It is common in biological regulation.
+
+### Example: blood glucose
+
+After a meal, blood glucose rises.
+
+The pancreas releases insulin, which helps tissues take up and store glucose.
+
+Blood glucose then moves toward its regulated range.
+
+When blood glucose falls, glucagon can stimulate the liver to release glucose.
+
+Together, these mechanisms help regulate blood glucose.
+
+### Example: thyroid hormone regulation
+
+The hypothalamus releases thyrotropin-releasing hormone.
+
+This stimulates the anterior pituitary to release thyroid-stimulating hormone.
+
+TSH stimulates the thyroid gland to produce thyroid hormones.
+
+As circulating thyroid hormone levels rise, they inhibit the release of TRH and TSH through negative feedback.
+
+## 18.3 Positive feedback
+
+Positive feedback amplifies an initial change rather than opposing it.
+
+It operates in particular physiological situations.
+
+### Example: childbirth
+
+During labour, stretching of the cervix stimulates neural signals that promote oxytocin release.
+
+Oxytocin increases uterine contractions, which can cause additional cervical stretching.
+
+This process continues until delivery interrupts the feedback loop.
+
+### Negative and positive feedback: comparison
+
+| Feature        | Negative feedback              | Positive feedback                    |
+| -------------- | ------------------------------ | ------------------------------------ |
+| Effect         | Opposes the initial change     | Amplifies the initial change         |
+| Main role      | Stabilizes internal conditions | Drives a process toward completion   |
+| Common example | Blood glucose regulation       | Oxytocin-related labour contractions |
+
+**TNPSC Important Point:** Negative feedback is the principal mechanism used to maintain many homeostatic variables.
+
+---
+
+# SECTION 19: IMPORTANT COMPARISON TABLES
+
+## 19.1 Nervous system and endocrine system
+
+| Feature        | Nervous system                           | Endocrine system                   |
+| -------------- | ---------------------------------------- | ---------------------------------- |
+| Main messenger | Electrical signals and neurotransmitters | Hormones                           |
+| Transport      | Neurons and synapses                     | Often bloodstream                  |
+| Speed          | Often rapid                              | Often slower, but varies           |
+| Duration       | Often brief, but may be prolonged        | Often longer-lasting, but varies   |
+| Targeting      | Neural pathways and synapses             | Cells with appropriate receptors   |
+| Examples       | Reflex action, rapid muscle activation   | Thyroid hormone regulation, growth |
+
+Both systems work together to maintain homeostasis.
+
+## 19.2 Sensory and motor neurons
+
+| Sensory neurons                                                  | Motor neurons                        |
+| ---------------------------------------------------------------- | ------------------------------------ |
+| Carry information from receptors                                 | Carry commands to effectors          |
+| Commonly transmit toward the CNS                                 | Commonly transmit away from the CNS  |
+| Detect external or internal stimuli indirectly through receptors | Activate muscles or influence glands |
+
+## 19.3 Cerebrum and cerebellum
+
+| Cerebrum                                            | Cerebellum                        |
+| --------------------------------------------------- | --------------------------------- |
+| Conscious perception and higher cognitive functions | Coordination and balance          |
+| Important for voluntary motor planning              | Refines and coordinates movements |
+| Major role in language and memory                   | Major role in motor learning      |
+
+## 19.4 Rods and cones
+
+| Rods                           | Cones                                 |
+| ------------------------------ | ------------------------------------- |
+| Highly sensitive to dim light  | Function best in brighter conditions  |
+| Do not provide colour vision   | Support colour vision                 |
+| Important for low-light vision | Important for detailed central vision |
+
+## 19.5 Sympathetic and parasympathetic systems
+
+| Sympathetic system                                   | Parasympathetic system                  |
+| ---------------------------------------------------- | --------------------------------------- |
+| Supports many fight-or-flight responses              | Supports many rest-and-digest functions |
+| Often increases heart rate                           | Often decreases heart rate              |
+| Commonly dilates pupils                              | Commonly constricts pupils              |
+| Often reduces digestive activity during acute stress | Often supports digestive activity       |
+
+These are general patterns; the precise response depends on the organ and physiological context.
+
+---
+
+# SECTION 20: TNPSC IMPORTANT ONE-LINE FACTS
+
+1. The neuron is the functional unit of the nervous system.
+2. Dendrites commonly receive signals.
+3. Axons conduct signals away from the neuronal cell body.
+4. Myelin increases conduction speed along many axons.
+5. Schwann cells produce myelin in the peripheral nervous system.
+6. Oligodendrocytes produce myelin in the central nervous system.
+7. The brain and spinal cord form the CNS.
+8. The cerebrum supports higher cognitive functions.
+9. The cerebellum coordinates movement and balance.
+10. The hypothalamus regulates homeostasis.
+11. The medulla oblongata contains important autonomic control centres.
+12. The spinal cord participates in many reflex actions.
+13. The meninges consist of dura mater, arachnoid mater and pia mater.
+14. Cerebrospinal fluid cushions the central nervous system.
+15. The retina contains rods and cones.
+16. Rods are important for dim-light vision.
+17. Cones support colour vision.
+18. The optic disc is the blind spot.
+19. The cochlea is important for hearing.
+20. The semicircular canals contribute to balance.
+21. The middle-ear ossicles are the malleus, incus and stapes.
+22. The pituitary gland is connected functionally with the hypothalamus.
+23. The SA node, not the pituitary gland, is the natural pacemaker of the heart.
+24. Thyroid hormones include T3 and T4.
+25. Iodine is necessary for thyroid hormone synthesis.
+26. Parathyroid hormone helps increase blood calcium.
+27. Insulin is produced by pancreatic beta cells.
+28. Glucagon is produced by pancreatic alpha cells.
+29. Adrenaline is produced by the adrenal medulla.
+30. Cortisol is produced by the adrenal cortex.
+31. Aldosterone helps regulate sodium and potassium balance.
+32. Melatonin is produced by the pineal gland.
+33. Erythropoietin is produced mainly by the kidneys in adults.
+34. Testosterone is a major hormone produced by the testes.
+35. Oestrogens and progesterone are important ovarian hormones.
+36. ADH promotes water conservation by the kidneys.
+37. Oxytocin contributes to uterine contractions and milk ejection.
+38. Negative feedback helps maintain homeostasis.
+39. Positive feedback amplifies an initial change.
+40. The nervous and endocrine systems work together to coordinate body functions.
+
+---
+
+# FINAL REVISION SUMMARY
+
+The nervous system receives and processes information and coordinates rapid responses through neural pathways. Its central division consists of the brain and spinal cord, while the peripheral division connects the central nervous system with the rest of the body.
+
+Neurons communicate through electrical signals and synaptic transmission. The cerebrum is important for conscious perception, reasoning and voluntary movement. The cerebellum coordinates movement and balance. The hypothalamus participates in homeostasis, while the brainstem regulates essential involuntary functions.
+
+The sense organs contain specialized receptors that detect light, sound, chemicals, touch and other stimuli. The eyes convert light into neural signals, while the ears contribute to hearing and balance.
+
+The endocrine system communicates through hormones. The pituitary, thyroid, parathyroid, adrenal and pancreatic glands have important roles in growth, metabolism, reproduction, stress responses and homeostasis.
+
+Hormones such as insulin, glucagon, thyroid hormones, cortisol, aldosterone and ADH help regulate essential internal conditions. Negative feedback is a major mechanism for maintaining physiological stability.
+
+# BIOLOGY – PART 8
+
+# GENETICS, HEREDITY AND EVOLUTION
+
+# CHAPTER 1: INTRODUCTION TO GENETICS
+
+## 1.1 Meaning of Genetics
+
+Genetics is the branch of biology that deals with heredity and variation in living organisms.
+
+**Heredity** is the transmission of characteristics from parents to their offspring.
+
+**Variation** refers to differences in characteristics among individuals belonging to the same species.
+
+For example:
+
+* Children may resemble their parents in facial features.
+* Some people have attached earlobes, while others have free earlobes.
+* Individuals may differ in blood group, height, hair type and eye colour.
+* Plants of the same species may differ in flower colour, seed size and growth.
+
+Genetics helps scientists understand why organisms resemble their parents and why individuals are not exactly identical.
+
+## 1.2 Importance of Genetics
+
+Genetics is important in several fields.
+
+### Medicine
+
+Genetic knowledge helps identify inherited disorders, understand disease risks and develop certain personalised treatments.
+
+### Agriculture
+
+Plant breeders use genetic principles to develop crop varieties with improved yield, disease resistance and desirable qualities.
+
+### Animal Husbandry
+
+Genetics helps breeders select animals with useful characteristics, such as better milk production or disease resistance.
+
+### Forensic Science
+
+DNA analysis can help identify individuals and establish biological relationships.
+
+### Evolutionary Biology
+
+Genetic differences help scientists study how populations change over generations.
+
+### Biotechnology
+
+Genetic engineering allows scientists to modify or study genetic material for research, medicine and agriculture.
+
+## 1.3 Heredity and Variation
+
+Heredity explains the similarities between parents and offspring.
+
+Variation explains the differences between individuals.
+
+For example, two children born to the same parents may have different combinations of inherited characteristics. They may share some features but differ in height, hair texture or other traits.
+
+Variation arises through several mechanisms:
+
+1. Different combinations of genes inherited from parents.
+2. Crossing over during meiosis.
+3. Independent assortment of chromosomes.
+4. Random fertilisation.
+5. Mutations in genetic material.
+6. Environmental influences on certain characteristics.
+
+Variation is important for the survival and evolution of populations because it provides differences on which natural selection can act.
+
+---
+
+# CHAPTER 2: BASIC TERMS IN GENETICS
+
+## 2.1 DNA
+
+DNA stands for Deoxyribonucleic Acid.
+
+DNA is the hereditary material in almost all living organisms. It contains instructions used in the development, functioning and reproduction of organisms.
+
+In eukaryotic cells, most DNA is located in the nucleus. Additional DNA is present in mitochondria, and plant cells also contain DNA in chloroplasts.
+
+DNA is made of repeating units called nucleotides.
+
+Each nucleotide contains:
+
+1. A deoxyribose sugar.
+2. A phosphate group.
+3. A nitrogenous base.
+
+The four nitrogenous bases in DNA are:
+
+* Adenine (A)
+* Thymine (T)
+* Guanine (G)
+* Cytosine (C)
+
+Adenine pairs with thymine, while guanine pairs with cytosine.
+
+## 2.2 Gene
+
+A gene is a sequence of DNA that produces a functional product, such as a protein or functional RNA.
+
+Genes influence inherited characteristics by controlling or regulating biological processes.
+
+Examples include genes involved in:
+
+* Blood group characteristics.
+* Certain inherited disorders.
+* Pigment production.
+* Enzyme production.
+* Growth and development.
+
+A gene may have different versions called alleles.
+
+## 2.3 Chromosome
+
+A chromosome is a structure made of DNA associated with proteins.
+
+Chromosomes carry genetic information.
+
+In human body cells, there are normally 46 chromosomes arranged in 23 pairs:
+
+* 22 pairs of autosomes.
+* 1 pair of sex chromosomes.
+
+In the typical chromosomal patterns:
+
+* Most females have XX sex chromosomes.
+* Most males have XY sex chromosomes.
+
+There are exceptions involving variations in sex chromosome number or development.
+
+Human reproductive cells, such as sperm and egg cells, normally contain 23 chromosomes each.
+
+## 2.4 Allele
+
+An allele is an alternative form of a gene at a particular genetic location.
+
+For example, a gene may have different alleles that influence a characteristic.
+
+An individual may inherit two alleles for a gene, one from each biological parent.
+
+## 2.5 Genotype
+
+Genotype refers to the genetic constitution of an organism for a particular gene or group of genes.
+
+In a simple example:
+
+* AA may represent a homozygous genotype.
+* Aa may represent a heterozygous genotype.
+* aa may represent another homozygous genotype.
+
+These letters are commonly used in basic Mendelian genetics.
+
+## 2.6 Phenotype
+
+Phenotype refers to the observable characteristics of an organism.
+
+Examples include:
+
+* Flower colour.
+* Blood group.
+* Height.
+* Certain physical features.
+
+Phenotype results from interactions between genetic factors and environmental influences.
+
+## 2.7 Homozygous
+
+An individual is homozygous for a particular gene when both alleles are the same.
+
+Examples:
+
+* AA
+* aa
+
+## 2.8 Heterozygous
+
+An individual is heterozygous when the two alleles of a particular gene are different.
+
+Example:
+
+* Aa
+
+## 2.9 Dominant Allele
+
+In a simple case of complete dominance, a dominant allele determines the phenotype in a heterozygote.
+
+It is conventionally represented by a capital letter, such as A.
+
+Dominance does not mean that an allele is more common, stronger or more beneficial.
+
+## 2.10 Recessive Allele
+
+In complete dominance, a recessive allele's effect on the phenotype is masked by a dominant allele in a heterozygote.
+
+It is conventionally represented by a lowercase letter, such as a.
+
+A recessive phenotype commonly appears when an individual has two recessive alleles for the gene under consideration.
+
+## 2.11 Important Differences
+
+| Term         | Meaning                                             |
+| ------------ | --------------------------------------------------- |
+| Genetics     | Study of heredity and variation                     |
+| Heredity     | Transmission of characteristics between generations |
+| Variation    | Differences among individuals                       |
+| Gene         | DNA sequence producing a functional product         |
+| Allele       | Alternative form of a gene                          |
+| DNA          | Molecule carrying hereditary information            |
+| Chromosome   | DNA-protein structure carrying genes                |
+| Genotype     | Genetic constitution                                |
+| Phenotype    | Observable characteristics                          |
+| Homozygous   | Two identical alleles                               |
+| Heterozygous | Two different alleles                               |
+
+---
+
+# CHAPTER 3: STRUCTURE OF DNA
+
+## 3.1 Discovery of DNA
+
+DNA was first isolated in 1869 by Friedrich Miescher, who called the substance “nuclein.”
+
+James Watson and Francis Crick proposed the double-helix model of DNA in 1953, drawing on important experimental evidence, including X-ray diffraction work by Rosalind Franklin and Raymond Gosling and contributions from Maurice Wilkins.
+
+The structure of DNA is one of the major discoveries in modern biology.
+
+## 3.2 Double-Helix Structure
+
+DNA generally consists of two strands arranged in a double helix.
+
+The strands are held together by complementary base pairing.
+
+Base pairing:
+
+* Adenine pairs with thymine.
+* Guanine pairs with cytosine.
+
+The two DNA strands run in opposite directions and are described as antiparallel.
+
+The sugar-phosphate backbone forms the outer part of the structure, while the nitrogenous bases face inward.
+
+## 3.3 Functions of DNA
+
+DNA performs several important functions:
+
+1. Stores hereditary information.
+2. Passes genetic information to daughter cells during cell division.
+3. Provides instructions for producing RNA.
+4. Directs protein production indirectly through gene expression.
+5. Contributes to inherited variation through mutation and recombination.
+6. Supports normal growth, development and cellular functioning.
+
+## 3.4 DNA Replication
+
+DNA replication is the process by which DNA makes a copy of itself.
+
+It occurs before cell division so that genetic information can be passed to daughter cells.
+
+DNA replication is described as semiconservative because each new DNA molecule contains:
+
+* One original strand.
+* One newly synthesised strand.
+
+Important enzymes include:
+
+* **Helicase:** Separates the DNA strands.
+* **DNA polymerase:** Builds new DNA strands.
+* **Primase:** Produces RNA primers.
+* **Ligase:** Joins DNA fragments on the lagging strand.
+
+DNA replication must be accurate, although occasional errors can occur. Some errors are repaired, while others may become mutations.
+
+## 3.5 DNA and RNA
+
+| Feature                           | DNA                                         | RNA                                                       |
+| --------------------------------- | ------------------------------------------- | --------------------------------------------------------- |
+| Full form                         | Deoxyribonucleic Acid                       | Ribonucleic Acid                                          |
+| Sugar                             | Deoxyribose                                 | Ribose                                                    |
+| Bases                             | A, T, G, C                                  | A, U, G, C                                                |
+| Usual structure                   | Double-stranded                             | Often single-stranded                                     |
+| Main role                         | Stores hereditary information               | Functions in gene expression and other cellular processes |
+| Main location in eukaryotic cells | Nucleus; also mitochondria and chloroplasts | Nucleus and cytoplasm, including ribosomes                |
+
+RNA contains uracil instead of thymine.
+
+## 3.6 Types of RNA
+
+### Messenger RNA (mRNA)
+
+Carries genetic instructions from DNA to ribosomes for protein synthesis.
+
+### Transfer RNA (tRNA)
+
+Carries amino acids to ribosomes during protein synthesis.
+
+### Ribosomal RNA (rRNA)
+
+Forms a major structural and functional component of ribosomes.
+
+Other RNAs regulate gene expression and perform specialised cellular functions.
+
+---
+
+# CHAPTER 4: CHROMOSOMES AND HUMAN CHROMOSOME NUMBER
+
+## 4.1 Chromosome Structure
+
+A duplicated chromosome commonly consists of two sister chromatids joined at a region called the centromere.
+
+Each chromatid contains a DNA molecule associated with proteins.
+
+The ends of chromosomes are called telomeres. Telomeres help protect chromosome ends during cellular processes.
+
+Chromosomes become especially visible during cell division because their DNA is highly condensed.
+
+## 4.2 Human Chromosome Number
+
+The normal diploid chromosome number in human somatic cells is 46.
+
+This is represented as 2n = 46.
+
+Human gametes normally contain 23 chromosomes, represented as n = 23.
+
+During fertilisation:
+
+* The sperm contributes 23 chromosomes.
+* The egg contributes 23 chromosomes.
+* The resulting zygote normally contains 46 chromosomes.
+
+This restores the diploid chromosome number.
+
+## 4.3 Autosomes and Sex Chromosomes
+
+### Autosomes
+
+Chromosomes that are not classified as sex chromosomes.
+
+Humans normally have 22 pairs of autosomes.
+
+### Sex Chromosomes
+
+Chromosomes involved in sex determination and related biological development.
+
+The common human chromosomal patterns are XX and XY, although biological sex development includes recognised variations.
+
+## 4.4 Chromosomal Abnormalities
+
+Changes in chromosome number or structure can affect development and health.
+
+Examples include:
+
+### Down Syndrome
+
+Usually associated with an extra copy of chromosome 21, called trisomy 21.
+
+### Turner Syndrome
+
+Often associated with a single X chromosome pattern, written 45,X.
+
+### Klinefelter Syndrome
+
+Commonly associated with an XXY chromosome pattern.
+
+### Cri-du-chat Syndrome
+
+Associated with deletion of part of chromosome 5's short arm.
+
+These conditions differ in their characteristics and effects. Chromosomal conditions cannot be understood from chromosome number alone; the specific genetic change and individual circumstances matter.
+
+## 4.5 Important Facts
+
+* Normal human somatic cell chromosome number: 46.
+* Normal human gamete chromosome number: 23.
+* Autosomes in a typical human karyotype: 22 pairs.
+* Sex chromosomes in a typical human karyotype: 1 pair.
+* Trisomy 21 is associated with Down syndrome.
+* A karyotype is an organised display of chromosomes.
+
+---
+
+# CHAPTER 5: GREGOR MENDEL AND THE BEGINNING OF GENETICS
+
+## 5.1 Gregor Johann Mendel
+
+Gregor Johann Mendel is known as the Father of Genetics.
+
+He was an Augustinian monk and scientist who performed breeding experiments using garden pea plants.
+
+His work established basic principles of inheritance.
+
+Mendel's results were published in 1866. They became widely recognised after their rediscovery around 1900.
+
+## 5.2 Why Did Mendel Choose Pea Plants?
+
+Mendel selected pea plants, scientifically known as *Pisum sativum*, for several reasons:
+
+1. They were easy to grow.
+2. They had a relatively short generation time.
+3. They produced many seeds.
+4. They possessed clearly distinguishable characteristics.
+5. They could self-pollinate.
+6. Cross-pollination could be controlled.
+7. True-breeding varieties were available.
+
+These features allowed Mendel to compare inheritance patterns across generations.
+
+## 5.3 Seven Pairs of Contrasting Characters
+
+Mendel studied seven pairs of contrasting traits in pea plants.
+
+| Character       | One form      | Alternative form |
+| --------------- | ------------- | ---------------- |
+| Seed shape      | Round         | Wrinkled         |
+| Seed colour     | Yellow        | Green            |
+| Flower colour   | Purple/violet | White            |
+| Pod shape       | Inflated      | Constricted      |
+| Pod colour      | Green         | Yellow           |
+| Flower position | Axial         | Terminal         |
+| Stem length     | Tall          | Dwarf            |
+
+These are classic examples used to explain Mendelian inheritance.
+
+## 5.4 True-Breeding Plants
+
+A true-breeding plant produces offspring with the same characteristic when self-pollinated over generations under the relevant conditions.
+
+For example, a true-breeding tall pea plant can be represented as TT in a simple Mendelian model.
+
+A true-breeding dwarf plant can be represented as tt.
+
+## 5.5 Monohybrid Cross
+
+A monohybrid cross examines the inheritance of one characteristic.
+
+Consider plant height:
+
+* Tall allele: T
+* Dwarf allele: t
+
+Assume tallness is completely dominant over dwarfness.
+
+### Parental Generation
+
+TT × tt
+
+The TT parent produces T gametes.
+
+The tt parent produces t gametes.
+
+### First Filial Generation (F1)
+
+All offspring receive T from one parent and t from the other.
+
+Genotype: Tt
+
+Phenotype: Tall
+
+Therefore, all F1 offspring are tall in this simple model.
+
+### Second Filial Generation (F2)
+
+When two F1 plants are crossed:
+
+Tt × Tt
+
+Possible offspring genotypes:
+
+* TT
+* Tt
+* Tt
+* tt
+
+Genotypic ratio:
+1 TT : 2 Tt : 1 tt
+
+Phenotypic ratio:
+3 tall : 1 dwarf
+
+This is a key result of a typical Mendelian monohybrid cross.
+
+## 5.6 Punnett Square
+
+|   | T  | t  |
+| - | -- | -- |
+| T | TT | Tt |
+| t | Tt | tt |
+
+The Punnett square illustrates the possible combinations of alleles.
+
+Under the stated assumptions:
+
+* 25% are expected to be TT.
+* 50% are expected to be Tt.
+* 25% are expected to be tt.
+
+The expected phenotype ratio is 3 tall to 1 dwarf.
+
+These are probabilities for the model, not a guarantee that every small group of offspring will show exactly those proportions.
+
+---
+
+# CHAPTER 6: MENDEL'S LAWS OF INHERITANCE
+
+## 6.1 Law of Dominance
+
+In a simple case of complete dominance, one allele can determine the phenotype in a heterozygous individual.
+
+For example, Tt plants are tall when T represents a dominant tallness allele and t represents a recessive dwarfness allele.
+
+The dominant allele masks the recessive allele's effect on the phenotype in this particular model.
+
+Important note: Not all genes show complete dominance. Incomplete dominance, codominance and other inheritance patterns also occur.
+
+## 6.2 Law of Segregation
+
+The Law of Segregation states that the two alleles of a gene separate during gamete formation.
+
+Each gamete normally receives only one allele of that gene.
+
+For example, a Tt plant produces two types of gametes:
+
+* T
+* t
+
+Under a simple model, these occur with equal probability.
+
+During fertilisation, alleles from two gametes combine to form the offspring's genotype.
+
+The Law of Segregation is also called the principle of purity of gametes in traditional textbook terminology.
+
+## 6.3 Law of Independent Assortment
+
+The Law of Independent Assortment states that alleles of different genes can assort independently into gametes when the genes are unlinked or sufficiently far apart on the same chromosome.
+
+For example, the inheritance of seed shape and seed colour may be analysed as two separate characteristics in a simple Mendelian model.
+
+The law does not apply without qualification to all pairs of genes. Genes located close together on the same chromosome may be linked and tend to be inherited together.
+
+## 6.4 Dihybrid Cross
+
+A dihybrid cross studies the inheritance of two characteristics.
+
+For a classic pea plant example:
+
+* R = round seeds
+* r = wrinkled seeds
+* Y = yellow seeds
+* y = green seeds
+
+Assume complete dominance at both genes and independent assortment.
+
+Cross:
+RrYy × RrYy
+
+Each parent can produce four gamete types:
+
+* RY
+* Ry
+* rY
+* ry
+
+The classic expected F2 phenotypic ratio is:
+
+9 : 3 : 3 : 1
+
+The categories are:
+
+* 9 round yellow
+* 3 round green
+* 3 wrinkled yellow
+* 1 wrinkled green
+
+This ratio depends on the assumptions of the model.
+
+## 6.5 Significance of Mendel's Laws
+
+Mendel's laws:
+
+1. Established a scientific foundation for genetics.
+2. Explained how inherited factors are passed between generations.
+3. Helped predict offspring characteristics.
+4. Supported later research into genes and chromosomes.
+5. Became important in plant and animal breeding.
+6. Provide a starting point for understanding genetic disorders.
+
+---
+
+# CHAPTER 7: NON-MENDELIAN INHERITANCE
+
+Not all inherited characteristics follow the simple patterns seen in Mendel's pea plant experiments.
+
+## 7.1 Incomplete Dominance
+
+Incomplete dominance occurs when a heterozygote has a phenotype intermediate between the phenotypes associated with the two homozygotes.
+
+Example: In a classic snapdragon flower example:
+
+* RR = red flowers.
+* rr = white flowers.
+* Rr = pink flowers.
+
+Crossing two pink plants can produce:
+
+* 1 red
+* 2 pink
+* 1 white
+
+The phenotypic ratio is 1 : 2 : 1.
+
+In incomplete dominance, the heterozygote is intermediate rather than showing the complete dominant phenotype.
+
+## 7.2 Codominance
+
+Codominance occurs when both alleles are expressed in the heterozygote.
+
+The human ABO blood group system provides an important example.
+
+The A and B alleles can both be expressed in a person with genotype IᴬIᴮ, producing blood group AB.
+
+Neither allele completely masks the other.
+
+## 7.3 Multiple Alleles
+
+A gene may have more than two alleles in a population, although an individual diploid organism normally carries only two alleles at that locus.
+
+The ABO blood group gene has three major alleles:
+
+* Iᴬ
+* Iᴮ
+* i
+
+Relationships:
+
+* Iᴬ and Iᴮ are codominant.
+* Both Iᴬ and Iᴮ are dominant over i.
+
+## 7.4 ABO Blood Groups
+
+| Blood group | Common genotype possibilities |
+| ----------- | ----------------------------- |
+| A           | IᴬIᴬ or Iᴬi                   |
+| B           | IᴮIᴮ or Iᴮi                   |
+| AB          | IᴬIᴮ                          |
+| O           | ii                            |
+
+The ABO system is based on antigens on red blood cells and corresponding antibodies in plasma.
+
+Blood transfusion compatibility depends on more than the ABO group alone; the Rh system and other factors also matter.
+
+## 7.5 Polygenic Inheritance
+
+Polygenic inheritance occurs when multiple genes contribute to a characteristic.
+
+Examples include many aspects of:
+
+* Human height.
+* Skin pigmentation.
+* Certain quantitative agricultural traits.
+
+Environmental influences can also contribute to these characteristics.
+
+Polygenic characteristics often show continuous variation rather than a few distinct categories.
+
+## 7.6 Pleiotropy
+
+Pleiotropy occurs when one gene influences multiple characteristics.
+
+A single genetic change can affect several biological systems because the gene product may have different roles or influence interconnected pathways.
+
+## 7.7 Sex-Linked Inheritance
+
+Sex-linked inheritance involves genes located on sex chromosomes.
+
+Some genes on the X chromosome show X-linked inheritance.
+
+Examples commonly discussed in genetics include:
+
+* Red-green colour vision deficiency.
+* Haemophilia A.
+* Haemophilia B.
+
+These conditions differ in their genetic causes and inheritance details.
+
+## 7.8 Comparison
+
+| Inheritance pattern    | Main feature                              | Example                            |
+| ---------------------- | ----------------------------------------- | ---------------------------------- |
+| Complete dominance     | Heterozygote shows dominant phenotype     | Classic Mendelian pea height       |
+| Incomplete dominance   | Heterozygote has intermediate phenotype   | Snapdragon flower colour           |
+| Codominance            | Both alleles are expressed                | AB blood group                     |
+| Multiple alleles       | More than two alleles exist in population | ABO blood group                    |
+| Polygenic inheritance  | Multiple genes contribute                 | Human height                       |
+| Pleiotropy             | One gene affects several characteristics  | Certain inherited disorders        |
+| Sex-linked inheritance | Gene located on a sex chromosome          | Red-green colour vision deficiency |
+
+---
+
+# CHAPTER 8: SEX DETERMINATION IN HUMANS
+
+## 8.1 Human Sex Chromosomes
+
+In the common human chromosomal system:
+
+* Eggs normally carry an X chromosome.
+* Sperm normally carry either an X or a Y chromosome.
+
+If an X-bearing sperm fertilises the egg, the resulting zygote typically has an XX chromosome pattern.
+
+If a Y-bearing sperm fertilises the egg, the resulting zygote typically has an XY chromosome pattern.
+
+Therefore, in this simplified model, the sperm's sex chromosome determines whether the resulting zygote is XX or XY.
+
+The expected probability is approximately equal for XX and XY conceptions, although real-world biological development includes variations.
+
+## 8.2 Role of the Y Chromosome
+
+The SRY gene, usually located on the Y chromosome, plays an important role in initiating typical testicular development.
+
+Sex development is a complex biological process involving chromosomes, genes, hormones and tissue responses.
+
+## 8.3 Sex Determination in Other Organisms
+
+Different organisms use different sex-determination systems.
+
+Examples:
+
+* Humans and many other mammals: XX/XY system.
+* Birds: commonly ZW/ZZ system.
+* Some reptiles: temperature-dependent sex determination in certain species.
+* Some insects: other chromosome-based systems.
+
+## 8.4 Important Facts
+
+* Human egg cells normally contain 23 chromosomes.
+* Human sperm cells normally contain 23 chromosomes.
+* The X and Y chromosomes are sex chromosomes.
+* SRY is important in typical testicular development.
+* Sex-determination systems vary across organisms.
+
+---
+
+# CHAPTER 9: MUTATIONS
+
+## 9.1 Definition
+
+A mutation is a change in the DNA sequence or, in broader usage, a change in genetic material.
+
+Mutations can arise spontaneously or as a result of exposure to certain mutagens.
+
+They may have:
+
+* Neutral effects.
+* Harmful effects.
+* Beneficial effects in particular environments.
+
+The effect depends on the mutation, the gene or region affected and the organism's circumstances.
+
+## 9.2 Causes of Mutations
+
+### Spontaneous Mutations
+
+May occur because of errors during DNA replication or other natural cellular processes.
+
+### Physical Mutagens
+
+Examples include certain forms of radiation, such as ultraviolet radiation and ionising radiation.
+
+### Chemical Mutagens
+
+Some chemicals can damage DNA or interfere with DNA replication.
+
+### Biological Factors
+
+Certain biological agents can contribute to genetic changes.
+
+## 9.3 Types of Gene Mutations
+
+### Substitution
+
+One DNA base is replaced by another.
+
+### Insertion
+
+One or more bases are added to a DNA sequence.
+
+### Deletion
+
+One or more bases are removed.
+
+### Frameshift Mutation
+
+An insertion or deletion that changes the reading frame of a protein-coding sequence when the number of inserted or deleted bases is not a multiple of three.
+
+Frameshift mutations can substantially alter the resulting protein.
+
+## 9.4 Chromosomal Mutations
+
+Structural chromosome changes include:
+
+* Deletion.
+* Duplication.
+* Inversion.
+* Translocation.
+
+These changes can affect the amount, arrangement or location of genetic material.
+
+## 9.5 Germline and Somatic Mutations
+
+### Germline Mutation
+
+A mutation occurring in a reproductive cell lineage may be passed to offspring.
+
+### Somatic Mutation
+
+A mutation occurring in a body cell is generally not inherited by offspring through ordinary reproduction.
+
+Somatic mutations can be important in conditions such as cancer.
+
+## 9.6 Importance of Mutations
+
+Mutations:
+
+1. Introduce new genetic variation.
+2. Can cause inherited disorders.
+3. Can alter protein structure or gene regulation.
+4. Provide raw material for evolution.
+5. Are used in genetic and medical research.
+6. Can sometimes contribute to useful traits in changing environments.
+
+A mutation is not automatically harmful. Its effect depends on context.
+
+---
+
+# CHAPTER 10: GENETIC DISORDERS
+
+## 10.1 Meaning
+
+A genetic disorder is a condition caused partly or entirely by changes in genes or chromosomes.
+
+Some genetic conditions are inherited from parents. Others arise from new mutations or chromosomal changes.
+
+Genetic disorders may follow different inheritance patterns.
+
+## 10.2 Sickle Cell Disease
+
+Sickle cell disease is associated with variants in the HBB gene, which encodes part of haemoglobin.
+
+The condition can cause red blood cells to become sickle-shaped under certain conditions.
+
+Possible effects include:
+
+* Anaemia.
+* Episodes of pain.
+* Increased risk of some infections.
+* Complications affecting organs.
+
+Sickle cell disease is inherited in an autosomal recessive pattern in its common form.
+
+## 10.3 Thalassaemia
+
+Thalassaemia is a group of inherited blood disorders in which the body produces reduced amounts of one or more globin chains that make up haemoglobin.
+
+Types include:
+
+* Alpha-thalassaemia.
+* Beta-thalassaemia.
+
+Severity varies widely, from mild forms to conditions requiring regular medical care.
+
+## 10.4 Haemophilia
+
+Haemophilia is a bleeding disorder involving problems with blood clotting.
+
+Haemophilia A is associated with deficiency or dysfunction of clotting factor VIII.
+
+Haemophilia B is associated with deficiency or dysfunction of clotting factor IX.
+
+Common forms are inherited in an X-linked recessive pattern.
+
+## 10.5 Colour Vision Deficiency
+
+Red-green colour vision deficiency is often associated with variants in genes on the X chromosome.
+
+It affects the ability to distinguish certain colours.
+
+The degree and type of colour vision difference vary between individuals.
+
+## 10.6 Down Syndrome
+
+Down syndrome is usually caused by an extra copy of chromosome 21.
+
+It can affect learning, development and health in different ways.
+
+It is a chromosomal condition rather than a typical single-gene disorder.
+
+## 10.7 Albinism
+
+Some forms of albinism are inherited conditions involving genes that affect melanin production.
+
+Melanin is a pigment involved in the colour of the skin, hair and eyes.
+
+Effects may include differences in pigmentation and vision-related problems.
+
+Different types of albinism have different genetic causes.
+
+## 10.8 Comparison Table
+
+| Condition                          | Main genetic association                         |
+| ---------------------------------- | ------------------------------------------------ |
+| Sickle cell disease                | Variants in HBB                                  |
+| Beta-thalassaemia                  | Variants affecting beta-globin production        |
+| Haemophilia A                      | F8 gene                                          |
+| Haemophilia B                      | F9 gene                                          |
+| Red-green colour vision deficiency | Often X-linked gene variants                     |
+| Down syndrome                      | Usually an extra chromosome 21                   |
+| Some forms of albinism             | Variants in genes involved in melanin production |
+
+---
+
+# CHAPTER 11: MEIOSIS AND GENETIC VARIATION
+
+## 11.1 Definition of Meiosis
+
+Meiosis is a specialised type of cell division that reduces the chromosome number by half.
+
+It is important in the production of gametes in humans and many other sexually reproducing organisms.
+
+A diploid cell undergoes meiosis to produce haploid cells.
+
+In humans:
+
+* Diploid number: 46.
+* Haploid number: 23.
+
+## 11.2 Importance of Meiosis
+
+Meiosis:
+
+1. Reduces chromosome number in gametes.
+2. Helps maintain the species' chromosome number across generations.
+3. Produces genetic variation.
+4. Enables crossing over.
+5. Allows independent assortment of chromosomes.
+
+## 11.3 Meiosis I
+
+Meiosis I separates homologous chromosomes.
+
+### Prophase I
+
+Homologous chromosomes pair, and crossing over can occur between non-sister chromatids.
+
+### Metaphase I
+
+Homologous chromosome pairs align at the cell's equator.
+
+### Anaphase I
+
+Homologous chromosomes separate and move to opposite poles.
+
+### Telophase I
+
+The cell divides, producing two cells with reduced chromosome sets.
+
+## 11.4 Meiosis II
+
+Meiosis II separates sister chromatids.
+
+Its stages resemble those of mitosis.
+
+At the end of meiosis, the process typically produces four haploid products, although the exact number of functional gametes differs between sperm and egg formation in humans.
+
+## 11.5 Crossing Over
+
+Crossing over is the exchange of corresponding DNA segments between non-sister chromatids of homologous chromosomes during prophase I.
+
+It creates new combinations of alleles.
+
+## 11.6 Independent Assortment
+
+Homologous chromosome pairs align independently of other pairs during meiosis I, contributing to genetic variation.
+
+## 11.7 Mitosis and Meiosis
+
+| Feature                       | Mitosis                                              | Meiosis                                  |
+| ----------------------------- | ---------------------------------------------------- | ---------------------------------------- |
+| Main role                     | Growth, repair and cell replacement                  | Production of haploid reproductive cells |
+| Number of divisions           | One                                                  | Two                                      |
+| Typical products              | Two daughter cells                                   | Four haploid products                    |
+| Chromosome number             | Usually maintained                                   | Reduced by half                          |
+| Genetic similarity            | Daughter cells generally very similar to parent cell | Products genetically varied              |
+| Crossing over                 | Not a normal feature                                 | Occurs in prophase I                     |
+| Homologous chromosome pairing | No typical pairing                                   | Yes, in prophase I                       |
+
+---
+
+# CHAPTER 12: EVOLUTION – BASIC CONCEPTS
+
+## 12.1 Definition of Evolution
+
+Evolution is the change in inherited characteristics of populations over successive generations.
+
+In modern biology, evolution can be studied through changes in allele frequencies, genetic variation and population characteristics over time.
+
+Evolution occurs in populations, not because an individual deliberately changes its inherited genetic makeup during its lifetime.
+
+## 12.2 Importance of Evolution
+
+Evolution helps explain:
+
+* The diversity of living organisms.
+* Adaptations to different environments.
+* Relationships among species.
+* The appearance of new species.
+* Similarities in DNA and anatomy.
+* Changes in populations over long periods.
+
+## 12.3 Evidence for Evolution
+
+Major lines of evidence include:
+
+1. Fossils.
+2. Comparative anatomy.
+3. Embryological observations.
+4. Biogeography.
+5. Molecular biology.
+6. Direct observations of evolutionary change.
+7. Artificial selection.
+
+These lines of evidence support the scientific explanation that populations change over generations and that living organisms share evolutionary relationships.
+
+---
+
+# CHAPTER 13: JEAN-BAPTISTE LAMARCK
+
+## 13.1 Lamarck's Contribution
+
+Jean-Baptiste Lamarck was an early scientist who proposed an influential theory of evolutionary change.
+
+He argued that organisms change in response to their needs and environments.
+
+His historical theory included the ideas of use and disuse and the inheritance of acquired characteristics.
+
+## 13.2 Use and Disuse
+
+Lamarck suggested that organs used frequently could become more developed, while organs not used could become reduced.
+
+## 13.3 Inheritance of Acquired Characteristics
+
+Lamarck proposed that characteristics acquired during an organism's lifetime could be passed to offspring.
+
+His classic example involved the long neck of giraffes, which he explained through repeated stretching and inheritance of the acquired increase in neck length.
+
+Modern genetics does not support this simple explanation as the general mechanism of evolution.
+
+Some environmental effects can influence gene regulation and, in limited cases, may persist across generations, but this is not equivalent to Lamarck's original theory.
+
+## 13.4 Importance and Limitations
+
+Lamarck helped make evolutionary change a serious scientific topic.
+
+However, his proposed mechanism of inheritance was not an adequate explanation for the general patterns of evolution observed today.
+
+Modern evolutionary biology is based on evidence from genetics, natural selection, mutation, genetic drift, gene flow and other processes.
+
+---
+
+# CHAPTER 14: CHARLES DARWIN AND NATURAL SELECTION
+
+## 14.1 Charles Darwin
+
+Charles Darwin was a British naturalist who developed the theory of evolution by natural selection.
+
+He published *On the Origin of Species* in 1859.
+
+His observations during the voyage of HMS Beagle contributed to his thinking about variation and adaptation.
+
+Alfred Russel Wallace independently developed a theory of natural selection, and Darwin and Wallace's ideas were presented jointly in 1858.
+
+## 14.2 Natural Selection
+
+Natural selection occurs when individuals with certain heritable characteristics leave more surviving offspring than others in a particular environment.
+
+Over generations, characteristics associated with greater reproductive success can become more common in a population.
+
+Natural selection does not act according to a future goal. It depends on existing variation and differences in reproductive success.
+
+## 14.3 Main Principles
+
+### Variation
+
+Individuals within a population differ in many characteristics.
+
+### Heritability
+
+Some of these differences can be passed from parents to offspring.
+
+### Overproduction
+
+Many organisms produce more offspring than can survive and reproduce.
+
+### Competition
+
+Resources such as food, space and mates may be limited.
+
+### Differential Reproductive Success
+
+Some individuals leave more offspring than others.
+
+### Adaptation
+
+Over generations, populations may become better suited to particular environments.
+
+## 14.4 Example: Antibiotic Resistance
+
+Some bacteria may carry genetic variants that provide resistance to a particular antibiotic.
+
+When the antibiotic is used, susceptible bacteria may be reduced, while resistant bacteria can survive and reproduce.
+
+Resistance can consequently become more common in the bacterial population.
+
+Antibiotics do not deliberately teach bacteria to become resistant. Natural selection changes the frequency of resistant variants already present or arising through mutation and gene transfer.
+
+This example demonstrates evolution that can occur over relatively short periods.
+
+## 14.5 Darwin's Finches
+
+Darwin's finches from the Galápagos Islands are commonly used to illustrate adaptation and diversification.
+
+Different finch populations have beak characteristics associated with different food sources.
+
+Their evolutionary history shows how populations can diversify as they adapt to different ecological conditions.
+
+## 14.6 Importance of Natural Selection
+
+Natural selection explains:
+
+1. Adaptation to environments.
+2. Changes in trait frequencies across generations.
+3. The development of antibiotic resistance.
+4. Some patterns of diversification.
+5. The persistence of inherited characteristics that improve reproductive success in a given environment.
+
+Natural selection is a major evolutionary mechanism, but it is not the only one.
+
+---
+
+# CHAPTER 15: MODERN SYNTHETIC THEORY OF EVOLUTION
+
+## 15.1 Meaning
+
+The modern synthetic theory combines Darwin's theory of natural selection with Mendelian genetics and later developments in population genetics.
+
+It explains evolution through changes in genetic variation within populations.
+
+## 15.2 Main Evolutionary Mechanisms
+
+### Mutation
+
+Creates new genetic variants.
+
+### Natural Selection
+
+Changes the frequency of inherited variants according to differences in reproductive success.
+
+### Genetic Drift
+
+Causes random changes in allele frequencies, especially in small populations.
+
+### Gene Flow
+
+Transfers alleles between populations when individuals or reproductive cells move and reproduce.
+
+### Recombination
+
+Creates new combinations of existing alleles.
+
+### Non-Random Mating
+
+Can change genotype frequencies and influence patterns of selection.
+
+## 15.3 Genetic Drift
+
+Genetic drift refers to random changes in allele frequencies from one generation to another.
+
+Its effects are generally stronger in small populations.
+
+Drift can cause alleles to disappear or become fixed even when they do not provide a particular selective advantage.
+
+## 15.4 Founder Effect
+
+The founder effect occurs when a new population is established by a small number of individuals.
+
+The founders carry only a sample of the original population's genetic variation.
+
+As a result, the new population may have different allele frequencies.
+
+## 15.5 Bottleneck Effect
+
+A population bottleneck occurs when a population's size is sharply reduced.
+
+The surviving individuals may not represent the genetic variation of the original population.
+
+Genetic diversity can be reduced after the bottleneck.
+
+## 15.6 Gene Flow
+
+Gene flow occurs when individuals or reproductive cells move between populations and contribute genetic material to the receiving population.
+
+Gene flow can introduce alleles into a population and reduce genetic differences between populations.
+
+## 15.7 Comparison
+
+| Mechanism         | Basic effect                                                 |
+| ----------------- | ------------------------------------------------------------ |
+| Mutation          | Produces new genetic variants                                |
+| Natural selection | Differential reproductive success changes allele frequencies |
+| Genetic drift     | Random allele-frequency changes                              |
+| Gene flow         | Moves alleles between populations                            |
+| Recombination     | Creates new combinations of alleles                          |
+
+---
+
+# CHAPTER 16: SPECIATION
+
+## 16.1 Definition
+
+Speciation is the process by which new species arise.
+
+It commonly involves the development of reproductive isolation and genetic divergence between populations.
+
+Speciation usually takes place across many generations.
+
+## 16.2 Geographic Isolation
+
+Geographic isolation occurs when populations become separated by physical barriers such as:
+
+* Mountains.
+* Rivers.
+* Oceans.
+* Deserts.
+* Changes in habitat.
+
+Separated populations may experience different mutations, selection pressures and genetic drift.
+
+Over time, they may become reproductively isolated.
+
+## 16.3 Allopatric Speciation
+
+Allopatric speciation occurs when populations become geographically separated and evolve independently.
+
+It is one of the major recognised modes of speciation.
+
+## 16.4 Sympatric Speciation
+
+Sympatric speciation occurs when new species arise without an initial geographic separation.
+
+Possible mechanisms include:
+
+* Polyploidy in plants.
+* Ecological specialisation.
+* Sexual selection.
+* Other processes leading to reproductive isolation.
+
+## 16.5 Reproductive Isolation
+
+Reproductive isolation reduces or prevents gene flow between populations.
+
+It may occur before fertilisation or after fertilisation.
+
+Examples of barriers include:
+
+* Different mating behaviours.
+* Different breeding seasons.
+* Incompatible reproductive structures.
+* Reduced viability of hybrid offspring.
+* Reduced fertility of hybrid offspring.
+
+## 16.6 Importance of Speciation
+
+Speciation helps explain biodiversity and the origin of distinct species.
+
+It is a central process in evolutionary biology.
+
+---
+
+# CHAPTER 17: EVIDENCE FROM FOSSILS
+
+## 17.1 Definition of Fossils
+
+Fossils are preserved remains, impressions or traces of ancient organisms.
+
+They may be found in sedimentary rocks, amber, ice or other materials.
+
+Examples include:
+
+* Bones.
+* Teeth.
+* Shells.
+* Leaf impressions.
+* Footprints.
+* Burrows.
+* Preserved organisms.
+
+## 17.2 Importance of Fossils
+
+Fossils provide information about:
+
+1. Organisms that lived in the past.
+2. Extinct species.
+3. Changes in biodiversity.
+4. Past environments.
+5. Evolutionary transitions.
+6. The order in which certain organisms appeared in geological history.
+
+## 17.3 Fossil Record
+
+The fossil record is the collection of known fossils and their geological contexts.
+
+It is incomplete because fossilisation requires special conditions and many organisms never become fossils.
+
+Despite this limitation, the fossil record provides strong evidence for changes in life through geological time.
+
+## 17.4 Transitional Fossils
+
+Transitional fossils show combinations of characteristics associated with different groups.
+
+They help scientists understand evolutionary relationships and changes in body structure.
+
+A transitional fossil is not necessarily the direct ancestor of every later organism in a lineage; it may represent a related branch.
+
+## 17.5 Dating Fossils
+
+### Relative Dating
+
+Determines whether a fossil or rock layer is older or younger than another.
+
+### Radiometric Dating
+
+Uses predictable radioactive decay to estimate the age of suitable rocks or materials.
+
+Different methods are appropriate for different materials and geological situations.
+
+---
+
+# CHAPTER 18: COMPARATIVE ANATOMY
+
+Comparative anatomy examines similarities and differences in the body structures of organisms.
+
+It provides evidence about evolutionary relationships.
+
+## 18.1 Homologous Organs
+
+Homologous structures share an underlying evolutionary origin, even when they perform different functions.
+
+Examples include the forelimbs of:
+
+* Humans.
+* Whales.
+* Bats.
+* Horses.
+
+Their structures have been modified for grasping, swimming, flying or running.
+
+Homologous structures provide evidence of common ancestry.
+
+## 18.2 Analogous Organs
+
+Analogous structures perform similar functions but evolved independently and do not share the same underlying origin for that function.
+
+Examples include:
+
+* Wings of birds and insects.
+* Streamlined body shapes that evolved independently in different aquatic animals.
+
+Analogous structures commonly arise through convergent evolution.
+
+## 18.3 Vestigial Structures
+
+Vestigial structures are reduced structures that have lost all or much of their original ancestral function.
+
+Examples often discussed include:
+
+* The human coccyx.
+* Certain reduced pelvic structures in whales.
+* Reduced eyes in some cave-dwelling animals.
+
+A vestigial structure may retain some function; “vestigial” does not necessarily mean completely useless.
+
+## 18.4 Comparison Table
+
+| Structure  | Meaning                                 | Evolutionary interpretation   |
+| ---------- | --------------------------------------- | ----------------------------- |
+| Homologous | Similar underlying origin               | Supports common ancestry      |
+| Analogous  | Similar function but independent origin | Supports convergent evolution |
+| Vestigial  | Reduced ancestral structure             | Reflects evolutionary history |
+
+---
+
+# CHAPTER 19: EMBRYOLOGY, BIOGEOGRAPHY AND MOLECULAR EVIDENCE
+
+## 19.1 Comparative Embryology
+
+Comparative embryology studies similarities and differences in embryonic development.
+
+Related organisms may share developmental features because of common ancestry.
+
+Embryos of different vertebrates can show certain similarities, but they are not identical at every developmental stage.
+
+Modern evolutionary biology uses detailed developmental evidence rather than the oversimplified claim that an embryo repeats its evolutionary history.
+
+## 19.2 Biogeography
+
+Biogeography is the study of the geographical distribution of organisms.
+
+Patterns of distribution can reveal evolutionary history.
+
+Examples include:
+
+* Unique species on islands.
+* Closely related species in nearby regions.
+* Differences between isolated populations.
+* Diversification following geographic separation.
+
+Island species often illustrate how isolation and different ecological conditions contribute to evolution.
+
+## 19.3 Molecular Evidence
+
+DNA and protein comparisons help scientists infer evolutionary relationships.
+
+Closely related species generally share more genetic similarities than distantly related species, although the exact pattern depends on the genes and evolutionary history examined.
+
+Molecular evidence can be used to:
+
+* Compare organisms.
+* Reconstruct evolutionary trees.
+* Study common ancestry.
+* Investigate population relationships.
+* Identify genetic changes over time.
+
+## 19.4 Artificial Selection
+
+Artificial selection occurs when humans choose organisms with desirable inherited characteristics for reproduction.
+
+Examples include:
+
+* Crop breeding.
+* Domestic animal breeding.
+* Selective breeding of dogs.
+* Development of plant varieties with desirable traits.
+
+Artificial selection demonstrates that inherited variation can produce substantial changes across generations.
+
+---
+
+# CHAPTER 20: HUMAN EVOLUTION
+
+## 20.1 Overview
+
+Human evolution is the evolutionary history of humans and their ancestral populations.
+
+Humans belong to:
+
+* Kingdom: Animalia.
+* Phylum: Chordata.
+* Class: Mammalia.
+* Order: Primates.
+* Family: Hominidae.
+* Genus: Homo.
+* Species: Homo sapiens.
+
+Humans share common ancestors with other living primates.
+
+Humans did not evolve from modern chimpanzees or modern monkeys. Humans and other living apes share common ancestors.
+
+## 20.2 Important Characteristics of Hominin Evolution
+
+Major developments in the human evolutionary lineage include:
+
+* Habitual bipedal movement in several early hominins.
+* Changes in teeth and jaws.
+* Changes in brain size and organisation.
+* Tool use and technological development.
+* Changes in diet and food processing.
+* Increasingly complex social and cultural behaviours.
+
+These characteristics evolved at different times and did not appear together in a single step.
+
+## 20.3 Australopithecus
+
+Australopithecus was a group of early hominins.
+
+Some species showed adaptations for upright walking while retaining relatively small brains compared with modern humans.
+
+Australopithecus species are important for understanding early stages of hominin evolution.
+
+## 20.4 Homo habilis
+
+Homo habilis is an early species assigned to the genus Homo.
+
+It is associated in many textbook accounts with early stone-tool traditions.
+
+The exact relationship among early Homo species remains an area of scientific investigation.
+
+## 20.5 Homo erectus
+
+Homo erectus was an important early human species.
+
+It had body proportions adapted for efficient walking and running over longer distances than many earlier hominins.
+
+Homo erectus and related populations spread across parts of Africa and Eurasia.
+
+## 20.6 Neanderthals
+
+Neanderthals were an extinct human group that lived in parts of Europe and western Asia.
+
+They used tools, cared for members of their groups and had complex behaviours.
+
+Neanderthals interbred with ancestors of many present-day human populations outside Africa, leaving small proportions of Neanderthal ancestry in many people today.
+
+## 20.7 Homo sapiens
+
+Homo sapiens is the scientific name of modern humans.
+
+The oldest widely accepted fossils of Homo sapiens are approximately 300,000 years old.
+
+Modern humans originated in Africa and later spread to other regions.
+
+Human evolution is branching rather than a simple straight line. Different human groups sometimes coexisted.
+
+## 20.8 Important Points
+
+* Scientific name of modern humans: Homo sapiens.
+* Humans belong to the order Primates.
+* Humans and other living apes share common ancestors.
+* Human evolution involved several branches.
+* Neanderthals and Homo sapiens interbred.
+* Modern humans originated in Africa.
+
+---
+
+# CHAPTER 21: ECOLOGY, ADAPTATION AND EVOLUTION
+
+## 21.1 Adaptation
+
+An adaptation is an inherited characteristic that improves survival or reproductive success in a particular environment.
+
+Examples include:
+
+* Thick fur in cold environments.
+* Camouflage in certain animals.
+* Different beak shapes associated with different food sources.
+* Water-conserving adaptations in desert organisms.
+
+Adaptations are not consciously developed because an organism needs them. They arise through evolutionary processes across generations.
+
+## 21.2 Natural Selection and Environment
+
+The environment influences which inherited characteristics are advantageous.
+
+A characteristic that is useful in one environment may not be advantageous in another.
+
+For example, camouflage that protects an animal in one habitat may be less effective in a different habitat.
+
+## 21.3 Mimicry
+
+Mimicry occurs when an organism resembles another organism or environmental feature in a way that influences interactions with other organisms.
+
+Examples include:
+
+* Some harmless organisms resembling harmful species.
+* Insects resembling leaves or twigs.
+* Some species resembling dangerous or unpalatable organisms.
+
+Mimicry can evolve through natural selection.
+
+## 21.4 Camouflage
+
+Camouflage helps an organism blend into its surroundings.
+
+It may assist with:
+
+* Avoiding predators.
+* Approaching prey.
+* Protecting eggs or young.
+* Reducing detection.
+
+Camouflage is an example of a trait whose effectiveness depends on the environment.
+
+---
+
+# CHAPTER 22: GENETICS IN AGRICULTURE
+
+## 22.1 Plant Breeding
+
+Plant breeding involves developing crop varieties with desirable characteristics.
+
+These characteristics may include:
+
+* Higher yield.
+* Better nutritional quality.
+* Resistance to certain diseases.
+* Tolerance to environmental stress.
+* Improved storage properties.
+* Suitable flowering or harvesting time.
+
+## 22.2 Selective Breeding
+
+Selective breeding involves choosing parent organisms with desired inherited traits.
+
+Over generations, these traits may become more common.
+
+The method has been used in crops and domestic animals for a long time.
+
+## 22.3 Hybridisation
+
+Hybridisation involves crossing genetically different organisms to combine desirable characteristics.
+
+In agriculture, breeders may cross varieties to obtain offspring with useful combinations of traits.
+
+Hybridisation does not guarantee that every offspring will have all desirable traits. Selection and testing remain important.
+
+## 22.4 Hybrid Vigour
+
+Hybrid vigour, also called heterosis, refers to the improved performance of certain hybrids compared with their parents for particular traits.
+
+It is used in some crop and animal breeding programmes.
+
+The degree of hybrid vigour depends on the organisms and characteristics involved.
+
+## 22.5 Genetic Engineering
+
+Genetic engineering involves directly modifying genetic material using specialised techniques.
+
+Applications include:
+
+* Research on gene function.
+* Production of certain medicines.
+* Development of some crop varieties.
+* Study of inherited conditions.
+* Biotechnology applications.
+
+Genetic engineering requires appropriate scientific assessment, safety evaluation and regulation.
+
+---
+
+# CHAPTER 23: DNA FINGERPRINTING
+
+## 23.1 Definition
+
+DNA fingerprinting is a group of techniques used to distinguish individuals based on variation in their DNA.
+
+Modern DNA profiling commonly examines selected variable regions of the genome.
+
+It does not usually involve reading every base of a person's DNA.
+
+## 23.2 Applications
+
+### Forensic Science
+
+DNA profiles can help compare biological evidence with reference samples.
+
+### Identification
+
+DNA analysis may assist in identifying unknown individuals.
+
+### Paternity and Biological Relationships
+
+Genetic markers can help assess biological relationships.
+
+### Wildlife Conservation
+
+DNA methods can support research on animal populations and illegal wildlife trade investigations.
+
+### Research
+
+DNA profiling can help study population structure and genetic diversity.
+
+## 23.3 Important Limitations
+
+DNA evidence must be interpreted carefully.
+
+Potential concerns include:
+
+* Contamination.
+* Incomplete or degraded samples.
+* Sample handling errors.
+* Statistical interpretation.
+* Closely related individuals sharing genetic markers.
+* The possibility that a DNA match does not by itself establish how or when a sample was deposited.
+
+DNA results are evaluated alongside other relevant evidence.
+
+---
+
+# CHAPTER 24: GENETIC ENGINEERING AND BIOTECHNOLOGY
+
+## 24.1 Biotechnology
+
+Biotechnology uses organisms, cells or biological molecules to develop products and processes.
+
+Examples include:
+
+* Fermentation.
+* Production of antibiotics.
+* Production of insulin using biotechnology.
+* Plant tissue culture.
+* DNA-based diagnostic tests.
+* Genetic engineering.
+
+## 24.2 Recombinant DNA Technology
+
+Recombinant DNA technology combines DNA from different sources or joins DNA sequences using laboratory methods.
+
+General stages can include:
+
+1. Identifying a DNA sequence of interest.
+2. Obtaining the DNA sequence.
+3. Joining it to a suitable DNA vector or construct.
+4. Introducing the construct into an appropriate biological system.
+5. Identifying cells that contain the desired construct.
+6. Testing the product or biological effect.
+
+The precise workflow depends on the application.
+
+## 24.3 Insulin Production
+
+Some forms of human insulin are produced using genetically engineered microorganisms.
+
+Scientists introduce DNA instructions for insulin-related products into suitable production systems.
+
+The cells produce the desired product, which is then processed and purified.
+
+Biotechnology has made a major contribution to the production of several medicines.
+
+## 24.4 Gene Therapy
+
+Gene therapy aims to treat or prevent disease by introducing, removing or modifying genetic material or by altering gene expression.
+
+Some gene therapies are approved for particular conditions.
+
+Gene therapy is not a universal cure for all inherited disorders. Its suitability, benefits and risks depend on the disease and treatment method.
+
+## 24.5 CRISPR Technology
+
+CRISPR-based systems are gene-editing tools adapted from bacterial defence mechanisms.
+
+Certain CRISPR systems can be directed to specific DNA sequences.
+
+Gene editing may be used in:
+
+* Biological research.
+* Studies of gene function.
+* Development of potential treatments.
+* Agricultural research.
+
+Gene editing raises scientific, ethical and safety questions, especially when changes could be inherited by future generations.
+
+# CHAPTER 25: IMPORTANT SCIENTISTS IN GENETICS AND EVOLUTION
+
+## 26.1 Gregor Mendel
+
+Known as the Father of Genetics. Conducted pea plant experiments and established foundational inheritance principles.
+
+## 26.2 Friedrich Miescher
+
+First isolated DNA, which he called nuclein, in 1869.
+
+## 26.3 Charles Darwin
+
+Developed the theory of evolution by natural selection and published *On the Origin of Species* in 1859.
+
+## 26.4 Alfred Russel Wallace
+
+Independently developed the theory of natural selection.
+
+## 26.5 Jean-Baptiste Lamarck
+
+Proposed an early evolutionary theory involving use, disuse and the inheritance of acquired characteristics.
+
+## 26.6 Thomas Hunt Morgan
+
+Used fruit flies in genetic research and provided important evidence linking genes to chromosomes.
+
+## 26.7 Rosalind Franklin
+
+Produced important X-ray diffraction evidence that contributed to understanding DNA's structure.
+
+## 26.8 James Watson and Francis Crick
+
+Proposed the double-helix model of DNA in 1953.
+
+## 26.9 Maurice Wilkins
+
+Contributed to X-ray studies of DNA.
+
+## 26.10 Barbara McClintock
+
+Discovered transposable genetic elements, often called jumping genes, through work on maize.
+
+## 26.11 Hugo de Vries
+
+Was one of the scientists associated with the rediscovery of Mendel's work around 1900 and developed ideas about mutation.
+
+## 26.12 Theodosius Dobzhansky
+
+Made major contributions to population genetics and the modern evolutionary synthesis.
+
+## 26.13 Important Scientists – Quick Table
+
+| Scientist             | Major contribution                                     |
+| --------------------- | ------------------------------------------------------ |
+| Gregor Mendel         | Basic laws of inheritance                              |
+| Friedrich Miescher    | First isolation of DNA                                 |
+| Charles Darwin        | Evolution by natural selection                         |
+| Alfred Russel Wallace | Independent development of natural selection           |
+| Lamarck               | Early evolutionary theory                              |
+| Thomas Hunt Morgan    | Gene-chromosome relationship                           |
+| Rosalind Franklin     | Important X-ray diffraction evidence for DNA structure |
+| Watson and Crick      | Double-helix model of DNA                              |
+| Maurice Wilkins       | DNA X-ray studies                                      |
+| Barbara McClintock    | Transposable genetic elements                          |
+| Hugo de Vries         | Mutation theory and rediscovery era                    |
+| Theodosius Dobzhansky | Modern evolutionary synthesis                          |
+
+---
+
+# CHAPTER 27: IMPORTANT GENETICS FORMULAE AND RATIOS
+
+## 27.1 Monohybrid Cross
+
+Cross:
+Tt × Tt
+
+Expected genotypes:
+
+* TT
+* Tt
+* Tt
+* tt
+
+Genotypic ratio:
+1 : 2 : 1
+
+Phenotypic ratio under complete dominance:
+3 : 1
+
+## 27.2 Test Cross
+
+A test cross involves crossing an organism showing a dominant phenotype with a homozygous recessive individual.
+
+For example:
+T_ × tt
+
+If the unknown genotype is TT:
+
+* All offspring are expected to be tall.
+
+If the unknown genotype is Tt:
+
+* Approximately half the offspring are expected to be tall.
+* Approximately half are expected to be dwarf.
+
+The actual observed proportions depend on the number of offspring and other biological factors.
+
+## 27.3 Dihybrid Cross
+
+Cross:
+RrYy × RrYy
+
+Under independent assortment and complete dominance, the expected phenotypic ratio is:
+
+9 : 3 : 3 : 1
+
+## 27.4 Incomplete Dominance
+
+Cross:
+Rr × Rr
+
+If RR is red, Rr is pink and rr is white:
+
+Phenotypic ratio:
+1 red : 2 pink : 1 white
+
+## 27.5 Probability in Genetics
+
+Probability helps predict the likelihood of different genetic outcomes.
+
+For example, in a Tt × Tt cross:
+
+* Probability of TT = 1/4.
+* Probability of Tt = 1/2.
+* Probability of tt = 1/4.
+
+The probability of a recessive phenotype is 1/4 under the simple model.
+
+These values describe expected probabilities, not guaranteed outcomes in every family.
+
+---
+
+# CHAPTER 28: COMMON MISCONCEPTIONS
+
+## 28.1 Dominant Does Not Mean Common
+
+A dominant allele can be rare in a population.
+
+Dominance describes how alleles affect the phenotype in a heterozygote, not how frequently an allele occurs.
+
+## 28.2 Evolution Does Not Have a Planned Goal
+
+Evolution is not a process in which organisms deliberately develop features because they need them.
+
+Inherited variation and evolutionary mechanisms change populations over generations.
+
+## 28.3 Humans Did Not Evolve from Modern Monkeys
+
+Humans and other living primates share common ancestors.
+
+Modern monkeys and modern humans are separate evolutionary lineages.
+
+## 28.4 Mutations Are Not Always Harmful
+
+Some mutations have no noticeable effect. Others can be harmful or beneficial depending on the environment.
+
+## 28.5 Individuals Do Not Evolve in the Population-Level Sense
+
+Evolution refers to changes in inherited characteristics of populations across generations.
+
+Individuals can grow, develop and respond to environments, but population evolution involves changes across generations.
+
+## 28.6 Acquired Traits Are Not Generally Inherited Through DNA
+
+A skill acquired through practice, such as learning to swim, is not normally passed to offspring through genetic inheritance.
+
+Inherited characteristics depend on genetic and developmental processes.
+
+## 28.7 All Genetic Disorders Are Not Inherited in the Same Way
+
+Some are autosomal dominant, some autosomal recessive, some sex-linked, and others result from chromosomal changes or new mutations.
+
+---
+
+# CHAPTER 29: TNPSC GROUP 2 – IMPORTANT ONE-MARK FACTS
+
+1. Genetics is the study of heredity and variation.
+2. Gregor Mendel is known as the Father of Genetics.
+3. Mendel performed classic inheritance experiments on pea plants.
+4. The scientific name of the garden pea is *Pisum sativum*.
+5. Mendel's work was published in 1866.
+6. Mendel's work was rediscovered around 1900.
+7. DNA stands for Deoxyribonucleic Acid.
+8. RNA stands for Ribonucleic Acid.
+9. DNA was first isolated by Friedrich Miescher in 1869.
+10. DNA has a double-helix structure.
+11. Adenine pairs with thymine in DNA.
+12. Guanine pairs with cytosine in DNA.
+13. RNA contains uracil instead of thymine.
+14. A gene is a DNA sequence that produces a functional product.
+15. Alternative forms of a gene are called alleles.
+16. Genotype refers to genetic constitution.
+17. Phenotype refers to observable characteristics.
+18. Homozygous means having two identical alleles at a locus.
+19. Heterozygous means having two different alleles at a locus.
+20. Human somatic cells normally contain 46 chromosomes.
+21. Human gametes normally contain 23 chromosomes.
+22. A human karyotype commonly shows 22 pairs of autosomes and one pair of sex chromosomes.
+23. Meiosis reduces the chromosome number by half.
+24. Mitosis usually produces two daughter cells.
+25. Crossing over occurs during prophase I of meiosis.
+26. The expected F2 phenotypic ratio of a classic monohybrid cross is 3:1.
+27. The expected F2 genotypic ratio of a classic monohybrid cross is 1:2:1.
+28. The classic dihybrid phenotypic ratio is 9:3:3:1 under specific assumptions.
+29. The ABO blood group system illustrates multiple alleles and codominance.
+30. Blood group AB expresses both A and B antigens.
+31. Mutation is a change in genetic material.
+32. Charles Darwin developed the theory of evolution by natural selection.
+33. *On the Origin of Species* was published in 1859.
+34. Alfred Russel Wallace independently developed the theory of natural selection.
+35. Lamarck proposed an early evolutionary theory involving use and disuse.
+36. Natural selection changes populations across generations.
+37. Genetic drift is a random change in allele frequencies.
+38. Gene flow transfers alleles between populations.
+39. The founder effect can occur when a new population begins from a small group.
+40. A population bottleneck can reduce genetic diversity.
+41. Fossils provide evidence of past life.
+42. Homologous structures share an underlying evolutionary origin.
+43. Analogous structures perform similar functions but evolved independently.
+44. Vestigial structures reflect aspects of evolutionary history.
+45. Modern humans are called *Homo sapiens*.
+46. Humans belong to the order Primates.
+47. Humans and other living apes share common ancestors.
+48. DNA fingerprinting is used in identification and forensic investigations.
+49. Biotechnology includes techniques that use organisms or biological systems.
+50. Recombinant DNA technology can be used to produce certain medicines.
+51. Gene therapy aims to treat disease by modifying genetic material or gene expression.
+52. CRISPR-based systems can be used for targeted gene editing.
+53. Thalassaemia is an inherited blood disorder affecting haemoglobin production.
+54. Sickle cell disease is associated with variants in the HBB gene.
+55. Haemophilia A is associated with factor VIII.
+56. Haemophilia B is associated with factor IX.
+57. Down syndrome is usually associated with an extra copy of chromosome 21.
+58. Barbara McClintock discovered transposable genetic elements.
+59. Thomas Hunt Morgan used fruit flies in genetic research.
+60. Rosalind Franklin produced important X-ray diffraction evidence for DNA structure.
+
+---
+
+# CHAPTER 30: TNPSC GROUP 2 – QUICK REVISION
+
+## Genetics
+
+Genetics is the study of heredity and variation.
+
+## Heredity
+
+The transmission of inherited characteristics from parents to offspring.
+
+## Variation
+
+Differences among individuals of the same species.
+
+## DNA
+
+The principal hereditary molecule in most organisms.
+
+## Gene
+
+A DNA sequence that produces a functional product.
+
+## Chromosome
+
+A DNA-protein structure carrying genetic information.
+
+## Mendel
+
+Known as the Father of Genetics.
+
+## Law of Segregation
+
+Two alleles of a gene separate during gamete formation.
+
+## Law of Independent Assortment
+
+Unlinked genes can assort independently during gamete formation.
+
+## Monohybrid Ratio
+
+Expected F2 phenotype ratio under complete dominance: 3:1.
+
+## Dihybrid Ratio
+
+Expected F2 phenotype ratio under independent assortment and complete dominance: 9:3:3:1.
+
+## Incomplete Dominance
+
+Heterozygote has an intermediate phenotype.
+
+## Codominance
+
+Both alleles are expressed in the heterozygote.
+
+## Mutation
+
+A change in genetic material.
+
+## Meiosis
+
+Cell division that reduces chromosome number by half.
+
+## Natural Selection
+
+Heritable characteristics associated with greater reproductive success can become more common over generations.
+
+## Genetic Drift
+
+Random change in allele frequencies.
+
+## Gene Flow
+
+Movement of alleles between populations.
+
+## Speciation
+
+Formation of new species.
+
+## Fossils
+
+Preserved remains or traces of ancient organisms.
+
+## Homologous Structures
+
+Structures sharing an underlying evolutionary origin.
+
+## Analogous Structures
+
+Structures with similar functions that evolved independently.
+
+## Human Chromosome Number
+
+46 in typical somatic cells and 23 in typical gametes.
+
+## Human Scientific Name
+
+*Homo sapiens*.
+
+---
+

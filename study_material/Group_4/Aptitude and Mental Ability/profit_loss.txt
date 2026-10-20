@@ -1,0 +1,729 @@
+
+# 📘 PROFIT & LOSS – COMPLETE MODULE (TNPSC GROUP 1)
+
+---
+
+# 🟢 1. BASIC CONCEPT (BUT EXAM LEVEL)
+
+👉 Cost Price (CP) = வாங்கிய விலை
+👉 Selling Price (SP) = விற்ற விலை
+
+✔ Profit = SP – CP
+✔ Loss = CP – SP
+
+---
+
+### 📌 Important:
+
+👉 Profit % = (Profit / CP) × 100
+👉 Loss % = (Loss / CP) × 100
+
+👉 SP = CP × (100 + Profit%) / 100
+👉 SP = CP × (100 – Loss%) / 100
+
+---
+
+# 🔥 2. TYPES (ONLY HARD LEVEL VIEW)
+
+---
+
+## 🔴 TYPE 1: SUCCESSIVE PROFIT / LOSS
+
+### 📌 எப்படி கேப்பாங்க:
+
+* 20% profit, then 10% loss
+
+### 📌 Formula:
+
+👉 Net % = a + b + (ab/100)
+
+---
+
+## 🔴 TYPE 2: MARKED PRICE + DISCOUNT
+
+### 📌 எப்படி கேப்பாங்க:
+
+* Marked price, discount, profit
+
+### 📌 Formula:
+
+👉 SP = MP × (100 – discount%) / 100
+
+---
+
+## 🔴 TYPE 3: FALSE WEIGHT (VERY IMPORTANT 🔥)
+
+### 📌 எப்படி கேப்பாங்க:
+
+* 1kg instead of 900g
+
+### 📌 Trick:
+
+👉 Profit % = (Error / Actual) × 100
+
+---
+
+## 🔴 TYPE 4: MIXED PROFIT + DISCOUNT
+
+👉 Combine discount + profit
+
+---
+
+## 🔴 TYPE 5: COST CHANGE + SAME SP
+
+👉 CP change → profit change
+
+---
+
+## 🔴 TYPE 6: SELLING SAME ITEM DIFFERENT PRICES
+
+👉 Gain + loss → net result
+
+---
+
+## 🔴 TYPE 7: PART SELLING (VERY TRICKY)
+
+👉 Half profit, half loss
+
+---
+
+## 🔴 TYPE 8: MULTIPLE CONDITIONS (TNPSC FAVORITE 🔥)
+
+👉 Combine 2–3 concepts
+
+---
+
+# 🧠 3. HARD LEVEL SOLVING TRICKS
+
+✔ Always assume CP = 100 (shortcut)
+✔ Convert % → fraction
+✔ Use net formula for successive
+✔ Avoid long calculation
+
+---
+
+# ✍️ 4. HARD LEVEL SOLVED EXAMPLES (10)
+
+---
+
+## 🧠 Example 1 (Successive)
+
+20% profit, then 10% loss
+
+👉 Net = 20 - 10 - (20×10)/100
+👉 = 20 -10 -2 = 8% profit
+
+✔ Answer = 8% profit
+
+---
+
+## 🧠 Example 2 (Marked Price)
+
+MP = 1000, discount = 20%
+CP = 700
+
+👉 SP = 800
+👉 Profit = 100
+
+👉 % = (100/700)×100 = 14.28%
+
+---
+
+## 🧠 Example 3 (False Weight)
+
+Sell 900g as 1kg
+
+👉 Profit = 100g
+
+👉 % = (100/900)×100 = 11.11%
+
+---
+
+## 🧠 Example 4 (Successive Loss)
+
+Loss 10% twice
+
+👉 Net = 10 + 10 - (10×10)/100
+👉 = 19% loss
+
+---
+
+## 🧠 Example 5 (Half Profit + Half Loss)
+
+Profit 20%, loss 20%
+
+👉 Net loss = (20²)/100 = 4%
+
+---
+
+## 🧠 Example 6 (Discount + Profit)
+
+CP = 500, MP = 800, discount = 25%
+
+👉 SP = 600
+👉 Profit = 100
+
+👉 % = 20%
+
+---
+
+## 🧠 Example 7 (Efficiency Trick)
+
+Gain 25% → SP = 125
+
+👉 CP = 100
+
+---
+
+## 🧠 Example 8 (Cost Change)
+
+CP increases 20%, SP same
+
+👉 Loss = 16.67%
+
+---
+
+## 🧠 Example 9 (Two Items)
+
+Gain 10% on one, loss 10% on other
+
+👉 Net loss = 1%
+
+---
+
+## 🧠 Example 10 (Mixed Hard)
+
+CP = 800
+Gain 20% then discount 10%
+
+👉 SP = 800×1.2×0.9 = 864
+
+👉 Profit = 64
+
+👉 % = 8%
+
+---
+
+# 📘 TYPE 1: FALSE WEIGHT (10 SOLVED)
+
+---
+
+## 🧠 CORE IDEA
+
+👉 Less weight → more profit
+👉 Formula:
+
+✔ Profit % = (Error / Actual weight) × 100
+
+---
+
+### 🧠 Example 1
+
+1kg instead of 900g
+
+👉 Profit = 100g
+👉 % = (100/900)×100 = 11.11%
+
+---
+
+### 🧠 Example 2
+
+1kg instead of 800g
+
+👉 Profit = 200g
+👉 % = (200/800)×100 = 25%
+
+---
+
+### 🧠 Example 3
+
+1kg instead of 950g
+
+👉 Profit = 50g
+👉 % = (50/950)×100 ≈ 5.26%
+
+---
+
+### 🧠 Example 4
+
+1kg instead of 750g
+
+👉 Profit = 250g
+👉 % = (250/750)×100 = 33.33%
+
+---
+
+### 🧠 Example 5
+
+Sell 500g as 600g
+
+👉 Profit = 100g
+👉 % = (100/500)×100 = 20%
+
+---
+
+### 🧠 Example 6
+
+Sell 900g as 1kg
+
+👉 Profit = 100g
+👉 % = (100/900)×100 = 11.11%
+
+---
+
+### 🧠 Example 7
+
+Sell 800g as 1kg
+
+👉 Profit = 200g
+👉 % = (200/800)×100 = 25%
+
+---
+
+### 🧠 Example 8
+
+Sell 950g as 1kg
+
+👉 Profit = 50g
+👉 % = 5.26%
+
+---
+
+### 🧠 Example 9
+
+Sell 700g as 1kg
+
+👉 Profit = 300g
+👉 % = (300/700)×100 ≈ 42.85%
+
+---
+
+### 🧠 Example 10
+
+Sell 850g as 1kg
+
+👉 Profit = 150g
+👉 % = (150/850)×100 ≈ 17.64%
+
+---
+
+# 📘 TYPE 2: MARKED PRICE + DISCOUNT (10 SOLVED)
+
+---
+
+## 🧠 CORE IDEA
+
+👉 SP = MP × (100 – discount%) / 100
+
+👉 Profit % = (SP – CP) / CP × 100
+
+---
+
+### 🧠 Example 1
+
+MP = 1000, discount 20%, CP = 700
+
+👉 SP = 800
+👉 Profit = 100
+👉 % = 14.28%
+
+---
+
+### 🧠 Example 2
+
+MP = 500, discount 10%, CP = 400
+
+👉 SP = 450
+👉 Profit = 50
+👉 % = 12.5%
+
+---
+
+### 🧠 Example 3
+
+MP = 800, discount 25%, CP = 600
+
+👉 SP = 600
+👉 Profit = 0
+
+---
+
+### 🧠 Example 4
+
+MP = 1200, discount 20%, CP = 900
+
+👉 SP = 960
+👉 Profit = 60
+👉 % = 6.67%
+
+---
+
+### 🧠 Example 5
+
+MP = 1000, discount 30%, CP = 600
+
+👉 SP = 700
+👉 Profit = 100
+👉 % = 16.67%
+
+---
+
+### 🧠 Example 6
+
+MP = 1500, discount 10%, CP = 1200
+
+👉 SP = 1350
+👉 Profit = 150
+👉 % = 12.5%
+
+---
+
+### 🧠 Example 7
+
+MP = 2000, discount 25%, CP = 1500
+
+👉 SP = 1500
+👉 Profit = 0
+
+---
+
+### 🧠 Example 8
+
+MP = 1000, discount 40%, CP = 500
+
+👉 SP = 600
+👉 Profit = 100
+👉 % = 20%
+
+---
+
+### 🧠 Example 9
+
+MP = 800, discount 20%, CP = 500
+
+👉 SP = 640
+👉 Profit = 140
+👉 % = 28%
+
+---
+
+### 🧠 Example 10
+
+MP = 1200, discount 50%, CP = 500
+
+👉 SP = 600
+👉 Profit = 100
+👉 % = 20%
+
+---
+
+# 📘 TYPE 1: SUCCESSIVE PROFIT & LOSS
+
+---
+
+## 🧠 CORE IDEA (IMPORTANT)
+
+👉 இரண்டு percentage changes வந்தா:
+
+✔ Net % = a + b + (a×b)/100  *(both profit)*
+✔ Net % = a - b - (a×b)/100 *(profit + loss)*
+
+👉 Shortcut:
+✔ Same % profit & loss → **always loss**
+
+---
+
+# ✍️ 10 HARD LEVEL SOLVED EXAMPLES
+
+---
+
+### 🧠 Example 1
+
+Gain 20%, then loss 10%
+
+👉 Net = 20 - 10 - (20×10)/100
+👉 = 20 -10 -2 = 8% profit
+
+✔ Answer = 8% profit
+
+---
+
+### 🧠 Example 2
+
+Loss 15%, then gain 10%
+
+👉 Net = -15 +10 - (15×10)/100
+👉 = -15 +10 -1.5 = -6.5%
+
+✔ Answer = 6.5% loss
+
+---
+
+### 🧠 Example 3
+
+Gain 25%, then gain 20%
+
+👉 Net = 25 +20 + (25×20)/100
+👉 = 45 +5 = 50% profit
+
+✔ Answer = 50% profit
+
+---
+
+### 🧠 Example 4
+
+Loss 20%, then loss 10%
+
+👉 Net = 20 +10 - (20×10)/100
+👉 = 30 -2 = 28% loss
+
+✔ Answer = 28% loss
+
+---
+
+### 🧠 Example 5
+
+Gain 30%, then loss 30%
+
+👉 Net loss = (30²)/100 = 9%
+
+✔ Answer = 9% loss
+
+---
+
+### 🧠 Example 6
+
+Gain 40%, then loss 20%
+
+👉 Net = 40 -20 - (40×20)/100
+👉 = 20 -8 = 12% profit
+
+✔ Answer = 12% profit
+
+---
+
+### 🧠 Example 7
+
+Loss 25%, then gain 25%
+
+👉 Net loss = (25²)/100 = 6.25%
+
+✔ Answer = 6.25% loss
+
+---
+
+### 🧠 Example 8
+
+Gain 50%, then loss 20%
+
+👉 Net = 50 -20 - (50×20)/100
+👉 = 30 -10 = 20% profit
+
+✔ Answer = 20% profit
+
+---
+
+### 🧠 Example 9
+
+Loss 10%, then gain 50%
+
+👉 Net = -10 +50 - (10×50)/100
+👉 = 40 -5 = 35% profit
+
+✔ Answer = 35% profit
+
+---
+
+### 🧠 Example 10
+
+Gain 60%, then loss 50%
+
+👉 Net = 60 -50 - (60×50)/100
+👉 = 10 -30 = -20%
+
+✔ Answer = 20% loss
+
+---
+
+#  PRACTICE QUESTIONS 
+
+Q1: A gains 20% and then loses 10%. Net result?
+A) 8% profit
+B) 10% profit
+C) 8% loss
+D) 6% profit
+
+Q2: MP = 1000, discount 20%, CP = 700. Profit %?
+A) 14.28
+B) 15
+C) 12
+D) 10
+
+Q3: Sell 800g as 1kg. Profit %?
+A) 20
+B) 25
+C) 30
+D) 15
+
+Q4: Loss 10% twice → net?
+A) 19% loss
+B) 20% loss
+C) 18% loss
+D) 21% loss
+
+Q5: Gain 25% then loss 20% → net?
+A) 0
+B) 5% profit
+C) 5% loss
+D) 10% loss
+
+Q6: A shopkeeper marks an item 40% above CP and gives 20% discount. Profit %?
+A) 12
+B) 10
+C) 8
+D) 15
+
+Q7: A gains 25% and then gives 10% discount on SP. Net result?
+A) 12.5% profit
+B) 10% profit
+C) 15% profit
+D) 8% profit
+
+Q8: A sells 900g as 1kg and gives 10% discount. Net profit %?
+A) 20
+B) 22.22
+C) 25
+D) 18
+
+Q9: MP = ₹2000, discount = 25%, CP = ₹1200. Profit %?
+A) 20
+B) 25
+C) 30
+D) 15
+
+Q10: A gains 20% and loses 10% on successive sales. Find net gain/loss?
+A) 8% gain
+B) 6% gain
+C) 8% loss
+D) 10% gain
+
+Q11: A shopkeeper sells 800g instead of 1kg and gains 25%. Find total profit %?
+A) 50
+B) 56.25
+C) 60
+D) 62.5
+
+Q12: CP increases by 20%, SP remains same. Loss %?
+A) 16.67
+B) 20
+C) 18
+D) 25
+
+Q13: A marks goods 50% above CP and gives 20% discount. Profit %?
+A) 20
+B) 25
+C) 30
+D) 35
+
+Q14: A gains 10% on one item and loses 10% on another. Net?
+A) 1% loss
+B) 1% gain
+C) no loss no gain
+D) 2% loss
+
+Q15: A gives two successive discounts of 10% and 20%. Total discount?
+A) 30
+B) 28
+C) 32
+D) 25
+
+Q16: MP = ₹1000, discount 20%, CP = ₹600. Profit %?
+A) 25
+B) 33.33
+C) 30
+D) 28
+
+Q17: A sells 750g as 1kg and gains 20%. Net profit %?
+A) 50
+B) 60
+C) 66.67
+D) 70
+
+Q18: A gains 50% and then loses 20%. Net result?
+A) 20% gain
+B) 10% gain
+C) 15% gain
+D) 5% gain
+
+Q19: CP = ₹800, SP = ₹960. Profit %?
+A) 20
+B) 18
+C) 15
+D) 25
+
+Q20: A sells 950g as 1kg and gains 5%. Net profit %?
+A) 10
+B) 11
+C) 10.5
+D) 12
+
+Q21: MP = ₹1500, discount 10%, CP = ₹1200. Profit %?
+A) 12.5
+B) 10
+C) 15
+D) 8
+
+Q22: A gives discount 20% and still gains 20%. Markup %?
+A) 40
+B) 50
+C) 60
+D) 70
+
+Q23: A buys at ₹1000 and sells at 20% loss. To get 20% gain, SP should be?
+A) 1200
+B) 1400
+C) 1500
+D) 1600
+
+Q24: A gains 20% and B loses 20% on same CP. Find ratio of SP?
+A) 3:2
+B) 4:3
+C) 5:4
+D) 6:5
+
+Q25: A marks goods 25% above CP and gives 25% discount. Net?
+A) no profit no loss
+B) 6.25% loss
+C) 5% loss
+D) 10% loss
+
+Q26: A sells two items each at ₹1000. One at gain 20%, other at loss 20%. Net?
+A) 4% loss
+B) 2% loss
+C) 5% loss
+D) no loss
+
+Q27: A gains 40% then loses 25%. Net result?
+A) 5% gain
+B) 10% gain
+C) 0
+D) 5% loss
+
+Q28: A sells 800g as 1kg and marks price 20% above CP. Net profit %?
+A) 40
+B) 50
+C) 60
+D) 70
+
+Q29: A gives discount 30% and still gains 40%. Markup %?
+A) 80
+B) 90
+C) 100
+D) 120
+
+Q30: CP = ₹500, MP = ₹1000, discount = 50%. Profit %?
+A) 0
+B) 10
+C) 20
+D) 25
+

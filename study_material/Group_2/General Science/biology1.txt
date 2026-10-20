@@ -1,0 +1,2605 @@
+# BIOLOGY — TNPSC GROUP 2
+
+## Part 1
+---
+# CHAPTER 1: INTRODUCTION TO BIOLOGY
+
+## 1.1 Definition of Biology
+
+Biology is the branch of science that deals with the study of living organisms, their structure, functions, growth, origin, evolution, distribution and interactions with the environment.
+
+The word Biology is derived from two Greek words:
+
+* Bios — Life
+* Logos — Study
+
+Biology helps us understand humans, animals, plants, microorganisms and their relationships with the environment.
+
+### Importance of Biology
+
+Biology is important in:
+
+1. Medicine and healthcare.
+2. Agriculture and crop improvement.
+3. Environmental conservation.
+4. Biotechnology.
+5. Food production.
+6. Disease prevention.
+7. Genetic engineering.
+8. Wildlife conservation.
+
+### Branches of Biology
+
+| Branch               | Definition                                                    |
+| -------------------- | ------------------------------------------------------------- |
+| Botany               | Study of plants                                               |
+| Zoology              | Study of animals                                              |
+| Microbiology         | Study of microorganisms                                       |
+| Cytology             | Study of cells                                                |
+| Histology            | Study of tissues                                              |
+| Anatomy              | Study of the internal structure of organisms                  |
+| Physiology           | Study of the functions of living organisms                    |
+| Genetics             | Study of heredity and variation                               |
+| Ecology              | Study of organisms and their environment                      |
+| Taxonomy             | Identification, naming and classification of organisms        |
+| Embryology           | Study of development of embryos                               |
+| Paleontology         | Study of ancient life through fossils                         |
+| Mycology             | Study of fungi                                                |
+| Bacteriology         | Study of bacteria                                             |
+| Virology             | Study of viruses                                              |
+| Immunology           | Study of the immune system                                    |
+| Entomology           | Study of insects                                              |
+| Ornithology          | Study of birds                                                |
+| Ichthyology          | Study of fishes                                               |
+| Herpetology          | Study of reptiles and amphibians                              |
+| Biotechnology        | Application of biological systems and organisms in technology |
+| Molecular Biology    | Study of biological processes at the molecular level          |
+| Evolutionary Biology | Study of evolutionary processes                               |
+| Marine Biology       | Study of organisms in marine environments                     |
+
+### Important Scientists in Biology
+
+| Scientist               | Important Contribution                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------------- |
+| Robert Hooke            | Coined the term cell after observing cork                                                         |
+| Antonie van Leeuwenhoek | Observed living microorganisms using microscopes                                                  |
+| Matthias Schleiden      | Proposed that plants are made of cells                                                            |
+| Theodor Schwann         | Proposed that animals are made of cells                                                           |
+| Rudolf Virchow          | Associated with the principle that cells arise from pre-existing cells                            |
+| Robert Brown            | Discovered the nucleus in plant cells                                                             |
+| Gregor Mendel           | Established fundamental principles of heredity                                                    |
+| Charles Darwin          | Proposed evolution by natural selection                                                           |
+| Louis Pasteur           | Major contributions to microbiology and germ theory                                               |
+| Edward Jenner           | Pioneered vaccination against smallpox                                                            |
+| Alexander Fleming       | Discovered penicillin                                                                             |
+| Carolus Linnaeus        | Developed the foundation of modern biological classification                                      |
+| Watson and Crick        | Proposed the double-helical structure of DNA, building on crucial evidence from other researchers |
+| Rosalind Franklin       | Produced important X-ray diffraction evidence concerning DNA structure                            |
+
+**TNPSC Exam Points**
+
+* Father of Genetics: Gregor Mendel.
+* Father of Taxonomy: Carolus Linnaeus.
+* Penicillin: Alexander Fleming.
+* Cell: Robert Hooke coined the term.
+* Smallpox vaccination pioneer: Edward Jenner.
+
+---
+
+# CHAPTER 2: CELL BIOLOGY
+
+## 2.1 What Is a Cell?
+
+A cell is the basic structural and functional unit of life.
+
+All living organisms are made of one or more cells.
+
+Examples:
+
+* Amoeba consists of a single cell.
+* Bacteria are unicellular organisms.
+* Humans are multicellular organisms.
+* Most plants are multicellular organisms.
+
+Cells perform essential functions such as:
+
+* Respiration.
+* Nutrition.
+* Growth.
+* Excretion.
+* Reproduction.
+* Protein synthesis.
+* Response to stimuli.
+
+## 2.2 Cell Theory
+
+The classical cell theory was developed through the work of Matthias Schleiden and Theodor Schwann.
+
+The major principles are:
+
+1. All living organisms are composed of cells.
+2. The cell is the basic structural and functional unit of life.
+3. New cells arise from pre-existing cells, a principle associated with Rudolf Virchow.
+
+### Importance of Cell Theory
+
+Cell theory provides a common foundation for understanding the structure and function of living organisms.
+
+It explains why cells are essential for:
+
+* Growth.
+* Repair.
+* Reproduction.
+* Maintenance of tissues and organs.
+
+### TNPSC Questions
+
+**Question 1:** Who coined the term cell?
+
+Answer: Robert Hooke.
+
+**Question 2:** Who proposed that new cells arise from pre-existing cells?
+
+Answer: Rudolf Virchow is associated with this principle.
+
+**Question 3:** What is the basic structural and functional unit of life?
+
+Answer: Cell.
+
+---
+
+## 2.3 Types of Cells
+
+Cells are broadly classified into two major types:
+
+1. Prokaryotic cells.
+2. Eukaryotic cells.
+
+### Prokaryotic Cells
+
+Prokaryotic cells do not have a membrane-bound nucleus.
+
+Their genetic material is located in a region called the nucleoid.
+
+Examples:
+
+* Bacteria.
+* Archaea.
+
+Characteristics:
+
+* Usually smaller and simpler than eukaryotic cells.
+* Lack membrane-bound organelles.
+* Possess ribosomes.
+* Have DNA.
+* Reproduce commonly through binary fission.
+
+### Eukaryotic Cells
+
+Eukaryotic cells contain a membrane-bound nucleus.
+
+They also contain membrane-bound organelles such as mitochondria and, in plants, chloroplasts.
+
+Examples:
+
+* Animal cells.
+* Plant cells.
+* Fungal cells.
+* Protist cells.
+
+Characteristics:
+
+* Have a nucleus.
+* Contain specialised organelles.
+* Have organised internal compartments.
+* Can form unicellular or multicellular organisms.
+
+### Difference Between Prokaryotic and Eukaryotic Cells
+
+| Feature                   | Prokaryotic Cell                        | Eukaryotic Cell                              |
+| ------------------------- | --------------------------------------- | -------------------------------------------- |
+| True nucleus              | Absent                                  | Present                                      |
+| Nuclear membrane          | Absent                                  | Present                                      |
+| Membrane-bound organelles | Absent                                  | Present in typical examples                  |
+| DNA                       | Usually circular in the main chromosome | Nuclear chromosomes are generally linear     |
+| Ribosomes                 | 70S-type                                | Cytoplasmic ribosomes are generally 80S-type |
+| Cell size                 | Usually smaller                         | Usually larger                               |
+| Examples                  | Bacteria and Archaea                    | Plants, animals and fungi                    |
+
+**Important note:** Mitochondria and chloroplasts have their own ribosomes, which differ from the cytoplasmic ribosomes of eukaryotic cells.
+
+---
+
+# CHAPTER 3: CELL ORGANELLES
+
+Cell organelles are specialised structures inside cells that perform particular functions.
+
+## 3.1 Cell Membrane
+
+The cell membrane is a selectively permeable boundary surrounding the cell.
+
+It controls the movement of substances into and out of the cell.
+
+### Structure
+
+The membrane mainly consists of a phospholipid bilayer containing proteins.
+
+Some membranes also contain cholesterol and carbohydrate-containing molecules.
+
+### Functions
+
+1. Maintains the boundary of the cell.
+2. Controls the transport of substances.
+3. Helps cells communicate with their surroundings.
+4. Participates in cell recognition.
+5. Maintains internal conditions.
+
+### Transport Across the Cell Membrane
+
+**Diffusion:** Movement of particles from a region of higher concentration to lower concentration.
+
+**Osmosis:** Movement of water through a selectively permeable membrane from higher water potential to lower water potential.
+
+**Active transport:** Movement of substances against their concentration or electrochemical gradient using energy.
+
+**Facilitated diffusion:** Movement of substances through membrane proteins without direct energy expenditure.
+
+### TNPSC Example
+
+When a raisin is placed in water, water enters the raisin by osmosis, causing it to swell.
+
+---
+
+## 3.2 Nucleus
+
+The nucleus is a membrane-bound organelle containing most of the genetic material in a eukaryotic cell.
+
+### Structure
+
+The nucleus contains:
+
+* Nuclear envelope.
+* Nuclear pores.
+* Nucleoplasm.
+* Chromatin.
+* Nucleolus.
+
+### Functions
+
+1. Stores genetic information.
+2. Helps regulate gene expression.
+3. Participates in cell growth and division.
+4. Controls many cellular activities through gene regulation.
+
+### Nucleolus
+
+The nucleolus is a region inside the nucleus involved in ribosomal RNA production and ribosome assembly.
+
+**TNPSC point:** The nucleus is often called the control centre of the eukaryotic cell because it contains genetic information that directs many cellular activities.
+
+---
+
+## 3.3 Mitochondria
+
+Mitochondria are organelles involved in aerobic cellular respiration and ATP production.
+
+ATP stands for Adenosine Triphosphate.
+
+ATP acts as an energy-transfer molecule in cells.
+
+### Structure
+
+Mitochondria have:
+
+* An outer membrane.
+* An inner membrane.
+* Intermembrane space.
+* Matrix.
+* Cristae, which are folds of the inner membrane.
+
+### Functions
+
+1. Participate in aerobic respiration.
+2. Produce much of the ATP in many eukaryotic cells.
+3. Help regulate aspects of cellular metabolism.
+4. Participate in certain cell-signalling processes.
+
+Mitochondria contain their own DNA and ribosomes.
+
+**TNPSC Important Point:** Mitochondria are commonly described as the powerhouse of the cell.
+
+### Cellular Respiration
+
+A simplified overall equation for aerobic glucose respiration is:
+
+$$
+C_6H_{12}O_6+6O_2
+\rightarrow 6CO_2+6H_2O+\text{energy}
+$$
+
+The released energy is captured partly in ATP.
+
+**Important:** This is an overall summary equation, not a single-step reaction.
+
+---
+
+## 3.4 Ribosomes
+
+Ribosomes are cellular structures responsible for protein synthesis.
+
+They translate information carried by messenger RNA into a chain of amino acids.
+
+### Functions
+
+1. Read messenger RNA.
+2. Join amino acids in the correct sequence.
+3. Produce proteins.
+
+Ribosomes may be found:
+
+* Free in the cytoplasm.
+* Attached to the rough endoplasmic reticulum.
+
+### TNPSC Point
+
+**Question:** Which cell structure is responsible for protein synthesis?
+
+Answer: Ribosomes.
+
+---
+
+## 3.5 Endoplasmic Reticulum
+
+The endoplasmic reticulum is a network of membranes within eukaryotic cells.
+
+It occurs in two main forms.
+
+### Rough Endoplasmic Reticulum
+
+Rough endoplasmic reticulum has ribosomes attached to its surface.
+
+Functions:
+
+* Synthesis of many secreted proteins.
+* Production of membrane proteins.
+* Initial processing and folding of certain proteins.
+
+### Smooth Endoplasmic Reticulum
+
+Smooth endoplasmic reticulum lacks attached ribosomes.
+
+Functions:
+
+* Lipid synthesis.
+* Detoxification of certain substances.
+* Calcium storage in specialised cells.
+
+### Difference
+
+| Rough ER                                      | Smooth ER                                               |
+| --------------------------------------------- | ------------------------------------------------------- |
+| Ribosomes attached                            | Ribosomes absent                                        |
+| Important in protein synthesis and processing | Important in lipid synthesis and other functions        |
+| Often prominent in protein-secreting cells    | Often prominent in lipid-producing or detoxifying cells |
+
+---
+
+## 3.6 Golgi Apparatus
+
+The Golgi apparatus modifies, sorts and packages many proteins and lipids.
+
+### Functions
+
+1. Modifies certain proteins and lipids.
+2. Sorts cellular products.
+3. Packages materials into vesicles.
+4. Helps direct substances to their destinations.
+5. Participates in the formation of certain lysosomes.
+
+**TNPSC memory point:** Golgi apparatus — packaging and distribution centre of the cell.
+
+---
+
+## 3.7 Lysosomes
+
+Lysosomes are membrane-bound organelles containing digestive enzymes.
+
+### Functions
+
+1. Break down certain macromolecules.
+2. Digest materials taken into the cell.
+3. Help recycle damaged cellular components.
+4. Participate in cellular waste processing.
+
+They are especially associated with intracellular digestion.
+
+**TNPSC point:** Lysosomes are often called the digestive bags of the cell.
+
+---
+
+## 3.8 Chloroplasts
+
+Chloroplasts are photosynthetic organelles found in plants and many algae.
+
+They contain chlorophyll, the pigment that absorbs light energy.
+
+### Structure
+
+Important components include:
+
+* Outer membrane.
+* Inner membrane.
+* Stroma.
+* Thylakoids.
+* Grana.
+
+### Functions
+
+1. Capture light energy.
+2. Carry out photosynthesis.
+3. Help produce carbohydrates from carbon dioxide and water using light energy.
+
+### Photosynthesis Equation
+
+A simplified overall equation is:
+
+$$
+6CO_2+6H_2O
+\xrightarrow{\text{light}}
+C_6H_{12}O_6+6O_2
+$$
+
+This equation summarises the process; the oxygen released during photosynthesis comes from water.
+
+**TNPSC Point:** Chloroplasts are the principal sites of photosynthesis in plant cells.
+
+---
+
+## 3.9 Vacuoles
+
+Vacuoles are membrane-bound compartments used for storage and other functions.
+
+In many mature plant cells, a large central vacuole occupies much of the cell volume.
+
+### Functions
+
+1. Stores water.
+2. Stores dissolved substances.
+3. Helps maintain turgor pressure.
+4. Participates in waste storage and cellular regulation.
+
+### Plant Cell vs Animal Cell
+
+Plant cells often have a large central vacuole, whereas animal cells generally have smaller vesicles and vacuoles.
+
+---
+
+## 3.10 Cell Wall
+
+The cell wall is a relatively rigid external layer present in plants, fungi and many other organisms.
+
+Plant cell walls are mainly composed of cellulose.
+
+Fungal cell walls contain chitin and other substances.
+
+Bacterial cell walls typically contain peptidoglycan.
+
+### Functions
+
+1. Provides structural support.
+2. Helps maintain cell shape.
+3. Protects the cell.
+4. Helps prevent excessive expansion under suitable conditions.
+
+**TNPSC point:** Cellulose is a major component of plant cell walls.
+
+---
+
+# CHAPTER 4: PLANT CELLS AND ANIMAL CELLS
+
+## 4.1 Plant Cells
+
+Plant cells typically contain:
+
+* Cell wall.
+* Cell membrane.
+* Nucleus.
+* Cytoplasm.
+* Mitochondria.
+* Chloroplasts in photosynthetic cells.
+* Large central vacuole.
+* Ribosomes.
+* Endoplasmic reticulum.
+* Golgi apparatus.
+
+### Important Functions
+
+The cell wall provides support.
+
+Chloroplasts perform photosynthesis in photosynthetic tissues.
+
+The central vacuole stores water and helps maintain turgor pressure.
+
+Mitochondria participate in cellular respiration.
+
+## 4.2 Animal Cells
+
+Animal cells typically contain:
+
+* Cell membrane.
+* Nucleus.
+* Cytoplasm.
+* Mitochondria.
+* Ribosomes.
+* Endoplasmic reticulum.
+* Golgi apparatus.
+* Lysosomes in many cell types.
+* Cytoskeletal structures.
+
+Animal cells do not have a cellulose cell wall or chloroplasts.
+
+## 4.3 Differences Between Plant and Animal Cells
+
+| Feature               | Plant Cell                        | Animal Cell                 |
+| --------------------- | --------------------------------- | --------------------------- |
+| Cell wall             | Present                           | Absent                      |
+| Chloroplasts          | Present in photosynthetic cells   | Absent                      |
+| Large central vacuole | Usually present in mature cells   | Typically absent            |
+| Shape                 | Often relatively regular          | Often more variable         |
+| Centrioles            | Absent in many higher plant cells | Common in many animal cells |
+| Photosynthesis        | Occurs in photosynthetic cells    | Does not occur              |
+| Storage carbohydrate  | Starch                            | Glycogen                    |
+
+**Important exception:** Not every plant cell contains chloroplasts. For example, most mature root cells do not contain chloroplasts.
+
+---
+
+# CHAPTER 5: CELL DIVISION
+
+Cell division is the process by which a parent cell produces daughter cells.
+
+Two major types studied at this level are:
+
+1. Mitosis.
+2. Meiosis.
+
+## 5.1 Mitosis
+
+Mitosis is a type of nuclear division that usually results in two daughter cells with the same chromosome number as the parent cell.
+
+### Stages of Mitosis
+
+**1. Prophase**
+
+Chromosomes condense and become visible. The mitotic spindle begins to form.
+
+**2. Metaphase**
+
+Chromosomes align at the cell's equatorial region.
+
+**3. Anaphase**
+
+Sister chromatids separate and move towards opposite poles.
+
+**4. Telophase**
+
+New nuclei form around the separated chromosome sets.
+
+Cytokinesis divides the cytoplasm and commonly follows or overlaps with the later stages of nuclear division.
+
+### Importance of Mitosis
+
+1. Growth.
+2. Tissue repair.
+3. Replacement of certain damaged or old cells.
+4. Asexual reproduction in some organisms.
+
+**TNPSC point:** Mitosis generally maintains chromosome number.
+
+## 5.2 Meiosis
+
+Meiosis is a specialised type of cell division that reduces the chromosome number by half.
+
+It is involved in the formation of haploid reproductive cells or their precursors.
+
+### Important Features
+
+1. One round of DNA replication occurs before meiosis.
+2. Two successive divisions take place.
+3. Homologous chromosomes separate during meiosis I.
+4. Sister chromatids separate during meiosis II.
+5. Genetic variation can arise through crossing over and independent assortment.
+
+### Difference Between Mitosis and Meiosis
+
+| Feature                | Mitosis                         | Meiosis                                          |
+| ---------------------- | ------------------------------- | ------------------------------------------------ |
+| Number of divisions    | One                             | Two                                              |
+| Typical daughter cells | Two                             | Four haploid cells in a typical complete example |
+| Chromosome number      | Usually maintained              | Halved                                           |
+| Crossing over          | Not a normal feature of mitosis | Occurs during prophase I                         |
+| Main role              | Growth and repair               | Sexual reproduction and genetic variation        |
+
+### Example: Human Chromosome Number
+
+Most human somatic cells contain 46 chromosomes.
+
+Human gametes typically contain 23 chromosomes.
+
+During fertilisation:
+
+$$
+23+23=46
+$$
+
+The fusion of a sperm and an egg restores the diploid chromosome number.
+
+---
+
+# CHAPTER 6: TISSUES
+
+A tissue is a group of cells that work together to perform particular functions.
+
+## 6.1 Plant Tissues
+
+Plant tissues can be broadly classified into:
+
+1. Meristematic tissues.
+2. Permanent tissues.
+
+### Meristematic Tissues
+
+Meristematic tissues contain actively dividing cells.
+
+They are responsible for plant growth.
+
+Types include:
+
+**Apical meristem:** Present near root and shoot tips; contributes to primary growth.
+
+**Lateral meristem:** Contributes to an increase in thickness or girth.
+
+**Intercalary meristem:** Found at certain regions such as the bases of leaves or internodes in some plants.
+
+### Permanent Tissues
+
+Permanent tissues consist of cells that have differentiated to perform specific functions.
+
+#### Simple Permanent Tissues
+
+**Parenchyma**
+
+* Usually living cells.
+* Storage and other functions.
+* May perform photosynthesis when chloroplasts are present.
+
+**Collenchyma**
+
+* Living cells with unevenly thickened walls.
+* Provides flexible support in growing plant parts.
+
+**Sclerenchyma**
+
+* Usually dead at maturity.
+* Thick, often lignified walls.
+* Provides mechanical strength.
+
+#### Complex Permanent Tissues
+
+**Xylem**
+
+* Transports water and dissolved minerals from roots to other plant parts.
+* Also contributes to structural support.
+
+**Phloem**
+
+* Transports sugars and other organic substances through the plant.
+
+**TNPSC memory point:**
+
+* Xylem — water and mineral transport.
+* Phloem — transport of sugars and other organic materials.
+
+## 6.2 Animal Tissues
+
+The four major types of animal tissues are:
+
+1. Epithelial tissue.
+2. Connective tissue.
+3. Muscular tissue.
+4. Nervous tissue.
+
+### Epithelial Tissue
+
+Epithelial tissue covers body surfaces and lines many internal cavities and organs.
+
+Functions:
+
+* Protection.
+* Absorption.
+* Secretion.
+* Filtration in specialised locations.
+
+Examples:
+
+* Skin epidermis.
+* Intestinal lining.
+* Certain glandular tissues.
+
+### Connective Tissue
+
+Connective tissue supports, binds and connects different structures.
+
+Examples:
+
+* Bone.
+* Cartilage.
+* Blood.
+* Adipose tissue.
+* Tendons.
+* Ligaments.
+
+**Tendon:** Connects muscle to bone.
+
+**Ligament:** Connects bone to bone.
+
+### Muscular Tissue
+
+Muscular tissue contracts to produce movement.
+
+Three major types:
+
+**Skeletal muscle**
+
+* Usually under voluntary control.
+* Helps body movement.
+
+**Smooth muscle**
+
+* Involuntary.
+* Found in organs such as the intestines and blood vessels.
+
+**Cardiac muscle**
+
+* Forms the muscular wall of the heart.
+* Contracts rhythmically.
+
+### Nervous Tissue
+
+Nervous tissue receives and transmits signals.
+
+It consists mainly of neurons and supporting glial cells.
+
+Functions:
+
+* Communication.
+* Coordination.
+* Sensory processing.
+* Control of body activities.
+
+---
+
+# CHAPTER 7: IMPORTANT BIOLOGY FORMULAS
+
+Biology contains fewer numerical formulas than Physics or Chemistry, but some equations and calculations are important for competitive exams.
+
+## 7.1 Magnification
+
+Magnification describes how many times larger an image appears than the actual object.
+
+$$
+\boxed{\text{Magnification}=
+\frac{\text{Image size}}{\text{Actual size}}}
+$$
+
+Both sizes must use the same units.
+
+### Solved Sum
+
+A cell is 20 μm long. Its image is 100 μm long. Calculate magnification.
+
+$$
+\text{Magnification}=\frac{100}{20}
+$$
+
+$$
+\boxed{5\times}
+$$
+
+Answer: 5 times.
+
+## 7.2 Photosynthesis
+
+Simplified equation:
+
+$$
+6CO_2+6H_2O
+\xrightarrow{\text{light}}
+C_6H_{12}O_6+6O_2
+$$
+
+Important requirements:
+
+* Light energy.
+* Chlorophyll in photosynthetic cells.
+* Carbon dioxide.
+* Water.
+
+## 7.3 Aerobic Respiration
+
+Simplified equation:
+
+$$
+C_6H_{12}O_6+6O_2
+\rightarrow6CO_2+6H_2O+\text{energy}
+$$
+
+The equation summarises aerobic respiration of glucose.
+
+## 7.4 Population Growth Rate
+
+A simple population growth-rate formula is:
+
+$$
+\boxed{\text{Growth rate}=
+\frac{\text{Final population}-\text{Initial population}}
+{\text{Initial population}}\times100}
+$$
+
+### Solved Sum
+
+An organism's population increases from 200 to 250.
+
+$$
+\text{Growth rate}=\frac{250-200}{200}\times100
+$$
+
+$$
+=\frac{50}{200}\times100
+$$
+
+$$
+\boxed{25\%}
+$$
+
+Answer: 25% increase.
+
+---
+
+
+# CHAPTER 11: QUICK REVISION TABLE
+
+| Topic           | Important Fact                                      |
+| --------------- | --------------------------------------------------- |
+| Cell            | Basic structural and functional unit of life        |
+| Nucleus         | Contains most eukaryotic genetic material           |
+| Mitochondria    | Important in aerobic respiration and ATP production |
+| Ribosomes       | Protein synthesis                                   |
+| Chloroplasts    | Photosynthesis                                      |
+| Lysosomes       | Intracellular digestion                             |
+| Golgi apparatus | Modification, sorting and packaging                 |
+| Cell membrane   | Selectively permeable boundary                      |
+| Cell wall       | Structural support                                  |
+| Xylem           | Water and mineral transport                         |
+| Phloem          | Transport of sugars and organic substances          |
+| Mitosis         | Usually maintains chromosome number                 |
+| Meiosis         | Reduces chromosome number by half                   |
+| Genetics        | Study of heredity                                   |
+| Ecology         | Study of organisms and their environment            |
+| Botany          | Study of plants                                     |
+| Zoology         | Study of animals                                    |
+| Microbiology    | Study of microorganisms                             |
+| Histology       | Study of tissues                                    |
+| Cytology        | Study of cells                                      |
+
+# PART 2 — HUMAN DIGESTIVE SYSTEM, NUTRITION AND RESPIRATORY SYSTEM
+
+## 1. HUMAN DIGESTIVE SYSTEM
+
+### 1.1 Introduction
+
+The human digestive system is responsible for breaking down complex food substances into simpler, soluble substances that can be absorbed and utilized by the body.
+
+The major functions of the digestive system are:
+
+1. Ingestion of food.
+2. Mechanical digestion of food.
+3. Chemical digestion of food.
+4. Absorption of nutrients.
+5. Assimilation of absorbed nutrients.
+6. Elimination of undigested waste.
+
+The human digestive system consists of the alimentary canal and associated digestive glands.
+
+### 1.2 Parts of the Alimentary Canal
+
+The alimentary canal is a long muscular tube extending from the mouth to the anus.
+
+Its main parts are:
+
+1. Mouth or buccal cavity.
+2. Pharynx.
+3. Oesophagus.
+4. Stomach.
+5. Small intestine.
+6. Large intestine.
+7. Rectum.
+8. Anus.
+
+### 1.3 Mouth and Buccal Cavity
+
+Digestion begins in the mouth.
+
+The teeth break food into smaller pieces through mechanical digestion. The tongue mixes food with saliva and helps in swallowing.
+
+**Functions of saliva:**
+
+* Moistens and lubricates food.
+* Helps form a soft mass called a bolus.
+* Contains salivary amylase.
+* Begins the digestion of starch into simpler carbohydrates, including maltose and shorter carbohydrate chains.
+
+Saliva is secreted by three major pairs of salivary glands:
+
+* Parotid glands.
+* Submandibular glands.
+* Sublingual glands.
+
+**TNPSC Important Facts**
+
+* Digestion begins in the mouth.
+* Salivary amylase acts on starch.
+* The tongue helps in tasting, mixing and swallowing food.
+* Teeth perform mechanical digestion.
+
+### 1.4 Pharynx and Oesophagus
+
+The pharynx acts as a common passage for food and air.
+
+The oesophagus carries food from the pharynx to the stomach through rhythmic muscular contractions called **peristalsis**.
+
+Peristalsis is the wave-like contraction and relaxation of the muscles of the alimentary canal.
+
+**Important:** Food moves through the oesophagus mainly by peristalsis, not simply by gravity.
+
+### 1.5 Stomach
+
+The stomach is a muscular, J-shaped organ located in the upper abdomen.
+
+It temporarily stores food, mixes food with gastric juice and begins the major chemical digestion of proteins.
+
+The stomach contains gastric glands that secrete:
+
+* Hydrochloric acid (HCl).
+* Pepsinogen.
+* Mucus.
+* Intrinsic factor.
+
+**Functions of hydrochloric acid:**
+
+1. Creates an acidic environment.
+2. Helps activate pepsinogen into pepsin.
+3. Helps destroy many microorganisms entering with food.
+
+**Functions of pepsin:**
+
+Pepsin is a protein-digesting enzyme. It breaks proteins into smaller peptides.
+
+**Functions of mucus:**
+
+Mucus protects the stomach lining from acid and digestive enzymes.
+
+**Functions of intrinsic factor:**
+
+Intrinsic factor is required for the normal absorption of vitamin B12 in the terminal ileum of the small intestine.
+
+**TNPSC Important Facts**
+
+* Pepsin digests proteins.
+* Hydrochloric acid provides the acidic medium in the stomach.
+* Mucus protects the stomach lining.
+* The stomach mixes food to form a semi-liquid material called chyme.
+
+### 1.6 Small Intestine
+
+The small intestine is the main site of chemical digestion and nutrient absorption.
+
+It has three major parts:
+
+1. Duodenum.
+2. Jejunum.
+3. Ileum.
+
+The duodenum receives bile from the liver through the biliary system and pancreatic juice from the pancreas.
+
+The jejunum and ileum absorb most nutrients from digested food.
+
+#### Intestinal Villi
+
+The inner lining of the small intestine contains numerous finger-like projections called villi.
+
+Each villus contains blood capillaries and a lymphatic vessel called a lacteal.
+
+**Functions of villi:**
+
+* Increase the surface area for absorption.
+* Absorb glucose and amino acids into blood capillaries.
+* Absorb most dietary fats into lymphatic vessels.
+
+**Important:** The large surface area of villi makes nutrient absorption efficient.
+
+### 1.7 Large Intestine
+
+The large intestine includes the caecum, colon and rectum.
+
+Its major functions are:
+
+* Absorption of remaining water and electrolytes.
+* Formation of faeces.
+* Temporary storage of faeces in the rectum.
+* Elimination of faeces through the anus.
+
+The large intestine contains beneficial microorganisms that contribute to intestinal health. Some intestinal bacteria produce vitamin K and certain B vitamins, although the amount available to the body varies.
+
+### 1.8 Associated Digestive Glands
+
+The major associated digestive glands are the salivary glands, liver and pancreas.
+
+#### Liver
+
+The liver is the largest internal gland in the human body.
+
+Important functions include:
+
+* Producing bile.
+* Processing absorbed nutrients.
+* Storing glycogen.
+* Helping regulate blood glucose.
+* Detoxifying or metabolizing various substances.
+* Producing several blood proteins.
+
+**Bile is produced by the liver and stored and concentrated in the gallbladder.**
+
+Bile contains bile salts that emulsify fats. Emulsification breaks large fat droplets into smaller droplets, increasing the surface area available for lipase action.
+
+**Important:** Bile contains no digestive enzyme.
+
+#### Pancreas
+
+The pancreas has both exocrine and endocrine functions.
+
+Its exocrine function involves secreting digestive enzymes and bicarbonate into the small intestine.
+
+Pancreatic juice contains:
+
+* Pancreatic amylase.
+* Pancreatic lipase.
+* Protease precursors, including trypsinogen.
+* Bicarbonate ions.
+
+Bicarbonate helps neutralize acidic chyme entering the duodenum from the stomach.
+
+The endocrine pancreas contains the islets of Langerhans, which release hormones such as insulin and glucagon.
+
+### 1.9 Digestive Enzymes
+
+| Enzyme             | Main Source                  | Substance Acted Upon  | Main Result                      |
+| ------------------ | ---------------------------- | --------------------- | -------------------------------- |
+| Salivary amylase   | Salivary glands              | Starch                | Smaller carbohydrates            |
+| Pepsin             | Stomach                      | Proteins              | Peptides                         |
+| Pancreatic amylase | Pancreas                     | Starch                | Smaller carbohydrates            |
+| Trypsin            | Activated in small intestine | Proteins and peptides | Smaller peptides                 |
+| Pancreatic lipase  | Pancreas                     | Triglycerides         | Fatty acids and monoglycerides   |
+| Maltase            | Small-intestinal lining      | Maltose               | Glucose                          |
+| Sucrase            | Small-intestinal lining      | Sucrose               | Glucose and fructose             |
+| Lactase            | Small-intestinal lining      | Lactose               | Glucose and galactose            |
+| Peptidases         | Small-intestinal lining      | Small peptides        | Amino acids and smaller peptides |
+
+### 1.10 Digestion of Carbohydrates, Proteins and Fats
+
+**Carbohydrates:** Digestion begins in the mouth through salivary amylase and continues in the small intestine. The final absorbable products include monosaccharides such as glucose, fructose and galactose.
+
+**Proteins:** Digestion begins mainly in the stomach through pepsin. Pancreatic and intestinal enzymes continue digestion in the small intestine. Amino acids and small peptides are absorbed.
+
+**Fats:** Bile salts emulsify fats. Pancreatic lipase then digests triglycerides into absorbable products, mainly fatty acids and monoglycerides. These are absorbed by intestinal cells and most long-chain dietary fats are transported initially through the lymphatic system.
+
+---
+
+## 2. HUMAN NUTRITION
+
+### 2.1 Definition
+
+Nutrition is the process by which organisms obtain food and utilize its nutrients for energy, growth, repair and maintenance.
+
+The major nutrients required by humans are:
+
+1. Carbohydrates.
+2. Proteins.
+3. Fats.
+4. Vitamins.
+5. Minerals.
+6. Water.
+
+Dietary fibre is also important for normal bowel function and digestive health.
+
+### 2.2 Carbohydrates
+
+Carbohydrates are an important source of energy.
+
+Examples of carbohydrate-rich foods include rice, wheat, millets, potatoes and fruits.
+
+Types of carbohydrates:
+
+* Monosaccharides: glucose, fructose and galactose.
+* Disaccharides: sucrose, lactose and maltose.
+* Polysaccharides: starch, glycogen and cellulose.
+
+**Important Facts**
+
+* Glucose is an important energy source for cells.
+* Starch is a major storage carbohydrate in plants.
+* Glycogen is a storage carbohydrate in humans and other animals.
+* Cellulose is a structural component of plant cell walls.
+* Humans cannot digest cellulose because they lack the enzyme cellulase.
+
+### 2.3 Proteins
+
+Proteins are required for growth, tissue repair, enzyme formation, hormone production and immune function.
+
+Proteins are made of amino acids.
+
+Sources include:
+
+* Pulses and legumes.
+* Milk and dairy products.
+* Eggs.
+* Fish.
+* Meat.
+* Soybeans and other protein-rich plant foods.
+
+Some amino acids cannot be synthesized in sufficient amounts by the human body and must be obtained from food. They are called essential amino acids.
+
+### 2.4 Fats
+
+Fats provide concentrated energy and help in the absorption of fat-soluble vitamins.
+
+Functions of fats:
+
+* Provide energy.
+* Form components of cell membranes.
+* Protect internal organs.
+* Help maintain body temperature.
+* Support the absorption of vitamins A, D, E and K.
+
+Dietary fat should include appropriate sources of unsaturated fats. Trans fats should be avoided as far as possible.
+
+### 2.5 Vitamins
+
+Vitamins are organic compounds required in small amounts for normal growth and metabolism.
+
+They are classified into two groups.
+
+**Fat-soluble vitamins:** A, D, E and K.
+
+**Water-soluble vitamins:** Vitamin C and the B-complex vitamins.
+
+| Vitamin     | Major Function                               | Deficiency Effect                                                             |
+| ----------- | -------------------------------------------- | ----------------------------------------------------------------------------- |
+| Vitamin A   | Vision and maintenance of epithelial tissues | Night blindness                                                               |
+| Vitamin B1  | Energy metabolism and nerve function         | Beriberi                                                                      |
+| Vitamin B2  | Energy metabolism                            | Deficiency may cause cracks at the corners of the mouth and other symptoms    |
+| Vitamin B3  | Energy metabolism                            | Pellagra                                                                      |
+| Vitamin B9  | DNA synthesis and red blood cell formation   | Megaloblastic anaemia                                                         |
+| Vitamin B12 | Nerve function and red blood cell formation  | Megaloblastic anaemia and possible nerve problems                             |
+| Vitamin C   | Collagen formation and wound healing         | Scurvy                                                                        |
+| Vitamin D   | Calcium absorption and bone health           | Rickets in children; osteomalacia in adults                                   |
+| Vitamin E   | Antioxidant function                         | Deficiency can cause neurological or muscle problems in certain circumstances |
+| Vitamin K   | Blood clotting                               | Increased bleeding tendency                                                   |
+
+**TNPSC Memory Tip:**
+A — Eyes; B1 — Beriberi; B3 — Pellagra; C — Scurvy; D — Rickets; K — Clotting.
+
+### 2.6 Minerals
+
+Minerals are inorganic nutrients required for body structure and physiological functions.
+
+| Mineral    | Function                            | Deficiency or Related Condition                                |
+| ---------- | ----------------------------------- | -------------------------------------------------------------- |
+| Calcium    | Bones, teeth, muscle contraction    | Weak bones and increased fracture risk                         |
+| Iron       | Haemoglobin formation               | Iron-deficiency anaemia                                        |
+| Iodine     | Thyroid hormone production          | Iodine-deficiency goitre                                       |
+| Phosphorus | Bones, teeth, ATP and nucleic acids | Deficiency is uncommon but can affect bones and muscles        |
+| Sodium     | Fluid balance and nerve function    | Severe deficiency can cause hyponatraemia                      |
+| Potassium  | Nerve impulses and muscle function  | Low levels can cause muscle weakness and heart rhythm problems |
+| Zinc       | Enzymes, growth and immune function | Deficiency can impair growth and wound healing                 |
+
+### 2.7 Balanced Diet
+
+A balanced diet provides adequate energy and essential nutrients in appropriate proportions for an individual's age, activity, health and physiological needs.
+
+A balanced diet generally includes:
+
+* Cereals and millets.
+* Pulses and other protein sources.
+* Vegetables.
+* Fruits.
+* Appropriate amounts of milk or alternatives.
+* Healthy fat sources.
+* Adequate water.
+
+No single food supplies every nutrient in the amounts required by the body.
+
+### 2.8 Malnutrition
+
+Malnutrition includes deficiencies, excesses or imbalances in energy and nutrient intake.
+
+Examples:
+
+* Undernutrition.
+* Protein-energy malnutrition.
+* Vitamin deficiencies.
+* Mineral deficiencies.
+* Overnutrition.
+
+Two commonly studied forms of severe childhood protein-energy malnutrition are:
+
+**Kwashiorkor:** Traditionally associated with severe protein deficiency, often with oedema. It usually develops in the context of inadequate overall nutrition.
+
+**Marasmus:** Severe wasting associated with prolonged deficiency of energy and other nutrients.
+
+These conditions require professional medical assessment and appropriate nutritional treatment.
+
+---
+
+## 3. HUMAN RESPIRATORY SYSTEM
+
+### 3.1 Definition
+
+The respiratory system enables the exchange of oxygen and carbon dioxide between the body and the external environment.
+
+Oxygen is used by cells during aerobic cellular respiration to release energy from nutrients. Carbon dioxide is produced during cellular metabolism and must be removed from the body.
+
+### 3.2 Parts of the Respiratory System
+
+The major structures are:
+
+1. Nose and nasal cavity.
+2. Pharynx.
+3. Larynx.
+4. Trachea.
+5. Bronchi.
+6. Bronchioles.
+7. Alveoli.
+8. Lungs.
+9. Diaphragm and other respiratory muscles.
+
+### 3.3 Nose and Nasal Cavity
+
+The nasal cavity:
+
+* Filters inhaled particles.
+* Warms incoming air.
+* Moistens incoming air.
+* Contains receptors involved in smell.
+
+Mucus and cilia help trap and remove particles from the respiratory passages.
+
+### 3.4 Pharynx and Larynx
+
+The pharynx acts as a passage for both food and air.
+
+The larynx contains the vocal cords and is involved in voice production.
+
+The epiglottis helps protect the airway during swallowing by directing food away from the laryngeal opening.
+
+### 3.5 Trachea and Bronchi
+
+The trachea is also called the windpipe.
+
+It contains C-shaped rings of cartilage that help prevent it from collapsing.
+
+The trachea divides into the right and left primary bronchi, which enter the lungs and branch into smaller airways.
+
+The bronchi divide repeatedly into bronchioles.
+
+### 3.6 Alveoli
+
+Alveoli are tiny air sacs located at the ends of respiratory bronchioles and alveolar ducts.
+
+They are the main sites of gas exchange in the lungs.
+
+Characteristics of alveoli:
+
+* Very thin walls.
+* Moist internal surfaces.
+* Extensive capillary networks.
+* Large total surface area.
+
+Oxygen diffuses from alveolar air into the blood. Carbon dioxide diffuses from the blood into the alveoli and is exhaled.
+
+**TNPSC Important Fact:** Alveoli are the primary sites of gaseous exchange in human lungs.
+
+### 3.7 Mechanism of Breathing
+
+Breathing consists of inspiration and expiration.
+
+#### Inspiration
+
+During quiet inspiration:
+
+1. The diaphragm contracts and moves downward.
+2. External intercostal muscles help raise the ribs.
+3. The volume of the thoracic cavity increases.
+4. Pressure inside the lungs decreases relative to atmospheric pressure.
+5. Air flows into the lungs.
+
+#### Expiration
+
+During quiet expiration:
+
+1. The diaphragm relaxes and moves upward.
+2. The rib cage returns towards its resting position.
+3. Thoracic volume decreases.
+4. Pressure inside the lungs rises relative to atmospheric pressure.
+5. Air flows out of the lungs.
+
+Quiet expiration is generally passive, whereas forced expiration uses additional muscles.
+
+### 3.8 Difference Between Breathing and Cellular Respiration
+
+| Breathing                                          | Cellular Respiration                                           |
+| -------------------------------------------------- | -------------------------------------------------------------- |
+| Physical movement of air into and out of the lungs | Biochemical process that releases usable energy from nutrients |
+| Involves respiratory muscles and airways           | Involves enzymes and cellular structures                       |
+| Includes inspiration and expiration                | May be aerobic or anaerobic                                    |
+| Does not itself produce ATP from glucose           | Produces ATP through metabolic pathways                        |
+
+### 3.9 Aerobic Cellular Respiration
+
+The overall simplified equation for aerobic respiration of glucose is:
+
+**Glucose + Oxygen → Carbon dioxide + Water + Energy (ATP)**
+
+Balanced chemical equation:
+
+**C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy**
+
+Important points:
+
+* Glycolysis occurs in the cytoplasm.
+* In eukaryotic cells, the citric acid cycle occurs in the mitochondrial matrix.
+* The electron transport chain is located in the inner mitochondrial membrane.
+* Oxygen serves as the final electron acceptor in the mitochondrial electron transport chain.
+
+### 3.10 Transport of Oxygen
+
+Most oxygen in human blood is transported bound to haemoglobin in red blood cells.
+
+A small amount is dissolved in plasma.
+
+Haemoglobin combines reversibly with oxygen to form oxyhaemoglobin.
+
+Oxygen is released to tissues according to their needs and local conditions.
+
+### 3.11 Transport of Carbon Dioxide
+
+Carbon dioxide is transported in the blood in three principal forms:
+
+1. Mainly as bicarbonate ions.
+2. Bound to proteins, including haemoglobin.
+3. Dissolved in plasma.
+
+Most carbon dioxide is transported as bicarbonate.
+
+In red blood cells, the enzyme carbonic anhydrase speeds up the conversion of carbon dioxide and water into carbonic acid, which dissociates into hydrogen ions and bicarbonate ions.
+
+### 3.12 Respiratory Rate and Lung Volumes
+
+Respiratory rate is the number of breaths taken per minute.
+
+It varies with age, physical activity, sleep, illness and other conditions.
+
+Important lung-volume terms:
+
+* **Tidal volume:** Air inhaled or exhaled during a normal quiet breath.
+* **Inspiratory reserve volume:** Additional air that can be inhaled after a normal inspiration.
+* **Expiratory reserve volume:** Additional air that can be exhaled after a normal expiration.
+* **Residual volume:** Air remaining in the lungs after maximal expiration.
+* **Vital capacity:** Maximum amount of air exhaled after a maximal inspiration.
+
+**Formula:**
+
+Vital Capacity = Tidal Volume + Inspiratory Reserve Volume + Expiratory Reserve Volume.
+
+Residual volume is not included in vital capacity.
+
+### 3.13 Common Respiratory Disorders
+
+**Asthma:** A condition involving inflammation and narrowing of the airways, which can cause wheezing, coughing and breathing difficulty.
+
+**Pneumonia:** An infection that inflames the air sacs of one or both lungs.
+
+**Tuberculosis:** An infectious disease caused by *Mycobacterium tuberculosis*. It most commonly affects the lungs but can affect other organs.
+
+**Emphysema:** A condition involving damage to alveolar walls and reduced efficiency of gas exchange. It is commonly associated with chronic obstructive pulmonary disease.
+
+**Important:** Smoking and exposure to harmful airborne pollutants increase the risk of several respiratory diseases.
+
+---
+
+# 4. TNPSC GROUP 2 — IMPORTANT ONE-LINE FACTS
+
+1. Digestion begins in the mouth.
+2. Salivary amylase begins starch digestion.
+3. Pepsin digests proteins in the stomach.
+4. Hydrochloric acid creates an acidic gastric environment.
+5. Bile is produced by the liver.
+6. Bile is stored and concentrated in the gallbladder.
+7. Bile salts help emulsify fats.
+8. The pancreas secretes digestive enzymes and bicarbonate.
+9. The small intestine is the major site of digestion and nutrient absorption.
+10. Villi increase the absorptive surface area of the small intestine.
+11. Lacteals are lymphatic vessels involved in the absorption of most long-chain dietary fats.
+12. The large intestine absorbs remaining water and electrolytes.
+13. Glycogen is a storage carbohydrate in humans.
+14. Cellulose is a structural component of plant cell walls.
+15. Vitamin A is important for normal vision.
+16. Vitamin B1 deficiency causes beriberi.
+17. Vitamin B3 deficiency causes pellagra.
+18. Vitamin C deficiency causes scurvy.
+19. Vitamin D deficiency can cause rickets in children.
+20. Vitamin K is important for normal blood clotting.
+21. Iron is required for haemoglobin synthesis.
+22. Iodine is required for thyroid hormone production.
+23. The trachea is supported by C-shaped cartilage rings.
+24. Alveoli are the primary sites of gas exchange in the lungs.
+25. The diaphragm is the major muscle of quiet inspiration.
+26. Haemoglobin transports most oxygen in the blood.
+27. Most carbon dioxide is transported as bicarbonate ions.
+28. Glycolysis occurs in the cytoplasm.
+29. The mitochondrial electron transport chain is located in the inner mitochondrial membrane.
+#
+## Part 2 — Quick Revision
+
+Before the TNPSC Group 2 examination, revise these key connections:
+
+* Starch digestion begins with salivary amylase.
+* Protein digestion begins mainly in the stomach through pepsin.
+* Bile is produced by the liver and stored in the gallbladder.
+* The small intestine is the major site of digestion and nutrient absorption.
+* Villi increase the absorptive surface area.
+* Vitamin B1 deficiency is associated with beriberi.
+* Vitamin C deficiency causes scurvy.
+* Vitamin D deficiency can cause rickets in children.
+* Iron is needed for haemoglobin formation.
+* Alveoli are the main sites of gas exchange.
+* The diaphragm is the major muscle of quiet inspiration.
+* Most oxygen is carried by haemoglobin.
+* Most carbon dioxide is transported as bicarbonate.
+* Glycolysis occurs in the cytoplasm.
+* Vital capacity excludes residual volume.
+
+# PART 3: BLOOD, CIRCULATORY SYSTEM, HUMAN HEART AND EXCRETION
+
+# CHAPTER 1: BLOOD
+
+## 1.1 Introduction to Blood
+
+Blood is a specialized fluid connective tissue that circulates throughout the human body. It transports oxygen, nutrients, hormones and waste products between different organs and tissues.
+
+Blood performs several essential functions necessary for maintaining life.
+
+### Major Functions of Blood
+
+1. **Transportation:** Carries oxygen from the lungs to body tissues.
+2. **Nutrient transport:** Carries absorbed nutrients to cells.
+3. **Waste removal:** Transports carbon dioxide and metabolic waste products to organs responsible for their elimination.
+4. **Hormone transport:** Carries hormones from endocrine glands to target organs.
+5. **Protection:** White blood cells help protect the body against infections.
+6. **Blood clotting:** Platelets and clotting proteins help prevent excessive bleeding.
+7. **Temperature regulation:** Distributes heat throughout the body.
+8. **pH regulation:** Helps maintain the body's acid–base balance.
+9. **Fluid balance:** Helps maintain the distribution of water between blood and tissues.
+
+Blood is slightly alkaline, with a normal arterial blood pH of approximately 7.35–7.45.
+
+An average adult has approximately 4.5–6 litres of blood, although the amount varies with body size and other factors.
+
+## 1.2 Composition of Blood
+
+Blood consists of two major components:
+
+1. Plasma.
+2. Formed elements.
+
+### A. Plasma
+
+Plasma is the liquid component of blood.
+
+It constitutes approximately 55% of blood volume under typical conditions.
+
+Plasma is mainly composed of water, together with proteins, electrolytes, nutrients, hormones and waste products.
+
+**Major components of plasma:**
+
+* Water.
+* Albumin.
+* Globulins.
+* Fibrinogen.
+* Electrolytes.
+* Glucose.
+* Amino acids.
+* Hormones.
+* Dissolved gases.
+* Metabolic waste products.
+
+#### Important Plasma Proteins
+
+**Albumin:**
+
+* Helps maintain the osmotic pressure of blood.
+* Contributes to fluid balance between blood and tissues.
+* Transports several substances.
+
+**Globulins:**
+
+* Include proteins involved in immunity.
+* Some globulins transport substances through the blood.
+
+**Fibrinogen:**
+
+* Plays an important role in blood clotting.
+* Is converted into fibrin during clot formation.
+
+**TNPSC Important Fact:** Plasma contains fibrinogen, whereas serum is the fluid remaining after blood has clotted and therefore lacks fibrinogen consumed during clotting.
+
+### B. Formed Elements
+
+The formed elements of blood are:
+
+1. Red blood cells.
+2. White blood cells.
+3. Platelets.
+
+These components perform different functions in the body.
+
+---
+
+## 1.3 Red Blood Cells (RBCs)
+
+Red blood cells are also called erythrocytes.
+
+Their primary function is to transport oxygen from the lungs to body tissues.
+
+### Characteristics of RBCs
+
+* Mature human RBCs normally lack a nucleus.
+* They contain haemoglobin.
+* They have a biconcave disc shape.
+* Their shape provides a large surface area relative to volume.
+* They are flexible enough to pass through narrow capillaries.
+* They are produced in red bone marrow.
+
+### Haemoglobin
+
+Haemoglobin is an iron-containing protein present in red blood cells.
+
+It binds oxygen reversibly and transports it through the bloodstream.
+
+Haemoglobin also contributes to the transport of carbon dioxide and the buffering of blood.
+
+**Important Facts**
+
+* RBCs are also called erythrocytes.
+* Haemoglobin contains iron.
+* Iron is essential for haemoglobin formation.
+* Mature human RBCs lack a nucleus.
+* The average lifespan of a circulating human RBC is approximately 120 days.
+* Old RBCs are removed mainly by macrophages in the spleen and liver.
+
+### Erythropoiesis
+
+Erythropoiesis is the process of red blood cell formation.
+
+In adults, it takes place mainly in red bone marrow.
+
+The hormone erythropoietin stimulates RBC production when oxygen delivery to tissues is insufficient. It is produced mainly by the kidneys.
+
+### Anaemia
+
+Anaemia is a condition in which the haemoglobin concentration or the number of healthy red blood cells is insufficient for normal oxygen delivery.
+
+Possible causes include:
+
+* Iron deficiency.
+* Vitamin B12 deficiency.
+* Folate deficiency.
+* Blood loss.
+* Certain inherited disorders.
+* Chronic diseases.
+
+**TNPSC Point:** Iron deficiency is a common cause of nutritional anaemia.
+
+---
+
+## 1.4 White Blood Cells (WBCs)
+
+White blood cells are also called leukocytes.
+
+Their main function is to defend the body against infections and other harmful agents.
+
+Unlike mature human RBCs, WBCs have nuclei.
+
+### Types of White Blood Cells
+
+The five major types of circulating white blood cells are:
+
+1. Neutrophils.
+2. Lymphocytes.
+3. Monocytes.
+4. Eosinophils.
+5. Basophils.
+
+### A. Neutrophils
+
+* Usually the most abundant type of circulating WBC in healthy adults.
+* Help defend against bacterial and fungal infections.
+* Can engulf microorganisms through phagocytosis.
+
+### B. Lymphocytes
+
+Lymphocytes include B cells, T cells and natural killer cells.
+
+**B lymphocytes:**
+
+* Can develop into plasma cells.
+* Plasma cells produce antibodies.
+
+**T lymphocytes:**
+
+* Participate in cell-mediated immunity.
+* Some directly attack infected cells.
+* Helper T cells coordinate immune responses.
+
+**Natural killer cells:**
+
+* Help destroy certain virus-infected cells and abnormal cells.
+
+### C. Monocytes
+
+* Circulate in blood.
+* Can enter tissues and differentiate into macrophages or related cells.
+* Participate in phagocytosis and immune responses.
+
+### D. Eosinophils
+
+* Participate in defence against certain parasites.
+* Are involved in allergic and inflammatory responses.
+
+### E. Basophils
+
+* Release substances such as histamine.
+* Participate in allergic and inflammatory reactions.
+
+### Important Comparison
+
+| WBC Type    | Major Function                                                     |
+| ----------- | ------------------------------------------------------------------ |
+| Neutrophils | Phagocytosis; defence against many bacterial and fungal infections |
+| Lymphocytes | Adaptive immunity and other immune functions                       |
+| Monocytes   | Phagocytosis and development into tissue immune cells              |
+| Eosinophils | Defence against certain parasites; allergic responses              |
+| Basophils   | Release mediators involved in inflammation and allergy             |
+
+**TNPSC Memory Tip:** Neutrophils, lymphocytes, monocytes, eosinophils and basophils are the five major types of circulating WBCs.
+
+---
+
+## 1.5 Platelets
+
+Platelets are also called thrombocytes.
+
+They are small cell fragments produced from large bone marrow cells called megakaryocytes.
+
+### Functions of Platelets
+
+1. Help form the initial platelet plug at an injured blood vessel.
+2. Participate in blood clotting.
+3. Release substances that support clot formation.
+4. Help maintain the integrity of damaged blood vessels.
+
+### Thrombocytopenia
+
+Thrombocytopenia is a condition involving a lower-than-normal platelet count.
+
+It can increase the risk of bleeding.
+
+### Blood Clotting
+
+Blood clotting, also called coagulation, prevents excessive blood loss following blood vessel injury.
+
+A simplified sequence is:
+
+1. A blood vessel is injured.
+2. Platelets adhere to the damaged area.
+3. Platelets aggregate to form a temporary plug.
+4. Clotting factors activate a cascade of reactions.
+5. Thrombin converts fibrinogen into fibrin.
+6. Fibrin forms a mesh that strengthens the clot.
+
+**TNPSC Important Fact:** Fibrinogen is a soluble plasma protein; fibrin forms the structural mesh of a blood clot.
+
+---
+
+# CHAPTER 2: BLOOD GROUPS
+
+## 2.1 ABO Blood Group System
+
+The ABO blood group system is based on the presence or absence of A and B antigens on red blood cells.
+
+The major blood groups are A, B, AB and O.
+
+| Blood Group | RBC Antigens            | Naturally Occurring Plasma Antibodies |
+| ----------- | ----------------------- | ------------------------------------- |
+| A           | A antigen               | Anti-B                                |
+| B           | B antigen               | Anti-A                                |
+| AB          | A and B antigens        | Neither anti-A nor anti-B             |
+| O           | Neither A nor B antigen | Anti-A and anti-B                     |
+
+This table describes the usual ABO pattern.
+
+Actual blood transfusions require compatibility testing and professional laboratory procedures.
+
+## 2.2 Rh Blood Group System
+
+The Rh blood group system contains several antigens. The D antigen is particularly important in routine blood grouping.
+
+* Rh-positive: D antigen is present.
+* Rh-negative: D antigen is absent.
+
+An Rh-negative person can develop anti-D antibodies after exposure to Rh-positive red blood cells.
+
+Rh incompatibility can be medically important during pregnancy.
+
+### Rh Incompatibility in Pregnancy
+
+If an Rh-negative pregnant person carries an Rh-positive fetus, fetal red blood cells entering the maternal circulation may trigger the production of anti-D antibodies.
+
+In a later pregnancy, these antibodies can cross the placenta and destroy fetal red blood cells if the fetus is Rh-positive.
+
+Appropriate medical care, including anti-D immunoglobulin when indicated, can prevent many cases of Rh sensitization.
+
+### Important Facts
+
+* ABO is a major blood group system.
+* The D antigen is important in the Rh system.
+* Blood transfusions require compatibility testing.
+* Anti-D immunoglobulin can help prevent Rh sensitization in appropriate clinical circumstances.
+
+---
+
+# CHAPTER 3: HUMAN CIRCULATORY SYSTEM
+
+## 3.1 Introduction
+
+The human circulatory system is also called the cardiovascular system.
+
+It consists mainly of:
+
+1. Heart.
+2. Blood.
+3. Blood vessels.
+
+Its main function is to circulate blood throughout the body.
+
+### Major Functions
+
+* Delivers oxygen to tissues.
+* Transports nutrients.
+* Carries hormones.
+* Removes carbon dioxide.
+* Transports metabolic waste.
+* Supports immunity.
+* Helps regulate body temperature.
+* Maintains fluid balance.
+
+Humans have a closed circulatory system because blood normally remains within blood vessels.
+
+Humans also have a double circulatory system because blood passes through the heart twice during one complete circuit through the pulmonary and systemic circulations.
+
+---
+
+## 3.2 Types of Blood Vessels
+
+The three major types of blood vessels are arteries, veins and capillaries.
+
+### A. Arteries
+
+Arteries carry blood away from the heart.
+
+Characteristics:
+
+* Usually have thick, elastic and muscular walls.
+* Carry blood under relatively high pressure.
+* Have a relatively narrow lumen compared with many veins.
+* Normally do not contain valves along their main length.
+
+Most arteries carry oxygen-rich blood, but the pulmonary arteries carry oxygen-poor blood from the right ventricle to the lungs.
+
+### B. Veins
+
+Veins carry blood towards the heart.
+
+Characteristics:
+
+* Usually have thinner walls than comparable arteries.
+* Often have a larger lumen.
+* Many contain valves that help prevent backflow.
+* Carry blood under relatively low pressure.
+
+Most veins carry oxygen-poor blood, but the pulmonary veins carry oxygen-rich blood from the lungs to the left atrium.
+
+### C. Capillaries
+
+Capillaries are microscopic blood vessels connecting the arterial and venous sides of the circulation.
+
+Their walls are extremely thin, generally consisting of a single layer of endothelial cells.
+
+Functions:
+
+* Exchange oxygen and carbon dioxide.
+* Exchange nutrients and waste products.
+* Allow movement of water and certain dissolved substances between blood and tissues.
+
+### Comparison of Blood Vessels
+
+| Feature       | Arteries                           | Veins                | Capillaries                      |
+| ------------- | ---------------------------------- | -------------------- | -------------------------------- |
+| Direction     | Away from heart                    | Towards heart        | Connect small arteries and veins |
+| Wall          | Thick and muscular                 | Thinner              | Very thin                        |
+| Pressure      | Relatively high                    | Relatively low       | Low compared with arteries       |
+| Valves        | Generally absent along main length | Common in many veins | Absent                           |
+| Main function | Distribution of blood              | Return of blood      | Exchange of substances           |
+
+**Remember:** Arteries and veins are classified by the direction in which blood travels, not by oxygen content.
+
+---
+
+# CHAPTER 4: HUMAN HEART
+
+## 4.1 Structure of the Heart
+
+The human heart is a muscular organ located in the thoracic cavity between the lungs, slightly towards the left.
+
+It is enclosed by a protective covering called the pericardium.
+
+The heart has four chambers:
+
+1. Right atrium.
+2. Right ventricle.
+3. Left atrium.
+4. Left ventricle.
+
+### Right Atrium
+
+* Receives oxygen-poor blood from the body.
+* Blood enters mainly through the superior and inferior venae cavae.
+* Also receives blood from the coronary circulation through the coronary sinus.
+
+### Right Ventricle
+
+* Receives blood from the right atrium.
+* Pumps oxygen-poor blood to the lungs through the pulmonary trunk and pulmonary arteries.
+
+### Left Atrium
+
+* Receives oxygen-rich blood from the lungs through the pulmonary veins.
+
+### Left Ventricle
+
+* Receives blood from the left atrium.
+* Pumps oxygen-rich blood into the aorta.
+* Has the thickest muscular wall among the four chambers because it pumps blood throughout the systemic circulation.
+
+## 4.2 Heart Valves
+
+The heart contains valves that help maintain one-way blood flow.
+
+The four major valves are:
+
+1. Tricuspid valve.
+2. Pulmonary valve.
+3. Mitral valve.
+4. Aortic valve.
+
+### Tricuspid Valve
+
+Located between the right atrium and right ventricle.
+
+It helps prevent backflow into the right atrium when the right ventricle contracts.
+
+### Pulmonary Valve
+
+Located between the right ventricle and pulmonary trunk.
+
+It prevents backflow from the pulmonary trunk into the right ventricle.
+
+### Mitral Valve
+
+Also called the bicuspid valve.
+
+Located between the left atrium and left ventricle.
+
+### Aortic Valve
+
+Located between the left ventricle and aorta.
+
+It prevents backflow from the aorta into the left ventricle.
+
+### Important Facts
+
+* Tricuspid valve: right atrioventricular valve.
+* Mitral valve: left atrioventricular valve.
+* Pulmonary and aortic valves are semilunar valves.
+* Heart valves help maintain one-way blood flow.
+
+---
+
+## 4.3 Pathway of Blood Through the Heart
+
+The pathway of blood flow is extremely important for TNPSC examinations.
+
+**Correct sequence:**
+
+Body tissues
+↓
+Superior and inferior venae cavae
+↓
+Right atrium
+↓
+Tricuspid valve
+↓
+Right ventricle
+↓
+Pulmonary valve
+↓
+Pulmonary trunk and pulmonary arteries
+↓
+Lungs
+↓
+Pulmonary veins
+↓
+Left atrium
+↓
+Mitral valve
+↓
+Left ventricle
+↓
+Aortic valve
+↓
+Aorta
+↓
+Body tissues
+
+**TNPSC Exam Tip:** Practise this sequence until you can recall it without looking at the notes.
+
+---
+
+## 4.4 Double Circulation
+
+Double circulation means that blood passes through the heart twice during one complete circuit.
+
+It consists of pulmonary circulation and systemic circulation.
+
+### A. Pulmonary Circulation
+
+Pulmonary circulation carries blood between the heart and lungs.
+
+Sequence:
+
+Right ventricle → Pulmonary arteries → Lung capillaries → Pulmonary veins → Left atrium.
+
+Functions:
+
+* Delivers oxygen-poor blood to the lungs.
+* Allows carbon dioxide to leave the blood.
+* Allows oxygen to enter the blood.
+* Returns oxygen-rich blood to the heart.
+
+### B. Systemic Circulation
+
+Systemic circulation carries blood between the heart and the rest of the body.
+
+Sequence:
+
+Left ventricle → Aorta → Body tissues → Venae cavae → Right atrium.
+
+Functions:
+
+* Supplies oxygen and nutrients to body tissues.
+* Collects carbon dioxide and other waste products.
+* Returns blood to the heart.
+
+### Advantages of Double Circulation
+
+* Helps maintain efficient oxygen delivery.
+* Keeps pulmonary and systemic circulation functionally separate.
+* Allows systemic blood to be pumped at a pressure suitable for body tissues.
+
+---
+
+## 4.5 Cardiac Cycle
+
+The cardiac cycle refers to the sequence of events occurring during one heartbeat.
+
+It includes atrial contraction, ventricular contraction and relaxation.
+
+### Atrial Systole
+
+The atria contract and push blood into the ventricles.
+
+### Ventricular Systole
+
+The ventricles contract.
+
+* The right ventricle pumps blood towards the lungs.
+* The left ventricle pumps blood into the aorta.
+
+### Diastole
+
+The heart muscle relaxes, allowing the chambers to fill with blood.
+
+Atrial and ventricular relaxation occur during the cardiac cycle.
+
+### Heart Sounds
+
+The two main heart sounds are commonly described as “lub” and “dub.”
+
+* **First heart sound (S1):** Mainly associated with closure of the mitral and tricuspid valves.
+* **Second heart sound (S2):** Mainly associated with closure of the aortic and pulmonary valves.
+
+---
+
+## 4.6 Heart Rate and Cardiac Output
+
+Heart rate is the number of heartbeats per minute.
+
+Cardiac output is the volume of blood pumped by one ventricle per minute.
+
+**Formula:**
+
+Cardiac Output = Heart Rate × Stroke Volume.
+
+For example, if the heart rate is 70 beats per minute and stroke volume is 70 mL per beat:
+
+Cardiac output = 70 × 70
+
+Cardiac output = 4,900 mL/minute
+
+Therefore, cardiac output is approximately 4.9 litres per minute.
+
+This is an illustrative calculation; actual cardiac output varies with the person's condition and activity.
+
+### Pulse
+
+The pulse is the rhythmic expansion of an artery caused by pressure waves generated by heart contractions.
+
+The pulse rate generally corresponds closely to heart rate when the rhythm is regular.
+
+---
+
+## 4.7 Electrical Conduction System of the Heart
+
+The heartbeat is coordinated by specialized cardiac tissue.
+
+Major components include:
+
+1. Sinoatrial node.
+2. Atrioventricular node.
+3. Atrioventricular bundle.
+4. Right and left bundle branches.
+5. Purkinje fibres.
+
+### Sinoatrial Node
+
+The sinoatrial node, or SA node, is the normal pacemaker of the heart.
+
+It initiates electrical impulses that normally determine the heart's rhythm.
+
+### Atrioventricular Node
+
+The atrioventricular node, or AV node, receives impulses from the atria and briefly delays their transmission before they travel towards the ventricles.
+
+### Bundle of His and Purkinje Fibres
+
+These structures conduct electrical impulses through the ventricles and coordinate ventricular contraction.
+
+**TNPSC Important Fact:** The SA node is the normal pacemaker of the human heart.
+
+---
+
+# CHAPTER 5: BLOOD PRESSURE AND COMMON CARDIOVASCULAR CONDITIONS
+
+## 5.1 Blood Pressure
+
+Blood pressure is the pressure exerted by circulating blood on the walls of blood vessels.
+
+It is commonly measured using two values.
+
+### Systolic Pressure
+
+The pressure during ventricular contraction.
+
+### Diastolic Pressure
+
+The pressure during ventricular relaxation.
+
+Blood pressure is commonly expressed in millimetres of mercury (mmHg).
+
+A reading of 120/80 mmHg is often used as a familiar reference example, but normal and abnormal categories depend on clinical guidelines, measurement conditions and individual circumstances.
+
+## 5.2 Hypertension
+
+Hypertension is persistently elevated blood pressure.
+
+Risk factors may include:
+
+* High salt intake.
+* Physical inactivity.
+* Excessive body weight.
+* Family history.
+* Increasing age.
+* Certain kidney and endocrine conditions.
+
+Long-term uncontrolled hypertension increases the risk of cardiovascular disease, stroke and kidney damage.
+
+## 5.3 Atherosclerosis
+
+Atherosclerosis is the accumulation of plaques containing lipids, inflammatory cells and other materials within the walls of arteries.
+
+It can narrow arteries and reduce blood flow.
+
+It is associated with coronary artery disease and some forms of stroke.
+
+## 5.4 Coronary Artery Disease
+
+The coronary arteries supply oxygen-rich blood to the heart muscle.
+
+Coronary artery disease develops when these arteries become narrowed or obstructed, commonly because of atherosclerosis.
+
+Reduced blood supply to the heart muscle can cause angina.
+
+A heart attack occurs when blood flow to part of the heart muscle is severely reduced or blocked, causing injury to the tissue.
+
+## 5.5 Stroke
+
+A stroke occurs when part of the brain is damaged because its blood supply is interrupted or because bleeding occurs within or around the brain.
+
+Major types include:
+
+* Ischaemic stroke.
+* Haemorrhagic stroke.
+
+Stroke is a medical emergency.
+
+## 5.6 Lymphatic System
+
+The lymphatic system consists of lymph, lymphatic vessels, lymph nodes and lymphatic organs.
+
+### Functions
+
+* Returns excess tissue fluid to the bloodstream.
+* Transports certain dietary fats from the small intestine.
+* Supports immune defence.
+* Provides sites for immune-cell activation.
+
+### Lymph
+
+Lymph is a fluid that flows through lymphatic vessels.
+
+It is formed from tissue fluid entering lymphatic capillaries.
+
+### Lymph Nodes
+
+Lymph nodes filter lymph and contain immune cells that help detect and respond to pathogens.
+
+**TNPSC Point:** The lymphatic system helps maintain fluid balance and supports immunity.
+
+---
+
+# CHAPTER 6: EXCRETORY SYSTEM
+
+## 6.1 Introduction to Excretion
+
+Excretion is the process of removing metabolic waste products from the body.
+
+Examples of metabolic waste include:
+
+* Urea.
+* Carbon dioxide.
+* Excess water.
+* Excess salts.
+* Certain metabolic by-products.
+
+Excretion is different from egestion.
+
+**Excretion:** Removal of metabolic waste produced by the body's cells.
+
+**Egestion:** Removal of undigested food from the digestive tract as faeces.
+
+### Major Excretory Organs
+
+**Kidneys:** Remove nitrogenous wastes and help regulate water, electrolytes and acid–base balance.
+
+**Lungs:** Remove carbon dioxide and water vapour.
+
+**Skin:** Sweat glands remove water, salts and small amounts of other substances.
+
+**Liver:** Processes many substances, converts ammonia into urea and helps metabolize or eliminate various compounds through bile.
+
+---
+
+## 6.2 Human Urinary System
+
+The human urinary system consists of:
+
+1. Two kidneys.
+2. Two ureters.
+3. Urinary bladder.
+4. Urethra.
+
+### Kidneys
+
+The kidneys are bean-shaped organs located towards the back of the abdominal cavity, one on each side of the vertebral column.
+
+Major functions:
+
+* Filter blood plasma.
+* Excrete urea and other waste products.
+* Regulate water balance.
+* Regulate electrolyte concentrations.
+* Help maintain blood pH.
+* Participate in blood pressure regulation.
+* Produce erythropoietin.
+* Activate vitamin D into its biologically active form.
+
+### Ureters
+
+The ureters carry urine from the kidneys to the urinary bladder.
+
+They use smooth-muscle contractions to move urine.
+
+### Urinary Bladder
+
+The urinary bladder temporarily stores urine.
+
+Its muscular wall contracts during urination.
+
+### Urethra
+
+The urethra carries urine from the bladder to the outside of the body.
+
+---
+
+# CHAPTER 7: STRUCTURE OF THE KIDNEY
+
+## 7.1 External Structure
+
+Each kidney has an outer covering and internal regions.
+
+The main internal regions are:
+
+1. Renal cortex.
+2. Renal medulla.
+3. Renal pelvis.
+
+### Renal Cortex
+
+The renal cortex is the outer region of the kidney.
+
+It contains renal corpuscles and parts of the kidney tubules.
+
+### Renal Medulla
+
+The renal medulla is the inner region.
+
+It contains structures such as loops of Henle and collecting ducts, which contribute to the formation of concentrated or dilute urine.
+
+### Renal Pelvis
+
+The renal pelvis collects urine and directs it into the ureter.
+
+---
+
+## 7.2 Nephron
+
+The nephron is the structural and functional unit of the kidney.
+
+Each nephron filters blood and modifies the filtrate to form urine.
+
+A nephron consists of:
+
+1. Renal corpuscle.
+2. Renal tubule.
+
+### Renal Corpuscle
+
+The renal corpuscle consists of:
+
+* Glomerulus.
+* Bowman's capsule.
+
+**Glomerulus:** A network of capillaries where blood filtration begins.
+
+**Bowman's capsule:** A cup-shaped structure surrounding the glomerulus that receives the filtrate.
+
+### Renal Tubule
+
+The renal tubule consists of:
+
+1. Proximal convoluted tubule.
+2. Loop of Henle.
+3. Distal convoluted tubule.
+
+The collecting ducts receive fluid from multiple nephrons and carry it towards the renal pelvis.
+
+### Important Facts
+
+* Nephron is the functional unit of the kidney.
+* Glomerular filtration occurs in the renal corpuscle.
+* The proximal convoluted tubule reabsorbs much of the filtered water and solutes.
+* The loop of Henle helps establish the medullary concentration gradient.
+* The distal nephron contributes to electrolyte and acid–base regulation.
+* Collecting ducts contribute to final urine concentration.
+
+---
+
+# CHAPTER 8: FORMATION OF URINE
+
+Urine formation involves three major processes:
+
+1. Glomerular filtration.
+2. Selective tubular reabsorption.
+3. Tubular secretion.
+
+## 8.1 Glomerular Filtration
+
+Blood enters the glomerulus through the afferent arteriole.
+
+Pressure drives water and small dissolved substances through the filtration barrier into Bowman's capsule.
+
+Normally, blood cells and most large plasma proteins remain in the bloodstream.
+
+The fluid formed is called glomerular filtrate.
+
+It contains water, electrolytes, glucose, amino acids and nitrogenous waste products, among other small molecules.
+
+## 8.2 Selective Tubular Reabsorption
+
+During tubular reabsorption, useful substances move from the tubular fluid back into the blood.
+
+These substances include:
+
+* Glucose.
+* Amino acids.
+* Water.
+* Sodium.
+* Bicarbonate.
+* Other required ions.
+
+Under normal conditions, nearly all filtered glucose is reabsorbed when the filtered load is within the kidneys' reabsorptive capacity.
+
+## 8.3 Tubular Secretion
+
+During tubular secretion, certain substances move from the blood into the tubular fluid.
+
+These may include:
+
+* Hydrogen ions.
+* Potassium ions.
+* Ammonium.
+* Certain drugs and metabolites.
+
+Secretion helps regulate acid–base balance, potassium balance and the elimination of certain substances.
+
+## 8.4 Concentration of Urine
+
+The kidneys regulate how much water is retained or excreted.
+
+The loop of Henle and collecting ducts contribute to the formation of concentrated urine.
+
+Antidiuretic hormone (ADH), also called vasopressin, increases water permeability in parts of the collecting ducts, helping the body conserve water.
+
+When ADH activity is high, more water is generally reabsorbed and urine becomes more concentrated.
+
+When ADH activity is low, less water is reabsorbed in the collecting ducts and urine is generally more dilute.
+
+---
+
+# CHAPTER 9: NITROGENOUS WASTE PRODUCTS
+
+Nitrogenous wastes arise mainly from the metabolism of proteins and nucleic acids.
+
+The major nitrogenous excretory products studied in biology are ammonia, urea and uric acid.
+
+## 9.1 Ammonia
+
+Ammonia is highly toxic, especially when it accumulates in body fluids.
+
+Many aquatic animals excrete ammonia directly because water is readily available for dilution.
+
+Such animals are called ammonotelic animals.
+
+Examples include many bony fishes and aquatic invertebrates.
+
+## 9.2 Urea
+
+Urea is produced mainly in the liver through the urea cycle.
+
+The process converts toxic ammonia into a less toxic, water-soluble compound that can be transported in blood to the kidneys.
+
+Humans are ureotelic animals because urea is the major nitrogenous waste excreted in urine.
+
+Examples of ureotelic animals include humans and many other mammals.
+
+## 9.3 Uric Acid
+
+Uric acid is relatively poorly soluble in water.
+
+Its excretion requires comparatively little water.
+
+Birds, many reptiles and insects are commonly described as uricotelic.
+
+### Comparison
+
+| Waste Product | Relative Toxicity                             | Water Requirement for Excretion | Common Examples                  |
+| ------------- | --------------------------------------------- | ------------------------------- | -------------------------------- |
+| Ammonia       | High                                          | High                            | Many aquatic animals             |
+| Urea          | Lower than ammonia                            | Moderate                        | Mammals, including humans        |
+| Uric acid     | Relatively low at normal excretory conditions | Low                             | Birds, many reptiles and insects |
+
+**TNPSC Memory Tip:**
+
+* Ammonotelic — ammonia.
+* Ureotelic — urea.
+* Uricotelic — uric acid.
+
+---
+
+# CHAPTER 10: HORMONAL REGULATION OF KIDNEY FUNCTION
+
+## 10.1 Antidiuretic Hormone (ADH)
+
+ADH is synthesized in the hypothalamus and released into the bloodstream from the posterior pituitary.
+
+Its major kidney-related function is to increase water reabsorption in the collecting ducts.
+
+When the body needs to conserve water, ADH secretion generally increases.
+
+## 10.2 Aldosterone
+
+Aldosterone is produced by the adrenal cortex.
+
+It acts on parts of the distal nephron to increase sodium reabsorption and promote potassium secretion.
+
+Water retention can increase when sodium is retained, depending on the body's overall physiological state.
+
+## 10.3 Renin–Angiotensin–Aldosterone System
+
+The renin–angiotensin–aldosterone system, or RAAS, helps regulate blood pressure, blood volume and sodium balance.
+
+A simplified sequence is:
+
+1. The kidneys release renin in response to certain physiological signals.
+2. Renin acts on angiotensinogen to produce angiotensin I.
+3. Angiotensin-converting enzyme helps convert angiotensin I into angiotensin II.
+4. Angiotensin II constricts blood vessels and stimulates aldosterone release.
+5. Aldosterone promotes sodium reabsorption in the kidneys.
+
+Together, these mechanisms help maintain blood pressure and fluid balance.
+
+## 10.4 Atrial Natriuretic Peptide
+
+Atrial natriuretic peptide, or ANP, is released by the atria of the heart in response to increased stretching.
+
+It promotes sodium excretion and can oppose certain actions of RAAS.
+
+It contributes to the regulation of blood volume and blood pressure.
+
+---
+
+# CHAPTER 11: COMMON URINARY SYSTEM DISORDERS
+
+## 11.1 Kidney Stones
+
+Kidney stones are hard deposits that form from minerals and salts in the urinary system.
+
+Their symptoms may include severe pain, blood in urine or urinary problems.
+
+Risk factors depend on stone type and can include inadequate fluid intake and certain metabolic conditions.
+
+## 11.2 Urinary Tract Infection
+
+A urinary tract infection, or UTI, can affect the bladder, urethra or kidneys.
+
+Common symptoms may include painful urination, frequent urination and lower abdominal discomfort.
+
+Kidney infection can cause fever and back or flank pain and requires prompt medical evaluation.
+
+## 11.3 Nephritis
+
+Nephritis refers to inflammation involving kidney tissues.
+
+Depending on the type, it can affect filtration and kidney function.
+
+## 11.4 Renal Failure
+
+Renal failure occurs when the kidneys cannot adequately perform their functions.
+
+It can cause the accumulation of waste products and disturbances in fluid, electrolyte and acid–base balance.
+
+Severe kidney failure may require dialysis or kidney transplantation.
+
+## 11.5 Dialysis
+
+Dialysis is a treatment that removes waste products and excess fluid from the blood when the kidneys cannot adequately do so.
+
+Two main types are:
+
+**Haemodialysis:** Blood passes through a dialysis machine containing a membrane that allows selected substances to move between blood and dialysis fluid.
+
+**Peritoneal dialysis:** The peritoneal membrane inside the abdomen acts as the exchange membrane. Dialysis fluid is introduced into the abdominal cavity and later drained.
+
+Dialysis supports kidney function but does not reproduce every function of healthy kidneys.
+
+## 11.6 Artificial Kidney
+
+An artificial kidney, in the context of haemodialysis, is a device that removes selected waste products and excess water from the blood.
+
+It uses a semipermeable membrane and dialysis fluid to facilitate exchange.
+
+**TNPSC Point:** Dialysis is used when the kidneys cannot adequately remove waste products and excess fluid.
+
+---
+
+# CHAPTER 12: IMPORTANT COMPARISONS
+
+## 12.1 RBCs, WBCs and Platelets
+
+| Feature          | RBCs                        | WBCs                                          | Platelets                          |
+| ---------------- | --------------------------- | --------------------------------------------- | ---------------------------------- |
+| Full name        | Red blood cells             | White blood cells                             | Platelets                          |
+| Alternative name | Erythrocytes                | Leukocytes                                    | Thrombocytes                       |
+| Main function    | Oxygen transport            | Immune defence                                | Blood clotting                     |
+| Nucleus          | Absent in mature human RBCs | Present                                       | Absent; cell fragments             |
+| Formation        | Red bone marrow             | Mainly bone marrow; maturation varies by type | From megakaryocytes in bone marrow |
+
+## 12.2 Pulmonary and Systemic Circulation
+
+| Feature       | Pulmonary Circulation   | Systemic Circulation                |
+| ------------- | ----------------------- | ----------------------------------- |
+| Route         | Heart to lungs and back | Heart to body tissues and back      |
+| Begins at     | Right ventricle         | Left ventricle                      |
+| Returns to    | Left atrium             | Right atrium                        |
+| Main function | Gas exchange            | Supplies tissues and collects waste |
+
+## 12.3 Arteries and Veins
+
+| Feature                            | Arteries                           | Veins                 |
+| ---------------------------------- | ---------------------------------- | --------------------- |
+| Direction of blood flow            | Away from heart                    | Towards heart         |
+| Typical pressure                   | Higher                             | Lower                 |
+| Wall                               | Thicker and more muscular          | Thinner               |
+| Valves                             | Generally absent along main length | Present in many veins |
+| Example carrying oxygen-poor blood | Pulmonary artery                   | Vena cava             |
+
+## 12.4 Excretion and Egestion
+
+| Excretion                                  | Egestion                                           |
+| ------------------------------------------ | -------------------------------------------------- |
+| Removes metabolic wastes                   | Removes undigested food                            |
+| Involves kidneys, lungs and other organs   | Involves the digestive tract                       |
+| Urea is an example of an excretory product | Faeces contain undigested material and other waste |
+
+---
+

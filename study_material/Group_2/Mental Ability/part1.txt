@@ -1,0 +1,1087 @@
+TNPSC GROUP 2 – MENTAL ABILITY
+TOPIC 1: LOGICAL REASONING
+
+1. INTRODUCTION
+
+Logical Reasoning is the ability to think clearly, analyze information, identify relationships, and arrive at a valid conclusion. It tests a person's ability to solve problems using logic rather than assumptions.
+
+Logical reasoning questions are commonly based on statements, conclusions, assumptions, arguments, and logical relationships.
+
+2. TYPES OF LOGICAL REASONING
+
+A. Statement and Conclusion
+
+A statement provides certain information. A conclusion is an inference that logically follows from the given statement.
+
+Example:
+
+Statement: All doctors are educated. Ravi is a doctor.
+
+Conclusion: Ravi is educated.
+
+Explanation:
+The statement says that every doctor is educated. Since Ravi is a doctor, he must be educated.
+
+Answer: The conclusion follows.
+
+B. Statement and Assumption
+
+An assumption is an idea accepted as true without being directly stated.
+
+Example:
+
+Statement: The government introduced free bus passes for school students.
+
+Assumption: Students need transportation to attend school.
+
+Explanation:
+The policy is intended to help students travel to school. Therefore, the assumption is reasonable.
+
+C. Cause and Effect
+
+A cause is an event that produces a result. An effect is the result of an event.
+
+Example:
+
+Statement 1: Heavy rainfall occurred throughout the night.
+Statement 2: Several roads were flooded the next morning.
+
+Explanation:
+Heavy rainfall can cause flooding.
+
+Answer: Statement 1 is a possible cause of Statement 2.
+
+D. Logical Deduction
+
+Logical deduction uses general rules and specific facts to reach a conclusion.
+
+Example:
+
+All squares are rectangles.
+All rectangles are quadrilaterals.
+
+Conclusion: All squares are quadrilaterals.
+
+Answer: The conclusion follows logically.
+
+3. RULES FOR SOLVING LOGICAL REASONING QUESTIONS
+
+4. Read the statement carefully.
+
+5. Identify the facts provided.
+
+6. Do not introduce information that is not given.
+
+7. Distinguish between facts and assumptions.
+
+8. Check whether the conclusion necessarily follows.
+
+9. Eliminate options that contradict the statement.
+
+10. Choose the answer supported by the available information.
+
+11. IMPORTANT EXAMPLES
+
+Example 1:
+
+Statements:
+All cats are animals.
+All animals need food.
+
+Conclusion:
+All cats need food.
+
+Answer: The conclusion follows.
+
+Example 2:
+
+Statements:
+Some students are athletes.
+All athletes are physically active.
+
+Conclusion:
+Some students are physically active.
+
+Answer: The conclusion follows.
+
+Example 3:
+
+Statement:
+The school library extended its working hours during examination week.
+
+Possible assumption:
+Students need additional time to study.
+
+Answer: The assumption is reasonable.
+
+Example 4:
+
+Statements:
+All pens are stationery items.
+Some stationery items are expensive.
+
+Conclusion:
+All pens are expensive.
+
+Answer: The conclusion does not follow.
+
+Explanation:
+The statements do not establish that pens are expensive.
+
+5. PRACTICE QUESTIONS
+
+Question 1:
+Statements:
+All roses are flowers.
+All flowers are plants.
+
+Conclusion:
+All roses are plants.
+
+Options:
+A) Conclusion follows
+B) Conclusion does not follow
+C) Both statements are false
+D) Insufficient information
+
+Answer: A
+
+Question 2:
+Statements:
+Some teachers are writers.
+All writers are creative.
+
+Conclusion:
+Some teachers are creative.
+
+Options:
+A) Conclusion follows
+B) Conclusion does not follow
+C) All teachers are writers
+D) No teacher is creative
+
+Answer: A
+
+Question 3:
+Statement:
+The city introduced additional buses on a busy route.
+
+Possible assumption:
+The existing bus service may not have been sufficient.
+
+Options:
+A) The assumption is reasonable
+B) The assumption is impossible
+C) Every passenger owns a car
+D) The city has no buses
+
+Answer: A
+
+Question 4:
+Statements:
+All mangoes are fruits.
+No fruit is a vehicle.
+
+Conclusion:
+No mango is a vehicle.
+
+Options:
+A) Conclusion follows
+B) Conclusion does not follow
+C) All vehicles are mangoes
+D) Insufficient information
+
+Answer: A
+
+Question 5:
+Statements:
+Some books are novels.
+All novels are fictional works.
+
+Conclusion:
+Some books are fictional works.
+
+Options:
+A) Conclusion follows
+B) Conclusion does not follow
+C) All books are novels
+D) No book is fictional
+
+Answer: A
+
+6. EXAM TIPS
+
+7. Focus only on the information provided.
+
+8. Avoid conclusions based on personal knowledge.
+
+9. In syllogism questions, identify universal and particular statements.
+
+10. In cause-and-effect questions, distinguish actual evidence from mere possibility.
+
+11. Practise different question patterns regularly.
+
+CONCLUSION
+
+Logical Reasoning improves the ability to evaluate statements, identify valid conclusions, and make decisions based on facts. Regular practice helps candidates solve TNPSC Mental Ability questions accurately.
+
+
+சரி! உன்னுடைய **TNPSC Group 2 – Mental Ability → Logical Reasoning** topic-க்காக 50 Hard-Level Practice Questions தயாரித்திருக்கிறேன். உன்னுடைய dataset-ல் நேரடியாக paste பண்ணிக்கொள்ளும் வகையில் English-ல் கொடுத்திருக்கிறேன்.
+
+இந்த 50 questions-லும் Statement and Conclusion, Syllogism, Assumptions, Cause and Effect, Assertion and Reason, Statement and Argument, Logical Deduction போன்ற mixed types இருக்கும். ஒவ்வொரு கேள்விக்கும் 4 options மற்றும் சரியான answer கொடுத்திருக்கிறேன்.
+
+TNPSC GROUP 2 – MENTAL ABILITY
+TOPIC: LOGICAL REASONING
+LEVEL: HARD
+TOTAL QUESTIONS: 50
+
+SECTION A: STATEMENT AND CONCLUSION
+
+Question 1:
+Statements:
+All researchers are analytical thinkers.
+Some analytical thinkers are writers.
+No writer is careless.
+
+Conclusions:
+I. Some analytical thinkers are not careless.
+II. All researchers are writers.
+III. Some writers are analytical thinkers.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) Only II and III follow
+
+Answer: C
+
+Question 2:
+Statements:
+All metals conduct electricity.
+Some conductors are expensive.
+No expensive object is disposable.
+
+Conclusions:
+I. Some conductors are not disposable.
+II. All metals are expensive.
+III. Some expensive objects are conductors.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) All follow
+
+Answer: C
+
+Question 3:
+Statements:
+No poet is insensitive.
+Some teachers are poets.
+All teachers are graduates.
+
+Conclusions:
+I. Some graduates are not insensitive.
+II. All poets are graduates.
+III. Some teachers are not insensitive.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) All follow
+
+Answer: C
+
+Question 4:
+Statements:
+All engineers are problem-solvers.
+No problem-solver is indifferent.
+Some graduates are engineers.
+
+Conclusions:
+I. Some graduates are not indifferent.
+II. All graduates are problem-solvers.
+III. No engineer is indifferent.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) Only II and III follow
+
+Answer: C
+
+Question 5:
+Statements:
+Some books are journals.
+All journals are informative.
+No informative material is useless.
+
+Conclusions:
+I. Some books are informative.
+II. Some books are not useless.
+III. All books are journals.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and II follow
+D) All follow
+
+Answer: C
+
+Question 6:
+Statements:
+All administrators are graduates.
+Some graduates are athletes.
+No athlete is lazy.
+
+Conclusions:
+I. Some graduates are not lazy.
+II. All administrators are athletes.
+III. Some administrators are not lazy.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) None follows
+
+Answer: A
+
+Question 7:
+Statements:
+No honest person is corrupt.
+Some officials are honest.
+All officials are educated.
+
+Conclusions:
+I. Some educated people are not corrupt.
+II. No official is corrupt.
+III. Some officials are not corrupt.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) All follow
+
+Answer: C
+
+Question 8:
+Statements:
+All renewable resources are sustainable.
+Some sustainable resources are costly.
+No costly resource is universally accessible.
+
+Conclusions:
+I. Some sustainable resources are not universally accessible.
+II. All renewable resources are costly.
+III. Some costly resources are sustainable.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) All follow
+
+Answer: C
+
+SECTION B: SYLLOGISM AND LOGICAL DEDUCTION
+
+Question 9:
+Statements:
+All A are B.
+Some B are C.
+No C is D.
+
+Conclusions:
+I. Some B are not D.
+II. Some A are C.
+III. No A is D.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and II follow
+D) None follows
+
+Answer: A
+
+Question 10:
+Statements:
+Some doctors are researchers.
+All researchers are innovators.
+No innovator is careless.
+
+Conclusions:
+I. Some doctors are innovators.
+II. Some doctors are not careless.
+III. No doctor is careless.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and II follow
+D) All follow
+
+Answer: C
+
+Question 11:
+Statements:
+All P are Q.
+All Q are R.
+Some R are S.
+
+Conclusions:
+I. All P are R.
+II. Some R are Q.
+III. Some P are S.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and II follow
+D) All follow
+
+Answer: C
+
+Question 12:
+Statements:
+No A is B.
+Some C are A.
+All C are D.
+
+Conclusions:
+I. Some D are not B.
+II. Some C are not B.
+III. No D is B.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and II follow
+D) All follow
+
+Answer: C
+
+Question 13:
+Statements:
+All poets are dreamers.
+Some dreamers are scientists.
+All scientists are curious.
+
+Conclusions:
+I. Some dreamers are curious.
+II. Some poets are scientists.
+III. All poets are curious.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and II follow
+D) All follow
+
+Answer: A
+
+Question 14:
+Statements:
+Some A are B.
+Some B are C.
+All C are D.
+
+Conclusions:
+I. Some B are D.
+II. Some A are C.
+III. Some C are B.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) All follow
+
+Answer: C
+
+Question 15:
+Statements:
+All managers are leaders.
+No leader is irresponsible.
+Some employees are managers.
+
+Conclusions:
+I. Some employees are leaders.
+II. Some employees are not irresponsible.
+III. No manager is irresponsible.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) All follow
+
+Answer: D
+
+SECTION C: STATEMENT AND ASSUMPTION
+
+Question 16:
+Statement:
+"The municipal corporation has decided to install additional streetlights in residential areas to improve public safety."
+
+Assumptions:
+I. Better street lighting may help improve public safety.
+II. All residential areas currently have adequate lighting.
+III. Residents may benefit from improved street lighting.
+
+Options:
+A) Only I is implicit
+B) Only II is implicit
+C) Only I and III are implicit
+D) All are implicit
+
+Answer: C
+
+Question 17:
+Statement:
+"Candidates should complete the online application before the deadline to avoid rejection."
+
+Assumptions:
+I. Applications submitted after the deadline may be rejected.
+II. Every candidate has already completed the application.
+III. Candidates are expected to follow the application deadline.
+
+Options:
+A) Only I is implicit
+B) Only II is implicit
+C) Only I and III are implicit
+D) All are implicit
+
+Answer: C
+
+Question 18:
+Statement:
+"The college introduced additional library hours during examination week."
+
+Assumptions:
+I. Some students may need extra study time.
+II. Every student prefers studying in the library.
+III. Additional library hours may help some students prepare for examinations.
+
+Options:
+A) Only I is implicit
+B) Only II is implicit
+C) Only I and III are implicit
+D) All are implicit
+
+Answer: C
+
+Question 19:
+Statement:
+"Use certified helmets while riding two-wheelers to reduce the risk of serious head injuries."
+
+Assumptions:
+I. Certified helmets can provide protection against certain head injuries.
+II. Wearing a helmet eliminates every possible riding injury.
+III. Some riders may otherwise use helmets that do not meet safety standards.
+
+Options:
+A) Only I is implicit
+B) Only II is implicit
+C) Only I and III are implicit
+D) All are implicit
+
+Answer: C
+
+Question 20:
+Statement:
+"The company will provide additional training to employees before introducing the new software."
+
+Assumptions:
+I. Employees may require training to use the new software effectively.
+II. Every employee is unable to use any software.
+III. Training may help employees adapt to the new software.
+
+Options:
+A) Only I is implicit
+B) Only II is implicit
+C) Only I and III are implicit
+D) All are implicit
+
+Answer: C
+
+Question 21:
+Statement:
+"Passengers are advised to book train tickets early during festival seasons."
+
+Assumptions:
+I. Demand for train tickets may increase during festival seasons.
+II. Every train ticket will become unavailable immediately.
+III. Early booking may improve the chance of obtaining a ticket.
+
+Options:
+A) Only I is implicit
+B) Only II is implicit
+C) Only I and III are implicit
+D) All are implicit
+
+Answer: C
+
+Question 22:
+Statement:
+"The school has introduced rainwater harvesting to reduce its dependence on external water supplies."
+
+Assumptions:
+I. Rainwater can be collected and stored for suitable uses.
+II. The school has no water supply at all.
+III. Rainwater harvesting may reduce the need for some external water supplies.
+
+Options:
+A) Only I is implicit
+B) Only II is implicit
+C) Only I and III are implicit
+D) All are implicit
+
+Answer: C
+
+SECTION D: CAUSE AND EFFECT
+
+Question 23:
+Statement I: Heavy rainfall continued for several hours in the city.
+Statement II: Several low-lying roads were flooded.
+
+Options:
+A) Statement I is the probable cause and Statement II is its effect.
+B) Statement II is the probable cause and Statement I is its effect.
+C) Both statements are unrelated causes.
+D) Both statements are unrelated effects.
+
+Answer: A
+
+Question 24:
+Statement I: A factory installed advanced air-pollution control equipment.
+Statement II: The amount of harmful emissions released by the factory decreased.
+
+Options:
+A) Statement I is the probable cause and Statement II is its effect.
+B) Statement II is the probable cause and Statement I is its effect.
+C) Both statements are unrelated causes.
+D) No relationship can ever exist between the statements.
+
+Answer: A
+
+Question 25:
+Statement I: The government increased the minimum educational qualification for a particular recruitment.
+Statement II: The number of eligible applicants changed in the next recruitment cycle.
+
+Options:
+A) Statement I may have contributed to the change in Statement II.
+B) Statement II necessarily caused Statement I.
+C) Both statements are certainly unrelated.
+D) Statement II proves that all applicants were rejected.
+
+Answer: A
+
+Question 26:
+Statement I: A town introduced separate collection bins for recyclable waste.
+Statement II: The quantity of waste sent for recycling increased.
+
+Options:
+A) Statement I may have contributed to Statement II.
+B) Statement II must have caused Statement I.
+C) Both statements contradict each other.
+D) The statements cannot be connected.
+
+Answer: A
+
+Question 27:
+Statement I: The price of a particular raw material increased substantially.
+Statement II: The production cost of a product using that material increased.
+
+Options:
+A) Statement I may be the cause of Statement II.
+B) Statement II must be the cause of Statement I.
+C) Both statements are necessarily unrelated.
+D) The production cost must have decreased.
+
+Answer: A
+
+SECTION E: ASSERTION AND REASON
+
+For Questions 28–32, use the following options:
+
+A) Both Assertion and Reason are true, and Reason correctly explains Assertion.
+B) Both Assertion and Reason are true, but Reason does not correctly explain Assertion.
+C) Assertion is true, but Reason is false.
+D) Assertion is false, but Reason is true.
+
+Question 28:
+
+Assertion: All squares are rectangles.
+
+Reason: A rectangle is a quadrilateral with four right angles, and a square has four right angles.
+
+Options: A, B, C, D.
+
+Answer: A
+
+Question 29:
+
+Assertion: A conclusion that is consistent with a statement must always follow from it.
+
+Reason: A conclusion may be possible without being logically guaranteed by the statement.
+
+Options: A, B, C, D.
+
+Answer: D
+
+Question 30:
+
+Assertion: If all A are B, then all B must be A.
+
+Reason: A statement about all members of one group does not establish the reverse relationship.
+
+Options: A, B, C, D.
+
+Answer: D
+
+Question 31:
+
+Assertion: If two events occur together, one must necessarily be the cause of the other.
+
+Reason: Two events may occur together without a direct causal relationship.
+
+Options: A, B, C, D.
+
+Answer: D
+
+Question 32:
+
+Assertion: In a valid deductive argument, a conclusion must follow from the premises.
+
+Reason: Deductive reasoning evaluates whether a conclusion follows logically from given premises.
+
+Options: A, B, C, D.
+
+Answer: A
+
+SECTION F: STATEMENT AND ARGUMENT
+
+For Questions 33–37, determine which argument is strong.
+
+Options:
+A) Only Argument I is strong.
+B) Only Argument II is strong.
+C) Both Arguments I and II are strong.
+D) Neither Argument I nor Argument II is strong.
+
+Question 33:
+
+Statement:
+Should schools conduct regular emergency preparedness drills?
+
+Argument I:
+Yes, because drills can help students and staff practise appropriate responses to emergencies.
+
+Argument II:
+No, because every school activity should be cancelled to avoid any possibility of inconvenience.
+
+Options: A, B, C, D.
+
+Answer: A
+
+Question 34:
+
+Statement:
+Should public transport services be improved in congested cities?
+
+Argument I:
+Yes, because reliable public transport can provide an alternative to private vehicles.
+
+Argument II:
+No, because private vehicles are always the best transport option for every citizen.
+
+Options: A, B, C, D.
+
+Answer: A
+
+Question 35:
+
+Statement:
+Should government offices provide accessible online services?
+
+Argument I:
+Yes, because online services can help citizens complete certain tasks without visiting an office.
+
+Argument II:
+Yes, because every citizen has identical access to the internet and digital devices.
+
+Options: A, B, C, D.
+
+Answer: A
+
+Question 36:
+
+Statement:
+Should schools teach students how to evaluate online information critically?
+
+Argument I:
+Yes, because students may encounter inaccurate or misleading information online.
+
+Argument II:
+No, because all information published on the internet is accurate.
+
+Options: A, B, C, D.
+
+Answer: A
+
+Question 37:
+
+Statement:
+Should cities invest in flood-prevention infrastructure?
+
+Argument I:
+Yes, because suitable drainage and flood-management systems can reduce flood-related risks.
+
+Argument II:
+No, because floods are natural events and therefore their effects can never be reduced.
+
+Options: A, B, C, D.
+
+Answer: A
+
+SECTION G: STATEMENT AND COURSE OF ACTION
+
+For Questions 38–42, use the following options:
+
+A) Only Course of Action I is appropriate.
+B) Only Course of Action II is appropriate.
+C) Both Courses of Action I and II are appropriate.
+D) Neither Course of Action I nor II is appropriate.
+
+Question 38:
+
+Statement:
+Several students in a school have reported receiving suspicious messages requesting their passwords.
+
+Courses of Action:
+I. The school should educate students about online safety and report the incident to the appropriate authorities.
+II. The school should ask all students to share their passwords publicly.
+
+Options: A, B, C, D.
+
+Answer: A
+
+Question 39:
+
+Statement:
+A town experiences frequent traffic congestion near a major school during opening and closing hours.
+
+Courses of Action:
+I. Traffic authorities should assess traffic flow and consider appropriate traffic-management measures.
+II. The town should permanently close every road near the school without examining alternative solutions.
+
+Options: A, B, C, D.
+
+Answer: A
+
+Question 40:
+
+Statement:
+A public library has observed a decline in student visits over the past year.
+
+Courses of Action:
+I. The library should investigate possible reasons and consider suitable programmes for students.
+II. The library should immediately destroy books that students have not borrowed recently.
+
+Options: A, B, C, D.
+
+Answer: A
+
+Question 41:
+
+Statement:
+A manufacturing unit has reported an increase in workplace accidents.
+
+Courses of Action:
+I. The unit should investigate the causes and review safety procedures.
+II. The unit should ignore the accidents unless production decreases.
+
+Options: A, B, C, D.
+
+Answer: A
+
+Question 42:
+
+Statement:
+A region is experiencing a shortage of drinking water during summer.
+
+Courses of Action:
+I. Authorities should assess available water resources and implement suitable conservation measures.
+II. Authorities should encourage unrestricted water wastage to stimulate demand.
+
+Options: A, B, C, D.
+
+Answer: A
+
+SECTION H: COMPLEX LOGICAL DEDUCTION
+
+Question 43:
+
+Statements:
+All policy analysts are researchers.
+No researcher is careless.
+Some administrators are policy analysts.
+
+Conclusions:
+I. Some administrators are researchers.
+II. Some administrators are not careless.
+III. No policy analyst is careless.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and II follow
+D) All follow
+
+Answer: D
+
+Question 44:
+
+Statements:
+Some musicians are teachers.
+All teachers are communicators.
+No communicator is indifferent.
+
+Conclusions:
+I. Some musicians are communicators.
+II. Some musicians are not indifferent.
+III. All musicians are teachers.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and II follow
+D) All follow
+
+Answer: C
+
+Question 45:
+
+Statements:
+All A are B.
+No B is C.
+Some D are A.
+
+Conclusions:
+I. Some D are not C.
+II. No A is C.
+III. Some D are B.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) All follow
+
+Answer: D
+
+Question 46:
+
+Statements:
+Some economists are statisticians.
+All statisticians are analysts.
+Some analysts are teachers.
+
+Conclusions:
+I. Some economists are analysts.
+II. Some teachers are statisticians.
+III. Some analysts are economists.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) All follow
+
+Answer: C
+
+Question 47:
+
+Statements:
+No pilot is inexperienced.
+All captains are pilots.
+Some officers are captains.
+
+Conclusions:
+I. Some officers are pilots.
+II. Some officers are not inexperienced.
+III. No captain is inexperienced.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) All follow
+
+Answer: D
+
+SECTION I: MIXED LOGICAL REASONING
+
+Question 48:
+
+Statement:
+A university plans to make internships a compulsory component of selected professional courses.
+
+Possible assumptions:
+I. Practical experience may help students develop career-related skills.
+II. Every internship guarantees employment.
+III. The university believes that internships can contribute to course objectives.
+
+Options:
+A) Only I is implicit
+B) Only II is implicit
+C) Only I and III are implicit
+D) All are implicit
+
+Answer: C
+
+Question 49:
+
+Statements:
+All approved proposals are reviewed.
+Some reviewed proposals are rejected.
+No rejected proposal is implemented.
+
+Conclusions:
+I. Some reviewed proposals are not implemented.
+II. All approved proposals are implemented.
+III. Some rejected proposals are reviewed.
+
+Options:
+A) Only I follows
+B) Only II follows
+C) Only I and III follow
+D) All follow
+
+Answer: C
+
+Question 50:
+
+Statement:
+A district administration introduced a public grievance tracking system to improve transparency and accountability.
+
+Assumptions:
+I. Citizens may want to know the status of their complaints.
+II. Tracking complaints may help improve administrative accountability.
+III. Introducing a tracking system guarantees that every complaint will be resolved immediately.
+
+Options:
+A) Only I is implicit
+B) Only II is implicit
+C) Only I and II are implicit
+D) All are implicit
+
+Answer: C
+
